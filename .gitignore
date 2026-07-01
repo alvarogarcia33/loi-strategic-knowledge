@@ -5,6 +5,8 @@ browser_state/
 logs/
 **/logs/
 *.sqlite
+05_Reportes_IA/
+07_IA/
 07_IA/chroma/
 **/images/
 **/__pycache__/

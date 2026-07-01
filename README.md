@@ -26,6 +26,8 @@ Este repositorio no debería incluir:
 - estado del navegador
 - bases SQLite sensibles
 - embeddings o infraestructura IA local
+- la carpeta `07_IA`
+- reportes internos de IA como `05_Reportes_IA`
 - imágenes pesadas no necesarias para el análisis conversacional
 - logs grandes
 
