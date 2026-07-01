@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d4879c27190f",
+  "platform": "gig_os",
+  "title": "¡+20 GOS Coin antes de que comience la conferencia!",
+  "date": "11.07.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/20-gos-coin-antes-de-que-comience-la-conferencia-956",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/20-gos-coin-antes-de-que-comience-la-conferencia-956",
+  "content_hash": "089ed02f9cdc2865c35e7725417f36c62063221b9ff140fea6f13ca62140c94a",
+  "url_hash": "66afa3dfa4848e86dfab629fb8926125a09117c6e1fdef12ac48f4a6cb16002e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-07-2024_20-gos-coin-antes-de-que-comience-la-conferencia_d4879c27190f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-07-2024_20-gos-coin-antes-de-que-comience-la-conferencia_d4879c27190f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2024_20-gos-coin-antes-de-que-comience-la-conferencia_d4879c27190f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b5/db/dc/91/df/b5dbdc91df7a4059ef82d8b37b8869fc_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2024_20-gos-coin-antes-de-que-comience-la-conferencia_d4879c27190f\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1719/news-1107-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2024_20-gos-coin-antes-de-que-comience-la-conferencia_d4879c27190f\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:55:20.738172-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_565157f87588",
+  "platform": "gig_os",
+  "title": "El mercado de servicios: de las dificultades del pasado a las oportunidades del futuro",
+  "date": "27.03.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-mercado-de-servicios-de-las-dificultades-del-pasado-a-las-oportunidades-del-futuro-0178",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-mercado-de-servicios-de-las-dificultades-del-pasado-a-las-oportunidades-del-futuro-0178",
+  "content_hash": "e5a6ff75faf75181a144c69fdc22a17fe706aeb8c4e13f1950f581c2a00dc133",
+  "url_hash": "0bfa2dddc9a3c97d4caf0a295493fbd89882d93c05eadefa460925a42d4214df",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-03-2026_el-mercado-de-servicios-de-las-dificultades-del-pasado-a-las-oportunidades-del-f_565157f87588.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-03-2026_el-mercado-de-servicios-de-las-dificultades-del-pasado-a-las-oportunidades-del-f_565157f87588.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-03-2026_el-mercado-de-servicios-de-las-dificultades-del-pasado-a-las-oportunidades-del-f_565157f87588",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c4/a5/fb/b5/91/c4a5fbb591825ba8ed7fafa6e52be103_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-03-2026_el-mercado-de-servicios-de-las-dificultades-del-pasado-a-las-oportunidades-del-f_565157f87588\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:45.650539-03:00",
+  "status": "downloaded"
+}

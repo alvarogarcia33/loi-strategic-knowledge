@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_910ab2f7bcc8",
+  "platform": "gig_os",
+  "title": "El precio del oro ha alcanzado un máximo histórico",
+  "date": "12.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-precio-del-oro-ha-alcanzado-un-maximo-historico-839",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-precio-del-oro-ha-alcanzado-un-maximo-historico-839",
+  "content_hash": "b1e3063dbb770ed05f3d0f2e32e2cc71ecb8b07e5510d214af260e76ed0d48c6",
+  "url_hash": "79b6d45d9e1e00411a20686757945a086d9b9a1acaf1adefcedf4f0bbd97e1ba",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-12-2023_el-precio-del-oro-ha-alcanzado-un-máximo-histórico_910ab2f7bcc8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-12-2023_el-precio-del-oro-ha-alcanzado-un-máximo-histórico_910ab2f7bcc8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2023_el-precio-del-oro-ha-alcanzado-un-máximo-histórico_910ab2f7bcc8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/38/81/69/50/90/388169509006da2a4c47ff1d3cacb014_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2023_el-precio-del-oro-ha-alcanzado-un-máximo-histórico_910ab2f7bcc8\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2023_el-precio-del-oro-ha-alcanzado-un-máximo-histórico_910ab2f7bcc8\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:11:11.225567-03:00",
+  "status": "downloaded"
+}

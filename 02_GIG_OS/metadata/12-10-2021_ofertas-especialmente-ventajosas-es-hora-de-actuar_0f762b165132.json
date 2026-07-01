@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_0f762b165132",
+  "platform": "gig_os",
+  "title": "Ofertas especialmente ventajosas — ¡es hora de actuar!",
+  "date": "12.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ofertas-especialmente-ventajosas-es-hora-de-actuar-480",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ofertas-especialmente-ventajosas-es-hora-de-actuar-480",
+  "content_hash": "56178ddf91a8f66af46adb50f6c0cef5b9f8f6f0a574bd897e8bc98c4624489e",
+  "url_hash": "fb518a9deb2748888d6faa87b0fec5ca721b8505179820c427b1b83c551b6bf9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-10-2021_ofertas-especialmente-ventajosas-es-hora-de-actuar_0f762b165132.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-10-2021_ofertas-especialmente-ventajosas-es-hora-de-actuar_0f762b165132.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-10-2021_ofertas-especialmente-ventajosas-es-hora-de-actuar_0f762b165132",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a1/15/63/bd/ed/a11563bdedf25c6e3ef3f16ae6c93f63_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-10-2021_ofertas-especialmente-ventajosas-es-hora-de-actuar_0f762b165132\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1178/ofertas-especialmente-ventajosas-es-hora-de-actuar_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-10-2021_ofertas-especialmente-ventajosas-es-hora-de-actuar_0f762b165132\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1178/ofertas-especialmente-ventajosas-es-hora-de-actuar94330_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-10-2021_ofertas-especialmente-ventajosas-es-hora-de-actuar_0f762b165132\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:52.654475-03:00",
+  "status": "downloaded"
+}

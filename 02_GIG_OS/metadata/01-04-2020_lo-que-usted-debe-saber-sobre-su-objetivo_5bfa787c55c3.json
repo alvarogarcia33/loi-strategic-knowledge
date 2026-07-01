@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_5bfa787c55c3",
+  "platform": "gig_os",
+  "title": "Lo que usted debe saber sobre su objetivo",
+  "date": "01.04.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/lo-que-usted-debe-saber-sobre-su-objetivo-237",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/lo-que-usted-debe-saber-sobre-su-objetivo-237",
+  "content_hash": "4b2217d1a8872fc7497e7056b22a4f4191e6a3d3041ed56ccc974ce1ecab1317",
+  "url_hash": "6da186ccccdfab72121784033cbc5d5fef04660431ef7b3230a2fc8989113fbd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-04-2020_lo-que-usted-debe-saber-sobre-su-objetivo_5bfa787c55c3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-04-2020_lo-que-usted-debe-saber-sobre-su-objetivo_5bfa787c55c3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-04-2020_lo-que-usted-debe-saber-sobre-su-objetivo_5bfa787c55c3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/21/bb/0e/37/c0/21bb0e37c0924a068e1d59af6a400e57_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-04-2020_lo-que-usted-debe-saber-sobre-su-objetivo_5bfa787c55c3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/852/1-es_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-04-2020_lo-que-usted-debe-saber-sobre-su-objetivo_5bfa787c55c3\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:36:57.738262-03:00",
+  "status": "downloaded"
+}

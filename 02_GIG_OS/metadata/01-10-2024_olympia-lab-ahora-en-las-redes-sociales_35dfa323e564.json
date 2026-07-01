@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_35dfa323e564",
+  "platform": "gig_os",
+  "title": "Olympia-lab: ¡ahora en las redes sociales!",
+  "date": "01.10.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/olympia-lab-ahora-en-las-redes-sociales-992",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/olympia-lab-ahora-en-las-redes-sociales-992",
+  "content_hash": "5888fdf4ef5f8aced2fdcade1e06f355f963b32c75ea35a8f7bb747ed0aee5a9",
+  "url_hash": "ab15be66f227cc8e19765861f4c45f6252a5f9bdee2e7b2d51ca14481a2e5eaf",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-10-2024_olympia-lab-ahora-en-las-redes-sociales_35dfa323e564.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-10-2024_olympia-lab-ahora-en-las-redes-sociales_35dfa323e564.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-10-2024_olympia-lab-ahora-en-las-redes-sociales_35dfa323e564",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ab/f5/23/e5/a8/abf523e5a8843628bb4b48ad7c04b777_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-10-2024_olympia-lab-ahora-en-las-redes-sociales_35dfa323e564\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:55.764675-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_f29b6c21c0a3",
+  "platform": "gig_os",
+  "title": "El primer torneo del metaverso: GR DAO CUP 2023",
+  "date": "16.12.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-primer-torneo-del-metaverso-gr-dao-cup-2023-667",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-primer-torneo-del-metaverso-gr-dao-cup-2023-667",
+  "content_hash": "2db639da35b9841be6684f2d8a772a14e25d4c6f80177c9eada978609100347d",
+  "url_hash": "283b597671b8319aa65b38b85dcf16c3d02387a255638f8f2b5bf905709e4606",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-12-2022_el-primer-torneo-del-metaverso-gr-dao-cup-2023_f29b6c21c0a3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-12-2022_el-primer-torneo-del-metaverso-gr-dao-cup-2023_f29b6c21c0a3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2022_el-primer-torneo-del-metaverso-gr-dao-cup-2023_f29b6c21c0a3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4a/a5/1b/75/a7/4aa51b75a7c288fb603c2b1b01a3ef9e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2022_el-primer-torneo-del-metaverso-gr-dao-cup-2023_f29b6c21c0a3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1386/15-12-2022-38404111_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2022_el-primer-torneo-del-metaverso-gr-dao-cup-2023_f29b6c21c0a3\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1386/1-es-3_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2022_el-primer-torneo-del-metaverso-gr-dao-cup-2023_f29b6c21c0a3\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1386/1-es-4_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2022_el-primer-torneo-del-metaverso-gr-dao-cup-2023_f29b6c21c0a3\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:11:46.622875-03:00",
+  "status": "downloaded"
+}

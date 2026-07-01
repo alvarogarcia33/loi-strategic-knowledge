@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_e8caf9bf98a4",
+  "platform": "gig_os",
+  "title": "Se conocen los nombres de los invitados de Primer Crucero Presidencial.",
+  "date": "08.06.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-conocen-los-nombres-de-los-invitados-de-primer-crucero-presidencial",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-conocen-los-nombres-de-los-invitados-de-primer-crucero-presidencial",
+  "content_hash": "2368c34916b45f5a62d296fb42564b6640edd2105af52a078876d17656e219a5",
+  "url_hash": "98e8cf77b552dcb8f416855e6295daa4b6bbb49a07d2615c02832d86a10ee2ca",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-06-2018_se-conocen-los-nombres-de-los-invitados-de-primer-crucero-presidencial_e8caf9bf98a4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-06-2018_se-conocen-los-nombres-de-los-invitados-de-primer-crucero-presidencial_e8caf9bf98a4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-06-2018_se-conocen-los-nombres-de-los-invitados-de-primer-crucero-presidencial_e8caf9bf98a4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/88/78/da/81/1c/8878da811c19a93cf2b06a586b5813d2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-06-2018_se-conocen-los-nombres-de-los-invitados-de-primer-crucero-presidencial_e8caf9bf98a4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/499/frame-294857319202_1.png",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:54:55.119562-03:00",
+  "status": "downloaded"
+}

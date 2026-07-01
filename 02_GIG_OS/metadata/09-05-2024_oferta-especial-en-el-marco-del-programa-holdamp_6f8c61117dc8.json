@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_6f8c61117dc8",
+  "platform": "gig_os",
+  "title": "¡Oferta especial en el marco del programa HoldAmp!",
+  "date": "09.05.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oferta-especial-en-el-marco-del-programa-holdamp-932",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oferta-especial-en-el-marco-del-programa-holdamp-932",
+  "content_hash": "83fa2e75b9f232544cba1058c90770671317904e6f52c914b4f0980ee556f877",
+  "url_hash": "76a6f7df6bb0eb65fe8fe701f5444ff6604e4603b5c1bf9ef25b5e2b261749c6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-05-2024_oferta-especial-en-el-marco-del-programa-holdamp_6f8c61117dc8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-05-2024_oferta-especial-en-el-marco-del-programa-holdamp_6f8c61117dc8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-05-2024_oferta-especial-en-el-marco-del-programa-holdamp_6f8c61117dc8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f5/6a/2b/07/05/f56a2b070527e7d0ea9632697474996e_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-05-2024_oferta-especial-en-el-marco-del-programa-holdamp_6f8c61117dc8\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1680/number-166195_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-05-2024_oferta-especial-en-el-marco-del-programa-holdamp_6f8c61117dc8\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1680/number-237220_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-05-2024_oferta-especial-en-el-marco-del-programa-holdamp_6f8c61117dc8\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1680/number-367186_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-05-2024_oferta-especial-en-el-marco-del-programa-holdamp_6f8c61117dc8\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1689/number-4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-05-2024_oferta-especial-en-el-marco-del-programa-holdamp_6f8c61117dc8\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:33.771139-03:00",
+  "status": "downloaded"
+}

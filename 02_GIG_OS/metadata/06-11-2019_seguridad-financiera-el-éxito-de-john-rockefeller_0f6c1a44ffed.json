@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_0f6c1a44ffed",
+  "platform": "gig_os",
+  "title": "Seguridad Financiera: el éxito de John Rockefeller",
+  "date": "06.11.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/seguridad-financiera-el-exito-de-john-rockefeller-186",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/seguridad-financiera-el-exito-de-john-rockefeller-186",
+  "content_hash": "5a1b8229dd65c82bc73cec0e7f3003d730596d939ce4cdee327867665f7fa370",
+  "url_hash": "1eb6738c91771555dda690f9c6c204ce4a69fcf2e30a295cc302ebb3f4bcbd56",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-11-2019_seguridad-financiera-el-éxito-de-john-rockefeller_0f6c1a44ffed.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-11-2019_seguridad-financiera-el-éxito-de-john-rockefeller_0f6c1a44ffed.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-11-2019_seguridad-financiera-el-éxito-de-john-rockefeller_0f6c1a44ffed",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a6/4b/ce/10/52/a64bce1052c3aed5232b99efebed28db_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-11-2019_seguridad-financiera-el-éxito-de-john-rockefeller_0f6c1a44ffed\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/799/john-davison-rockefeller_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-11-2019_seguridad-financiera-el-éxito-de-john-rockefeller_0f6c1a44ffed\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/799/rockcenter_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-11-2019_seguridad-financiera-el-éxito-de-john-rockefeller_0f6c1a44ffed\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:56:30.205576-03:00",
+  "status": "downloaded"
+}

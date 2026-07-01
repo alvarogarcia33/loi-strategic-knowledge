@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_5ef62f3056e4",
+  "platform": "gig_os",
+  "title": "Resultados de las elecciones: ¡los ganadores ya están definidos!",
+  "date": "02.04.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resultados-de-las-elecciones-los-ganadores-ya-estan-definidos-0179",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resultados-de-las-elecciones-los-ganadores-ya-estan-definidos-0179",
+  "content_hash": "b16bd99c0d4fc7ff0aee9ff5d823c1b32bb0963f277c3f556034dc7c97991f15",
+  "url_hash": "c3ba3f4afe44150e21d143d0878432b9c8ac5c81de804cab4f05fb78126c7533",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-04-2026_resultados-de-las-elecciones-los-ganadores-ya-están-definidos_5ef62f3056e4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-04-2026_resultados-de-las-elecciones-los-ganadores-ya-están-definidos_5ef62f3056e4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-04-2026_resultados-de-las-elecciones-los-ganadores-ya-están-definidos_5ef62f3056e4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d6/d0/6c/44/5f/d6d06c445f9281f53a55a7bf19e9e442_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-04-2026_resultados-de-las-elecciones-los-ganadores-ya-están-definidos_5ef62f3056e4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/2004/1q1q1q1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-04-2026_resultados-de-las-elecciones-los-ganadores-ya-están-definidos_5ef62f3056e4\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:59.899125-03:00",
+  "status": "downloaded"
+}

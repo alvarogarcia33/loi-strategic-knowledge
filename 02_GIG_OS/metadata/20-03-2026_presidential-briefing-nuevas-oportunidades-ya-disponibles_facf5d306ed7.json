@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_facf5d306ed7",
+  "platform": "gig_os",
+  "title": "Presidential Briefing: ¡nuevas oportunidades ya disponibles!",
+  "date": "20.03.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/presidential-briefing-nuevas-oportunidades-ya-disponibles-0174",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/presidential-briefing-nuevas-oportunidades-ya-disponibles-0174",
+  "content_hash": "57cd1de9351bd353d6c216e03a557b4f30e0f8491d438b90141804021cd21968",
+  "url_hash": "b52e80361df6b51472657973220bc6373739f76dc6f2d73ad736aa65770dd3d8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-03-2026_presidential-briefing-nuevas-oportunidades-ya-disponibles_facf5d306ed7.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-03-2026_presidential-briefing-nuevas-oportunidades-ya-disponibles_facf5d306ed7.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2026_presidential-briefing-nuevas-oportunidades-ya-disponibles_facf5d306ed7",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/aa/4c/41/ef/7a/aa4c41ef7ace0678d1b4d06bfeef29a4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2026_presidential-briefing-nuevas-oportunidades-ya-disponibles_facf5d306ed7\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:00.471144-03:00",
+  "status": "downloaded"
+}

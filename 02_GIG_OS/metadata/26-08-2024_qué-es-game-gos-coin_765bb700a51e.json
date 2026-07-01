@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_765bb700a51e",
+  "platform": "gig_os",
+  "title": "¿Qué es GAME GOS Coin?",
+  "date": "26.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-es-game-gos-coin",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-es-game-gos-coin",
+  "content_hash": "dba66d55cae0ec0f8fad53d3ba76c7a16ddfda6497787eccee4b3c25d1b787b4",
+  "url_hash": "52a227d01be862f590ff9eecb80c4ffb5bb3acc5077daf2bc34faaafea3a8536",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-08-2024_qué-es-game-gos-coin_765bb700a51e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-08-2024_qué-es-game-gos-coin_765bb700a51e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-08-2024_qué-es-game-gos-coin_765bb700a51e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bf/e0/2b/93/61/bfe02b9361f8e84d1b8a447fb08aefa3_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-08-2024_qué-es-game-gos-coin_765bb700a51e\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1746/game-gos-coin-es20833_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-08-2024_qué-es-game-gos-coin_765bb700a51e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:25.138950-03:00",
+  "status": "downloaded"
+}

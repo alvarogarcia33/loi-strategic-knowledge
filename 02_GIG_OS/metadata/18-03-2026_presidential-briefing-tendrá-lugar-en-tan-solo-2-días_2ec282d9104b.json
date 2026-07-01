@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_2ec282d9104b",
+  "platform": "gig_os",
+  "title": "Presidential Briefing tendrá lugar en tan solo 2 días",
+  "date": "18.03.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/presidential-briefing-tendra-lugar-en-tan-solo-2-dias-0173",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/presidential-briefing-tendra-lugar-en-tan-solo-2-dias-0173",
+  "content_hash": "c8ba556ef07251256482a8c710b5a0a4ca53f3d01a29071b4cffd5e033be2a4b",
+  "url_hash": "03d565c1addae202cdd785854554431c2660a82f393c3551e892bf1c5bd5eb95",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-03-2026_presidential-briefing-tendrá-lugar-en-tan-solo-2-días_2ec282d9104b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-03-2026_presidential-briefing-tendrá-lugar-en-tan-solo-2-días_2ec282d9104b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-03-2026_presidential-briefing-tendrá-lugar-en-tan-solo-2-días_2ec282d9104b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b0/86/e6/cb/1d/b086e6cb1d668006ccd2b3fd65cc3967_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-03-2026_presidential-briefing-tendrá-lugar-en-tan-solo-2-días_2ec282d9104b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:03.474608-03:00",
+  "status": "downloaded"
+}

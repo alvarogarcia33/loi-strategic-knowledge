@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_807f358e2433",
+  "platform": "olympia",
+  "title": "¿Quiénes son los validadores?",
+  "date": "18.12.2024",
+  "source_url": "https://olympia-lab.com/es/news/post/quienes-son-los-validadores",
+  "canonical_url": "https://olympia-lab.com/es/news/post/quienes-son-los-validadores",
+  "content_hash": "29c1a7859a9d2f76c6adaabad17b1565f936f28abc84bdc7445648b1198b94be",
+  "url_hash": "aba706bcc5a54ad9d3d4788a3b48144c874488a2e5dfaa5054627fe064deea4e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\18-12-2024_quiénes-son-los-validadores_807f358e2433.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\18-12-2024_quiénes-son-los-validadores_807f358e2433.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-12-2024_quiénes-son-los-validadores_807f358e2433",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/23/7e/b2/2e/95/237eb22e957b1a2da786901fdf1b3089.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-12-2024_quiénes-son-los-validadores_807f358e2433\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/f2/ab/e9/9d/0e/f2abe99d0e657674cb529f23acc0e77c_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-12-2024_quiénes-son-los-validadores_807f358e2433\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/1e/31/92/91/75/1e31929175f3724b2f654c5b7fb70c3b_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-12-2024_quiénes-son-los-validadores_807f358e2433\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/55/0f/e0/0c/be/550fe00cbe15a5168b02a7f34b4f6594_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-12-2024_quiénes-son-los-validadores_807f358e2433\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/72/1e/7f/ff/b0/721e7fffb0cec06d55e9df957837c0ae_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-12-2024_quiénes-son-los-validadores_807f358e2433\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/db/66/c3/1d/b6/db66c31db63cd17dad1e76f639f0a982_2.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-12-2024_quiénes-son-los-validadores_807f358e2433\\image_06.png",
+      "filename": "image_06.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:19:41.762949-03:00",
+  "status": "downloaded"
+}

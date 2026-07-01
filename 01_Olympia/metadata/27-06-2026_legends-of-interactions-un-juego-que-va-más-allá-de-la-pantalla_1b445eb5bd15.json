@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_1b445eb5bd15",
+  "platform": "olympia",
+  "title": "Legends of Interactions: un juego que va más allá de la pantalla",
+  "date": "27.06.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/legends-of-interactions-un-juego-que-va-mas-alla-de-la-pantalla",
+  "canonical_url": "https://olympia-lab.com/es/news/post/legends-of-interactions-un-juego-que-va-mas-alla-de-la-pantalla",
+  "content_hash": "6a01a7eceee409f03b9d7838b613a5ddb4321a7252c5f4b4ad2c0dc084d95538",
+  "url_hash": "4f8bf5f04a3204ddb1b96b08fd09d5e7c330f99faa10d3fcbc38071969022121",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\27-06-2026_legends-of-interactions-un-juego-que-va-más-allá-de-la-pantalla_1b445eb5bd15.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\27-06-2026_legends-of-interactions-un-juego-que-va-más-allá-de-la-pantalla_1b445eb5bd15.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-06-2026_legends-of-interactions-un-juego-que-va-más-allá-de-la-pantalla_1b445eb5bd15",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/10/0c/69/82/06/100c6982064fd10e2b78801fcff78892.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-06-2026_legends-of-interactions-un-juego-que-va-más-allá-de-la-pantalla_1b445eb5bd15\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/44/31/8f/66/d7/44318f66d79ad4254ed5d527329d54a2_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-06-2026_legends-of-interactions-un-juego-que-va-más-allá-de-la-pantalla_1b445eb5bd15\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/11/d5/d4/58/2211d5d458f4538fdb42487e3c600c30_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-06-2026_legends-of-interactions-un-juego-que-va-más-allá-de-la-pantalla_1b445eb5bd15\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/fe/35/df/bc/58fe35dfbcd379455a92540568923011_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-06-2026_legends-of-interactions-un-juego-que-va-más-allá-de-la-pantalla_1b445eb5bd15\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/64/2c/05/28/7e/642c05287ef94a8b72f6944fb8c845e7_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-06-2026_legends-of-interactions-un-juego-que-va-más-allá-de-la-pantalla_1b445eb5bd15\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ec/46/ee/96/31/ec46ee9631734e5f6d692fd716b44b29_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-06-2026_legends-of-interactions-un-juego-que-va-más-allá-de-la-pantalla_1b445eb5bd15\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T15:33:56.476941-03:00",
+  "status": "downloaded"
+}

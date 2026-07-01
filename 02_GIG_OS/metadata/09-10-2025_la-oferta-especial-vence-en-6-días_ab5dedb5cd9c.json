@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_ab5dedb5cd9c",
+  "platform": "gig_os",
+  "title": "¡La oferta especial vence en 6 días!",
+  "date": "09.10.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-oferta-especial-vence-en-6-dias-1153",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-oferta-especial-vence-en-6-dias-1153",
+  "content_hash": "c6d4a2835fb19587ef3d931784452175cb48324b65c47a4caea8822ee1efface",
+  "url_hash": "b4c79b8d3cc17e14ba63f58534c89a29c8df14cd9939b38ebba167d4507f87ad",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-10-2025_la-oferta-especial-vence-en-6-días_ab5dedb5cd9c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-10-2025_la-oferta-especial-vence-en-6-días_ab5dedb5cd9c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-10-2025_la-oferta-especial-vence-en-6-días_ab5dedb5cd9c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/54/0b/85/e0/ee/540b85e0ee172de302901736adb02351_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-10-2025_la-oferta-especial-vence-en-6-días_ab5dedb5cd9c\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:33:30.807834-03:00",
+  "status": "downloaded"
+}

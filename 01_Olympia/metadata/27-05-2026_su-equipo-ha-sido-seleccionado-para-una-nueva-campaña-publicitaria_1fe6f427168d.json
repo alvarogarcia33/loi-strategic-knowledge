@@ -1,0 +1,67 @@
+{
+  "article_uid": "olympia_1fe6f427168d",
+  "platform": "olympia",
+  "title": "¡Su equipo ha sido seleccionado para una nueva campaña publicitaria!",
+  "date": "27.05.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/su-equipo-ha-sido-seleccionado-para-una-nueva-campana-publicitaria-0205",
+  "canonical_url": "https://olympia-lab.com/es/news/post/su-equipo-ha-sido-seleccionado-para-una-nueva-campana-publicitaria-0205",
+  "content_hash": "0befdbe9b7c7cdfaf04323b8b6471a7e108dd0aac9b719f8284c1bf72177d22e",
+  "url_hash": "5b80d76c4a4fdffe0c5c6c329fb7c97ac8df1b5f452398c3263a4d8175c7216c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/58/fe/35/df/bc/58fe35dfbcd379455a92540568923011.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/11/d5/d4/58/2211d5d458f4538fdb42487e3c600c30_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/64/2c/05/28/7e/642c05287ef94a8b72f6944fb8c845e7_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ec/46/ee/96/31/ec46ee9631734e5f6d692fd716b44b29_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/ec/91/27/16/0bec9127168ecac283ce1dd649df5fe9_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/63/bd/da/21/90/63bdda21904e0930996a96bf1dfc45b6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-23T14:56:57.108002-03:00",
+  "status": "downloaded",
+  "legacy_origin_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_Olympia\\metadata\\27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d.json",
+  "normalized_at": "2026-06-29T15:59:23.652107-03:00"
+}

@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_0bc96ca3bf41",
+  "platform": "gig_os",
+  "title": "TerritoryX: tierra digital que genera dinero real",
+  "date": "14.03.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/territoryx-tierra-digital-que-genera-dinero-real-1054",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/territoryx-tierra-digital-que-genera-dinero-real-1054",
+  "content_hash": "690438e17ff2987ff99bbe58674294083a59142e0fe470f9c66c4eac3ae64f94",
+  "url_hash": "bc56171f9de7290ff3fdfc4fcdf4db817c6fb9e51b7360f7fbbde78814135a98",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-03-2025_territoryx-tierra-digital-que-genera-dinero-real_0bc96ca3bf41.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-03-2025_territoryx-tierra-digital-que-genera-dinero-real_0bc96ca3bf41.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2025_territoryx-tierra-digital-que-genera-dinero-real_0bc96ca3bf41",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a8/6e/3e/aa/a0/a86e3eaaa0cb3625ebae0ae49f843280_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2025_territoryx-tierra-digital-que-genera-dinero-real_0bc96ca3bf41\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1829/tx-gigos-11n_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2025_territoryx-tierra-digital-que-genera-dinero-real_0bc96ca3bf41\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1829/tx-gigos-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2025_territoryx-tierra-digital-que-genera-dinero-real_0bc96ca3bf41\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1829/gigos-table-tx-1-es-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2025_territoryx-tierra-digital-que-genera-dinero-real_0bc96ca3bf41\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:01.568682-03:00",
+  "status": "downloaded"
+}

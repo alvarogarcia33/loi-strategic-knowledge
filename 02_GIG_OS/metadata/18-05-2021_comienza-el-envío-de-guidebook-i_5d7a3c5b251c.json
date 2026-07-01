@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_5d7a3c5b251c",
+  "platform": "gig_os",
+  "title": "Comienza el envío de GUIDEBOOK I",
+  "date": "18.05.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/comienza-el-envio-de-guidebook-i-417",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/comienza-el-envio-de-guidebook-i-417",
+  "content_hash": "c135e98f78ec0a3eddfafc05ce6bf6a5653d5a7105c5bf5d6c692d7a31f2d101",
+  "url_hash": "2f0fa4b420d01dac2c213628ec63e7f8fe89e672907bf5a41d9709211308adab",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-05-2021_comienza-el-envío-de-guidebook-i_5d7a3c5b251c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-05-2021_comienza-el-envío-de-guidebook-i_5d7a3c5b251c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-05-2021_comienza-el-envío-de-guidebook-i_5d7a3c5b251c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b7/fa/f2/20/ff/b7faf220ff7bd08f86db38699ac42979_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-05-2021_comienza-el-envío-de-guidebook-i_5d7a3c5b251c\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:02:20.075522-03:00",
+  "status": "downloaded"
+}

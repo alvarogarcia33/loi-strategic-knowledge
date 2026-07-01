@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_814c01310df4",
+  "platform": "gig_os",
+  "title": "Oro: ¿el metal más caro en 2035?",
+  "date": "23.09.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-el-metal-mas-caro-en-2035-236",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-el-metal-mas-caro-en-2035-236",
+  "content_hash": "328e6355aa22396fc82345343cbba7ca4eaca5f31eef3804f0182fd682f86426",
+  "url_hash": "97c5a26964cd536350ece4021a6482abb8ccc41de7e4e5472f2aa05aaa7e9475",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-09-2020_oro-el-metal-más-caro-en-2035_814c01310df4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-09-2020_oro-el-metal-más-caro-en-2035_814c01310df4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2020_oro-el-metal-más-caro-en-2035_814c01310df4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1c/6a/19/c4/6c/1c6a19c46cf90274f80c0cb1b6e73cfb_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2020_oro-el-metal-más-caro-en-2035_814c01310df4\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/851/global-intergold--buque-de-carga_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2020_oro-el-metal-más-caro-en-2035_814c01310df4\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/851/global-intergold--mina-de-oro_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2020_oro-el-metal-más-caro-en-2035_814c01310df4\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:10.964446-03:00",
+  "status": "downloaded"
+}

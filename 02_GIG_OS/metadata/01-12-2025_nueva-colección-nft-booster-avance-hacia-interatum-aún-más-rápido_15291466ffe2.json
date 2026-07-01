@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_15291466ffe2",
+  "platform": "gig_os",
+  "title": "Nueva Colección NFT Booster: ¡Avance hacia INTERATUM aún más rápido!",
+  "date": "01.12.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nueva-coleccion-nft-booster-avance-hacia-interatum-aun-mas-rapido-1137",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nueva-coleccion-nft-booster-avance-hacia-interatum-aun-mas-rapido-1137",
+  "content_hash": "8273d96d712f30c680b9f3637b9b6d129d40b7bb0aa4ea3e966c57549a028f41",
+  "url_hash": "dd13a01c5cd5277c48dcc655064e6ed2de23d24a37f032203c15cb85cc1848fe",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-12-2025_nueva-colección-nft-booster-avance-hacia-interatum-aún-más-rápido_15291466ffe2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-12-2025_nueva-colección-nft-booster-avance-hacia-interatum-aún-más-rápido_15291466ffe2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-12-2025_nueva-colección-nft-booster-avance-hacia-interatum-aún-más-rápido_15291466ffe2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2a/bf/e0/3f/ee/2abfe03feee2cfcaddd5ad835c337397_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-12-2025_nueva-colección-nft-booster-avance-hacia-interatum-aún-más-rápido_15291466ffe2\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1961/01-12-2025-bcnft-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-12-2025_nueva-colección-nft-booster-avance-hacia-interatum-aún-más-rápido_15291466ffe2\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:43:31.774056-03:00",
+  "status": "downloaded"
+}

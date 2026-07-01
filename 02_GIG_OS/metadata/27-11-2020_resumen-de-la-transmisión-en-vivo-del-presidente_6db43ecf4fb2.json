@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_6db43ecf4fb2",
+  "platform": "gig_os",
+  "title": "Resumen de la transmisión en vivo del Presidente",
+  "date": "27.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resumen-de-la-transmision-en-vivo-del-presidente-336",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resumen-de-la-transmision-en-vivo-del-presidente-336",
+  "content_hash": "35ef5aa40a7a908e5806301267c867b588ff1828ceba5c74f21c7a232f10f70f",
+  "url_hash": "4472d4178d414f1c37351dc799861362fc83f1ef79d4c768e2c5dbb24cfbdad2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-11-2020_resumen-de-la-transmisión-en-vivo-del-presidente_6db43ecf4fb2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-11-2020_resumen-de-la-transmisión-en-vivo-del-presidente_6db43ecf4fb2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-11-2020_resumen-de-la-transmisión-en-vivo-del-presidente_6db43ecf4fb2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/42/8b/d5/5f/47/428bd55f47014ed436ec838101450f52_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-11-2020_resumen-de-la-transmisión-en-vivo-del-presidente_6db43ecf4fb2\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:54:02.596862-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_03a710902c16",
+  "platform": "gig_os",
+  "title": "¡MetaFi — Commodity Release tendrá lugar ya este viernes!",
+  "date": "18.03.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/metafi-commodity-release-tendra-lugar-ya-este-viernes-898",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/metafi-commodity-release-tendra-lugar-ya-este-viernes-898",
+  "content_hash": "6c86398ea7c712b0a89c63a7de6430cb5e52d639136b79b93d105de481dec698",
+  "url_hash": "1f6ed15f986d9bafe7b2b13ec81905e090ccd5af3be57dd7650eebb61540a613",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-03-2024_metafi-commodity-release-tendrá-lugar-ya-este-viernes_03a710902c16.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-03-2024_metafi-commodity-release-tendrá-lugar-ya-este-viernes_03a710902c16.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-03-2024_metafi-commodity-release-tendrá-lugar-ya-este-viernes_03a710902c16",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4b/ac/1e/aa/aa/4bac1eaaaa8e2944393b3555e1687a17_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-03-2024_metafi-commodity-release-tendrá-lugar-ya-este-viernes_03a710902c16\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1649/call-to-action-es27118_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-03-2024_metafi-commodity-release-tendrá-lugar-ya-este-viernes_03a710902c16\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:53.918168-03:00",
+  "status": "downloaded"
+}

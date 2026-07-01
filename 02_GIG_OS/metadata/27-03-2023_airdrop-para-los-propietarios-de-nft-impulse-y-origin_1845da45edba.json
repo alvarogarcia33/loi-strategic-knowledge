@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1845da45edba",
+  "platform": "gig_os",
+  "title": "Airdrop para los propietarios de NFT IMPULSE y ORIGIN",
+  "date": "27.03.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/airdrop-para-los-propietarios-de-nft-impulse-y-origin-710",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/airdrop-para-los-propietarios-de-nft-impulse-y-origin-710",
+  "content_hash": "453fae143c911b964f4a26d9b30e56f58f1f197312ae6adb786a52cfb2887659",
+  "url_hash": "d5a88ff5d06c280d97ec183e10bdf823e6e3748fb67a25c1ce13b655d968fe92",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-03-2023_airdrop-para-los-propietarios-de-nft-impulse-y-origin_1845da45edba.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-03-2023_airdrop-para-los-propietarios-de-nft-impulse-y-origin_1845da45edba.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-03-2023_airdrop-para-los-propietarios-de-nft-impulse-y-origin_1845da45edba",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/12/3f/7f/31/d5/123f7f31d56de095b36a8592736838bd_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-03-2023_airdrop-para-los-propietarios-de-nft-impulse-y-origin_1845da45edba\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1439/gigos-mi-informers-page-5-1-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-03-2023_airdrop-para-los-propietarios-de-nft-impulse-y-origin_1845da45edba\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:57:54.538056-03:00",
+  "status": "downloaded"
+}

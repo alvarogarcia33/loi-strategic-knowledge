@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_7aec2b7a41cf",
+  "platform": "gig_os",
+  "title": "Primavera, época de crecimiento: 7 nuevos récords de oro",
+  "date": "06.05.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/primavera-epoca-de-crecimiento-7-nuevos-records-de-oro-930",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/primavera-epoca-de-crecimiento-7-nuevos-records-de-oro-930",
+  "content_hash": "479bd7b2fa767a369b968c5f7e53489fb311a40c041f1d2f86dcb79d92390cda",
+  "url_hash": "7df38b83771fcbf9dc0ffc97c5d138159a3dfe35850d2e9c2bc1948486a81021",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-05-2024_primavera-época-de-crecimiento-7-nuevos-récords-de-oro_7aec2b7a41cf.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-05-2024_primavera-época-de-crecimiento-7-nuevos-récords-de-oro_7aec2b7a41cf.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-05-2024_primavera-época-de-crecimiento-7-nuevos-récords-de-oro_7aec2b7a41cf",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ec/f9/bb/8f/11/ecf9bb8f1112deaab5db5bb7a619cfe4_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-05-2024_primavera-época-de-crecimiento-7-nuevos-récords-de-oro_7aec2b7a41cf\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1687/gold-rise81352_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-05-2024_primavera-época-de-crecimiento-7-nuevos-récords-de-oro_7aec2b7a41cf\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-05-2024_primavera-época-de-crecimiento-7-nuevos-récords-de-oro_7aec2b7a41cf\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:09.547016-03:00",
+  "status": "downloaded"
+}

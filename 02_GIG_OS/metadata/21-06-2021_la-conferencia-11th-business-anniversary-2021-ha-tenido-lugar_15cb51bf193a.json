@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_15cb51bf193a",
+  "platform": "gig_os",
+  "title": "¡La conferencia 11th BUSINESS ANNIVERSARY 2021 ha tenido lugar!",
+  "date": "21.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-conferencia-11th-business-anniversary-2021-ha-tenido-lugar-429",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-conferencia-11th-business-anniversary-2021-ha-tenido-lugar-429",
+  "content_hash": "905bf030f38f31a706265db7b7b4029bcbdc3db997eec6a272e4d78bcd4dbd51",
+  "url_hash": "4627f5344009696247bb7cf55318c87c3a1875cc167bdad1c01af84b0b61f316",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-06-2021_la-conferencia-11th-business-anniversary-2021-ha-tenido-lugar_15cb51bf193a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-06-2021_la-conferencia-11th-business-anniversary-2021-ha-tenido-lugar_15cb51bf193a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-06-2021_la-conferencia-11th-business-anniversary-2021-ha-tenido-lugar_15cb51bf193a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ce/8f/1a/92/6b/ce8f1a926bc225a59986986032ee0564_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-06-2021_la-conferencia-11th-business-anniversary-2021-ha-tenido-lugar_15cb51bf193a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:30:33.440959-03:00",
+  "status": "downloaded"
+}

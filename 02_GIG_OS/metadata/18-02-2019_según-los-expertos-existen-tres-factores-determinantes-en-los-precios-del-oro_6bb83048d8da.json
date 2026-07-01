@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_6bb83048d8da",
+  "platform": "gig_os",
+  "title": "Según los expertos: existen tres factores determinantes en los precios del oro",
+  "date": "18.02.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/segun-los-expertos-existen-tres-factores-determinantes-en-los-precios-del-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/segun-los-expertos-existen-tres-factores-determinantes-en-los-precios-del-oro",
+  "content_hash": "1e685513b74187a6c88188e3fa78e4687fe9aceeca71fb4eac6c586f1dedf2c9",
+  "url_hash": "8d1b974c7f59ba1b5cb302622cf281636d5bcb26fc629a23ff65358314d5c688",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-02-2019_según-los-expertos-existen-tres-factores-determinantes-en-los-precios-del-oro_6bb83048d8da.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-02-2019_según-los-expertos-existen-tres-factores-determinantes-en-los-precios-del-oro_6bb83048d8da.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-02-2019_según-los-expertos-existen-tres-factores-determinantes-en-los-precios-del-oro_6bb83048d8da",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/16/14/9f/85/33/16149f85338166d2f3b21f83c946e9a3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-02-2019_según-los-expertos-existen-tres-factores-determinantes-en-los-precios-del-oro_6bb83048d8da\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/655/global-intergold-gold-informe-de-la-cotizacion-del-oro-20_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/655/global-intergold-gold-informe-de-la-cotizacion-del-oro-21_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:56:10.858382-03:00",
+  "status": "downloaded"
+}

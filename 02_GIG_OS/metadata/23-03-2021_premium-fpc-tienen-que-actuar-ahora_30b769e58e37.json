@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_30b769e58e37",
+  "platform": "gig_os",
+  "title": "Premium FPC: ¡tienen que actuar ahora!",
+  "date": "23.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/premium-fpc-tienen-que-actuar-ahora-386",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/premium-fpc-tienen-que-actuar-ahora-386",
+  "content_hash": "01e8d70f6da33eb19a5e148f36e3235e3ea06bf05f9a70df8c96fcc21a12c162",
+  "url_hash": "b6d71833ecbc8051c50efb8dc84aa5615e290235265b5cf3f5fb327a1c4ed420",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-03-2021_premium-fpc-tienen-que-actuar-ahora_30b769e58e37.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-03-2021_premium-fpc-tienen-que-actuar-ahora_30b769e58e37.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-03-2021_premium-fpc-tienen-que-actuar-ahora_30b769e58e37",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/88/b3/2b/4b/6f/88b32b4b6fb95a3738d068e024a406a3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-03-2021_premium-fpc-tienen-que-actuar-ahora_30b769e58e37\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:23.369401-03:00",
+  "status": "downloaded"
+}

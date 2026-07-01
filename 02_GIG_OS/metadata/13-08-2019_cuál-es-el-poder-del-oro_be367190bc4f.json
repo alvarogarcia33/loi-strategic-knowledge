@@ -1,0 +1,81 @@
+{
+  "article_uid": "gig_os_be367190bc4f",
+  "platform": "gig_os",
+  "title": "¿Cuál es el poder del oro?",
+  "date": "13.08.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/cual-es-el-poder-del-oro-156",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/cual-es-el-poder-del-oro-156",
+  "content_hash": "e4f7dfaaaf1d5b1a7fd3bbb5f4421106cc016de843377a668274d4094a11fdaa",
+  "url_hash": "88e9da68df4085e5ea2d34b74f67f25ca33af5b4049e733929ff1ec5b34e91c2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-08-2019_cuál-es-el-poder-del-oro_be367190bc4f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-08-2019_cuál-es-el-poder-del-oro_be367190bc4f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-08-2019_cuál-es-el-poder-del-oro_be367190bc4f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cf/c0/2a/57/cd/cfc02a57cdcf604ec70112b81d45d32c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-08-2019_cuál-es-el-poder-del-oro_be367190bc4f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/757/japanese-yen_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/757/canadian-dollar_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/757/indian-rupee_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/757/british-pound_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/757/australian-dollar_1.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/757/us-dollar_1.jpg",
+      "local_path": null,
+      "filename": "image_07",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:05:23.284678-03:00",
+  "status": "downloaded"
+}

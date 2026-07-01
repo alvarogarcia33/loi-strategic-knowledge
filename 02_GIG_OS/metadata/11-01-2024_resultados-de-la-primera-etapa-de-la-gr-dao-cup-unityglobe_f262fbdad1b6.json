@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_f262fbdad1b6",
+  "platform": "gig_os",
+  "title": "Resultados de la primera etapa de la GR DAO CUP UnityGlobe",
+  "date": "11.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-primera-etapa-de-la-gr-dao-cup-unityglobe-857",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-primera-etapa-de-la-gr-dao-cup-unityglobe-857",
+  "content_hash": "5c6ed2464d96833cc8d3a3d29736538d346ca318bf57b84ef5f3d83fcc65bbb1",
+  "url_hash": "7a6a9c5af379e9721225e83e5623bf0b2d33566e57d5520b235d733be120062d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-01-2024_resultados-de-la-primera-etapa-de-la-gr-dao-cup-unityglobe_f262fbdad1b6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-01-2024_resultados-de-la-primera-etapa-de-la-gr-dao-cup-unityglobe_f262fbdad1b6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-01-2024_resultados-de-la-primera-etapa-de-la-gr-dao-cup-unityglobe_f262fbdad1b6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e7/e3/f3/35/35/e7e3f3353521d5fbbb7e1aaa526f0559_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-01-2024_resultados-de-la-primera-etapa-de-la-gr-dao-cup-unityglobe_f262fbdad1b6\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1603/top-387392_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-01-2024_resultados-de-la-primera-etapa-de-la-gr-dao-cup-unityglobe_f262fbdad1b6\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:37.513737-03:00",
+  "status": "downloaded"
+}

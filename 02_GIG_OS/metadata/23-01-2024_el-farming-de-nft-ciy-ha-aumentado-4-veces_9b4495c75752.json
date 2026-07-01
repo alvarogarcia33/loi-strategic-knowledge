@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9b4495c75752",
+  "platform": "gig_os",
+  "title": "¡El farming de NFT CIY ha aumentado 4 veces!",
+  "date": "23.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-farming-de-nft-ciy-aumentara-4-veces-864",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-farming-de-nft-ciy-aumentara-4-veces-864",
+  "content_hash": "15e8ad7dc8669ae36cf03e4340399b855c57fffa16b8797dac6f54c0b13dd894",
+  "url_hash": "ad1e3ab4c5d724587007c895974f81dbdae575dae4421c4800db865908261c95",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-01-2024_el-farming-de-nft-ciy-ha-aumentado-4-veces_9b4495c75752.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-01-2024_el-farming-de-nft-ciy-ha-aumentado-4-veces_9b4495c75752.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2024_el-farming-de-nft-ciy-ha-aumentado-4-veces_9b4495c75752",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/af/a3/dd/19/53/afa3dd19537131ffed1769b520e324b2_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2024_el-farming-de-nft-ciy-ha-aumentado-4-veces_9b4495c75752\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1610/farming-for-text-es18333_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2024_el-farming-de-nft-ciy-ha-aumentado-4-veces_9b4495c75752\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:11.720922-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7b1d65ae6bec",
+  "platform": "gig_os",
+  "title": "El oro sale a conquistar Marte",
+  "date": "24.04.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-sale-a-conquistar-marte-247",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-sale-a-conquistar-marte-247",
+  "content_hash": "c10e987b2c62842266f4c7dcde3f5a1999d6d30b6fdd4e480f9201843ed7b201",
+  "url_hash": "10babd7ef9d594a97cfc7cc16257b35474afcb75805307cbcd60f578ea63a896",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-04-2020_el-oro-sale-a-conquistar-marte_7b1d65ae6bec.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-04-2020_el-oro-sale-a-conquistar-marte_7b1d65ae6bec.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-04-2020_el-oro-sale-a-conquistar-marte_7b1d65ae6bec",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7d/de/0c/f7/c4/7dde0cf7c48f10f714a0991095a948cb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-04-2020_el-oro-sale-a-conquistar-marte_7b1d65ae6bec\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/862/perseverance_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-04-2020_el-oro-sale-a-conquistar-marte_7b1d65ae6bec\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:24.796391-03:00",
+  "status": "downloaded"
+}

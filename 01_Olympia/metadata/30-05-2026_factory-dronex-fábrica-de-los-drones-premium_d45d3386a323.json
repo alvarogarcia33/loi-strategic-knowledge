@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_d45d3386a323",
+  "platform": "olympia",
+  "title": "Factory.DroneX: fábrica de los drones premium",
+  "date": "30.05.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/factorydronex-fabrica-de-los-drones-premium-0206",
+  "canonical_url": "https://olympia-lab.com/es/news/post/factorydronex-fabrica-de-los-drones-premium-0206",
+  "content_hash": "2f0b3c3ad3b589ead19e6effb46e8dee65413c9998b8eed92069347e0d0a50be",
+  "url_hash": "2b586989fa4365fb8e068c8d564486f9d59965b57891d39a3697a50d6a7dcf8e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/0f/17/6f/31/c5/0f176f31c5032710b50db3ff400c16f9.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/97/5a/78/61/d3/975a7861d31f7f583ca3b310b7f4b418_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/73/74/95/44/0b737495445a2909e41b948bd7e3ad8e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/95/c9/97/e5/a7/95c997e5a7a7923e524730988afd52ed_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/14/d5/da/67/3a/14d5da673a6acbffabbc90d4ef1d4952_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/6c/c9/46/e1/da6cc946e1ef65d70b3d486c76929e0e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:17:12.009479-03:00",
+  "status": "downloaded"
+}

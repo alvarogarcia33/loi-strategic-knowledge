@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_9ef4a032ce1e",
+  "platform": "gig_os",
+  "title": "[ACTUALIZADO] ¡Prepárese para la etapa final de las elecciones desde ahora!",
+  "date": "08.10.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/preparese-para-la-etapa-final-de-las-elecciones-desde-ahora-1152",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/preparese-para-la-etapa-final-de-las-elecciones-desde-ahora-1152",
+  "content_hash": "93c0d96aa6618257f9da1259ab083063c8f08eff8ba1dc68fd4133cacc6abdea",
+  "url_hash": "8b421c741a7430ac029fd5024a73e2758db33982271dd0f0e94e1d10b5b6427a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-10-2025_actualizado-prepárese-para-la-etapa-final-de-las-elecciones-desde-ahora_9ef4a032ce1e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-10-2025_actualizado-prepárese-para-la-etapa-final-de-las-elecciones-desde-ahora_9ef4a032ce1e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2025_actualizado-prepárese-para-la-etapa-final-de-las-elecciones-desde-ahora_9ef4a032ce1e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/76/7f/57/0b/63/767f570b630237e52709e959347a2913_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2025_actualizado-prepárese-para-la-etapa-final-de-las-elecciones-desde-ahora_9ef4a032ce1e\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1934/es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2025_actualizado-prepárese-para-la-etapa-final-de-las-elecciones-desde-ahora_9ef4a032ce1e\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1934/gig-os_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2025_actualizado-prepárese-para-la-etapa-final-de-las-elecciones-desde-ahora_9ef4a032ce1e\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:51.081254-03:00",
+  "status": "downloaded"
+}

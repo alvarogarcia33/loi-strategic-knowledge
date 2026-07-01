@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_e10b6441e1a5",
+  "platform": "gig_os",
+  "title": "Año 2030: ¿se encamina el oro a su éxito?",
+  "date": "03.06.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ano-2030-se-encamina-el-oro-a-su-exito-125",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ano-2030-se-encamina-el-oro-a-su-exito-125",
+  "content_hash": "db17c01c96c0a9459f9a98731ae444c651ab6b2d090b6a96b7e182530e338847",
+  "url_hash": "bc1add0a80a80db68c942a43525c56a3b8a5d6da214440040108c8ed5858b2b0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-06-2019_año-2030-se-encamina-el-oro-a-su-éxito_e10b6441e1a5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-06-2019_año-2030-se-encamina-el-oro-a-su-éxito_e10b6441e1a5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2019_año-2030-se-encamina-el-oro-a-su-éxito_e10b6441e1a5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/90/c5/ce/f5/e1/90c5cef5e1e27f353687b30cdfda53c2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2019_año-2030-se-encamina-el-oro-a-su-éxito_e10b6441e1a5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/713/global-intergold-gold-informe-de-la-cotizacion-del-oro-22_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/713/global-intergold-gold-informe-de-la-cotizacion-del-oro-23_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:09.693735-03:00",
+  "status": "downloaded"
+}

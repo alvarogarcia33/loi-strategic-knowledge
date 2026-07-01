@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d2e21079917d",
+  "platform": "gig_os",
+  "title": "Cena con el Presidente: una reunión de los mejores",
+  "date": "10.08.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/cena-con-el-presidente-una-reunion-de-los-mejores-611",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/cena-con-el-presidente-una-reunion-de-los-mejores-611",
+  "content_hash": "8d372f7b40bc42e5d1e7b99814312bd867947b29468df3c4504f77b5045ae475",
+  "url_hash": "26c719d2b861fb3b11fc86bf19366353504c03bb3617903f88ab3b8c4a3f0307",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-08-2022_cena-con-el-presidente-una-reunión-de-los-mejores_d2e21079917d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-08-2022_cena-con-el-presidente-una-reunión-de-los-mejores_d2e21079917d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-08-2022_cena-con-el-presidente-una-reunión-de-los-mejores_d2e21079917d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/fd/8d/63/cb/4d/fd8d63cb4d7dcb7cf9d1245339792484_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-08-2022_cena-con-el-presidente-una-reunión-de-los-mejores_d2e21079917d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:05.199755-03:00",
+  "status": "downloaded"
+}

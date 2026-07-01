@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_377bb5e39e2f",
+  "platform": "gig_os",
+  "title": "¡TOP 3! Se anuncian los nombres de los competidores más fuertes de la 1.ª etapa",
+  "date": "21.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/top-3-se-anuncian-los-nombres-de-los-competidores-mas-fuertes-de-la-1-etapa-755",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/top-3-se-anuncian-los-nombres-de-los-competidores-mas-fuertes-de-la-1-etapa-755",
+  "content_hash": "d170b6187839cae651470e092cf7c406c6d63a7635c024f8bc66cce1f8624f46",
+  "url_hash": "f5b804bd0c39b081c2e25a972dbc576931976297f8885d0620a7bf2e22af25bf",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-06-2023_top-3-se-anuncian-los-nombres-de-los-competidores-más-fuertes-de-la-1-etapa_377bb5e39e2f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-06-2023_top-3-se-anuncian-los-nombres-de-los-competidores-más-fuertes-de-la-1-etapa_377bb5e39e2f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-06-2023_top-3-se-anuncian-los-nombres-de-los-competidores-más-fuertes-de-la-1-etapa_377bb5e39e2f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/55/97/5e/71/5d/55975e715ddab5fd9de03760c8857ef5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-06-2023_top-3-se-anuncian-los-nombres-de-los-competidores-más-fuertes-de-la-1-etapa_377bb5e39e2f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1493/21-06-2023-41186-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-06-2023_top-3-se-anuncian-los-nombres-de-los-competidores-más-fuertes-de-la-1-etapa_377bb5e39e2f\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:20.645743-03:00",
+  "status": "downloaded"
+}

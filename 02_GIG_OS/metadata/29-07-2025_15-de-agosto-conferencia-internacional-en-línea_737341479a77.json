@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_737341479a77",
+  "platform": "gig_os",
+  "title": "15 de agosto: conferencia internacional en línea",
+  "date": "29.07.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/15-de-agosto-conferencia-internacional-en-linea-1118",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/15-de-agosto-conferencia-internacional-en-linea-1118",
+  "content_hash": "6d737e8acaa37abf732c839f8d5679ebd769cdc2675769cb02d7ff15f391981a",
+  "url_hash": "2c2837d35a1b13488d617dc2768d49814ad8046ae0df2746eaddb846c62e5554",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-07-2025_15-de-agosto-conferencia-internacional-en-línea_737341479a77.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-07-2025_15-de-agosto-conferencia-internacional-en-línea_737341479a77.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-07-2025_15-de-agosto-conferencia-internacional-en-línea_737341479a77",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f2/70/45/3a/ed/f270453aed0c5ae2d98f5f7f7c9f6d53_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-07-2025_15-de-agosto-conferencia-internacional-en-línea_737341479a77\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:54:58.343953-03:00",
+  "status": "downloaded"
+}

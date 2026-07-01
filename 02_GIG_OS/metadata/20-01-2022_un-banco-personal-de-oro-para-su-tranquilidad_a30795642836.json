@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a30795642836",
+  "platform": "gig_os",
+  "title": "Un banco personal de oro para su tranquilidad",
+  "date": "20.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/un-banco-personal-de-oro-para-su-tranquilidad-522",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/un-banco-personal-de-oro-para-su-tranquilidad-522",
+  "content_hash": "bf500f777da82831b6f24360789b9afa68475082be62b8a90bfa3f01d5d46b19",
+  "url_hash": "5f66056e3bfc9c373877de53df56e2ce792c1899df0a7fa567567daca4fb4f7d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-01-2022_un-banco-personal-de-oro-para-su-tranquilidad_a30795642836.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-01-2022_un-banco-personal-de-oro-para-su-tranquilidad_a30795642836.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2022_un-banco-personal-de-oro-para-su-tranquilidad_a30795642836",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/db/5e/7e/5e/8f/db5e7e5e8f13075679c4450afa4158c3_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2022_un-banco-personal-de-oro-para-su-tranquilidad_a30795642836\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1216/dizayn-bez-nazvaniya-3_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2022_un-banco-personal-de-oro-para-su-tranquilidad_a30795642836\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:33.816316-03:00",
+  "status": "downloaded"
+}

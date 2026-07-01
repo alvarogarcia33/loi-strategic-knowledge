@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e2e4687a9306",
+  "platform": "gig_os",
+  "title": "¿Ya se ha inscrito para META 202*?",
+  "date": "04.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ya-se-ha-inscrito-para-meta-202-834",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ya-se-ha-inscrito-para-meta-202-834",
+  "content_hash": "f200d5993fb7243843750358af4abc3d317ab3e83a53cbf91362dd47a0894105",
+  "url_hash": "d265a35dedbacbfa57b8b1efd9cf5a289121c2be382b92105ad3a42681d7b765",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-12-2023_ya-se-ha-inscrito-para-meta-202_e2e4687a9306.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-12-2023_ya-se-ha-inscrito-para-meta-202_e2e4687a9306.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-12-2023_ya-se-ha-inscrito-para-meta-202_e2e4687a9306",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/73/93/5f/14/31/73935f1431c7503b6049b0d5f545e152_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-12-2023_ya-se-ha-inscrito-para-meta-202_e2e4687a9306\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:05:56.265724-03:00",
+  "status": "downloaded"
+}

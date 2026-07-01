@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_a4e5b527e7ad",
+  "platform": "gig_os",
+  "title": "Pronóstico para 2021: ¿continuará el rally de oro?",
+  "date": "08.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/pronostico-para-2021-continuara-el-rally-de-oro-340",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/pronostico-para-2021-continuara-el-rally-de-oro-340",
+  "content_hash": "3fe624de73c9d6bb04b8c1aa5c4df3ff3d6c3ec3d804fadeae56e37456a5f7ca",
+  "url_hash": "b637b208b65ae403b3cdf381ea66f71c069c2a5720d243114ad3e26406069eb4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-12-2020_pronóstico-para-2021-continuará-el-rally-de-oro_a4e5b527e7ad.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-12-2020_pronóstico-para-2021-continuará-el-rally-de-oro_a4e5b527e7ad.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2020_pronóstico-para-2021-continuará-el-rally-de-oro_a4e5b527e7ad",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0c/53/09/05/6c/0c5309056c36ca36b90f5f2716b0335e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2020_pronóstico-para-2021-continuará-el-rally-de-oro_a4e5b527e7ad\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/999/image16_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2020_pronóstico-para-2021-continuará-el-rally-de-oro_a4e5b527e7ad\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/999/image14_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2020_pronóstico-para-2021-continuará-el-rally-de-oro_a4e5b527e7ad\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:25.599328-03:00",
+  "status": "downloaded"
+}

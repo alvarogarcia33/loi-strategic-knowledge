@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_2a6411e33c74",
+  "platform": "gig_os",
+  "title": "GIG-OS: ¿qué es una suscripción? Parte 3",
+  "date": "16.12.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gig-os-que-es-una-suscripcion-parte-212",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gig-os-que-es-una-suscripcion-parte-212",
+  "content_hash": "f15f24e458e02c8a279c8efc10a10d83594a071fe9223954db0c854bb7ce12cb",
+  "url_hash": "43e1d90ed1a294b7ea366cb6a08cb09b2e49297281647795d4415dafb1520032",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-12-2019_gig-os-qué-es-una-suscripción-parte-3_2a6411e33c74.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-12-2019_gig-os-qué-es-una-suscripción-parte-3_2a6411e33c74.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2019_gig-os-qué-es-una-suscripción-parte-3_2a6411e33c74",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9e/bb/e1/e2/a1/9ebbe1e2a160171af87b8d4030b9c0a4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2019_gig-os-qué-es-una-suscripción-parte-3_2a6411e33c74\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:59.609483-03:00",
+  "status": "downloaded"
+}

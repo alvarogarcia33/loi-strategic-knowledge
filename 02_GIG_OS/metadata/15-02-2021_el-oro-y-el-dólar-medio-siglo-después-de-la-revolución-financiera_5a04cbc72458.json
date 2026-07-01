@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_5a04cbc72458",
+  "platform": "gig_os",
+  "title": "El oro y el dólar medio siglo después de la revolución financiera",
+  "date": "15.02.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-y-el-dolar-medio-siglo-despues-de-la-revolucion-financiera-369",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-y-el-dolar-medio-siglo-despues-de-la-revolucion-financiera-369",
+  "content_hash": "a9c8f0491239b90caed7119983fbe1f6605e56ee56094684367c794d2f75045a",
+  "url_hash": "937f178c26bea2d9f6bd0549fa89c4f0c2503c9497b890a291faff880ec7955b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-02-2021_el-oro-y-el-dólar-medio-siglo-después-de-la-revolución-financiera_5a04cbc72458.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-02-2021_el-oro-y-el-dólar-medio-siglo-después-de-la-revolución-financiera_5a04cbc72458.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-02-2021_el-oro-y-el-dólar-medio-siglo-después-de-la-revolución-financiera_5a04cbc72458",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/67/2f/78/e8/a3/672f78e8a3477bee92e3fb705908d416_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-02-2021_el-oro-y-el-dólar-medio-siglo-después-de-la-revolución-financiera_5a04cbc72458\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1034/111660_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-02-2021_el-oro-y-el-dólar-medio-siglo-después-de-la-revolución-financiera_5a04cbc72458\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1034/3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-02-2021_el-oro-y-el-dólar-medio-siglo-después-de-la-revolución-financiera_5a04cbc72458\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1034/4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-02-2021_el-oro-y-el-dólar-medio-siglo-después-de-la-revolución-financiera_5a04cbc72458\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:42.708800-03:00",
+  "status": "downloaded"
+}

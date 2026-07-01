@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_08ada50e6321",
+  "platform": "olympia",
+  "title": "Programa de referencia: una herramienta para reponer estructuras",
+  "date": "02.12.2025",
+  "source_url": "https://olympia-lab.com/es/news/post/programa-de-referencia-una-herramienta-para-reponer-estructuras-0123",
+  "canonical_url": "https://olympia-lab.com/es/news/post/programa-de-referencia-una-herramienta-para-reponer-estructuras-0123",
+  "content_hash": "0bbd12f1e81d1e7943f08c9002d7e9768cf38f7728bd6c1c8505b3e02b168996",
+  "url_hash": "8d26ddc835fa2d1c2000ae81dd9bf3f214b54f491d0a0307e4dcc2521b124b17",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\02-12-2025_programa-de-referencia-una-herramienta-para-reponer-estructuras_08ada50e6321.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\02-12-2025_programa-de-referencia-una-herramienta-para-reponer-estructuras_08ada50e6321.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\02-12-2025_programa-de-referencia-una-herramienta-para-reponer-estructuras_08ada50e6321",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/2d/00/8e/8f/60/2d008e8f6024b309adc5f121cb3c87ae.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\02-12-2025_programa-de-referencia-una-herramienta-para-reponer-estructuras_08ada50e6321\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/72/ba/01/31/2272ba0131aaea68d4b4afb0a835a2d6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\02-12-2025_programa-de-referencia-una-herramienta-para-reponer-estructuras_08ada50e6321\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/73/57/a5/32/24/7357a532240b5f6101397e18e68a8903_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\02-12-2025_programa-de-referencia-una-herramienta-para-reponer-estructuras_08ada50e6321\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ae/f1/6f/e5/32/aef16fe532a983dbe6359eb674405da9_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\02-12-2025_programa-de-referencia-una-herramienta-para-reponer-estructuras_08ada50e6321\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/15/e2/94/fe/b1/15e294feb146514b67e125d3f5847e18_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\02-12-2025_programa-de-referencia-una-herramienta-para-reponer-estructuras_08ada50e6321\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/66/20/03/b5/53/662003b5536e57f075dd804546ad98ba_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\02-12-2025_programa-de-referencia-una-herramienta-para-reponer-estructuras_08ada50e6321\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:18:44.224250-03:00",
+  "status": "downloaded"
+}

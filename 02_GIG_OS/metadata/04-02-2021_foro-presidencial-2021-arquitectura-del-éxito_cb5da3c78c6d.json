@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_cb5da3c78c6d",
+  "platform": "gig_os",
+  "title": "Foro Presidencial 2021: arquitectura del éxito",
+  "date": "04.02.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/foro-presidencial-2021-arquitectura-del-exito-366",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/foro-presidencial-2021-arquitectura-del-exito-366",
+  "content_hash": "4b13c053c3cbce8fb9ca2ef3408916ddefeffdda05dd451ae8db7c4ea70fb37d",
+  "url_hash": "578785081a7b81a4ac2cd295729748f37f58fcf093a5653af651d436a82ab472",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-02-2021_foro-presidencial-2021-arquitectura-del-éxito_cb5da3c78c6d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-02-2021_foro-presidencial-2021-arquitectura-del-éxito_cb5da3c78c6d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-02-2021_foro-presidencial-2021-arquitectura-del-éxito_cb5da3c78c6d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2e/c4/b1/16/5b/2ec4b1165b39733f3647af1d774a21c2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-02-2021_foro-presidencial-2021-arquitectura-del-éxito_cb5da3c78c6d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1031/untitled-11_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-02-2021_foro-presidencial-2021-arquitectura-del-éxito_cb5da3c78c6d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:56.148081-03:00",
+  "status": "downloaded"
+}

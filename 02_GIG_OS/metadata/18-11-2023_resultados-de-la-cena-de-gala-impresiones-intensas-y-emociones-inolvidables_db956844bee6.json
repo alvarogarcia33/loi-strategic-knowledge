@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_db956844bee6",
+  "platform": "gig_os",
+  "title": "Resultados de la cena de gala: impresiones intensas y emociones inolvidables",
+  "date": "18.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-cena-de-gala-impresiones-intensas-y-emociones-inolvidables-824",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-cena-de-gala-impresiones-intensas-y-emociones-inolvidables-824",
+  "content_hash": "3ce375f8d3d44fd078b336a4a26d0523bfa54ddf595bfdf44fc1ab99fa4ddaff",
+  "url_hash": "84c1fe245c43f76a3d7d80b6d3c4ca6f93a16a76ee5ec1b8e2883c2c38993dd7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-11-2023_resultados-de-la-cena-de-gala-impresiones-intensas-y-emociones-inolvidables_db956844bee6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-11-2023_resultados-de-la-cena-de-gala-impresiones-intensas-y-emociones-inolvidables_db956844bee6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-11-2023_resultados-de-la-cena-de-gala-impresiones-intensas-y-emociones-inolvidables_db956844bee6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/04/6e/68/c2/7c/046e68c27c8f132bf13e0bf53883b337.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-11-2023_resultados-de-la-cena-de-gala-impresiones-intensas-y-emociones-inolvidables_db956844bee6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:15.541147-03:00",
+  "status": "downloaded"
+}

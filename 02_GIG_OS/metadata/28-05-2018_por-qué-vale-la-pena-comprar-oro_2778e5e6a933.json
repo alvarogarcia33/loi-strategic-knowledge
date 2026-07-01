@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_2778e5e6a933",
+  "platform": "gig_os",
+  "title": "¿Por qué vale la pena comprar oro?",
+  "date": "28.05.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-vale-la-pena-comprar-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-vale-la-pena-comprar-oro",
+  "content_hash": "356a719cd376220d41c4dc550c52ed7253fd558ff6df83950c518f243c72694c",
+  "url_hash": "b45bda198d607e55ba6cd03a9e7c6ed4a7566ee6238bc1e4c93e70752e08ed10",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-05-2018_por-qué-vale-la-pena-comprar-oro_2778e5e6a933.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-05-2018_por-qué-vale-la-pena-comprar-oro_2778e5e6a933.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-05-2018_por-qué-vale-la-pena-comprar-oro_2778e5e6a933",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9e/b6/75/f1/be/9eb675f1beed4c7686ca193bb4418d27_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-05-2018_por-qué-vale-la-pena-comprar-oro_2778e5e6a933\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/490/global-intergold-gold_1.png",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/490/global-intergold-gold-2_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/490/global-intergold-gold-1_1.png",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:57.757170-03:00",
+  "status": "downloaded"
+}

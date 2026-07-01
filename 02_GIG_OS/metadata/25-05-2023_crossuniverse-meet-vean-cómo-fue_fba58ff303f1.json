@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_fba58ff303f1",
+  "platform": "gig_os",
+  "title": "CROSSUNIVERSE MEET: ¡vean cómo fue!",
+  "date": "25.05.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/crossuniverse-meet-vean-como-fue-739",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/crossuniverse-meet-vean-como-fue-739",
+  "content_hash": "ccf14992401fd8bf3b66e7ab9c289f220a95c4b74bff102cd206eb57d073946c",
+  "url_hash": "2fd64877f475301d02ef5f87bba1bd4c51c79844744eeb56fc1e7b5f177dc1e5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-05-2023_crossuniverse-meet-vean-cómo-fue_fba58ff303f1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-05-2023_crossuniverse-meet-vean-cómo-fue_fba58ff303f1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-05-2023_crossuniverse-meet-vean-cómo-fue_fba58ff303f1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3d/1f/96/38/6c/3d1f96386c66558b1bc928c591f29fd7.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-05-2023_crossuniverse-meet-vean-cómo-fue_fba58ff303f1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:05:13.079597-03:00",
+  "status": "downloaded"
+}

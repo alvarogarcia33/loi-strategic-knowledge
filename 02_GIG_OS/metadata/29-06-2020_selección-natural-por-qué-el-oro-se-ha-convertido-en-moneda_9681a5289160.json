@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9681a5289160",
+  "platform": "gig_os",
+  "title": "Selección natural: por qué el oro se ha convertido en moneda?",
+  "date": "29.06.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/seleccion-natural-por-que-el-oro-se-ha-convertido-en-moneda-277",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/seleccion-natural-por-que-el-oro-se-ha-convertido-en-moneda-277",
+  "content_hash": "5e39ece20db53420f5ac0c499191ebb2b83da6c5d03656e762f3664fa27e002f",
+  "url_hash": "878a93962afee04de70a086f2e79c44dbf54deca7e7a8f969c6dcad33b85aa2b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-06-2020_selección-natural-por-qué-el-oro-se-ha-convertido-en-moneda_9681a5289160.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-06-2020_selección-natural-por-qué-el-oro-se-ha-convertido-en-moneda_9681a5289160.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-06-2020_selección-natural-por-qué-el-oro-se-ha-convertido-en-moneda_9681a5289160",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/54/8e/02/0c/da/548e020cdadf06d3a2f3398b0bd132f9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-06-2020_selección-natural-por-qué-el-oro-se-ha-convertido-en-moneda_9681a5289160\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/899/imgonline-com-ua-resize-uph6rrirzurr3dzs1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-06-2020_selección-natural-por-qué-el-oro-se-ha-convertido-en-moneda_9681a5289160\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:56:37.038000-03:00",
+  "status": "downloaded"
+}

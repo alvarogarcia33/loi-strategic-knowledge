@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_af099677a351",
+  "platform": "gig_os",
+  "title": "¿Para qué son necesarias las suscripciones en GIG-OS?",
+  "date": "06.12.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/para-que-son-necesarias-las-suscripciones-en-gig-os",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/para-que-son-necesarias-las-suscripciones-en-gig-os",
+  "content_hash": "ea608dd5ddf26a106ef60bc07f93fd1b810a23014570bb7ab90e4cc0294b7cde",
+  "url_hash": "e43e57ffd78daf70ec87c1bc40dbd5a2d95d6eab4ba68eeaabdce0287e815c44",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-12-2019_para-qué-son-necesarias-las-suscripciones-en-gig-os_af099677a351.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-12-2019_para-qué-son-necesarias-las-suscripciones-en-gig-os_af099677a351.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2019_para-qué-son-necesarias-las-suscripciones-en-gig-os_af099677a351",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f6/55/d3/53/a4/f655d353a42cff048a1292088662185b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2019_para-qué-son-necesarias-las-suscripciones-en-gig-os_af099677a351\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/814/suscripciones_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2019_para-qué-son-necesarias-las-suscripciones-en-gig-os_af099677a351\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:11.806830-03:00",
+  "status": "downloaded"
+}

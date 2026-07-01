@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_98bb5be18c1c",
+  "platform": "gig_os",
+  "title": "China: la generación más joven elige el oro",
+  "date": "06.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/china-la-generacion-mas-joven-elige-el-oro-502",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/china-la-generacion-mas-joven-elige-el-oro-502",
+  "content_hash": "53188998f27703dcf41471dfdccbea640236362653ec9ba548cae0f8a4d13abc",
+  "url_hash": "ad5be042c8b4e8335d0bbf957fd93e4a4f4b49cefd635b4bb372bac4b3ce1803",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-12-2021_china-la-generación-más-joven-elige-el-oro_98bb5be18c1c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-12-2021_china-la-generación-más-joven-elige-el-oro_98bb5be18c1c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2021_china-la-generación-más-joven-elige-el-oro_98bb5be18c1c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c8/ab/39/a1/60/c8ab39a160daa6e31ae56d70589b54d8_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2021_china-la-generación-más-joven-elige-el-oro_98bb5be18c1c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1200/120721gold2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2021_china-la-generación-más-joven-elige-el-oro_98bb5be18c1c\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:40.093896-03:00",
+  "status": "downloaded"
+}

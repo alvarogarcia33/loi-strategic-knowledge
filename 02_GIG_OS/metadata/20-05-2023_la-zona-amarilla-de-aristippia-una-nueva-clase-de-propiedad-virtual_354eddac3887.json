@@ -1,0 +1,81 @@
+{
+  "article_uid": "gig_os_354eddac3887",
+  "platform": "gig_os",
+  "title": "La zona amarilla de Aristippia: una nueva clase de propiedad virtual",
+  "date": "20.05.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual-737",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual-737",
+  "content_hash": "c826a0e7d4e69d12d7ce1af2c84347a998ba1de207895fa021ff1cf631ed4351",
+  "url_hash": "0e585427e6405968c1770dcad81329910e38b6b30585eee6f1ad70f7a282f04d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-05-2023_la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual_354eddac3887.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-05-2023_la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual_354eddac3887.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2023_la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual_354eddac3887",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/fa/3c/34/be/d8/fa3c34bed85ebc397fc904cb4064cb5d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2023_la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual_354eddac3887\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1472/block1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2023_la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual_354eddac3887\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1472/warning-icon_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2023_la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual_354eddac3887\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1472/icon-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2023_la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual_354eddac3887\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1472/icon-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2023_la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual_354eddac3887\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1472/icon-3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2023_la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual_354eddac3887\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1472/gift_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2023_la-zona-amarilla-de-aristippia-una-nueva-clase-de-propiedad-virtual_354eddac3887\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:51.098321-03:00",
+  "status": "downloaded"
+}

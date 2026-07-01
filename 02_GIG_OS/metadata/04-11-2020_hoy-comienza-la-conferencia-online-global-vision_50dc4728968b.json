@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_50dc4728968b",
+  "platform": "gig_os",
+  "title": "Hoy comienza la conferencia online \"GLOBAL VISION\"",
+  "date": "04.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/hoy-comienza-la-conferencia-online-global-vision-325",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/hoy-comienza-la-conferencia-online-global-vision-325",
+  "content_hash": "3fa5657e92e2115740602b5b05bdca9775d628117e9599870d7edd366e3ad741",
+  "url_hash": "27bb11c025668ab063d2afd56692ecc1d90d57155a1cf652aba8d5be5118da1f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-11-2020_hoy-comienza-la-conferencia-online-global-vision_50dc4728968b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-11-2020_hoy-comienza-la-conferencia-online-global-vision_50dc4728968b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-11-2020_hoy-comienza-la-conferencia-online-global-vision_50dc4728968b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f8/52/63/78/60/f852637860e3ce92117e37f1e9062588_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-11-2020_hoy-comienza-la-conferencia-online-global-vision_50dc4728968b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:02.665258-03:00",
+  "status": "downloaded"
+}

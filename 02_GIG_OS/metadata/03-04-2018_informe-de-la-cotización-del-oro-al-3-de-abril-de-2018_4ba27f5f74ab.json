@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_4ba27f5f74ab",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 3 de abril de 2018",
+  "date": "03.04.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-3-de-abril-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-3-de-abril-de-2018",
+  "content_hash": "542232c40258ffd698efca485cda042225f1c96e404600b93c6e6a96819e4d02",
+  "url_hash": "1d0a849d681e25ae990e3dbf5ec805a7caf2ea28b60a80930bb580ad8fe1fdc5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-04-2018_informe-de-la-cotización-del-oro-al-3-de-abril-de-2018_4ba27f5f74ab.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-04-2018_informe-de-la-cotización-del-oro-al-3-de-abril-de-2018_4ba27f5f74ab.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2018_informe-de-la-cotización-del-oro-al-3-de-abril-de-2018_4ba27f5f74ab",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7d/a4/7f/45/9c/7da47f459c8c621df56c9b90cd50a0cd_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2018_informe-de-la-cotización-del-oro-al-3-de-abril-de-2018_4ba27f5f74ab\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/466/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/466/global-intergold-informe-de-la-cotizacion-del-oro-simona-gambarini_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:27:44.282510-03:00",
+  "status": "downloaded"
+}

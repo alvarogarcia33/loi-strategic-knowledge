@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_9e8428216296",
+  "platform": "gig_os",
+  "title": "¡Los bonos deben trabajar para ustedes!",
+  "date": "11.02.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-bonos-deben-trabajar-para-ustedes-368",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-bonos-deben-trabajar-para-ustedes-368",
+  "content_hash": "4f35eb13c77e4873f0362c3ffb44f7068d6208e91f8cafd4ed62a8212684d225",
+  "url_hash": "4f00795094b8a6287ede6f00fa5d841c4c3717fab65678ba46c0ea4483b983c4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-02-2021_los-bonos-deben-trabajar-para-ustedes_9e8428216296.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-02-2021_los-bonos-deben-trabajar-para-ustedes_9e8428216296.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2021_los-bonos-deben-trabajar-para-ustedes_9e8428216296",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/25/19/98/b7/7f/251998b77f218ca4fc7527a4ce6b7415_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2021_los-bonos-deben-trabajar-para-ustedes_9e8428216296\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1033/ldp-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2021_los-bonos-deben-trabajar-para-ustedes_9e8428216296\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1033/pf-2021-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2021_los-bonos-deben-trabajar-para-ustedes_9e8428216296\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:28.272627-03:00",
+  "status": "downloaded"
+}

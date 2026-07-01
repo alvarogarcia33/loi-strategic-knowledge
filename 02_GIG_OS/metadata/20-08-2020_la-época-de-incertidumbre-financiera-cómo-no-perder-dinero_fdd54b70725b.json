@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_fdd54b70725b",
+  "platform": "gig_os",
+  "title": "La época de incertidumbre financiera: ¿cómo no perder dinero?",
+  "date": "20.08.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-epoca-de-incertidumbre-financiera-como-no-perder-dinero-297",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-epoca-de-incertidumbre-financiera-como-no-perder-dinero-297",
+  "content_hash": "559103feae7f8e21fb28c4a4538fd77439c05604cdbf2041dffbbe2f68bfe10b",
+  "url_hash": "342646d92be1e7d8cf555e27a41bd0970045d5a231d3312f537d67fbec20456b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-08-2020_la-época-de-incertidumbre-financiera-cómo-no-perder-dinero_fdd54b70725b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-08-2020_la-época-de-incertidumbre-financiera-cómo-no-perder-dinero_fdd54b70725b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-08-2020_la-época-de-incertidumbre-financiera-cómo-no-perder-dinero_fdd54b70725b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/57/d8/af/01/62/57d8af016229e8fa176c6a4f9a250345_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-08-2020_la-época-de-incertidumbre-financiera-cómo-no-perder-dinero_fdd54b70725b\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/932/1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-08-2020_la-época-de-incertidumbre-financiera-cómo-no-perder-dinero_fdd54b70725b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:00.962562-03:00",
+  "status": "downloaded"
+}

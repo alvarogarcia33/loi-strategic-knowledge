@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_14f7a3042bd3",
+  "platform": "gig_os",
+  "title": "«NEXT STEP»: ¡los proyectos creados gracias a ustedes!",
+  "date": "08.07.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/next-step-los-proyectos-creados-gracias-a-ustedes-281",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/next-step-los-proyectos-creados-gracias-a-ustedes-281",
+  "content_hash": "48c191361ef424a1ec6b1636e90f53b28bbf760d342dfca9801341053b0e6da0",
+  "url_hash": "f52e2abbeb0ed7bec4c92ba21db8e35df356bbc0e5c6beaaf05f7d35c143596e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-07-2020_next-step-los-proyectos-creados-gracias-a-ustedes_14f7a3042bd3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-07-2020_next-step-los-proyectos-creados-gracias-a-ustedes_14f7a3042bd3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-07-2020_next-step-los-proyectos-creados-gracias-a-ustedes_14f7a3042bd3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/69/aa/2c/80/4f/69aa2c804f1572379b3828e73ad2e025_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-07-2020_next-step-los-proyectos-creados-gracias-a-ustedes_14f7a3042bd3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:41:01.483387-03:00",
+  "status": "downloaded"
+}

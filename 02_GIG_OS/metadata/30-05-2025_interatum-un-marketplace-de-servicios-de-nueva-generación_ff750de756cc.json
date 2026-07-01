@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_ff750de756cc",
+  "platform": "gig_os",
+  "title": "Interatum: un marketplace de servicios de nueva generación",
+  "date": "30.05.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/interatum-un-marketplace-de-servicios-de-nueva-generacion-1089",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/interatum-un-marketplace-de-servicios-de-nueva-generacion-1089",
+  "content_hash": "7fa06e7eaf7ab1a7eb5a36c7098673efa10442e1a1f530bce5fa3b9d5d9beed8",
+  "url_hash": "a468f6b01a5f57be730b9c55721523f611407c812804540e946e2122ef4801ce",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-05-2025_interatum-un-marketplace-de-servicios-de-nueva-generación_ff750de756cc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-05-2025_interatum-un-marketplace-de-servicios-de-nueva-generación_ff750de756cc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-05-2025_interatum-un-marketplace-de-servicios-de-nueva-generación_ff750de756cc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b4/83/4b/68/07/b4834b680703b4e51ee2d8d0eaa2ae02_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-05-2025_interatum-un-marketplace-de-servicios-de-nueva-generación_ff750de756cc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:29:39.937824-03:00",
+  "status": "downloaded"
+}

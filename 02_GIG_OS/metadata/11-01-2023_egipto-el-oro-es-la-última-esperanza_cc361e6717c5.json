@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_cc361e6717c5",
+  "platform": "gig_os",
+  "title": "Egipto: el oro es la última esperanza",
+  "date": "11.01.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/egipto-el-oro-es-la-ultima-esperanza-677",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/egipto-el-oro-es-la-ultima-esperanza-677",
+  "content_hash": "214ca61fbf6f08fcfdb85be627ce6c10dd0601a7150a5e197ad27d27d3b4f7d2",
+  "url_hash": "ff97f243e1332734dd59698b8fe62e8c376803cf4706ad0bcb5c06cebaaeeff0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-01-2023_egipto-el-oro-es-la-última-esperanza_cc361e6717c5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-01-2023_egipto-el-oro-es-la-última-esperanza_cc361e6717c5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-01-2023_egipto-el-oro-es-la-última-esperanza_cc361e6717c5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1f/9b/b9/f6/02/1f9bb9f602e5579be80d3bdad5743edc_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-01-2023_egipto-el-oro-es-la-última-esperanza_cc361e6717c5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1396/gold-egypeth-1-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-01-2023_egipto-el-oro-es-la-última-esperanza_cc361e6717c5\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1396/gigos-gold_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-01-2023_egipto-el-oro-es-la-última-esperanza_cc361e6717c5\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:48.458961-03:00",
+  "status": "downloaded"
+}

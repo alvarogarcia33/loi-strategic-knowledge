@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_85e43d1d4e41",
+  "platform": "gig_os",
+  "title": "¡Una nueva remuneración en el M*E Board!",
+  "date": "05.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/una-nueva-remuneracion-en-el-me-board-833",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/una-nueva-remuneracion-en-el-me-board-833",
+  "content_hash": "7bcb51e4c2220143065ae090b6b3663b935db151940591f440001e5396bc3346",
+  "url_hash": "a360479302d953c815307a5c26be10ce49e83c931d0cad26c6a76417deb14eb9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-12-2023_una-nueva-remuneración-en-el-m-e-board_85e43d1d4e41.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-12-2023_una-nueva-remuneración-en-el-m-e-board_85e43d1d4e41.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-12-2023_una-nueva-remuneración-en-el-m-e-board_85e43d1d4e41",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/38/d8/ea/29/c9/38d8ea29c917e74ecfd93cd0696af6f4_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-12-2023_una-nueva-remuneración-en-el-m-e-board_85e43d1d4e41\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:19.254387-03:00",
+  "status": "downloaded"
+}

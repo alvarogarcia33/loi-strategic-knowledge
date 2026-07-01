@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_d845ee09d1ba",
+  "platform": "gig_os",
+  "title": "GOS Wallet: una cartera para sus GOS Coin",
+  "date": "09.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gos-wallet-una-cartera-para-sus-gos-coin-477",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gos-wallet-una-cartera-para-sus-gos-coin-477",
+  "content_hash": "3fac03b20578101f6dc4ab8cacaa6b80f609d8573cfd7e04f143e560094e6560",
+  "url_hash": "d47cba54063518aa02382a2ea48ebbd478d2936a5857210bedb9359e47e224c3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-10-2021_gos-wallet-una-cartera-para-sus-gos-coin_d845ee09d1ba.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-10-2021_gos-wallet-una-cartera-para-sus-gos-coin_d845ee09d1ba.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-10-2021_gos-wallet-una-cartera-para-sus-gos-coin_d845ee09d1ba",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cb/c8/e7/3b/dd/cbc8e73bddde0096a86af9708a91fdb2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-10-2021_gos-wallet-una-cartera-para-sus-gos-coin_d845ee09d1ba\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1173/gos-wallet-una-cartera-para-sus-gos-coin_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-10-2021_gos-wallet-una-cartera-para-sus-gos-coin_d845ee09d1ba\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1173/gos-wallet-una-cartera-para-sus-gos-coin84786_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-10-2021_gos-wallet-una-cartera-para-sus-gos-coin_d845ee09d1ba\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:14.721796-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_af19d1ffe48f",
+  "platform": "gig_os",
+  "title": "¡La 1.ª etapa de la GR DAO CUP NextEra está a punto de terminar!",
+  "date": "13.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-etapa-de-la-gr-dao-cup-nextera-esta-a-punto-de-terminar-748",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-etapa-de-la-gr-dao-cup-nextera-esta-a-punto-de-terminar-748",
+  "content_hash": "a66152d0283581db29874eb7eedb2ab76a11a7e9c446b9efca660e174fc93bb6",
+  "url_hash": "89c9c9482bc9c87a8f0c2ff73bc6def6c5959f2b8eedcb9ff2262e96f03186ff",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-06-2023_la-1-etapa-de-la-gr-dao-cup-nextera-está-a-punto-de-terminar_af19d1ffe48f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-06-2023_la-1-etapa-de-la-gr-dao-cup-nextera-está-a-punto-de-terminar_af19d1ffe48f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-06-2023_la-1-etapa-de-la-gr-dao-cup-nextera-está-a-punto-de-terminar_af19d1ffe48f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0a/60/9e/03/8f/0a609e038f4a944007332bfe02e8d2d6_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-06-2023_la-1-etapa-de-la-gr-dao-cup-nextera-está-a-punto-de-terminar_af19d1ffe48f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1483/gr-dao-cup-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-06-2023_la-1-etapa-de-la-gr-dao-cup-nextera-está-a-punto-de-terminar_af19d1ffe48f\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:09.465969-03:00",
+  "status": "downloaded"
+}

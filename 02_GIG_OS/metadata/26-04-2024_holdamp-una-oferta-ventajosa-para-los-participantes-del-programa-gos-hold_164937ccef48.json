@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_164937ccef48",
+  "platform": "gig_os",
+  "title": "HoldAmp: una oferta ventajosa para los participantes del programa GOS Hold",
+  "date": "26.04.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/holdamp-una-oferta-ventajosa-para-los-participantes-del-programa-gos-hold-924",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/holdamp-una-oferta-ventajosa-para-los-participantes-del-programa-gos-hold-924",
+  "content_hash": "969b15958b9817f079ff253ab00a7ac5ddf9e193906f23a4425d84a7e622f966",
+  "url_hash": "faf808b0071fcd2dbf3521941d20ca9053d5b6a3960f5131a44c09c392c55856",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-04-2024_holdamp-una-oferta-ventajosa-para-los-participantes-del-programa-gos-hold_164937ccef48.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-04-2024_holdamp-una-oferta-ventajosa-para-los-participantes-del-programa-gos-hold_164937ccef48.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_holdamp-una-oferta-ventajosa-para-los-participantes-del-programa-gos-hold_164937ccef48",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/62/ad/2b/1b/af/62ad2b1baf60cc5e9033d70d2baa7d9f_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_holdamp-una-oferta-ventajosa-para-los-participantes-del-programa-gos-hold_164937ccef48\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1680/gos-coin-to-short-coin-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_holdamp-una-oferta-ventajosa-para-los-participantes-del-programa-gos-hold_164937ccef48\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1680/number-166195_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_holdamp-una-oferta-ventajosa-para-los-participantes-del-programa-gos-hold_164937ccef48\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1680/number-237220_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_holdamp-una-oferta-ventajosa-para-los-participantes-del-programa-gos-hold_164937ccef48\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1680/number-367186_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_holdamp-una-oferta-ventajosa-para-los-participantes-del-programa-gos-hold_164937ccef48\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:23:56.907498-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_17a0810d4901",
+  "platform": "gig_os",
+  "title": "ProLead Program: ¡es la hora de los Líderes!",
+  "date": "15.07.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/prolead-program-es-la-hora-de-los-lideres-1112",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/prolead-program-es-la-hora-de-los-lideres-1112",
+  "content_hash": "7c9ec1d00eadabf9323796f9a5226229aaf7e142383cfcef47bd2b0258951230",
+  "url_hash": "16c5ecac0ab8fd513d3b683bebf8d1b058fc688a9db2721413e3bfca28003e47",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-07-2025_prolead-program-es-la-hora-de-los-líderes_17a0810d4901.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-07-2025_prolead-program-es-la-hora-de-los-líderes_17a0810d4901.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-07-2025_prolead-program-es-la-hora-de-los-líderes_17a0810d4901",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8d/73/ea/c0/d4/8d73eac0d45065aa6a3c49db9bfc9c0d_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-07-2025_prolead-program-es-la-hora-de-los-líderes_17a0810d4901\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:14.605326-03:00",
+  "status": "downloaded"
+}

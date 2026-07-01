@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_a7f8ac96dc2c",
+  "platform": "gig_os",
+  "title": "Prelanzamiento del COMMODITY BOARD: ¿qué hay que saber?",
+  "date": "03.04.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/prelanzamiento-del-commodity-board-que-hay-que-saber-908",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/prelanzamiento-del-commodity-board-que-hay-que-saber-908",
+  "content_hash": "d7ab2a8cdaf5c71a32d4271c034df4a98c03c21f0ca4da5161031b9caa1a19ea",
+  "url_hash": "bd18beab8b93a634d2bd48b6185797d489ae66742e1200e41de91ff1105c20d2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-04-2024_prelanzamiento-del-commodity-board-qué-hay-que-saber_a7f8ac96dc2c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-04-2024_prelanzamiento-del-commodity-board-qué-hay-que-saber_a7f8ac96dc2c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2024_prelanzamiento-del-commodity-board-qué-hay-que-saber_a7f8ac96dc2c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/eb/ca/f0/c0/39/ebcaf0c039e359d57882f97c52530e06_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2024_prelanzamiento-del-commodity-board-qué-hay-que-saber_a7f8ac96dc2c\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1660/commodity-set_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2024_prelanzamiento-del-commodity-board-qué-hay-que-saber_a7f8ac96dc2c\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1660/call-to-action-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2024_prelanzamiento-del-commodity-board-qué-hay-que-saber_a7f8ac96dc2c\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:08.139076-03:00",
+  "status": "downloaded"
+}

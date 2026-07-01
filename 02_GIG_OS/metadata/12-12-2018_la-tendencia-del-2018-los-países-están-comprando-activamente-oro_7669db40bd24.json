@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_7669db40bd24",
+  "platform": "gig_os",
+  "title": "La tendencia del 2018: los países están comprando activamente oro.",
+  "date": "12.12.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-tendencia-del-2018-los-paises-estan-comprando-activamente-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-tendencia-del-2018-los-paises-estan-comprando-activamente-oro",
+  "content_hash": "d6815da74cdb5fb8a1682d4be1d6cbd4a1d1607b5070e5de2bd383e75ef4128b",
+  "url_hash": "5b7a1917c11c42b3ada13f82284f3435b295150b787d1dc292cda3240f27face",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-12-2018_la-tendencia-del-2018-los-países-están-comprando-activamente-oro_7669db40bd24.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-12-2018_la-tendencia-del-2018-los-países-están-comprando-activamente-oro_7669db40bd24.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2018_la-tendencia-del-2018-los-países-están-comprando-activamente-oro_7669db40bd24",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/65/a7/82/fa/3e/65a782fa3e481d0c8c553f3cb166597d_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/619/global-intergold-oro-la-seguridad-financiera-17.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/619/global-intergold-oro-la-seguridad-financiera-16.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:08.253882-03:00",
+  "status": "downloaded"
+}

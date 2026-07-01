@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_2b3fef93ad30",
+  "platform": "gig_os",
+  "title": "LongDeal Project: ¡cree su futuro!",
+  "date": "18.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/longdeal-project-cree-su-futuro-385",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/longdeal-project-cree-su-futuro-385",
+  "content_hash": "effb2dbb029fc6142f060833073c8a0ec340fb2b524520bd6b4136ba75a192de",
+  "url_hash": "dc08580169ac78532b2d50d86205928acf564e127f6ee84fa8d0f14a4298dac6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-03-2021_longdeal-project-cree-su-futuro_2b3fef93ad30.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-03-2021_longdeal-project-cree-su-futuro_2b3fef93ad30.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-03-2021_longdeal-project-cree-su-futuro_2b3fef93ad30",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/00/92/21/5f/4c/0092215f4c06682b1ceb9011b4cbc259_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-03-2021_longdeal-project-cree-su-futuro_2b3fef93ad30\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1057/pf-2021-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-03-2021_longdeal-project-cree-su-futuro_2b3fef93ad30\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:09.229713-03:00",
+  "status": "downloaded"
+}

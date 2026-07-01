@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_3365cbac71e6",
+  "platform": "gig_os",
+  "title": "Mystery Box: ¡misterio resuelto!",
+  "date": "19.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/mystery-box-misterio-resuelto-431",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/mystery-box-misterio-resuelto-431",
+  "content_hash": "0c91f3321f525cf4f2a5ec5e93c9921b87dd2e59ffd5aa53389644ad9ca044cd",
+  "url_hash": "5ef66b787b4b3b6af83474a7e0a6fa1c3fa7f78808157ea521fe8f97338b807c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-06-2021_mystery-box-misterio-resuelto_3365cbac71e6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-06-2021_mystery-box-misterio-resuelto_3365cbac71e6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-06-2021_mystery-box-misterio-resuelto_3365cbac71e6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/78/98/70/73/1c/789870731c99340f127fe700f13e7487_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-06-2021_mystery-box-misterio-resuelto_3365cbac71e6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:40:45.628715-03:00",
+  "status": "downloaded"
+}

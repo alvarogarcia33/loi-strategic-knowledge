@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_9b869436d777",
+  "platform": "gig_os",
+  "title": "El oro: tiempo para nuevos récords",
+  "date": "20.04.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-tiempo-para-nuevos-records-245",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-tiempo-para-nuevos-records-245",
+  "content_hash": "09eee9675df445040bb2f44806fe5cd250e9627f9ee487faeb4c3d934e3a748d",
+  "url_hash": "ab904cdbedcaf047030ca93c8790b5ba218f3be6c164438a40949e8654a10a0e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-04-2020_el-oro-tiempo-para-nuevos-récords_9b869436d777.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-04-2020_el-oro-tiempo-para-nuevos-récords_9b869436d777.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-04-2020_el-oro-tiempo-para-nuevos-récords_9b869436d777",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3f/b8/38/b9/05/3fb838b905560750a09fedfd93aaa7bb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-04-2020_el-oro-tiempo-para-nuevos-récords_9b869436d777\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/860/petergrosskopf34033_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-04-2020_el-oro-tiempo-para-nuevos-récords_9b869436d777\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/860/es_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-04-2020_el-oro-tiempo-para-nuevos-récords_9b869436d777\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:30.489099-03:00",
+  "status": "downloaded"
+}

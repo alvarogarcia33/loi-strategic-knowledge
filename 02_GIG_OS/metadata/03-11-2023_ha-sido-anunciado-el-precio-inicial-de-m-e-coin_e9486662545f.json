@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e9486662545f",
+  "platform": "gig_os",
+  "title": "Ha sido anunciado el precio inicial de M*E Coin",
+  "date": "03.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-sido-anunciado-el-precio-inicial-de-me-coin-816",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-sido-anunciado-el-precio-inicial-de-me-coin-816",
+  "content_hash": "2412e88f841b9a113ea8fed4770e17565dfc21da65f3937d7625a7b621d51895",
+  "url_hash": "9f465c861638a0638782eeb95861a30fa8b93fa0362f2f70ed9472b763d1eace",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-11-2023_ha-sido-anunciado-el-precio-inicial-de-m-e-coin_e9486662545f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-11-2023_ha-sido-anunciado-el-precio-inicial-de-m-e-coin_e9486662545f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-11-2023_ha-sido-anunciado-el-precio-inicial-de-m-e-coin_e9486662545f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/09/bf/89/1b/b8/09bf891bb8df49b0a2cfa1c0cfff0c89_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-11-2023_ha-sido-anunciado-el-precio-inicial-de-m-e-coin_e9486662545f\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:22:57.248032-03:00",
+  "status": "downloaded"
+}

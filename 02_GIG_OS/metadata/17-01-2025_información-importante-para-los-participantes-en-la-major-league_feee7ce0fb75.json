@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_feee7ce0fb75",
+  "platform": "gig_os",
+  "title": "Información importante para los participantes en la Major League",
+  "date": "17.01.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informacion-importante-para-los-participantes-en-la-major-league-1036",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informacion-importante-para-los-participantes-en-la-major-league-1036",
+  "content_hash": "df1c37f504bdb7f3268136ecad5d850e5dfbfc379431ec86080986e5c9955066",
+  "url_hash": "c1ea0512c82992d3db00a7159d190e981fc4e34ca7893cf12c838ab645f97e9f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-01-2025_información-importante-para-los-participantes-en-la-major-league_feee7ce0fb75.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-01-2025_información-importante-para-los-participantes-en-la-major-league_feee7ce0fb75.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-01-2025_información-importante-para-los-participantes-en-la-major-league_feee7ce0fb75",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ba/c7/e9/60/51/bac7e96051a58b8984fb252a24663fc8_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-01-2025_información-importante-para-los-participantes-en-la-major-league_feee7ce0fb75\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:25.909019-03:00",
+  "status": "downloaded"
+}

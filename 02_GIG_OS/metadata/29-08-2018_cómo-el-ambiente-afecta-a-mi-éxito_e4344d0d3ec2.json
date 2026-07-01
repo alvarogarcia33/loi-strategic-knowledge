@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_e4344d0d3ec2",
+  "platform": "gig_os",
+  "title": "¿Cómo el ambiente afecta a mi éxito?",
+  "date": "29.08.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-el-ambiente-afecta-a-mi-exito",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-el-ambiente-afecta-a-mi-exito",
+  "content_hash": "3f9aac394f21bcc43ec81b6098392a36b8834070a8d489ea4dd39c5645ee2d6d",
+  "url_hash": "ab3f70c25968ac728343a9ccbdb18550032849f9766b454b07033e651fbe6dd3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-08-2018_cómo-el-ambiente-afecta-a-mi-éxito_e4344d0d3ec2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-08-2018_cómo-el-ambiente-afecta-a-mi-éxito_e4344d0d3ec2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-08-2018_cómo-el-ambiente-afecta-a-mi-éxito_e4344d0d3ec2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/89/2b/ec/f1/fb/892becf1fb0b0f51f3990fbc221ac0ef_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-08-2018_cómo-el-ambiente-afecta-a-mi-éxito_e4344d0d3ec2\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/551/global-intergold-oro-la-seguridad-financiera-3_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:03:12.331361-03:00",
+  "status": "downloaded"
+}

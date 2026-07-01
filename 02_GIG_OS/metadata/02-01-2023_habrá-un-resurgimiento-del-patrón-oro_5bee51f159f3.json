@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_5bee51f159f3",
+  "platform": "gig_os",
+  "title": "¿Habrá un resurgimiento del patrón oro?",
+  "date": "02.01.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/habra-un-resurgimiento-del-patron-oro-673",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/habra-un-resurgimiento-del-patron-oro-673",
+  "content_hash": "a7a8c1a14fea2b6dfaad06b3fc4ebad4f1c0f1d7fd992f80ff69dc0e2ee22085",
+  "url_hash": "48927bd3aeac9e8ad8ef1256391e10cdc886dd2db3fb66ae91d5440b9df1136f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-01-2023_habrá-un-resurgimiento-del-patrón-oro_5bee51f159f3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-01-2023_habrá-un-resurgimiento-del-patrón-oro_5bee51f159f3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-01-2023_habrá-un-resurgimiento-del-patrón-oro_5bee51f159f3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6b/7f/ac/13/59/6b7fac1359366b22b06e80780051a87d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-01-2023_habrá-un-resurgimiento-del-patrón-oro_5bee51f159f3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1392/alex-mooney_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-01-2023_habrá-un-resurgimiento-del-patrón-oro_5bee51f159f3\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1392/ludwig-von-mises_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-01-2023_habrá-un-resurgimiento-del-patrón-oro_5bee51f159f3\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:23:17.532007-03:00",
+  "status": "downloaded"
+}

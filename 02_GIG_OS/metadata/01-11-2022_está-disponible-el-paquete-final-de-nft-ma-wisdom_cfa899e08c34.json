@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_cfa899e08c34",
+  "platform": "gig_os",
+  "title": "Está disponible el paquete final de NFT MA WISDOM",
+  "date": "01.11.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/esta-disponible-el-paquete-final-de-nft-ma-wisdom-642",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/esta-disponible-el-paquete-final-de-nft-ma-wisdom-642",
+  "content_hash": "36c1f740df2eae6b2191a82fc56c168a0d72439f58fea69550be138ec8bd7898",
+  "url_hash": "7d6f5a16cada48561ab30ea6fd11b6fabc91087768b3bd6b62369bcf1ed8dcb6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-11-2022_está-disponible-el-paquete-final-de-nft-ma-wisdom_cfa899e08c34.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-11-2022_está-disponible-el-paquete-final-de-nft-ma-wisdom_cfa899e08c34.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-11-2022_está-disponible-el-paquete-final-de-nft-ma-wisdom_cfa899e08c34",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/12/19/70/c3/e3/121970c3e33326c794c0503526958c92_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-11-2022_está-disponible-el-paquete-final-de-nft-ma-wisdom_cfa899e08c34\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1357/1q1z_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-11-2022_está-disponible-el-paquete-final-de-nft-ma-wisdom_cfa899e08c34\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1357/nft-meta-aristippus-wisdom-2-8-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-11-2022_está-disponible-el-paquete-final-de-nft-ma-wisdom_cfa899e08c34\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:01.408119-03:00",
+  "status": "downloaded"
+}

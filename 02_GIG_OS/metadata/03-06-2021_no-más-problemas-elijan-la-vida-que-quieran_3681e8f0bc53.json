@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_3681e8f0bc53",
+  "platform": "gig_os",
+  "title": "¡No más problemas! Elijan la vida que quieran",
+  "date": "03.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/no-mas-problemas-elijan-la-vida-que-quieran-425",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/no-mas-problemas-elijan-la-vida-que-quieran-425",
+  "content_hash": "3469ee5f7b8d49d21fdf893d933f3638dff7467b0f27a0c45c778cacf9737933",
+  "url_hash": "5992c3b0b5e7029db66ce19469d44ff9ffa302c1f88f22818a90e86737f50b70",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-06-2021_no-más-problemas-elijan-la-vida-que-quieran_3681e8f0bc53.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-06-2021_no-más-problemas-elijan-la-vida-que-quieran_3681e8f0bc53.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2021_no-más-problemas-elijan-la-vida-que-quieran_3681e8f0bc53",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/03/c8/fd/6a/f2/03c8fd6af2adee1970de2aab14e2c689_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2021_no-más-problemas-elijan-la-vida-que-quieran_3681e8f0bc53\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:46.686603-03:00",
+  "status": "downloaded"
+}

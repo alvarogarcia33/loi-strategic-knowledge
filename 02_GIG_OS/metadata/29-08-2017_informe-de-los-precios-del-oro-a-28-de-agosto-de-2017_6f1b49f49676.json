@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_6f1b49f49676",
+  "platform": "gig_os",
+  "title": "Informe de los precios del oro a 28 de agosto de 2017",
+  "date": "29.08.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-a-28-de-agosto-de-2017",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-a-28-de-agosto-de-2017",
+  "content_hash": "470a3d23389e50bb9884d95ff002e92acdd3f10b76ca6bede909e3d8c8d25306",
+  "url_hash": "a174753f5039b93864e2bad4c19740e1b1a2124dd7c696bcc73364f6dcdb74c7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-08-2017_informe-de-los-precios-del-oro-a-28-de-agosto-de-2017_6f1b49f49676.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-08-2017_informe-de-los-precios-del-oro-a-28-de-agosto-de-2017_6f1b49f49676.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-08-2017_informe-de-los-precios-del-oro-a-28-de-agosto-de-2017_6f1b49f49676",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5b/3b/ea/3a/9f/5b3bea3a9f7614a5f96ed7b3b8e4b190_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-08-2017_informe-de-los-precios-del-oro-a-28-de-agosto-de-2017_6f1b49f49676\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://www.globalintergold.info/_files/2c/09/4c/ba/22/2c094cba2235b362425e90e1ebc66876.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-08-2017_informe-de-los-precios-del-oro-a-28-de-agosto-de-2017_6f1b49f49676\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "text/html",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://www.globalintergold.info/_files/33/4c/3e/ba/94/334c3eba9421caee980dd343c94bc572.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-08-2017_informe-de-los-precios-del-oro-a-28-de-agosto-de-2017_6f1b49f49676\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "text/html",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:33.976675-03:00",
+  "status": "downloaded"
+}

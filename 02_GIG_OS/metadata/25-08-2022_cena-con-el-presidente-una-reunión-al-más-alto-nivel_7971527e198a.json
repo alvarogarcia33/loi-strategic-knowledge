@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_7971527e198a",
+  "platform": "gig_os",
+  "title": "Cena con el Presidente: ¡una reunión al más alto nivel!",
+  "date": "25.08.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/cena-con-el-presidente-una-reunion-al-mas-alto-nivel-617",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/cena-con-el-presidente-una-reunion-al-mas-alto-nivel-617",
+  "content_hash": "cd25d665dbb6b8e18f15279198dab198dac055f5d4b6b43af0ab5ff073aae045",
+  "url_hash": "d05aeb4e50bca3f5cf40cc367d8d8485589b5b99660365d7683fa41c5c1f04ab",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-08-2022_cena-con-el-presidente-una-reunión-al-más-alto-nivel_7971527e198a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-08-2022_cena-con-el-presidente-una-reunión-al-más-alto-nivel_7971527e198a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-08-2022_cena-con-el-presidente-una-reunión-al-más-alto-nivel_7971527e198a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f2/18/6f/22/60/f2186f2260a51e9cd038673072047d21_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-08-2022_cena-con-el-presidente-una-reunión-al-más-alto-nivel_7971527e198a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:02.173226-03:00",
+  "status": "downloaded"
+}

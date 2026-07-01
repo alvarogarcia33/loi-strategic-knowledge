@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_8e8900bfabaf",
+  "platform": "gig_os",
+  "title": "¡Información importante!",
+  "date": "15.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informacion-importante-430",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informacion-importante-430",
+  "content_hash": "98f78130da67446f3605966b7a7fd3ab0151fb0eecd004cf5ec38477b2090fb3",
+  "url_hash": "4c1318c70b4f8dad3765a41b8266cedbe4fed29a5736ec334d6d99a5b4051a21",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-06-2021_información-importante_8e8900bfabaf.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-06-2021_información-importante_8e8900bfabaf.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-06-2021_información-importante_8e8900bfabaf",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/dc/85/51/a8/9d/dc8551a89d8ce8d86af4734ef48bc014_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-06-2021_información-importante_8e8900bfabaf\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:17.729295-03:00",
+  "status": "downloaded"
+}

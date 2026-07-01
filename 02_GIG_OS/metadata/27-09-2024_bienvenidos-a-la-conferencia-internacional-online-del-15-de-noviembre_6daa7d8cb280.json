@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_6daa7d8cb280",
+  "platform": "gig_os",
+  "title": "¡Bienvenidos a la conferencia internacional online del 15 de noviembre!",
+  "date": "27.09.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/bienvenidos-a-la-conferencia-internacional-online-del-15-de-noviembre-991",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/bienvenidos-a-la-conferencia-internacional-online-del-15-de-noviembre-991",
+  "content_hash": "372534957eed837c60db1baca4ebe66a32c9f4c808a9a39af95cf80ede7d578a",
+  "url_hash": "f921b593d5bf7fe42ed859eb714d6dc198eb97df3ab1b9996d607961b60dc5c5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-09-2024_bienvenidos-a-la-conferencia-internacional-online-del-15-de-noviembre_6daa7d8cb280.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-09-2024_bienvenidos-a-la-conferencia-internacional-online-del-15-de-noviembre_6daa7d8cb280.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-09-2024_bienvenidos-a-la-conferencia-internacional-online-del-15-de-noviembre_6daa7d8cb280",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a4/f9/88/10/d1/a4f98810d184704955d08550ed26eaf4_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-09-2024_bienvenidos-a-la-conferencia-internacional-online-del-15-de-noviembre_6daa7d8cb280\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1760/confa-nov-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-09-2024_bienvenidos-a-la-conferencia-internacional-online-del-15-de-noviembre_6daa7d8cb280\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:59:45.044887-03:00",
+  "status": "downloaded"
+}

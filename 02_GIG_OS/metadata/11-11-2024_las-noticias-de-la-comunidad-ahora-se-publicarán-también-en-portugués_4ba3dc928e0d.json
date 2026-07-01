@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4ba3dc928e0d",
+  "platform": "gig_os",
+  "title": "¡Las noticias de la comunidad ahora se publicarán también en portugués!",
+  "date": "11.11.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/las-noticias-de-la-comunidad-ahora-se-publicaran-tambien-en-portugues-1008",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/las-noticias-de-la-comunidad-ahora-se-publicaran-tambien-en-portugues-1008",
+  "content_hash": "ac23ae0a983f53625eb45251e29e02a70f99fdbf4736d0a68f724bf6cd3aa472",
+  "url_hash": "b37fa6dd956517138172d66077fda16793ef5d5a10be5fb373358cf741b15f23",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-11-2024_las-noticias-de-la-comunidad-ahora-se-publicarán-también-en-portugués_4ba3dc928e0d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-11-2024_las-noticias-de-la-comunidad-ahora-se-publicarán-también-en-portugués_4ba3dc928e0d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-11-2024_las-noticias-de-la-comunidad-ahora-se-publicarán-también-en-portugués_4ba3dc928e0d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/03/4f/fc/ae/42/034ffcae421ac4f243df0900d0c8da86_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-11-2024_las-noticias-de-la-comunidad-ahora-se-publicarán-también-en-portugués_4ba3dc928e0d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:36:12.358448-03:00",
+  "status": "downloaded"
+}

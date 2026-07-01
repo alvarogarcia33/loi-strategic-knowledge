@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_0616c1263526",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 19 de marzo de 2018",
+  "date": "19.03.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-19-de-marzo-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-19-de-marzo-de-2018",
+  "content_hash": "b0c488ccf323851bd26be847b743fc9b29da9173230492393ed4e53824b7fd08",
+  "url_hash": "9c2d2db6fc04e793c86a094b1a1e11a03c8943310b66f3ce37a0058496fb2c44",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-03-2018_informe-de-la-cotización-del-oro-al-19-de-marzo-de-2018_0616c1263526.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-03-2018_informe-de-la-cotización-del-oro-al-19-de-marzo-de-2018_0616c1263526.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-03-2018_informe-de-la-cotización-del-oro-al-19-de-marzo-de-2018_0616c1263526",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/24/0a/d9/61/29/240ad961293b74c49f2c0bfc4c6b1f1a_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/459/global-intergold-informe-de-la-cotizacion-del-oro-2_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:26:06.669669-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_cc6938231a0b",
+  "platform": "gig_os",
+  "title": "Ya este viernes: conferencia online MetaEconomics Summit",
+  "date": "22.04.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ya-este-viernes-conferencia-online-metaeconomics-summit-922",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ya-este-viernes-conferencia-online-metaeconomics-summit-922",
+  "content_hash": "fe695bb3774104772a445af4cd064ab90a0e825385b85f825c0eea9ff9780a64",
+  "url_hash": "c3c26ec4c36136d2edb0c9eb98daa0d4a0f5f1183dd46d9b63e0c9282488e3ea",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-04-2024_ya-este-viernes-conferencia-online-metaeconomics-summit_cc6938231a0b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-04-2024_ya-este-viernes-conferencia-online-metaeconomics-summit_cc6938231a0b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-04-2024_ya-este-viernes-conferencia-online-metaeconomics-summit_cc6938231a0b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/dc/4e/c5/4f/52/dc4ec54f52632b7c5b663dd5460ede17_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-04-2024_ya-este-viernes-conferencia-online-metaeconomics-summit_cc6938231a0b\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1677/call-to-action-es34688_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-04-2024_ya-este-viernes-conferencia-online-metaeconomics-summit_cc6938231a0b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:05:35.067843-03:00",
+  "status": "downloaded"
+}

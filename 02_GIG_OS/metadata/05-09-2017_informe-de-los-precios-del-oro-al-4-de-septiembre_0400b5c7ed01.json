@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_0400b5c7ed01",
+  "platform": "gig_os",
+  "title": "Informe de los precios del oro al 4 de Septiembre",
+  "date": "05.09.2017",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-4-de-septiembre",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-4-de-septiembre",
+  "content_hash": "db6706de83a326dae537f292923617e1e3ed5d1402e6dcb2eb9f477dc80eadf4",
+  "url_hash": "bf5ef66812feaac14fe377f98b3aba2dc508ddb21ab080e24ebfae5b63365816",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-09-2017_informe-de-los-precios-del-oro-al-4-de-septiembre_0400b5c7ed01.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-09-2017_informe-de-los-precios-del-oro-al-4-de-septiembre_0400b5c7ed01.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-09-2017_informe-de-los-precios-del-oro-al-4-de-septiembre_0400b5c7ed01",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/75/ec/03/ae/e8/75ec03aee8d9e25d12abb9786801ad58_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-09-2017_informe-de-los-precios-del-oro-al-4-de-septiembre_0400b5c7ed01\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/331/globalintergoldgoldreportpricesoro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:29:02.374292-03:00",
+  "status": "downloaded"
+}

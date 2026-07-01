@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_f572fe54797f",
+  "platform": "gig_os",
+  "title": "Un refugio de la \"bomba inflacionaria”",
+  "date": "05.05.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/un-refugio-de-la-bomba-inflacionaria-251",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/un-refugio-de-la-bomba-inflacionaria-251",
+  "content_hash": "a97a35cac6cd77b5b0ec4f6446927db806f7058940d8ccfaa563158d837c271c",
+  "url_hash": "1551b3075aa9409c33c72eca79a5e4124e874a9ffe277a10662cc26b303b11ba",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-05-2020_un-refugio-de-la-bomba-inflacionaria_f572fe54797f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-05-2020_un-refugio-de-la-bomba-inflacionaria_f572fe54797f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-05-2020_un-refugio-de-la-bomba-inflacionaria_f572fe54797f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/80/44/6a/25/77/80446a2577cd6609b93fc4a4b1e17388_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-05-2020_un-refugio-de-la-bomba-inflacionaria_f572fe54797f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/867/global-intergold--ubezhische--refuge--refugio--il-rifugio_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-05-2020_un-refugio-de-la-bomba-inflacionaria_f572fe54797f\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:07.391545-03:00",
+  "status": "downloaded"
+}

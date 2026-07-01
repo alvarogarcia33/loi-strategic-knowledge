@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a410d45de9c7",
+  "platform": "gig_os",
+  "title": "Oro: un recurso que no se puede sobreestimar",
+  "date": "15.11.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-un-recurso-que-no-se-puede-sobreestimar-492",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-un-recurso-que-no-se-puede-sobreestimar-492",
+  "content_hash": "ce357a2aecee1ad70f44017a6e020881127b47b531d360db5e06d3d06c00a30c",
+  "url_hash": "fa3a8af9a5e7f89b1c2f85756a41931b3ef71faa134a2304cb86165d7fac8da0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-11-2021_oro-un-recurso-que-no-se-puede-sobreestimar_a410d45de9c7.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-11-2021_oro-un-recurso-que-no-se-puede-sobreestimar_a410d45de9c7.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-11-2021_oro-un-recurso-que-no-se-puede-sobreestimar_a410d45de9c7",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d3/28/ea/39/15/d328ea391562be2e57b933a26efc4b49_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-11-2021_oro-un-recurso-que-no-se-puede-sobreestimar_a410d45de9c7\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1190/120721gold2-17_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-11-2021_oro-un-recurso-que-no-se-puede-sobreestimar_a410d45de9c7\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:49.397153-03:00",
+  "status": "downloaded"
+}

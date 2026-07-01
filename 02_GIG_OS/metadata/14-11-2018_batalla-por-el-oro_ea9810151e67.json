@@ -1,0 +1,89 @@
+{
+  "article_uid": "gig_os_ea9810151e67",
+  "platform": "gig_os",
+  "title": "Batalla por el oro",
+  "date": "14.11.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/batalla-por-el-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/batalla-por-el-oro",
+  "content_hash": "1a2fb7b7cbe1697cb38ba08c896412d789de71a548c81600009b26e23f188c5e",
+  "url_hash": "ffb76b81172f80042346924aeb0c25c13b98c498dcbfb8e127391688dfb393ec",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-11-2018_batalla-por-el-oro_ea9810151e67.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-11-2018_batalla-por-el-oro_ea9810151e67.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-11-2018_batalla-por-el-oro_ea9810151e67",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/12/16/16/6a/5f/1216166a5f5c379cb6f23d43d7f7960f_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/601/global-intergold-oro-la-seguridad-financiera-17_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/601/global-intergold-oro-la-seguridad-financiera-16_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/601/global-intergold-oro-la-seguridad-financiera-15_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/601/global-intergold-oro-la-seguridad-financiera-14_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/601/global-intergold-oro-la-seguridad-financiera-13_1.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/601/global-intergold-oro-la-seguridad-financiera-12_1.jpg",
+      "local_path": null,
+      "filename": "image_07",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/601/global-intergold-oro-la-seguridad-financiera-12_1.png",
+      "local_path": null,
+      "filename": "image_08",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T17:59:38.361405-03:00",
+  "status": "downloaded"
+}

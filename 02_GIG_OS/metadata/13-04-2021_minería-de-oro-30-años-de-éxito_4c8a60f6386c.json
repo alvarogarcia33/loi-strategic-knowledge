@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_4c8a60f6386c",
+  "platform": "gig_os",
+  "title": "Minería de oro: 30 años de éxito",
+  "date": "13.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/mineria-de-oro-30-anos-de-exito-398",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/mineria-de-oro-30-anos-de-exito-398",
+  "content_hash": "33be12ea7bbbee59fde1ca9b5cf859d78b2deb9c30c5cda31f7a866bac3a0a3d",
+  "url_hash": "aedf76d9c44131c5925db48aa8f94acad7ec52c8e0138860c1a394d9d2832d9e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-04-2021_minería-de-oro-30-años-de-éxito_4c8a60f6386c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-04-2021_minería-de-oro-30-años-de-éxito_4c8a60f6386c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-04-2021_minería-de-oro-30-años-de-éxito_4c8a60f6386c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/db/50/73/b6/d4/db5073b6d41a051fded065670826f518_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-04-2021_minería-de-oro-30-años-de-éxito_4c8a60f6386c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1074/image-23_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-04-2021_minería-de-oro-30-años-de-éxito_4c8a60f6386c\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1074/image-24_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-04-2021_minería-de-oro-30-años-de-éxito_4c8a60f6386c\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:40:30.638757-03:00",
+  "status": "downloaded"
+}

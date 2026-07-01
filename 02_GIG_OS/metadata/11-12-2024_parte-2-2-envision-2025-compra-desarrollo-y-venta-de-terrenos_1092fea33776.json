@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_1092fea33776",
+  "platform": "gig_os",
+  "title": "Parte 2.2: EnVision 2025: compra, desarrollo y venta de terrenos",
+  "date": "11.12.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/envision-2025-compra-desarrollo-y-venta-de-terrenos-1022",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/envision-2025-compra-desarrollo-y-venta-de-terrenos-1022",
+  "content_hash": "a5defabb21f6478eb2cd9b3c701b6e8ea8e0a5551aef848a80c2bb45d05fe46b",
+  "url_hash": "b1ebcf6f59f8e15e3799483b3487ebe84ee66b8d715234624799aee713022bbd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-12-2024_parte-2-2-envision-2025-compra-desarrollo-y-venta-de-terrenos_1092fea33776.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-12-2024_parte-2-2-envision-2025-compra-desarrollo-y-venta-de-terrenos_1092fea33776.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-2-2-envision-2025-compra-desarrollo-y-venta-de-terrenos_1092fea33776",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e2/f4/7a/cb/55/e2f47acb5587eeb66caa3e38ac832526_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-2-2-envision-2025-compra-desarrollo-y-venta-de-terrenos_1092fea33776\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1792/pt-22-screen_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-2-2-envision-2025-compra-desarrollo-y-venta-de-terrenos_1092fea33776\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1792/pt-22-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-2-2-envision-2025-compra-desarrollo-y-venta-de-terrenos_1092fea33776\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1792/pt-22-2-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-2-2-envision-2025-compra-desarrollo-y-venta-de-terrenos_1092fea33776\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1792/pt-22-3-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-2-2-envision-2025-compra-desarrollo-y-venta-de-terrenos_1092fea33776\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1792/pack-table-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-2-2-envision-2025-compra-desarrollo-y-venta-de-terrenos_1092fea33776\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:13:55.249203-03:00",
+  "status": "downloaded"
+}

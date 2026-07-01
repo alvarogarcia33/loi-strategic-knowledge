@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_1b14b0bbd592",
+  "platform": "gig_os",
+  "title": "Comunicado de prensa sobre la oferta de ECN",
+  "date": "24.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/comunicado-de-prensa-sobre-la-oferta-de-ecn-334",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/comunicado-de-prensa-sobre-la-oferta-de-ecn-334",
+  "content_hash": "cd9aac9d325d757966dc2b092c7a2ba4df5055e8e030f2ef3e9ca9030addd76a",
+  "url_hash": "7874eb3cdf86985582d4954640111893df79a1d8c1add4cc58e8bfbab27f06a7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-11-2020_comunicado-de-prensa-sobre-la-oferta-de-ecn_1b14b0bbd592.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-11-2020_comunicado-de-prensa-sobre-la-oferta-de-ecn_1b14b0bbd592.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-11-2020_comunicado-de-prensa-sobre-la-oferta-de-ecn_1b14b0bbd592",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/04/57/14/66/72/04571466726a8e372a7ecbf466fe4dc9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-11-2020_comunicado-de-prensa-sobre-la-oferta-de-ecn_1b14b0bbd592\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:14.184107-03:00",
+  "status": "downloaded"
+}

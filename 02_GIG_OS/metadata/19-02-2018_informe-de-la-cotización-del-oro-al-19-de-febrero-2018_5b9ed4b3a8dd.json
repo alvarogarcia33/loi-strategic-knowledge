@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_5b9ed4b3a8dd",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 19 de febrero, 2018",
+  "date": "19.02.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-19-de-febrero-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-19-de-febrero-2018",
+  "content_hash": "56af8bad4ab76f4f1b2935ef04890e7d3f0d0c7ef631611a645aff43911c264a",
+  "url_hash": "089c71d931ae53266c6ad7025a4c95b4fff821d25c5a16af351c7200744e673c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-02-2018_informe-de-la-cotización-del-oro-al-19-de-febrero-2018_5b9ed4b3a8dd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-02-2018_informe-de-la-cotización-del-oro-al-19-de-febrero-2018_5b9ed4b3a8dd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-02-2018_informe-de-la-cotización-del-oro-al-19-de-febrero-2018_5b9ed4b3a8dd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ab/71/bf/e0/82/ab71bfe082caa6cffe769b6a584aaf97_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-02-2018_informe-de-la-cotización-del-oro-al-19-de-febrero-2018_5b9ed4b3a8dd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/448/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:26:03.286337-03:00",
+  "status": "downloaded"
+}

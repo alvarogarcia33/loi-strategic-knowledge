@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_61d65322b825",
+  "platform": "gig_os",
+  "title": "Se ha cambiado la fecha de la conferencia online GRAND START",
+  "date": "25.10.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-ha-cambiado-la-fecha-de-la-conferencia-online-grand-start-1002",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-ha-cambiado-la-fecha-de-la-conferencia-online-grand-start-1002",
+  "content_hash": "f50d7aad18573f0bd99b27e0ad04d10c240d22092608255af388890a456aa260",
+  "url_hash": "fe7e2eba216d9ad5fc13711f5c34cb19fb311ccffc4361046d025742feb5aa03",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-10-2024_se-ha-cambiado-la-fecha-de-la-conferencia-online-grand-start_61d65322b825.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-10-2024_se-ha-cambiado-la-fecha-de-la-conferencia-online-grand-start_61d65322b825.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-10-2024_se-ha-cambiado-la-fecha-de-la-conferencia-online-grand-start_61d65322b825",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/00/6b/dc/11/78/006bdc11786b52b87dc9b49bbc399b98_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-10-2024_se-ha-cambiado-la-fecha-de-la-conferencia-online-grand-start_61d65322b825\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1771/meta15278_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-10-2024_se-ha-cambiado-la-fecha-de-la-conferencia-online-grand-start_61d65322b825\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:06.504084-03:00",
+  "status": "downloaded"
+}

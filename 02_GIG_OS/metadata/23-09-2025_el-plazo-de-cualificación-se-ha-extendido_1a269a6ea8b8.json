@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_1a269a6ea8b8",
+  "platform": "gig_os",
+  "title": "¡El plazo de cualificación se ha extendido!",
+  "date": "23.09.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-plazo-de-cualificacion-se-ha-extendido-1145",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-plazo-de-cualificacion-se-ha-extendido-1145",
+  "content_hash": "a2a2eaf2009c492fc44c3a85fe499b8155b527ed71a7a127b7d47ce734f7e454",
+  "url_hash": "78d99ba0c54cbe4ae5bf766751d0f879d2cea7f65f32cc25309a7fe37d4890c7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-09-2025_el-plazo-de-cualificación-se-ha-extendido_1a269a6ea8b8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-09-2025_el-plazo-de-cualificación-se-ha-extendido_1a269a6ea8b8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2025_el-plazo-de-cualificación-se-ha-extendido_1a269a6ea8b8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/55/df/a0/ba/4f/55dfa0ba4f69b0cf35e3f14706536129_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2025_el-plazo-de-cualificación-se-ha-extendido_1a269a6ea8b8\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:55.339616-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_160eb4f8c4bb",
+  "platform": "gig_os",
+  "title": "La primera reunión de la DAO: un día que se convertirá en leyenda",
+  "date": "30.08.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-primera-reunion-de-la-dao-un-dia-que-se-convertira-en-leyenda-619",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-primera-reunion-de-la-dao-un-dia-que-se-convertira-en-leyenda-619",
+  "content_hash": "d1b05361e7b8dd60bc4e1718419fc21f9ca9d4f797783e5981ced641158d5aa5",
+  "url_hash": "8d8b3a94d6df2de932120beb54f582c4f8e0491a0e05bff13c1cf6732b292d86",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-08-2022_la-primera-reunión-de-la-dao-un-día-que-se-convertirá-en-leyenda_160eb4f8c4bb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-08-2022_la-primera-reunión-de-la-dao-un-día-que-se-convertirá-en-leyenda_160eb4f8c4bb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-08-2022_la-primera-reunión-de-la-dao-un-día-que-se-convertirá-en-leyenda_160eb4f8c4bb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/16/dc/57/9b/38/16dc579b38a0c93dcf00bd5aa3d44019_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-08-2022_la-primera-reunión-de-la-dao-un-día-que-se-convertirá-en-leyenda_160eb4f8c4bb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:13.114311-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_5eb4cc07b405",
+  "platform": "gig_os",
+  "title": "¿Por qué la humanidad optó por el oro?",
+  "date": "25.07.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-la-humanidad-opto-por-el-oro-771",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-la-humanidad-opto-por-el-oro-771",
+  "content_hash": "d22a383c9e29558afdba2a55e57d1292526a1b0d5d3a3c2366f664ce2fc75fb8",
+  "url_hash": "edb8cf8fd65f43155eb15d3a6626da922f6dbec3fcaf3d0a64d08e6fd31fd334",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-07-2023_por-qué-la-humanidad-optó-por-el-oro_5eb4cc07b405.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-07-2023_por-qué-la-humanidad-optó-por-el-oro_5eb4cc07b405.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-07-2023_por-qué-la-humanidad-optó-por-el-oro_5eb4cc07b405",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/58/e8/82/61/02/58e8826102e87836e48db370774f6bf3_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-07-2023_por-qué-la-humanidad-optó-por-el-oro_5eb4cc07b405\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1507/1aa_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-07-2023_por-qué-la-humanidad-optó-por-el-oro_5eb4cc07b405\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-07-2023_por-qué-la-humanidad-optó-por-el-oro_5eb4cc07b405\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:57.095851-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_68e7616f303f",
+  "platform": "gig_os",
+  "title": "¡ATENCIÓN! Actualicen sus contraseñas",
+  "date": "09.07.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/atencion-actualicen-sus-contrasenas-1108",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/atencion-actualicen-sus-contrasenas-1108",
+  "content_hash": "91cc54daee6089ea6d766e965509a2faf36f8dbbd729183dbb276d18c4c48639",
+  "url_hash": "b95befbba9fa1b060f0a8f2b7d6b344cfb63d2f031de687e3e093a45c264bc57",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-07-2025_atención-actualicen-sus-contraseñas_68e7616f303f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-07-2025_atención-actualicen-sus-contraseñas_68e7616f303f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-07-2025_atención-actualicen-sus-contraseñas_68e7616f303f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/93/23/3f/13/9b/93233f139b18fcf215a5da5113c694f7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-07-2025_atención-actualicen-sus-contraseñas_68e7616f303f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:57.247408-03:00",
+  "status": "downloaded"
+}

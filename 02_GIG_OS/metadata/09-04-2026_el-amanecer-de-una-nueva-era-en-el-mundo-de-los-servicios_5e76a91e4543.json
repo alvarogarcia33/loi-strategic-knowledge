@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_5e76a91e4543",
+  "platform": "gig_os",
+  "title": "El amanecer de una nueva era en el mundo de los servicios",
+  "date": "09.04.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-amanecer-de-una-nueva-era-en-el-mundo-de-los-servicios-0181",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-amanecer-de-una-nueva-era-en-el-mundo-de-los-servicios-0181",
+  "content_hash": "fad97fcf6e5991f51c81ca4042b23378a04f4854f787f8740a4ff58efe22c15b",
+  "url_hash": "9b546daa8a80582cf065d153f2fd18c69282a64e505e37530db8230bbc572e3a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-04-2026_el-amanecer-de-una-nueva-era-en-el-mundo-de-los-servicios_5e76a91e4543.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-04-2026_el-amanecer-de-una-nueva-era-en-el-mundo-de-los-servicios_5e76a91e4543.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2026_el-amanecer-de-una-nueva-era-en-el-mundo-de-los-servicios_5e76a91e4543",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/66/ff/80/15/0d/66ff80150d96fd33b6141b06eaffc78e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2026_el-amanecer-de-una-nueva-era-en-el-mundo-de-los-servicios_5e76a91e4543\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:13.459686-03:00",
+  "status": "downloaded"
+}

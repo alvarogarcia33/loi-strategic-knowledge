@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_29fd232f78c1",
+  "platform": "gig_os",
+  "title": "3 proyectos relevantes en Global Metaverse",
+  "date": "06.07.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/3-proyectos-relevantes-en-global-metaverse-763",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/3-proyectos-relevantes-en-global-metaverse-763",
+  "content_hash": "2533289a92a119e5ca25ff77c5c40a1b2299ca4f51c10b7fa9407553fa8b317c",
+  "url_hash": "ec6abccaf4d9d9a830e32d0ac03849e541ce30715df83091451a2e6dcf4da992",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-07-2023_3-proyectos-relevantes-en-global-metaverse_29fd232f78c1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-07-2023_3-proyectos-relevantes-en-global-metaverse_29fd232f78c1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-07-2023_3-proyectos-relevantes-en-global-metaverse_29fd232f78c1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/76/ed/df/51/33/76eddf513312d6c19eb96b0e25cd42ee_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-07-2023_3-proyectos-relevantes-en-global-metaverse_29fd232f78c1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1500/fracturefusion1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-07-2023_3-proyectos-relevantes-en-global-metaverse_29fd232f78c1\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1500/aristippia1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-07-2023_3-proyectos-relevantes-en-global-metaverse_29fd232f78c1\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1500/metasentry-logo353081_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-07-2023_3-proyectos-relevantes-en-global-metaverse_29fd232f78c1\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:55:46.047354-03:00",
+  "status": "downloaded"
+}

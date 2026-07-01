@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d3afe3fc21fc",
+  "platform": "gig_os",
+  "title": "La conferencia online final del año ¡ya en 2 días!",
+  "date": "04.12.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-final-del-ano-ya-en-2-dias-1017",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-final-del-ano-ya-en-2-dias-1017",
+  "content_hash": "4541dd5b441d90ec9b2673529467cdd8dad8f943a1f6d787b0be85556c925067",
+  "url_hash": "127d73fc7e92a82a37515de915ccb586e5abf983a677078cd0d9cea72d2efa86",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-12-2024_la-conferencia-online-final-del-año-ya-en-2-días_d3afe3fc21fc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-12-2024_la-conferencia-online-final-del-año-ya-en-2-días_d3afe3fc21fc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-12-2024_la-conferencia-online-final-del-año-ya-en-2-días_d3afe3fc21fc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/26/27/55/17/53/26275517538b4db11fa0afee3df4acc1_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-12-2024_la-conferencia-online-final-del-año-ya-en-2-días_d3afe3fc21fc\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:30:55.004765-03:00",
+  "status": "downloaded"
+}

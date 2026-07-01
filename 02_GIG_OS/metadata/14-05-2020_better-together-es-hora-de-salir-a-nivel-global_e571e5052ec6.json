@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e571e5052ec6",
+  "platform": "gig_os",
+  "title": "Better Together: es hora de salir a nivel global",
+  "date": "14.05.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/better-together-es-hora-de-salir-a-nivel-global-257",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/better-together-es-hora-de-salir-a-nivel-global-257",
+  "content_hash": "d84502eb3ab684fcf8ebe9039e5fb89095b759e7280cc5c80a290fe1a975abae",
+  "url_hash": "052a49aed478da1ca5083444bd8ef7061c21331937442370e71da01e54cabf77",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-05-2020_better-together-es-hora-de-salir-a-nivel-global_e571e5052ec6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-05-2020_better-together-es-hora-de-salir-a-nivel-global_e571e5052ec6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-05-2020_better-together-es-hora-de-salir-a-nivel-global_e571e5052ec6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/08/e6/c2/fb/0c/08e6c2fb0cbcb99de43146ed1c278b34_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-05-2020_better-together-es-hora-de-salir-a-nivel-global_e571e5052ec6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:59:40.888451-03:00",
+  "status": "downloaded"
+}

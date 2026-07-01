@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_2e357ac5ddf6",
+  "platform": "gig_os",
+  "title": "Ha comenzado el registro para la reunión en línea",
+  "date": "08.01.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-registro-para-la-reunion-en-linea-1149",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-registro-para-la-reunion-en-linea-1149",
+  "content_hash": "56bc51d3e8c57b98e414b15b2c214733b08d5bd1b0352265291dafed5af0ea12",
+  "url_hash": "79b42f3d9246fa9a753a57ed604c83852fc99604db8e54eee85373bdacd00549",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-01-2026_ha-comenzado-el-registro-para-la-reunión-en-línea_2e357ac5ddf6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-01-2026_ha-comenzado-el-registro-para-la-reunión-en-línea_2e357ac5ddf6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-01-2026_ha-comenzado-el-registro-para-la-reunión-en-línea_2e357ac5ddf6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/46/f2/a0/e0/e2/46f2a0e0e2d8159a38debf67299fa7ac_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-01-2026_ha-comenzado-el-registro-para-la-reunión-en-línea_2e357ac5ddf6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:22:09.234825-03:00",
+  "status": "downloaded"
+}

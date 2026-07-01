@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9370387414b0",
+  "platform": "gig_os",
+  "title": "El Banco Central de Polonia ha comprado una impresionante cantidad de oro",
+  "date": "29.05.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-banco-central-de-polonia-ha-comprado-una-impresionante-cantidad-de-oro-741",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-banco-central-de-polonia-ha-comprado-una-impresionante-cantidad-de-oro-741",
+  "content_hash": "5fb49e85217fa1e2b8ea3d833fd9daf44c3c9ed95bd4f6242f029940ca415ae8",
+  "url_hash": "ec52eace9d201170792567a325dbe2d5fcc91c592db9dca94bec02938fc97e86",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-05-2023_el-banco-central-de-polonia-ha-comprado-una-impresionante-cantidad-de-oro_9370387414b0.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-05-2023_el-banco-central-de-polonia-ha-comprado-una-impresionante-cantidad-de-oro_9370387414b0.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2023_el-banco-central-de-polonia-ha-comprado-una-impresionante-cantidad-de-oro_9370387414b0",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/92/68/2d/af/a0/92682dafa09e3326f8ec14e84b33b3ba_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2023_el-banco-central-de-polonia-ha-comprado-una-impresionante-cantidad-de-oro_9370387414b0\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2023_el-banco-central-de-polonia-ha-comprado-una-impresionante-cantidad-de-oro_9370387414b0\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:19.714122-03:00",
+  "status": "downloaded"
+}

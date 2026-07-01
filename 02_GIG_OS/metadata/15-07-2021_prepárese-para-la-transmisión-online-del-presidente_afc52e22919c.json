@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_afc52e22919c",
+  "platform": "gig_os",
+  "title": "¡Prepárese para la transmisión online del Presidente!",
+  "date": "15.07.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/preparese-para-la-transmision-online-del-presidente-442",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/preparese-para-la-transmision-online-del-presidente-442",
+  "content_hash": "52d5b15249826a3f6a5e02885b12ea386c8dfc082c454028d683da1a2798355f",
+  "url_hash": "cabeeac8f47e66abbcbcf878b9e0f95dd5e1f36e2f9e74dfea010d6530c4a9d9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-07-2021_prepárese-para-la-transmisión-online-del-presidente_afc52e22919c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-07-2021_prepárese-para-la-transmisión-online-del-presidente_afc52e22919c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-07-2021_prepárese-para-la-transmisión-online-del-presidente_afc52e22919c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/43/fb/96/a9/63/43fb96a963270c0a9f5a79626877edba_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-07-2021_prepárese-para-la-transmisión-online-del-presidente_afc52e22919c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:54.048658-03:00",
+  "status": "downloaded"
+}

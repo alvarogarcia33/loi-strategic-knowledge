@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7739c420769e",
+  "platform": "gig_os",
+  "title": "Ha comenzado el prelanzamiento del M*E Board",
+  "date": "25.10.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-prelanzamiento-del-me-board-811",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-prelanzamiento-del-me-board-811",
+  "content_hash": "d31314cec3a992151468e4204d75b1b281ac717ef5165abe3a2e2e660c702882",
+  "url_hash": "76d370bcf8a0f4d47d711d5828571c5020bda5dd929a81b4540aa7117ffbe5d9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-10-2023_ha-comenzado-el-prelanzamiento-del-m-e-board_7739c420769e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-10-2023_ha-comenzado-el-prelanzamiento-del-m-e-board_7739c420769e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-10-2023_ha-comenzado-el-prelanzamiento-del-m-e-board_7739c420769e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/aa/b3/8b/52/86/aab38b5286bca18d4deb0d6b3e70623e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-10-2023_ha-comenzado-el-prelanzamiento-del-m-e-board_7739c420769e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1552/example-table-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-10-2023_ha-comenzado-el-prelanzamiento-del-m-e-board_7739c420769e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:22:02.795644-03:00",
+  "status": "downloaded"
+}

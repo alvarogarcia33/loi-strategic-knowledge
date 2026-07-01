@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ef56c0fb2013",
+  "platform": "gig_os",
+  "title": "El «remedio de oro» para la crisis monetaria",
+  "date": "28.02.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-remedio-de-oro-para-la-crisis-monetaria-536",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-remedio-de-oro-para-la-crisis-monetaria-536",
+  "content_hash": "fc62971b9b365acc1e805199e79b53f9372fcd2fdcf0b53ae99aaf54d082ad5e",
+  "url_hash": "40396e5fe53de2c47ec5130c5a8681685ccb184b125e505d6cfae704d599cdcd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-02-2022_el-remedio-de-oro-para-la-crisis-monetaria_ef56c0fb2013.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-02-2022_el-remedio-de-oro-para-la-crisis-monetaria_ef56c0fb2013.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-02-2022_el-remedio-de-oro-para-la-crisis-monetaria_ef56c0fb2013",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/91/03/6d/73/66/91036d73662460e6408270ad8bfd3660_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-02-2022_el-remedio-de-oro-para-la-crisis-monetaria_ef56c0fb2013\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1237/zolotoe-reshenie7_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-02-2022_el-remedio-de-oro-para-la-crisis-monetaria_ef56c0fb2013\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:23.389390-03:00",
+  "status": "downloaded"
+}

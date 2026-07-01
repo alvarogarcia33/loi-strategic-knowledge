@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_c51aa819bd56",
+  "platform": "gig_os",
+  "title": "Oro: el precio sube — el mundo lo compra",
+  "date": "07.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-el-precio-sube-el-mundo-lo-compra-246",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-el-precio-sube-el-mundo-lo-compra-246",
+  "content_hash": "934d0dc29431cff3ba9849d1ac20b40c47c7a8dbb70603ec84e048955162fd1a",
+  "url_hash": "f8f3998e1c5aae34e3ab8914d8d2b5253b1de17b8c0a3ab0508942857dbd36e5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-06-2021_oro-el-precio-sube-el-mundo-lo-compra_c51aa819bd56.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-06-2021_oro-el-precio-sube-el-mundo-lo-compra_c51aa819bd56.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-06-2021_oro-el-precio-sube-el-mundo-lo-compra_c51aa819bd56",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d6/86/a7/4c/48/d686a74c48f3f73ef3c57a1fbfc7bac2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-06-2021_oro-el-precio-sube-el-mundo-lo-compra_c51aa819bd56\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1104/imagepsd11_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-06-2021_oro-el-precio-sube-el-mundo-lo-compra_c51aa819bd56\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1104/imagepsd12_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-06-2021_oro-el-precio-sube-el-mundo-lo-compra_c51aa819bd56\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:17.150754-03:00",
+  "status": "downloaded"
+}

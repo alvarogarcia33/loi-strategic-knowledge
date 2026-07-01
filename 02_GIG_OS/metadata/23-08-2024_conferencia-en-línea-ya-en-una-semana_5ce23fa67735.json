@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_5ce23fa67735",
+  "platform": "gig_os",
+  "title": "¡Conferencia en línea ya en una semana!",
+  "date": "23.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/conferencia-en-linea-ya-en-una-semana-978",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/conferencia-en-linea-ya-en-una-semana-978",
+  "content_hash": "95712d45d1ab4368fe653ab609b7658ade33f8ab6a6fe01bf942e5fcd5b55012",
+  "url_hash": "768f044595c2492c61c79e86fbd425641de6a554909cabfcfed45cddb9e9f8a5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-08-2024_conferencia-en-línea-ya-en-una-semana_5ce23fa67735.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-08-2024_conferencia-en-línea-ya-en-una-semana_5ce23fa67735.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-08-2024_conferencia-en-línea-ya-en-una-semana_5ce23fa67735",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/20/1d/63/fb/08/201d63fb08fa9d5eed913a0d82fb7c6c_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-08-2024_conferencia-en-línea-ya-en-una-semana_5ce23fa67735\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:19.931265-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_6d48713c7b8e",
+  "platform": "gig_os",
+  "title": "¡Logren el éxito en tres proyectos a la vez!",
+  "date": "08.01.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/logren-el-exito-en-tres-proyectos-a-la-vez-1031",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/logren-el-exito-en-tres-proyectos-a-la-vez-1031",
+  "content_hash": "9f925d9a2287e19858f7d56756f1aeae1cbc1f84f2e19cb1b7b1621a5156c2c1",
+  "url_hash": "76bdbc53c5fe7cc44af60832ffe33af2b3799cf930fac74ac5169fc1a631069d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-01-2025_logren-el-éxito-en-tres-proyectos-a-la-vez_6d48713c7b8e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-01-2025_logren-el-éxito-en-tres-proyectos-a-la-vez_6d48713c7b8e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-01-2025_logren-el-éxito-en-tres-proyectos-a-la-vez_6d48713c7b8e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0e/b8/53/9b/8c/0eb8539b8caeaaf7061aad0e5e0c557e_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-01-2025_logren-el-éxito-en-tres-proyectos-a-la-vez_6d48713c7b8e\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:00.288476-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_0545d7c5e6b8",
+  "platform": "gig_os",
+  "title": "¡La fase final de la votación está ganando impulso!",
+  "date": "07.01.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-fase-final-de-la-votacion-esta-ganando-impulso-1150",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-fase-final-de-la-votacion-esta-ganando-impulso-1150",
+  "content_hash": "3e757db6b3d534c559832d74cd1a2b6f52b9296bb5908f84b1ee5b8020771bf4",
+  "url_hash": "babc03624bd45f3eda97e4f7999b4dcb7491e0eb3566381eb02f55060c5fc0d5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-01-2026_la-fase-final-de-la-votación-está-ganando-impulso_0545d7c5e6b8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-01-2026_la-fase-final-de-la-votación-está-ganando-impulso_0545d7c5e6b8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-01-2026_la-fase-final-de-la-votación-está-ganando-impulso_0545d7c5e6b8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/07/77/f6/68/d0/0777f668d00095580ff6f38a6e7f46fc_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-01-2026_la-fase-final-de-la-votación-está-ganando-impulso_0545d7c5e6b8\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:21.587730-03:00",
+  "status": "downloaded"
+}

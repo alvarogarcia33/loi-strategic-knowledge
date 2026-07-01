@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_5e651cb8ffb8",
+  "platform": "gig_os",
+  "title": "¡La conferencia online «GLOBAL VISION» se celebró!",
+  "date": "05.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-global-vision-se-celebro-326",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-global-vision-se-celebro-326",
+  "content_hash": "479cffd4db3df839411ca505661982d376f892cc2c8f187e0ccbdd1660c4c9a5",
+  "url_hash": "f2617e76a11d323335261d30f22e814820f6445e7b726f2d0a3f81f6170ea5eb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-11-2020_la-conferencia-online-global-vision-se-celebró_5e651cb8ffb8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-11-2020_la-conferencia-online-global-vision-se-celebró_5e651cb8ffb8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-11-2020_la-conferencia-online-global-vision-se-celebró_5e651cb8ffb8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/60/d7/d1/4b/2c/60d7d14b2c5ecede060ed73d3f17d9a2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-11-2020_la-conferencia-online-global-vision-se-celebró_5e651cb8ffb8\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:01.168626-03:00",
+  "status": "downloaded"
+}

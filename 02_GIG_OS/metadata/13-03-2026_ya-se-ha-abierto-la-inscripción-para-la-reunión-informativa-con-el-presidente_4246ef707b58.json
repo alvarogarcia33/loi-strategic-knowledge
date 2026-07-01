@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4246ef707b58",
+  "platform": "gig_os",
+  "title": "Ya se ha abierto la inscripción para la reunión informativa con el Presidente",
+  "date": "13.03.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ya-se-ha-abierto-la-inscripcion-para-la-reunion-informativa-con-el-presidente-0172",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ya-se-ha-abierto-la-inscripcion-para-la-reunion-informativa-con-el-presidente-0172",
+  "content_hash": "a94243dfdb074507fce71f72569ec63cd5168f02dddfcd9d8917d9b0450c7b0e",
+  "url_hash": "d0b9d115297b8deaf81a060e9a1b0f1a2ba588f11747d5f572d39472a033bedf",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-03-2026_ya-se-ha-abierto-la-inscripción-para-la-reunión-informativa-con-el-presidente_4246ef707b58.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-03-2026_ya-se-ha-abierto-la-inscripción-para-la-reunión-informativa-con-el-presidente_4246ef707b58.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-03-2026_ya-se-ha-abierto-la-inscripción-para-la-reunión-informativa-con-el-presidente_4246ef707b58",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cc/92/06/b1/b0/cc9206b1b03202591d402f1e72fafc8a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-03-2026_ya-se-ha-abierto-la-inscripción-para-la-reunión-informativa-con-el-presidente_4246ef707b58\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:05:47.138333-03:00",
+  "status": "downloaded"
+}

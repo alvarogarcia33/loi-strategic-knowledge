@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_88c8a8a12f07",
+  "platform": "gig_os",
+  "title": "¡No posponga la vida para mañana!",
+  "date": "30.07.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/no-posponga-la-vida-para-manana-288",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/no-posponga-la-vida-para-manana-288",
+  "content_hash": "6d89124bffff095d1b6d2338c5e7ba372e169f01b5c57e5508db9d975774ce9e",
+  "url_hash": "ebc9e52bc0036bc58489f1a224e2b43b91868917d76198e0193694bee06a719e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-07-2020_no-posponga-la-vida-para-mañana_88c8a8a12f07.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-07-2020_no-posponga-la-vida-para-mañana_88c8a8a12f07.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-07-2020_no-posponga-la-vida-para-mañana_88c8a8a12f07",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ab/04/ff/b0/a1/ab04ffb0a1415484201079aecc91b061_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-07-2020_no-posponga-la-vida-para-mañana_88c8a8a12f07\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:52.370326-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_32eb6bd615cd",
+  "platform": "gig_os",
+  "title": "¡Regístrese en la conferencia online!",
+  "date": "03.07.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/registrese-en-la-conferencia-online-1105",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/registrese-en-la-conferencia-online-1105",
+  "content_hash": "904a2e976c7efb5506535722ed008daf74aa5ae240a5a895665b4cef1857769f",
+  "url_hash": "5f94750cee0a85e52cb30c80ce4b6d303c92291348aa550335ba8f2d81c680c6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-07-2025_regístrese-en-la-conferencia-online_32eb6bd615cd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-07-2025_regístrese-en-la-conferencia-online_32eb6bd615cd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-07-2025_regístrese-en-la-conferencia-online_32eb6bd615cd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9b/4b/02/d7/ec/9b4b02d7ec6dc01a41d14fe8bfd53e3a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-07-2025_regístrese-en-la-conferencia-online_32eb6bd615cd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:52:16.118924-03:00",
+  "status": "downloaded"
+}

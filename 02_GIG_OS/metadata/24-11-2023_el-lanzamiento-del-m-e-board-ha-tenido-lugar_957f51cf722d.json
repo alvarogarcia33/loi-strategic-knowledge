@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_957f51cf722d",
+  "platform": "gig_os",
+  "title": "¡El lanzamiento del M*E Board ha tenido lugar!",
+  "date": "24.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-lanzamiento-del-me-board-ha-tenido-lugar-828",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-lanzamiento-del-me-board-ha-tenido-lugar-828",
+  "content_hash": "bc8ab8f61456662ca8c0fe496781835c3ff81ca3dfaea76600ba76acc2b468da",
+  "url_hash": "e1a8fb1fcd04800c6a7f0866f7c6184dad00c7a3dc5c0905d409f986de019576",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-11-2023_el-lanzamiento-del-m-e-board-ha-tenido-lugar_957f51cf722d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-11-2023_el-lanzamiento-del-m-e-board-ha-tenido-lugar_957f51cf722d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-11-2023_el-lanzamiento-del-m-e-board-ha-tenido-lugar_957f51cf722d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/97/e6/4a/52/d1/97e64a52d15304004c36564ea8acff78_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-11-2023_el-lanzamiento-del-m-e-board-ha-tenido-lugar_957f51cf722d\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1570/system-combinations-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-11-2023_el-lanzamiento-del-m-e-board-ha-tenido-lugar_957f51cf722d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:40.148089-03:00",
+  "status": "downloaded"
+}

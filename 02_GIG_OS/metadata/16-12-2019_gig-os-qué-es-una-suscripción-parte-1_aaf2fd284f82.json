@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_aaf2fd284f82",
+  "platform": "gig_os",
+  "title": "GIG-OS: ¿qué es una suscripción? Parte 1",
+  "date": "16.12.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gig-os-que-es-una-suscripcion-parte-210",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gig-os-que-es-una-suscripcion-parte-210",
+  "content_hash": "f696bdb71cc7f6381b8c691584fbe78c7af7a55cb30bf875346ae31689f05ee2",
+  "url_hash": "1570b251b8d843928de8d7dc03c8eef4ce846ac80f38083f48ab36e68fec76dd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-12-2019_gig-os-qué-es-una-suscripción-parte-1_aaf2fd284f82.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-12-2019_gig-os-qué-es-una-suscripción-parte-1_aaf2fd284f82.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2019_gig-os-qué-es-una-suscripción-parte-1_aaf2fd284f82",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ba/81/64/b3/5c/ba8164b35c803d617b50ffacb28e721f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2019_gig-os-qué-es-una-suscripción-parte-1_aaf2fd284f82\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/821/tipologie-di-sottoscrizione-a-gig-os_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2019_gig-os-qué-es-una-suscripción-parte-1_aaf2fd284f82\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:57.101117-03:00",
+  "status": "downloaded"
+}

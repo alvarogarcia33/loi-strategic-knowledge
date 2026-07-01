@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_196d35c4835d",
+  "platform": "gig_os",
+  "title": "Los tailandeses dicen «sí» al oro",
+  "date": "31.10.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-tailandeses-dicen-si-al-oro-641",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-tailandeses-dicen-si-al-oro-641",
+  "content_hash": "661f85904f47f2ae95cb11eb7036e28a575054abfd5d25f1e11ef23e780de593",
+  "url_hash": "8a8336d3c15a2601f93e88e18ad504333670416b20dd1b5147905ac62cb8c111",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\31-10-2022_los-tailandeses-dicen-sí-al-oro_196d35c4835d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\31-10-2022_los-tailandeses-dicen-sí-al-oro_196d35c4835d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-10-2022_los-tailandeses-dicen-sí-al-oro_196d35c4835d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ae/51/e4/07/ed/ae51e407edb7020635ba6ca2b7f6dbff_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-10-2022_los-tailandeses-dicen-sí-al-oro_196d35c4835d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1355/dizayn-bez-nazvaniya-2-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-10-2022_los-tailandeses-dicen-sí-al-oro_196d35c4835d\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:34.369039-03:00",
+  "status": "downloaded"
+}

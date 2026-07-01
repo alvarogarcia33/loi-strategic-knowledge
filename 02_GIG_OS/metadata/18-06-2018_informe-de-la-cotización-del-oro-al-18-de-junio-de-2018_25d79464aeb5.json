@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_25d79464aeb5",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 18 de junio de 2018",
+  "date": "18.06.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-18-de-junio-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-18-de-junio-de-2018",
+  "content_hash": "c439cb0adf32bf1090c17441049780929b04d4be85d37a99174bb265dacb957d",
+  "url_hash": "ac0c916bd9323c2d4f79b138d52918b6c983bc212e95f65dbfe2a335fbcff90d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-06-2018_informe-de-la-cotización-del-oro-al-18-de-junio-de-2018_25d79464aeb5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-06-2018_informe-de-la-cotización-del-oro-al-18-de-junio-de-2018_25d79464aeb5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-06-2018_informe-de-la-cotización-del-oro-al-18-de-junio-de-2018_25d79464aeb5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/05/a2/08/11/33/05a20811333e6895cd964b3284cd7663_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/506/chart_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:26:00.239962-03:00",
+  "status": "downloaded"
+}

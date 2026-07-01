@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_4c8b4cd2f5cd",
+  "platform": "gig_os",
+  "title": "Argumentos convincentes a favor del oro",
+  "date": "14.11.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/argumentos-convincentes-a-favor-del-oro-651",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/argumentos-convincentes-a-favor-del-oro-651",
+  "content_hash": "de85d9602d352e67ca2a86ef6b4b0970ea21a6aa52823baae23d577774b18483",
+  "url_hash": "587ab82685171a777c2af6b3d27115bce509e0e35c88d27ee15b9aab6549c0f3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-11-2022_argumentos-convincentes-a-favor-del-oro_4c8b4cd2f5cd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-11-2022_argumentos-convincentes-a-favor-del-oro_4c8b4cd2f5cd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-11-2022_argumentos-convincentes-a-favor-del-oro_4c8b4cd2f5cd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/36/ed/8e/90/4b/36ed8e904b40416ddf14f552dca33355_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-11-2022_argumentos-convincentes-a-favor-del-oro_4c8b4cd2f5cd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1366/dinamikakursazolotas1po19oktyabrya1987go51-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-11-2022_argumentos-convincentes-a-favor-del-oro_4c8b4cd2f5cd\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1366/dinamikakursazolotas1posentyabrya2001gogoda61-4_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-11-2022_argumentos-convincentes-a-favor-del-oro_4c8b4cd2f5cd\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1366/dinamikakursazolotasmartapoiyunj2002go101-5_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-11-2022_argumentos-convincentes-a-favor-del-oro_4c8b4cd2f5cd\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:42.225961-03:00",
+  "status": "downloaded"
+}

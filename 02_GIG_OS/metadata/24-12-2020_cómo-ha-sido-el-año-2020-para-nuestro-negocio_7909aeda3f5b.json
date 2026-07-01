@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_7909aeda3f5b",
+  "platform": "gig_os",
+  "title": "¿Cómo ha sido el año 2020 para nuestro negocio?",
+  "date": "24.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-ha-sido-el-ano-2020-para-nuestro-negocio-348",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-ha-sido-el-ano-2020-para-nuestro-negocio-348",
+  "content_hash": "008f1f34a4591111259afbcaf2fface463662a65763bc08ed69afac88e25abeb",
+  "url_hash": "4fa0a4d29fa84a77fc4026c4d6718c996817709e9e80da82e5e0afee38bea43e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-12-2020_cómo-ha-sido-el-año-2020-para-nuestro-negocio_7909aeda3f5b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-12-2020_cómo-ha-sido-el-año-2020-para-nuestro-negocio_7909aeda3f5b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-12-2020_cómo-ha-sido-el-año-2020-para-nuestro-negocio_7909aeda3f5b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ec/86/22/2b/de/ec86222bdeea3b9f666388c0feafab73_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-12-2020_cómo-ha-sido-el-año-2020-para-nuestro-negocio_7909aeda3f5b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:03:41.358747-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_2a8880aeddbc",
+  "platform": "gig_os",
+  "title": "¡Una oferta sin precedentes para los Socios comerciales!",
+  "date": "17.09.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/una-oferta-sin-precedentes-para-los-socios-comerciales-467",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/una-oferta-sin-precedentes-para-los-socios-comerciales-467",
+  "content_hash": "e46d4ccb1c09389290814aa6d364316f59eb669032dc461e468a6a197c29346a",
+  "url_hash": "877718e7dd3fab12d39536d277a92c30c6055a55760805d7891d46dd2808b036",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-09-2021_una-oferta-sin-precedentes-para-los-socios-comerciales_2a8880aeddbc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-09-2021_una-oferta-sin-precedentes-para-los-socios-comerciales_2a8880aeddbc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-09-2021_una-oferta-sin-precedentes-para-los-socios-comerciales_2a8880aeddbc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/68/61/28/11/8d/686128118d90596b407a2e7419952395_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-09-2021_una-oferta-sin-precedentes-para-los-socios-comerciales_2a8880aeddbc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1165/17-09-2021-3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-09-2021_una-oferta-sin-precedentes-para-los-socios-comerciales_2a8880aeddbc\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1165/17-09-2021-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-09-2021_una-oferta-sin-precedentes-para-los-socios-comerciales_2a8880aeddbc\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:28.620646-03:00",
+  "status": "downloaded"
+}

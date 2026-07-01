@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_47910d2273cf",
+  "platform": "gig_os",
+  "title": "OLYMPIA-LAB: el lanzamiento del laboratorio tecnológico",
+  "date": "19.07.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/olympia-lab-el-lanzamiento-del-laboratorio-tecnologico-961",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/olympia-lab-el-lanzamiento-del-laboratorio-tecnologico-961",
+  "content_hash": "4eeabf4b1d1a813d00f20c2d1f714444076cb8560a401708371d3845d5694f0c",
+  "url_hash": "f9503ab2caf078a2d66e40bfa335091c68b7835f9667a34a2b9c64822c2e4fb9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-07-2024_olympia-lab-el-lanzamiento-del-laboratorio-tecnológico_47910d2273cf.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-07-2024_olympia-lab-el-lanzamiento-del-laboratorio-tecnológico_47910d2273cf.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2024_olympia-lab-el-lanzamiento-del-laboratorio-tecnológico_47910d2273cf",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2b/cf/c5/fb/cc/2bcfc5fbcca7a613f41e24812c4fd1f6_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2024_olympia-lab-el-lanzamiento-del-laboratorio-tecnológico_47910d2273cf\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:58.933750-03:00",
+  "status": "downloaded"
+}

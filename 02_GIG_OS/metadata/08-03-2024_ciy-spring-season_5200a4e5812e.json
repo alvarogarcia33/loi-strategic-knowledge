@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_5200a4e5812e",
+  "platform": "gig_os",
+  "title": "CIY Spring Season",
+  "date": "08.03.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ciy-spring-season-892",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ciy-spring-season-892",
+  "content_hash": "dc7824cc1d69c7de1656583471cfc45353936b6e52defe30ebc8e37798817f65",
+  "url_hash": "b2f7b4c1fc8ac9e14c3f5cfa6c0615b320f1978db577c91bf0e202681dae7e0b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-03-2024_ciy-spring-season_5200a4e5812e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-03-2024_ciy-spring-season_5200a4e5812e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-03-2024_ciy-spring-season_5200a4e5812e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6b/0d/e8/de/20/6b0de8de20ca7d17354df40575939a9f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-03-2024_ciy-spring-season_5200a4e5812e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:50.047503-03:00",
+  "status": "downloaded"
+}

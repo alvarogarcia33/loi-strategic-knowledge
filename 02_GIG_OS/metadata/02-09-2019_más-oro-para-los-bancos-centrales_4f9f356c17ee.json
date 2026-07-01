@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_4f9f356c17ee",
+  "platform": "gig_os",
+  "title": "¡Más oro para los bancos centrales!",
+  "date": "02.09.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/mas-oro-para-los-bancos-centrales-166",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/mas-oro-para-los-bancos-centrales-166",
+  "content_hash": "fa6f687fdc87550e9ac14e0fe2d4cda9bb55660df46c45097a8b83a4e9350ed5",
+  "url_hash": "d0427aea699a6e4cb09e7fd9a6db1c0d26d458afe73ccc23ff2eff28c6d7a341",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-09-2019_más-oro-para-los-bancos-centrales_4f9f356c17ee.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-09-2019_más-oro-para-los-bancos-centrales_4f9f356c17ee.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2019_más-oro-para-los-bancos-centrales_4f9f356c17ee",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e6/35/35/5a/4c/e635355a4cbcfe6c45b78fa6819d0990_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2019_más-oro-para-los-bancos-centrales_4f9f356c17ee\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/769/global-intergold--stocking-up-gold-reserves_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2019_más-oro-para-los-bancos-centrales_4f9f356c17ee\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/769/global-intergold--fort-know-gold_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2019_más-oro-para-los-bancos-centrales_4f9f356c17ee\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/769/global-intergold--gold-price_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2019_más-oro-para-los-bancos-centrales_4f9f356c17ee\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:53.925153-03:00",
+  "status": "downloaded"
+}

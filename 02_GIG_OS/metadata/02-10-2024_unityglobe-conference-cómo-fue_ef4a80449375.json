@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_ef4a80449375",
+  "platform": "gig_os",
+  "title": "UnityGlobe Conference: ¿cómo fue?",
+  "date": "02.10.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/unityglobe-conference-como-fue-993",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/unityglobe-conference-como-fue-993",
+  "content_hash": "89ae4f76cc11f9e54f1346617de2d12a1364f64adda6b878a917244657609605",
+  "url_hash": "f78a64dca7bd40908f3ec041f51d5d1eeba8e004d53b9b3c3f76ccd0efd7cb5b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-10-2024_unityglobe-conference-cómo-fue_ef4a80449375.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-10-2024_unityglobe-conference-cómo-fue_ef4a80449375.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2024_unityglobe-conference-cómo-fue_ef4a80449375",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1762/itogi-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2024_unityglobe-conference-cómo-fue_ef4a80449375\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1762/1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2024_unityglobe-conference-cómo-fue_ef4a80449375\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1762/ugc2024-review-1121_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2024_unityglobe-conference-cómo-fue_ef4a80449375\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1762/17_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2024_unityglobe-conference-cómo-fue_ef4a80449375\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1762/22_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2024_unityglobe-conference-cómo-fue_ef4a80449375\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1762/32_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2024_unityglobe-conference-cómo-fue_ef4a80449375\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:54.645605-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ccbd28fc1a34",
+  "platform": "gig_os",
+  "title": "La lucha contra la crisis: Brasil apuesta por el oro",
+  "date": "26.07.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-lucha-contra-la-crisis-brasil-apuesta-por-el-oro-446",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-lucha-contra-la-crisis-brasil-apuesta-por-el-oro-446",
+  "content_hash": "d7e07955c6ff483fd0294fc9538f32844bc5dced63ab5e59bb0055ff793197dc",
+  "url_hash": "b4871fab1727822d35991072a9191f8ac34506ed5e56de4210750c40dbf6a7c9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-07-2021_la-lucha-contra-la-crisis-brasil-apuesta-por-el-oro_ccbd28fc1a34.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-07-2021_la-lucha-contra-la-crisis-brasil-apuesta-por-el-oro_ccbd28fc1a34.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-07-2021_la-lucha-contra-la-crisis-brasil-apuesta-por-el-oro_ccbd28fc1a34",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a0/c2/15/90/cb/a0c21590cbf33df80bc657f861963695_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-07-2021_la-lucha-contra-la-crisis-brasil-apuesta-por-el-oro_ccbd28fc1a34\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1135/120721gold2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-07-2021_la-lucha-contra-la-crisis-brasil-apuesta-por-el-oro_ccbd28fc1a34\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:33:04.481918-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_9ce3d26ba797",
+  "platform": "gig_os",
+  "title": "¿Qué es NETS Coin?",
+  "date": "18.11.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-es-nets-coin-1010",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-es-nets-coin-1010",
+  "content_hash": "e1a7a2d8276627bdf8279d39a9756bfe704f177154acbea1e697cedc61fc54d7",
+  "url_hash": "42ffb4db651c71004dbb2968685a96da9f1507126617dd31df303d8889314631",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-11-2024_qué-es-nets-coin_9ce3d26ba797.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-11-2024_qué-es-nets-coin_9ce3d26ba797.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-11-2024_qué-es-nets-coin_9ce3d26ba797",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/13/11/93/f0/1a/131193f01a5b52c553aa301aa2b6be91_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-11-2024_qué-es-nets-coin_9ce3d26ba797\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:32.662556-03:00",
+  "status": "downloaded"
+}

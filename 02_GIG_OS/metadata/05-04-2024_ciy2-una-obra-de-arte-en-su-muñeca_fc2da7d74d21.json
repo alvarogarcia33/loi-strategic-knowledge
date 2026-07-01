@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_fc2da7d74d21",
+  "platform": "gig_os",
+  "title": "CIY2: una obra de arte en su muñeca",
+  "date": "05.04.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ciy2-una-obra-de-arte-en-su-muneca-910",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ciy2-una-obra-de-arte-en-su-muneca-910",
+  "content_hash": "33062cbc6b96a68921f7d741097462b922709c99e54dacb46cfef6fe4b9f6814",
+  "url_hash": "01d466e8ea1caa3eafa0039d4226af62ff455f253ba25248a7767d5d769215ea",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-04-2024_ciy2-una-obra-de-arte-en-su-muñeca_fc2da7d74d21.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-04-2024_ciy2-una-obra-de-arte-en-su-muñeca_fc2da7d74d21.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-04-2024_ciy2-una-obra-de-arte-en-su-muñeca_fc2da7d74d21",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5f/9e/8e/c0/82/5f9e8ec082af54afcec8d6e44c743529_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-04-2024_ciy2-una-obra-de-arte-en-su-muñeca_fc2da7d74d21\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1662/bracelet-photo-ciy18291_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-04-2024_ciy2-una-obra-de-arte-en-su-muñeca_fc2da7d74d21\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1662/call-to-action-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-04-2024_ciy2-una-obra-de-arte-en-su-muñeca_fc2da7d74d21\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:02:04.106289-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_9ccfa9519c95",
+  "platform": "gig_os",
+  "title": "Global Convention 2019-Online: ¡se ha hecho un paso hacia el futuro!",
+  "date": "29.11.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/global-convention-2019-online-se-ha-hecho-un-paso-hacia-el-futuro-202",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/global-convention-2019-online-se-ha-hecho-un-paso-hacia-el-futuro-202",
+  "content_hash": "9cf8160b0f0c05e753f24e9040fb5436c7b352f2fc9393c0cc0610b870c96896",
+  "url_hash": "259f46a29052ea8eb6d742ec047ca9fa2c8e33a4248684b25ea357c14ffde170",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-11-2019_global-convention-2019-online-se-ha-hecho-un-paso-hacia-el-futuro_9ccfa9519c95.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-11-2019_global-convention-2019-online-se-ha-hecho-un-paso-hacia-el-futuro_9ccfa9519c95.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2019_global-convention-2019-online-se-ha-hecho-un-paso-hacia-el-futuro_9ccfa9519c95",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/50/1a/f0/6a/b4/501af06ab47820f7bff39b7a250f8df9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2019_global-convention-2019-online-se-ha-hecho-un-paso-hacia-el-futuro_9ccfa9519c95\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/808/global-convention-2019-online-122439_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2019_global-convention-2019-online-se-ha-hecho-un-paso-hacia-el-futuro_9ccfa9519c95\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/808/global-convention-2019-online-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2019_global-convention-2019-online-se-ha-hecho-un-paso-hacia-el-futuro_9ccfa9519c95\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:18:17.695513-03:00",
+  "status": "downloaded"
+}

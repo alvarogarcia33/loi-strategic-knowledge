@@ -1,0 +1,81 @@
+{
+  "article_uid": "gig_os_aabc9c5b2352",
+  "platform": "gig_os",
+  "title": "Cómo la seguridad financiera cambió las vidas de los clientes de Global InterGold",
+  "date": "22.02.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-la-seguridad-financiera-cambio-las-vidas-de-los-clientes-de-global-intergold",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-la-seguridad-financiera-cambio-las-vidas-de-los-clientes-de-global-intergold",
+  "content_hash": "b104141a26ffde2f27f5a1e10eba1f41985a0fa43056165433479e0b4fe1fb32",
+  "url_hash": "0072cd318694c7379a1e3e99b0c9cfff5b66d824b13b951d62355e797c601b55",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-02-2018_cómo-la-seguridad-financiera-cambió-las-vidas-de-los-clientes-de-global-intergol_aabc9c5b2352.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-02-2018_cómo-la-seguridad-financiera-cambió-las-vidas-de-los-clientes-de-global-intergol_aabc9c5b2352.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-02-2018_cómo-la-seguridad-financiera-cambió-las-vidas-de-los-clientes-de-global-intergol_aabc9c5b2352",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cc/03/8c/86/3b/cc038c863b3b6edc4f9a1c659c26166e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-02-2018_cómo-la-seguridad-financiera-cambió-las-vidas-de-los-clientes-de-global-intergol_aabc9c5b2352\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/449/frame-294857319201_1.png",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/449/arianda2_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/449/oscar1_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/449/2600117221734045360069457940571274753905849n_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/449/hanna1_1.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/449/elizabeth1_1.jpg",
+      "local_path": null,
+      "filename": "image_07",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:03:46.521483-03:00",
+  "status": "downloaded"
+}

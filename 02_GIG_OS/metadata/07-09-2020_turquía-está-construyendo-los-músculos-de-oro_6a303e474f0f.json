@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_6a303e474f0f",
+  "platform": "gig_os",
+  "title": "Turquía está construyendo los músculos de oro.",
+  "date": "07.09.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/turquia-esta-construyendo-los-musculos-de-oro-302",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/turquia-esta-construyendo-los-musculos-de-oro-302",
+  "content_hash": "e0d508fe8f1380375faff62dcf76b3550f138cac2f13a0597c72e92a4c93fa4c",
+  "url_hash": "2ebcc41951a5f5727e34451adf7a35c700a52ee260fd5e2984fba757f42c7fe7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-09-2020_turquía-está-construyendo-los-músculos-de-oro_6a303e474f0f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-09-2020_turquía-está-construyendo-los-músculos-de-oro_6a303e474f0f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-09-2020_turquía-está-construyendo-los-músculos-de-oro_6a303e474f0f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4e/f5/7c/8d/b4/4ef57c8db44f7b8beeceee47e24efe39_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-09-2020_turquía-está-construyendo-los-músculos-de-oro_6a303e474f0f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/945/1200x-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-09-2020_turquía-está-construyendo-los-músculos-de-oro_6a303e474f0f\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:07.620636-03:00",
+  "status": "downloaded"
+}

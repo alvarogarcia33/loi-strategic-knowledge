@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ca629fbd1156",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 29 de enero de 2018.",
+  "date": "29.01.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-29-de-enero-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-29-de-enero-de-2018",
+  "content_hash": "62250b79269b1c4d6463ae82f06b8b7f8b875a01f53180545d6537613f57bb68",
+  "url_hash": "da2fbaa969ca1dd59d3ac4024c96411a3862a83ff1915bbc09b8bd14b2b44505",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-01-2018_informe-de-la-cotización-del-oro-al-29-de-enero-de-2018_ca629fbd1156.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-01-2018_informe-de-la-cotización-del-oro-al-29-de-enero-de-2018_ca629fbd1156.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-01-2018_informe-de-la-cotización-del-oro-al-29-de-enero-de-2018_ca629fbd1156",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/41/bc/db/02/21/41bcdb022185c508b3678f12832bbf16_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-01-2018_informe-de-la-cotización-del-oro-al-29-de-enero-de-2018_ca629fbd1156\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/441/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:27:35.907983-03:00",
+  "status": "downloaded"
+}

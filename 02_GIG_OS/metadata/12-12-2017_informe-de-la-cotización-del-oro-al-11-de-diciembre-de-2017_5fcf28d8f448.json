@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_5fcf28d8f448",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 11 de diciembre de 2017",
+  "date": "12.12.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-11-de-diciembre-de-2017",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-11-de-diciembre-de-2017",
+  "content_hash": "783dbc8396846b85a72732b68e146d9214497d7fb87d421519cd0dd6a2a08017",
+  "url_hash": "5b9d31ce9d85379776d82d4538b007c37a30ae4633b07f3aee009a53d6bc2869",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-12-2017_informe-de-la-cotización-del-oro-al-11-de-diciembre-de-2017_5fcf28d8f448.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-12-2017_informe-de-la-cotización-del-oro-al-11-de-diciembre-de-2017_5fcf28d8f448.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2017_informe-de-la-cotización-del-oro-al-11-de-diciembre-de-2017_5fcf28d8f448",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/02/f1/a4/67/0f/02f1a4670ffb1fb73d9435b32d922144_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2017_informe-de-la-cotización-del-oro-al-11-de-diciembre-de-2017_5fcf28d8f448\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/431/global-intergold-gold-prices-11-12-2017_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:58.324247-03:00",
+  "status": "downloaded"
+}

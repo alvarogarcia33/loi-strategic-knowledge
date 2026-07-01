@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c19f1f4d3647",
+  "platform": "gig_os",
+  "title": "Oscar De Carlos: 10 años de prosperidad",
+  "date": "17.05.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oscar-de-carlos-10-anos-de-prosperidad-936",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oscar-de-carlos-10-anos-de-prosperidad-936",
+  "content_hash": "b6e7428a7ecdf151c45ce65f0208520c24c23b1b4d0a6a2a5dafd5508a86b5fc",
+  "url_hash": "b0346afd1b4f2913be082ef660be585bfb4b945d26578505812420f6cb025ac7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-05-2024_oscar-de-carlos-10-años-de-prosperidad_c19f1f4d3647.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-05-2024_oscar-de-carlos-10-años-de-prosperidad_c19f1f4d3647.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2024_oscar-de-carlos-10-años-de-prosperidad_c19f1f4d3647",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1697/17-05-2024-news-1-es10294_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2024_oscar-de-carlos-10-años-de-prosperidad_c19f1f4d3647\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:05.223898-03:00",
+  "status": "downloaded"
+}

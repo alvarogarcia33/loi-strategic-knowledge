@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_a8e01dc6751b",
+  "platform": "olympia",
+  "title": "La comunidad crece: ¡gane premios junto con sus nuevos miembros!",
+  "date": "30.06.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros",
+  "canonical_url": "https://olympia-lab.com/es/news/post/la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros",
+  "content_hash": "5fa20957c24fdb8dd82687b9fe421812328e088a16c7bd6a4c91bd7fd1f8ef16",
+  "url_hash": "962757a967ff93f44877f04593d915c972262279410075b491ce06a9aae8ab5b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/88/f5/31/c0/fc/88f531c0fc89d8f3ec47b505cfa57a67.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/97/5a/78/61/d3/975a7861d31f7f583ca3b310b7f4b418_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/73/74/95/44/0b737495445a2909e41b948bd7e3ad8e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/95/c9/97/e5/a7/95c997e5a7a7923e524730988afd52ed_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/14/d5/da/67/3a/14d5da673a6acbffabbc90d4ef1d4952_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/6c/c9/46/e1/da6cc946e1ef65d70b3d486c76929e0e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-07-01T18:06:41.422088-03:00",
+  "status": "downloaded"
+}

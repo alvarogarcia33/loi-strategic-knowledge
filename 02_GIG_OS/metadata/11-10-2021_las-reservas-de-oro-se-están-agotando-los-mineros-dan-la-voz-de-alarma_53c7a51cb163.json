@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_53c7a51cb163",
+  "platform": "gig_os",
+  "title": "Las reservas de oro se están agotando, los mineros dan la voz de alarma",
+  "date": "11.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/las-reservas-de-oro-se-estan-agotando-los-mineros-dan-la-voz-de-alarma-479",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/las-reservas-de-oro-se-estan-agotando-los-mineros-dan-la-voz-de-alarma-479",
+  "content_hash": "e40f3077b7a2efed2baaed78c98e22e46c8e608c61cbabd10fcdde1bc1e04e62",
+  "url_hash": "ddc25eee9d000ded7a80134ed6523c46ad0765b70d9d28489e404e9adc81d097",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-10-2021_las-reservas-de-oro-se-están-agotando-los-mineros-dan-la-voz-de-alarma_53c7a51cb163.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-10-2021_las-reservas-de-oro-se-están-agotando-los-mineros-dan-la-voz-de-alarma_53c7a51cb163.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-10-2021_las-reservas-de-oro-se-están-agotando-los-mineros-dan-la-voz-de-alarma_53c7a51cb163",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3a/f2/dc/a0/a7/3af2dca0a7bf9b516fb4178ed1b77b0e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-10-2021_las-reservas-de-oro-se-están-agotando-los-mineros-dan-la-voz-de-alarma_53c7a51cb163\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1176/las-reservas-de-oro-se-estan-agotando-los-mineros-dan-la-voz-de-alarma92211_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-10-2021_las-reservas-de-oro-se-están-agotando-los-mineros-dan-la-voz-de-alarma_53c7a51cb163\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:36:25.417575-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_f765dde1dde1",
+  "platform": "gig_os",
+  "title": "Hacia dónde se dirige el oro: opiniones de expertos",
+  "date": "10.08.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/hacia-donde-se-dirige-el-oro-opiniones-de-expertos-291",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/hacia-donde-se-dirige-el-oro-opiniones-de-expertos-291",
+  "content_hash": "bd089e4fbf9cc956d072209f9270bf5f4d97e777f839e4b704d9ceb3afee2e2e",
+  "url_hash": "8daa778d3ceb212d92c2aaa04dc2b9fb1b7772822b5f5a71f9b4a4cfbb67fa19",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-08-2020_hacia-dónde-se-dirige-el-oro-opiniones-de-expertos_f765dde1dde1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-08-2020_hacia-dónde-se-dirige-el-oro-opiniones-de-expertos_f765dde1dde1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-08-2020_hacia-dónde-se-dirige-el-oro-opiniones-de-expertos_f765dde1dde1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3f/90/06/b2/91/3f9006b2917d6ae9560f05e97fb27ea3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-08-2020_hacia-dónde-se-dirige-el-oro-opiniones-de-expertos_f765dde1dde1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/916/imgonline-com-ua-resize-zii2jrbcibq1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-08-2020_hacia-dónde-se-dirige-el-oro-opiniones-de-expertos_f765dde1dde1\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/916/2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-08-2020_hacia-dónde-se-dirige-el-oro-opiniones-de-expertos_f765dde1dde1\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:23:21.468103-03:00",
+  "status": "downloaded"
+}

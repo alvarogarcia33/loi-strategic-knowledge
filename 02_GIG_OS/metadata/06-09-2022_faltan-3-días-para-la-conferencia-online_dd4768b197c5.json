@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_dd4768b197c5",
+  "platform": "gig_os",
+  "title": "Faltan 3 días para la conferencia online",
+  "date": "06.09.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/faltan-3-dias-para-la-conferencia-online-621",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/faltan-3-dias-para-la-conferencia-online-621",
+  "content_hash": "c3fdff9924bdb728637553ba28f4f7715aab8172448778dcae0e6d76faaa94c5",
+  "url_hash": "7e074db0457f24dfe355680feecf5f24e9341285278fa79403322ad0c2a00a1b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-09-2022_faltan-3-días-para-la-conferencia-online_dd4768b197c5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-09-2022_faltan-3-días-para-la-conferencia-online_dd4768b197c5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-09-2022_faltan-3-días-para-la-conferencia-online_dd4768b197c5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5c/01/14/0d/ea/5c01140dea71bb496b180159b49446bd_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-09-2022_faltan-3-días-para-la-conferencia-online_dd4768b197c5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:15:14.089617-03:00",
+  "status": "downloaded"
+}

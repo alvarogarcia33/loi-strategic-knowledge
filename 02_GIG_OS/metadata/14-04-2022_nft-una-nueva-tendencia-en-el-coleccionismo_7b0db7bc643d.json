@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_7b0db7bc643d",
+  "platform": "gig_os",
+  "title": "NFT: una nueva tendencia en el coleccionismo",
+  "date": "14.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nft-una-nueva-tendencia-en-el-coleccionismo-560",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nft-una-nueva-tendencia-en-el-coleccionismo-560",
+  "content_hash": "613e85d31c9f252f06a2f49a779bee1ebf1383ff8801cb85a3e1966ec5328325",
+  "url_hash": "e8470812090450e2dba6ebb3daf5c2b009326bd8a8d0fee44ae3dbf767b182fe",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-04-2022_nft-una-nueva-tendencia-en-el-coleccionismo_7b0db7bc643d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-04-2022_nft-una-nueva-tendencia-en-el-coleccionismo_7b0db7bc643d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-04-2022_nft-una-nueva-tendencia-en-el-coleccionismo_7b0db7bc643d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/02/96/4c/73/a7/02964c73a74f936b58102fa9f53b2226_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-04-2022_nft-una-nueva-tendencia-en-el-coleccionismo_7b0db7bc643d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1263/dizayn-bez-nazvaniya-12-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-04-2022_nft-una-nueva-tendencia-en-el-coleccionismo_7b0db7bc643d\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1263/dizayn-bez-nazvaniya-19_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-04-2022_nft-una-nueva-tendencia-en-el-coleccionismo_7b0db7bc643d\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1263/novyy-proekt-9_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-04-2022_nft-una-nueva-tendencia-en-el-coleccionismo_7b0db7bc643d\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1263/dizayn-bez-nazvaniya6_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-04-2022_nft-una-nueva-tendencia-en-el-coleccionismo_7b0db7bc643d\\image_05.png",
+      "filename": "image_05.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:26.840235-03:00",
+  "status": "downloaded"
+}

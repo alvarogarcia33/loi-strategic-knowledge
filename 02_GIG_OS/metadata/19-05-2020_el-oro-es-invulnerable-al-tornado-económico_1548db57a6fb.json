@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1548db57a6fb",
+  "platform": "gig_os",
+  "title": "El oro es invulnerable al tornado económico",
+  "date": "19.05.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-es-invulnerable-al-tornado-economico-258",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-es-invulnerable-al-tornado-economico-258",
+  "content_hash": "7236c69feae23c7ac9b1d5218697d84d496407c329aa55549b85d783b9e9d5e5",
+  "url_hash": "7c5405050fc9ccaa084adb8b57d5b15dd59827a9e6d11c40dbf1a1a7c8ab20dc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-05-2020_el-oro-es-invulnerable-al-tornado-económico_1548db57a6fb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-05-2020_el-oro-es-invulnerable-al-tornado-económico_1548db57a6fb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-05-2020_el-oro-es-invulnerable-al-tornado-económico_1548db57a6fb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e1/e9/64/59/f0/e1e96459f0b788968be798e7a8bdf551_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-05-2020_el-oro-es-invulnerable-al-tornado-económico_1548db57a6fb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/875/bingo_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-05-2020_el-oro-es-invulnerable-al-tornado-económico_1548db57a6fb\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:00.602223-03:00",
+  "status": "downloaded"
+}

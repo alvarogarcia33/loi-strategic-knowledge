@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7b7343105745",
+  "platform": "gig_os",
+  "title": "What has been said during the Global InterGold leader’s seminar in Moscow.",
+  "date": "23.02.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/what-has-been-said-during-the-global-intergold-leaders-seminar-in-moscow",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/what-has-been-said-during-the-global-intergold-leaders-seminar-in-moscow",
+  "content_hash": "db056c3c73a82e2fe2f7c24b40aeb383699c03c97dba32f3f6946d302e2a3ee2",
+  "url_hash": "7f511b57bce8aafab2f6381050ab0561ce21b82b54db26a8207b03ba7e0888e7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-02-2018_what-has-been-said-during-the-global-intergold-leader-s-seminar-in-moscow_7b7343105745.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-02-2018_what-has-been-said-during-the-global-intergold-leader-s-seminar-in-moscow_7b7343105745.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-02-2018_what-has-been-said-during-the-global-intergold-leader-s-seminar-in-moscow_7b7343105745",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2e/e3/0f/97/4b/2ee30f974b63545d5a12e16b22a2023f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-02-2018_what-has-been-said-during-the-global-intergold-leader-s-seminar-in-moscow_7b7343105745\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/451/frame-294857319201_1.png",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T19:05:26.764176-03:00",
+  "status": "downloaded"
+}

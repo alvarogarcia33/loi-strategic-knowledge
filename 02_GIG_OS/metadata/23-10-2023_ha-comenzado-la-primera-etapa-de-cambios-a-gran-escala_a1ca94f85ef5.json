@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_a1ca94f85ef5",
+  "platform": "gig_os",
+  "title": "¡Ha comenzado la primera etapa de cambios a gran escala!",
+  "date": "23.10.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-la-primera-etapa-de-cambios-a-gran-escala-808",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-la-primera-etapa-de-cambios-a-gran-escala-808",
+  "content_hash": "66fd2c9ed8169a55b405646d3e106ce61c04c23b5990f8234b665e8ce39f77ef",
+  "url_hash": "e33e36f61bfebb9ef199205af214e7fa793800ba163d80cf40d38b5c7904d745",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-10-2023_ha-comenzado-la-primera-etapa-de-cambios-a-gran-escala_a1ca94f85ef5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-10-2023_ha-comenzado-la-primera-etapa-de-cambios-a-gran-escala_a1ca94f85ef5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-10-2023_ha-comenzado-la-primera-etapa-de-cambios-a-gran-escala_a1ca94f85ef5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/08/23/5f/dd/21/08235fdd2119128c09b5197483945a63_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-10-2023_ha-comenzado-la-primera-etapa-de-cambios-a-gran-escala_a1ca94f85ef5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:22:31.551526-03:00",
+  "status": "downloaded"
+}

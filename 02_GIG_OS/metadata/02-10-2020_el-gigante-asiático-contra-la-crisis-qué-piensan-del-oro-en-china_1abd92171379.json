@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1abd92171379",
+  "platform": "gig_os",
+  "title": "El gigante asiático contra la crisis: qué piensan del oro en China",
+  "date": "02.10.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-gigante-asiatico-contra-la-crisis-que-piensan-del-oro-en-china-313",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-gigante-asiatico-contra-la-crisis-que-piensan-del-oro-en-china-313",
+  "content_hash": "2c390a474d6d6694432b2bad0e73ef2f661d9abb593ff4af3b80bb4dffc033bd",
+  "url_hash": "a827cd4468520c1b3ccc073de07945a6249b86e3a9ec3a1a2d08053d4b25be9b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-10-2020_el-gigante-asiático-contra-la-crisis-qué-piensan-del-oro-en-china_1abd92171379.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-10-2020_el-gigante-asiático-contra-la-crisis-qué-piensan-del-oro-en-china_1abd92171379.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2020_el-gigante-asiático-contra-la-crisis-qué-piensan-del-oro-en-china_1abd92171379",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8f/56/2f/e5/0f/8f562fe50f56b1474c5ec692d2489edb_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2020_el-gigante-asiático-contra-la-crisis-qué-piensan-del-oro-en-china_1abd92171379\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/962/image3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2020_el-gigante-asiático-contra-la-crisis-qué-piensan-del-oro-en-china_1abd92171379\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:21.824468-03:00",
+  "status": "downloaded"
+}

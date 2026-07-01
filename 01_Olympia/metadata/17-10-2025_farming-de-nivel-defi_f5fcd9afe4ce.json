@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_f5fcd9afe4ce",
+  "platform": "olympia",
+  "title": "¡Farming de nivel DeFi!",
+  "date": "17.10.2025",
+  "source_url": "https://olympia-lab.com/es/news/post/farming-de-nivel-defi-0111",
+  "canonical_url": "https://olympia-lab.com/es/news/post/farming-de-nivel-defi-0111",
+  "content_hash": "3e9b23bbaa105d53b3ddc9a10669f7e73c5759187fbe3e06b603fcac10592b0f",
+  "url_hash": "16681cca4a8d291d0befd0fc6a53dc446d840c904bc7a79176758ea986e34e77",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\17-10-2025_farming-de-nivel-defi_f5fcd9afe4ce.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\17-10-2025_farming-de-nivel-defi_f5fcd9afe4ce.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-10-2025_farming-de-nivel-defi_f5fcd9afe4ce",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/08/67/ab/97/48/0867ab97485a250cf0b8b822f22b2f56.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-10-2025_farming-de-nivel-defi_f5fcd9afe4ce\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/72/ba/01/31/2272ba0131aaea68d4b4afb0a835a2d6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-10-2025_farming-de-nivel-defi_f5fcd9afe4ce\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/73/57/a5/32/24/7357a532240b5f6101397e18e68a8903_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-10-2025_farming-de-nivel-defi_f5fcd9afe4ce\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ae/f1/6f/e5/32/aef16fe532a983dbe6359eb674405da9_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-10-2025_farming-de-nivel-defi_f5fcd9afe4ce\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/15/e2/94/fe/b1/15e294feb146514b67e125d3f5847e18_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-10-2025_farming-de-nivel-defi_f5fcd9afe4ce\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/66/20/03/b5/53/662003b5536e57f075dd804546ad98ba_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-10-2025_farming-de-nivel-defi_f5fcd9afe4ce\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:19:18.228410-03:00",
+  "status": "downloaded"
+}

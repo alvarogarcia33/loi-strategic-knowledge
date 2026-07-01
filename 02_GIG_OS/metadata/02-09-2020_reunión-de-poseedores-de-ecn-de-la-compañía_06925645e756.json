@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_06925645e756",
+  "platform": "gig_os",
+  "title": "Reunión de poseedores de ECN de la compañía",
+  "date": "02.09.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/reunion-de-poseedores-de-ecn-de-la-compania-300",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/reunion-de-poseedores-de-ecn-de-la-compania-300",
+  "content_hash": "108cf4c9389399d72831e0f205328d5f960f5f4ef04a37094ec288428087f528",
+  "url_hash": "06d09cecc875e7c39f0cff0b07afcb9a0929348be3ad749ad3e2a197deea4278",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-09-2020_reunión-de-poseedores-de-ecn-de-la-compañía_06925645e756.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-09-2020_reunión-de-poseedores-de-ecn-de-la-compañía_06925645e756.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2020_reunión-de-poseedores-de-ecn-de-la-compañía_06925645e756",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3d/3b/c5/6a/00/3d3bc56a0089a9181c52354947504ce3_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2020_reunión-de-poseedores-de-ecn-de-la-compañía_06925645e756\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:54:09.712960-03:00",
+  "status": "downloaded"
+}

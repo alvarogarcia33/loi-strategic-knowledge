@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_0568bd1546c7",
+  "platform": "gig_os",
+  "title": "Ha comenzado la primera etapa de pruebas de Legends of Interactions",
+  "date": "30.05.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-la-primera-etapa-de-pruebas-de-legends-of-interactions-1088",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-la-primera-etapa-de-pruebas-de-legends-of-interactions-1088",
+  "content_hash": "212a917159f2e85d3cdf18321a4c9ffd8fd83fa68c1f5220c653962014bc452b",
+  "url_hash": "d95b49fcace0ac9c6948bf44204ce3f887c39398b349ca039f511a61df67da9d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-05-2025_ha-comenzado-la-primera-etapa-de-pruebas-de-legends-of-interactions_0568bd1546c7.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-05-2025_ha-comenzado-la-primera-etapa-de-pruebas-de-legends-of-interactions_0568bd1546c7.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-05-2025_ha-comenzado-la-primera-etapa-de-pruebas-de-legends-of-interactions_0568bd1546c7",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2f/fb/8a/7d/90/2ffb8a7d901d011b74406a7b72b89327_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-05-2025_ha-comenzado-la-primera-etapa-de-pruebas-de-legends-of-interactions_0568bd1546c7\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:22:34.497898-03:00",
+  "status": "downloaded"
+}

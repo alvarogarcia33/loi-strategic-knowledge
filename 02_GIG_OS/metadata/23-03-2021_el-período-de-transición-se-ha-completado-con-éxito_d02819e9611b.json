@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d02819e9611b",
+  "platform": "gig_os",
+  "title": "¡El período de transición se ha completado con éxito!",
+  "date": "23.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-periodo-de-transicion-se-ha-completado-con-exito-382",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-periodo-de-transicion-se-ha-completado-con-exito-382",
+  "content_hash": "8290d7317edda2bba349a385b443e299a2460704eeb331165dfc8d430a794fd7",
+  "url_hash": "7da9822333a41853434bb82334e62b2045976a149444159602255e3a35772151",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-03-2021_el-período-de-transición-se-ha-completado-con-éxito_d02819e9611b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-03-2021_el-período-de-transición-se-ha-completado-con-éxito_d02819e9611b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-03-2021_el-período-de-transición-se-ha-completado-con-éxito_d02819e9611b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/01/2f/b5/fa/0f/012fb5fa0f33fe3824bf64ab13a0f9ba_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-03-2021_el-período-de-transición-se-ha-completado-con-éxito_d02819e9611b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:51.857680-03:00",
+  "status": "downloaded"
+}

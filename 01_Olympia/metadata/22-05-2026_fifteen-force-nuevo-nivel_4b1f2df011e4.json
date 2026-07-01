@@ -1,0 +1,89 @@
+{
+  "article_uid": "olympia_4b1f2df011e4",
+  "platform": "olympia",
+  "title": "Fifteen Force: nuevo nivel",
+  "date": "22.05.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/fifteen-force-nuevo-nivel-0203",
+  "canonical_url": "https://olympia-lab.com/es/news/post/fifteen-force-nuevo-nivel-0203",
+  "content_hash": "d5c6bc925decfe634723227390d97bd6af7c131d98572189198bac065c47544a",
+  "url_hash": "acdde5658730ba30d378b945949b521bd3f1002cfb9e90f0c479950142e267a2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/7d/0b/fb/e6/72/7d0bfbe6722c58d79c28b20bebf02ce3.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/10/d0/99/2c/6b/10d0992c6b785c1663890bc39f7958d0.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/7e/2b/8e/43/b6/7e2b8e43b69a449ec61eae545efc8269.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/a1/bf/d4/d2/de/a1bfd4d2de5970b4055a816c807fe329.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/97/5a/78/61/d3/975a7861d31f7f583ca3b310b7f4b418_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/73/74/95/44/0b737495445a2909e41b948bd7e3ad8e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/95/c9/97/e5/a7/95c997e5a7a7923e524730988afd52ed_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/14/d5/da/67/3a/14d5da673a6acbffabbc90d4ef1d4952_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4\\image_08.jpg",
+      "filename": "image_08.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/6c/c9/46/e1/da6cc946e1ef65d70b3d486c76929e0e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4\\image_09.jpg",
+      "filename": "image_09.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:19:50.095693-03:00",
+  "status": "downloaded"
+}

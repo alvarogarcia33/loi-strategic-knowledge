@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_20387f831d9e",
+  "platform": "gig_os",
+  "title": "¿Empezará la carrera de oro espacial este año?",
+  "date": "12.10.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/empezara-la-carrera-de-oro-espacial-este-ano-315",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/empezara-la-carrera-de-oro-espacial-este-ano-315",
+  "content_hash": "6ab9246d0e94b04b5b1923eb5ca5659a3b580a3abb7ba4d422bc435d0d3b4f2d",
+  "url_hash": "5143c3f30d364c447c7e33bdcb9706de397cc97168e9426fe90584177225e241",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-10-2020_empezará-la-carrera-de-oro-espacial-este-año_20387f831d9e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-10-2020_empezará-la-carrera-de-oro-espacial-este-año_20387f831d9e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-10-2020_empezará-la-carrera-de-oro-espacial-este-año_20387f831d9e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8e/d8/3e/72/65/8ed83e72650be1292514dd610d8efd1b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-10-2020_empezará-la-carrera-de-oro-espacial-este-año_20387f831d9e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/965/image4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-10-2020_empezará-la-carrera-de-oro-espacial-este-año_20387f831d9e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:13:13.631305-03:00",
+  "status": "downloaded"
+}

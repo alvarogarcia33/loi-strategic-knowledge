@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_71443f87852b",
+  "platform": "gig_os",
+  "title": "¡Cada día hay más candidatos!",
+  "date": "27.08.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/cada-dia-hay-mas-candidatos-1132",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/cada-dia-hay-mas-candidatos-1132",
+  "content_hash": "5fd048a7cca80e2fa09eae6ce066c186f46385f891020f4b4d02ab5d02aad97c",
+  "url_hash": "10191c0a00f6eb611ffc9a5b7de28fe8b654375bdf0833f1fdc8f7d4bf74e66a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-08-2025_cada-día-hay-más-candidatos_71443f87852b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-08-2025_cada-día-hay-más-candidatos_71443f87852b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-08-2025_cada-día-hay-más-candidatos_71443f87852b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/53/5d/9c/5a/fc/535d9c5afc9ee7386ffda448da1b4825_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-08-2025_cada-día-hay-más-candidatos_71443f87852b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1912/inside-1212_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-08-2025_cada-día-hay-más-candidatos_71443f87852b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:00:18.026817-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d6b7db5919cb",
+  "platform": "gig_os",
+  "title": "Posiciones sólidas y buenas perspectivas",
+  "date": "09.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/posiciones-solidas-y-buenas-perspectivas-572",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/posiciones-solidas-y-buenas-perspectivas-572",
+  "content_hash": "cb43da895623bdd99fa6d792ce3cde19826e33f72e48cc977ad86b81f9c0cf4f",
+  "url_hash": "2e5c969803d2f4eb10e72f5f27cf310f2dc871fc2da7e61c58f852af74150e70",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-05-2022_posiciones-sólidas-y-buenas-perspectivas_d6b7db5919cb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-05-2022_posiciones-sólidas-y-buenas-perspectivas_d6b7db5919cb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-05-2022_posiciones-sólidas-y-buenas-perspectivas_d6b7db5919cb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/05/bf/ef/6e/97/05bfef6e97785cb69aaac60d0ac5e8be_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-05-2022_posiciones-sólidas-y-buenas-perspectivas_d6b7db5919cb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1279/zoloto-tonny11_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-05-2022_posiciones-sólidas-y-buenas-perspectivas_d6b7db5919cb\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:03.921637-03:00",
+  "status": "downloaded"
+}

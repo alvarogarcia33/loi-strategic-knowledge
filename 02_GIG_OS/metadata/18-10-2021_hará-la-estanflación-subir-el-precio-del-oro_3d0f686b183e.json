@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_3d0f686b183e",
+  "platform": "gig_os",
+  "title": "¿Hará la estanflación subir el precio del oro?",
+  "date": "18.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/hara-la-estanflacion-subir-el-precio-del-oro-482",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/hara-la-estanflacion-subir-el-precio-del-oro-482",
+  "content_hash": "907ff4e17df3785b7e802a01eef3fc7c7a4fdebb2c061dbeeb759a8cbd285592",
+  "url_hash": "dfaeae15d7de6c9e0e4c959cef54d5011df578bb1b81ec9ba8e84fcae6d57459",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-10-2021_hará-la-estanflación-subir-el-precio-del-oro_3d0f686b183e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-10-2021_hará-la-estanflación-subir-el-precio-del-oro_3d0f686b183e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-10-2021_hará-la-estanflación-subir-el-precio-del-oro_3d0f686b183e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ef/5c/a8/9a/da/ef5ca89ada79853549e1d0001b35f784_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-10-2021_hará-la-estanflación-subir-el-precio-del-oro_3d0f686b183e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1180/hara-la-estanflacion-subir-el-precio-del-oro81911_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-10-2021_hará-la-estanflación-subir-el-precio-del-oro_3d0f686b183e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:23:45.594183-03:00",
+  "status": "downloaded"
+}

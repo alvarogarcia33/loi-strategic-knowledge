@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_bdba9a9614c2",
+  "platform": "gig_os",
+  "title": "[REPORTAJE FOTOGRÁFICO] Lo más destacado del NextEra Forum",
+  "date": "27.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/reportaje-fotografico-lo-mas-destacado-del-nextera-forum-829",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/reportaje-fotografico-lo-mas-destacado-del-nextera-forum-829",
+  "content_hash": "0b3bdafa7f0cc280979199accb25f937eaca026f62bdd781772b5d1bd1d0ee19",
+  "url_hash": "8696fbfea551820a700ed3c414e474ec7e8f819401a1a0ea829afd6df4558576",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-11-2023_reportaje-fotográfico-lo-más-destacado-del-nextera-forum_bdba9a9614c2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-11-2023_reportaje-fotográfico-lo-más-destacado-del-nextera-forum_bdba9a9614c2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-11-2023_reportaje-fotográfico-lo-más-destacado-del-nextera-forum_bdba9a9614c2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1571/27-11-2023-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-11-2023_reportaje-fotográfico-lo-más-destacado-del-nextera-forum_bdba9a9614c2\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:52:55.324469-03:00",
+  "status": "downloaded"
+}

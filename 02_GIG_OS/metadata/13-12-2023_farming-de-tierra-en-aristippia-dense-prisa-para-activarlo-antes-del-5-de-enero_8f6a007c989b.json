@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_8f6a007c989b",
+  "platform": "gig_os",
+  "title": "Farming de tierra en Aristippia: ¡dense prisa para activarlo antes del 5 de enero!",
+  "date": "13.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/farming-de-tierra-en-aristippia-dense-prisa-para-activarlo-antes-del-5-de-enero-840",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/farming-de-tierra-en-aristippia-dense-prisa-para-activarlo-antes-del-5-de-enero-840",
+  "content_hash": "b4fcbac98e4eecac637efbad55256ca8e8893498f7751237d0b927a73ad44081",
+  "url_hash": "7468b1cad197f31a4d56acc39e962ea5c86eabe5ad0b57d1d66e566697d09173",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-12-2023_farming-de-tierra-en-aristippia-dense-prisa-para-activarlo-antes-del-5-de-enero_8f6a007c989b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-12-2023_farming-de-tierra-en-aristippia-dense-prisa-para-activarlo-antes-del-5-de-enero_8f6a007c989b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-12-2023_farming-de-tierra-en-aristippia-dense-prisa-para-activarlo-antes-del-5-de-enero_8f6a007c989b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/be/09/ad/75/b8/be09ad75b816326deb37af8b282d1078_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-12-2023_farming-de-tierra-en-aristippia-dense-prisa-para-activarlo-antes-del-5-de-enero_8f6a007c989b\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1584/text-aristippia-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-12-2023_farming-de-tierra-en-aristippia-dense-prisa-para-activarlo-antes-del-5-de-enero_8f6a007c989b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:15:51.085645-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e33f83566745",
+  "platform": "gig_os",
+  "title": "¡Celebración especial — noticias especiales!",
+  "date": "08.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/celebracion-especial-noticias-especiales-247",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/celebracion-especial-noticias-especiales-247",
+  "content_hash": "e378082b01ff1778ee4b4ce70523f2306f2cc88e8165585b2973403858381f20",
+  "url_hash": "59b25bb09aabb849bed0ab757861b4aa9b15d82b3b3a3c1b57aeb5fa227d6d1e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-06-2021_celebración-especial-noticias-especiales_e33f83566745.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-06-2021_celebración-especial-noticias-especiales_e33f83566745.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-06-2021_celebración-especial-noticias-especiales_e33f83566745",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/29/11/2c/68/75/29112c6875684defdab17c4336f1c188_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-06-2021_celebración-especial-noticias-especiales_e33f83566745\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:00:52.950408-03:00",
+  "status": "downloaded"
+}

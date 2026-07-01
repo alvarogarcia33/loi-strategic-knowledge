@@ -1,0 +1,81 @@
+{
+  "article_uid": "gig_os_192ab70e461e",
+  "platform": "gig_os",
+  "title": "El Oro: 7000 años de historia de éxito",
+  "date": "02.03.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-7000-anos-de-historia-de-exito-226",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-7000-anos-de-historia-de-exito-226",
+  "content_hash": "17997786168b2702b8d38f621f631aef30272018c298553a07d7a746ab60d070",
+  "url_hash": "0db8e0378468a6fc1d1a370bc74983e9ad3704e0c8e006ee2e21d0b8b8798d3f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-03-2020_el-oro-7000-años-de-historia-de-éxito_192ab70e461e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-03-2020_el-oro-7000-años-de-historia-de-éxito_192ab70e461e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-03-2020_el-oro-7000-años-de-historia-de-éxito_192ab70e461e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/91/a4/6b/f5/21/91a46bf5213291d75d5329723bced9ca_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-03-2020_el-oro-7000-años-de-historia-de-éxito_192ab70e461e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/840/global-intergold--antiguo-egipto_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-03-2020_el-oro-7000-años-de-historia-de-éxito_192ab70e461e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/840/global-intergold--dinero-en-oro57207_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-03-2020_el-oro-7000-años-de-historia-de-éxito_192ab70e461e\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/840/global-intergold--san-francisco-1848-1849-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-03-2020_el-oro-7000-años-de-historia-de-éxito_192ab70e461e\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/840/global-intergold--cartel-electoral_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-03-2020_el-oro-7000-años-de-historia-de-éxito_192ab70e461e\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/840/global-intergold--el-precio-del-oro-aumenta-en-los-ultimos-47-anos_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-03-2020_el-oro-7000-años-de-historia-de-éxito_192ab70e461e\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/840/global-intergold--compras-de-oro-por-un-banco_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-03-2020_el-oro-7000-años-de-historia-de-éxito_192ab70e461e\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:14.401332-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_53401c79bf81",
+  "platform": "gig_os",
+  "title": "Derecho a quemar NFT: ¿por qué es importante?",
+  "date": "28.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/derecho-a-quemar-nft-por-que-es-importante-566",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/derecho-a-quemar-nft-por-que-es-importante-566",
+  "content_hash": "96930a17caaa0680f7f240add230f8baae7e331dea0bca7a07621241d524d1d5",
+  "url_hash": "2e6b26bf70fcfd5e2deae5266a03a78421a6d939398a33e790b211f2b12800d1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-04-2022_derecho-a-quemar-nft-por-qué-es-importante_53401c79bf81.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-04-2022_derecho-a-quemar-nft-por-qué-es-importante_53401c79bf81.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-04-2022_derecho-a-quemar-nft-por-qué-es-importante_53401c79bf81",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8c/7a/43/01/2d/8c7a43012d0c8ed8197d6bbea758fecb_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-04-2022_derecho-a-quemar-nft-por-qué-es-importante_53401c79bf81\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1271/image2022-04-2713-49-27-3-1-1-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-04-2022_derecho-a-quemar-nft-por-qué-es-importante_53401c79bf81\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:05:59.130826-03:00",
+  "status": "downloaded"
+}

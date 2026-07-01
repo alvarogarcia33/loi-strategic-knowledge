@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_8a88631ff749",
+  "platform": "gig_os",
+  "title": "El tiempo se acaba: ¡activen NITRO!",
+  "date": "04.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-tiempo-se-acaba-activen-nitro-571",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-tiempo-se-acaba-activen-nitro-571",
+  "content_hash": "6088c6bc9707d51f99feb52d9f3a11a2d3f5d3bf5b440d8fa3fa36c16083f8fd",
+  "url_hash": "c503682e9f7443ac5a0702887a8f960c3611650a662c9c774385bf4858af1cf5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-05-2022_el-tiempo-se-acaba-activen-nitro_8a88631ff749.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-05-2022_el-tiempo-se-acaba-activen-nitro_8a88631ff749.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-05-2022_el-tiempo-se-acaba-activen-nitro_8a88631ff749",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0d/8b/a2/32/cc/0d8ba232cc389f21ca5907b56d5e4241_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-05-2022_el-tiempo-se-acaba-activen-nitro_8a88631ff749\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:33.051494-03:00",
+  "status": "downloaded"
+}

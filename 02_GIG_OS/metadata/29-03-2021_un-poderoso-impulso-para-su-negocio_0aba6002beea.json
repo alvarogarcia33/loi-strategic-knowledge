@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_0aba6002beea",
+  "platform": "gig_os",
+  "title": "¡Un poderoso impulso para su negocio!",
+  "date": "29.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/un-poderoso-impulso-para-su-negocio-390",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/un-poderoso-impulso-para-su-negocio-390",
+  "content_hash": "46eff0915e4f976be678ee3a8a613dabbf35b29d34e6924c81b7b8b03373cf70",
+  "url_hash": "303abd0d01f7e23d0806bfeae5ca821b50fe9a6e098e5d307f45c49d2f8c93bb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-03-2021_un-poderoso-impulso-para-su-negocio_0aba6002beea.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-03-2021_un-poderoso-impulso-para-su-negocio_0aba6002beea.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-03-2021_un-poderoso-impulso-para-su-negocio_0aba6002beea",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/36/e1/5d/a8/28/36e15da82868f0ab784011813a4b8225_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-03-2021_un-poderoso-impulso-para-su-negocio_0aba6002beea\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:00.283796-03:00",
+  "status": "downloaded"
+}

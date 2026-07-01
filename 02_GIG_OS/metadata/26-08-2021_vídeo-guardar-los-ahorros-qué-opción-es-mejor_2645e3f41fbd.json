@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_2645e3f41fbd",
+  "platform": "gig_os",
+  "title": "[VÍDEO] Guardar los ahorros: ¿qué opción es mejor?",
+  "date": "26.08.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/video-guardar-los-ahorros-que-opcion-es-mejor-457",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/video-guardar-los-ahorros-que-opcion-es-mejor-457",
+  "content_hash": "68fb0c7ee6627d66bd3e5d457c63ecbf4fc71550443e9be7617aaac5e020ff15",
+  "url_hash": "4dded15ca3bfb224d98d4bc147cc368479b8a0c0d410e3930e1588cecda1fa4a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-08-2021_vídeo-guardar-los-ahorros-qué-opción-es-mejor_2645e3f41fbd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-08-2021_vídeo-guardar-los-ahorros-qué-opción-es-mejor_2645e3f41fbd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-08-2021_vídeo-guardar-los-ahorros-qué-opción-es-mejor_2645e3f41fbd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1147/untitled-1-3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-08-2021_vídeo-guardar-los-ahorros-qué-opción-es-mejor_2645e3f41fbd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:03:24.951699-03:00",
+  "status": "downloaded"
+}

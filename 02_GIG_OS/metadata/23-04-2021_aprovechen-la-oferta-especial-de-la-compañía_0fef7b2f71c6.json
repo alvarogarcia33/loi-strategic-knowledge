@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_0fef7b2f71c6",
+  "platform": "gig_os",
+  "title": "Aprovechen la oferta especial de la compañía",
+  "date": "23.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/aprovechen-la-oferta-especial-de-la-compania-405",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/aprovechen-la-oferta-especial-de-la-compania-405",
+  "content_hash": "50a15aebdbdf2ecad0b8b46d420097043b6a9cef3f701be3f1a716b11a05f2c2",
+  "url_hash": "cc44f264cea3230e4238bf88629dfbff1e22e20d7bc7ece02f33d3e2a81b8afe",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-04-2021_aprovechen-la-oferta-especial-de-la-compañía_0fef7b2f71c6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-04-2021_aprovechen-la-oferta-especial-de-la-compañía_0fef7b2f71c6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-04-2021_aprovechen-la-oferta-especial-de-la-compañía_0fef7b2f71c6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f6/52/cc/18/37/f652cc18377201e8e998b531312ca356_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-04-2021_aprovechen-la-oferta-especial-de-la-compañía_0fef7b2f71c6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:30.296046-03:00",
+  "status": "downloaded"
+}

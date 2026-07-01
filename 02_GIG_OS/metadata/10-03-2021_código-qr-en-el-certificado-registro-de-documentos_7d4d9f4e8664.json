@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_7d4d9f4e8664",
+  "platform": "gig_os",
+  "title": "Código QR en el certificado: registro de documentos",
+  "date": "10.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/codigo-qr-en-el-certificado-registro-de-documentos-382",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/codigo-qr-en-el-certificado-registro-de-documentos-382",
+  "content_hash": "32de709207a3d5e4a0ba093ac91fba22a0ad70acaf06c6010a48d3251ec79f46",
+  "url_hash": "7af5698c530cc02d494a7bfa6d7b1206db71dc6fe8048a748434a98381c249b9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-03-2021_código-qr-en-el-certificado-registro-de-documentos_7d4d9f4e8664.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-03-2021_código-qr-en-el-certificado-registro-de-documentos_7d4d9f4e8664.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-03-2021_código-qr-en-el-certificado-registro-de-documentos_7d4d9f4e8664",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6d/44/73/ef/cc/6d4473efccbb5ed7132bac39df72cd7d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-03-2021_código-qr-en-el-certificado-registro-de-documentos_7d4d9f4e8664\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:02:06.809685-03:00",
+  "status": "downloaded"
+}

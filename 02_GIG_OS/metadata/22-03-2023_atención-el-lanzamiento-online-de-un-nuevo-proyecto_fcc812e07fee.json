@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_fcc812e07fee",
+  "platform": "gig_os",
+  "title": "¡Atención! El lanzamiento online de un nuevo proyecto",
+  "date": "22.03.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/atencion-el-lanzamiento-online-de-un-nuevo-proyecto-709",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/atencion-el-lanzamiento-online-de-un-nuevo-proyecto-709",
+  "content_hash": "7a5efff4994c87e10843cce42a46e49f9cf097eaabba9cd3a8649962abd526a7",
+  "url_hash": "f9f8625afb4286d6ec0bfe61bfa8b233fe8cade3b0bf06dfa9c594d88d63aadf",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-03-2023_atención-el-lanzamiento-online-de-un-nuevo-proyecto_fcc812e07fee.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-03-2023_atención-el-lanzamiento-online-de-un-nuevo-proyecto_fcc812e07fee.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2023_atención-el-lanzamiento-online-de-un-nuevo-proyecto_fcc812e07fee",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/dd/de/36/20/0b/ddde36200b59b95a11e8e670bbce6d25_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2023_atención-el-lanzamiento-online-de-un-nuevo-proyecto_fcc812e07fee\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:59.739221-03:00",
+  "status": "downloaded"
+}

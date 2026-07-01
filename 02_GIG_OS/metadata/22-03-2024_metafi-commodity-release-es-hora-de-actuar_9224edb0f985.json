@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_9224edb0f985",
+  "platform": "gig_os",
+  "title": "MetaFi — Commodity Release: ¡es hora de actuar!",
+  "date": "22.03.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/metafi-commodity-release-es-hora-de-actuar-900",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/metafi-commodity-release-es-hora-de-actuar-900",
+  "content_hash": "e0207a054689828c320d838a2916171013b9bec67f5a7b30d53123a85551396a",
+  "url_hash": "d2630cf44c33fa91d1d840268eafb24cb490e328402b646758c302ac82e75b08",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-03-2024_metafi-commodity-release-es-hora-de-actuar_9224edb0f985.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-03-2024_metafi-commodity-release-es-hora-de-actuar_9224edb0f985.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_metafi-commodity-release-es-hora-de-actuar_9224edb0f985",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/eb/9c/c4/c0/e6/eb9cc4c0e60d21edefe1142b21fb22cb_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_metafi-commodity-release-es-hora-de-actuar_9224edb0f985\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1652/variant-3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_metafi-commodity-release-es-hora-de-actuar_9224edb0f985\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1652/call-to-action-25-03-2024_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_metafi-commodity-release-es-hora-de-actuar_9224edb0f985\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:50.866307-03:00",
+  "status": "downloaded"
+}

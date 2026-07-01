@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_452d264bce79",
+  "platform": "gig_os",
+  "title": "El System Transformator actualizado ha comenzado a funcionar",
+  "date": "16.07.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-system-transformator-actualizado-ha-comenzado-a-funcionar-1113",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-system-transformator-actualizado-ha-comenzado-a-funcionar-1113",
+  "content_hash": "2057f657e83d547bce68a57696a8ac4376b5ac25d960b2187c7326ec51e8fca5",
+  "url_hash": "73bccd2f004a525136e6b07111acb401694157e4739e4163def3ae44ade2ce8d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-07-2025_el-system-transformator-actualizado-ha-comenzado-a-funcionar_452d264bce79.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-07-2025_el-system-transformator-actualizado-ha-comenzado-a-funcionar_452d264bce79.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-07-2025_el-system-transformator-actualizado-ha-comenzado-a-funcionar_452d264bce79",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a2/4f/20/58/ad/a24f2058ad3411f816cccc2d46a3cdeb_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-07-2025_el-system-transformator-actualizado-ha-comenzado-a-funcionar_452d264bce79\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1893/nft_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-07-2025_el-system-transformator-actualizado-ha-comenzado-a-funcionar_452d264bce79\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:30.124407-03:00",
+  "status": "downloaded"
+}

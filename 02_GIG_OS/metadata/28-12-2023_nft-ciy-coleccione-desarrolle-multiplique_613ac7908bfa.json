@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_613ac7908bfa",
+  "platform": "gig_os",
+  "title": "NFT CIY: ¡coleccione, desarrolle, multiplique!",
+  "date": "28.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nft-ciy-coleccione-desarrolle-multiplique-849",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nft-ciy-coleccione-desarrolle-multiplique-849",
+  "content_hash": "72724668c6649066df09d936c3d06dd3734ff0e89bd79b6b44e519834b113402",
+  "url_hash": "40ee9dc6c0c5b1ee8e219b15100294416b450f1d4fde70a574533607667728a3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-12-2023_nft-ciy-coleccione-desarrolle-multiplique_613ac7908bfa.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-12-2023_nft-ciy-coleccione-desarrolle-multiplique_613ac7908bfa.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-12-2023_nft-ciy-coleccione-desarrolle-multiplique_613ac7908bfa",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/24/96/22/23/71/2496222371b2c4b7f08397f8c9e328e3_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-12-2023_nft-ciy-coleccione-desarrolle-multiplique_613ac7908bfa\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1594/collect-it-yourself-text-braclet46393_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-12-2023_nft-ciy-coleccione-desarrolle-multiplique_613ac7908bfa\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1594/table-245737_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-12-2023_nft-ciy-coleccione-desarrolle-multiplique_613ac7908bfa\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1594/collect-it-yourself-call-to-action-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-12-2023_nft-ciy-coleccione-desarrolle-multiplique_613ac7908bfa\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:41:29.783364-03:00",
+  "status": "downloaded"
+}

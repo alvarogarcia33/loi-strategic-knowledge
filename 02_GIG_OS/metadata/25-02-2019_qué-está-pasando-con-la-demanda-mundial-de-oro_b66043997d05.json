@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_b66043997d05",
+  "platform": "gig_os",
+  "title": "¿Qué está pasando con la demanda mundial de oro?",
+  "date": "25.02.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-esta-pasando-con-la-demanda-mundial-de-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-esta-pasando-con-la-demanda-mundial-de-oro",
+  "content_hash": "b85cf9bba0c826255ac4e892ef3e054689dc1ca0ebc88bffd5396dbda9bb2204",
+  "url_hash": "736edd7d49bf0d927ea1be5fed7c349f7023ea5c07e935856f1c3f6d30b2f9c3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-02-2019_qué-está-pasando-con-la-demanda-mundial-de-oro_b66043997d05.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-02-2019_qué-está-pasando-con-la-demanda-mundial-de-oro_b66043997d05.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-02-2019_qué-está-pasando-con-la-demanda-mundial-de-oro_b66043997d05",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/21/b1/70/d2/e2/21b170d2e2a4c7af5d86478da6d5f4c9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-02-2019_qué-está-pasando-con-la-demanda-mundial-de-oro_b66043997d05\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/660/global-intergold-gold-informe-de-la-cotizacion-del-oro-21_1.png",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/660/global-intergold-gold-informe-de-la-cotizacion-del-oro-21_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:41.465970-03:00",
+  "status": "downloaded"
+}

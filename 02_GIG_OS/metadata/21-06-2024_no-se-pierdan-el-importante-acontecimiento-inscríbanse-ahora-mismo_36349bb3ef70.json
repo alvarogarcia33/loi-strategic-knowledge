@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_36349bb3ef70",
+  "platform": "gig_os",
+  "title": "No se pierdan el importante acontecimiento: ¡inscríbanse ahora mismo!",
+  "date": "21.06.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/no-se-pierdan-el-importante-acontecimiento-inscribanse-ahora-mismo-949",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/no-se-pierdan-el-importante-acontecimiento-inscribanse-ahora-mismo-949",
+  "content_hash": "2befd5e88bb820ee592ed496dc66db681ae63b9eadd60bdba798ece99b501287",
+  "url_hash": "22fcce073bace0a828cb0f6c89cd473bbb17b7695213df9461491cd9329347be",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-06-2024_no-se-pierdan-el-importante-acontecimiento-inscríbanse-ahora-mismo_36349bb3ef70.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-06-2024_no-se-pierdan-el-importante-acontecimiento-inscríbanse-ahora-mismo_36349bb3ef70.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-06-2024_no-se-pierdan-el-importante-acontecimiento-inscríbanse-ahora-mismo_36349bb3ef70",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b4/20/e9/62/7b/b420e9627b0ad626527b16b8b2aade14_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-06-2024_no-se-pierdan-el-importante-acontecimiento-inscríbanse-ahora-mismo_36349bb3ef70\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1710/steps-20-06-2024-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-06-2024_no-se-pierdan-el-importante-acontecimiento-inscríbanse-ahora-mismo_36349bb3ef70\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1710/button-es66402_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-06-2024_no-se-pierdan-el-importante-acontecimiento-inscríbanse-ahora-mismo_36349bb3ef70\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:43:03.530853-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c2d9bbc1ccec",
+  "platform": "gig_os",
+  "title": "«Tecnología del Éxito»",
+  "date": "19.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/tecnologia-del-exito-401",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/tecnologia-del-exito-401",
+  "content_hash": "16d35719d84f68597e482351e20327ef04c644eeb70491f036b08f553539647f",
+  "url_hash": "002f9913cb02b4484738a5713660687980e4f4db90a1cf13c954e972b7560649",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-04-2021_tecnología-del-éxito_c2d9bbc1ccec.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-04-2021_tecnología-del-éxito_c2d9bbc1ccec.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-04-2021_tecnología-del-éxito_c2d9bbc1ccec",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1c/9d/fb/10/00/1c9dfb10001da5fd22ae0cc5610aac1d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-04-2021_tecnología-del-éxito_c2d9bbc1ccec\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:58.045826-03:00",
+  "status": "downloaded"
+}

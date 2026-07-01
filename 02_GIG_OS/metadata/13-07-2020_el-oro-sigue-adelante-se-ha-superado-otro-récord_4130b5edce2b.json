@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_4130b5edce2b",
+  "platform": "gig_os",
+  "title": "El oro sigue adelante: ¡se ha superado otro récord!",
+  "date": "13.07.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-sigue-adelante-se-ha-superado-otro-record-282",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-sigue-adelante-se-ha-superado-otro-record-282",
+  "content_hash": "2ccde6179dd6956c33f12a90584a7955f4a37436166335e69f865e5c42756652",
+  "url_hash": "6eae21aa3f62990ccbc92ac9c0997d73b74a8df270fe91802436a73f4f7141f4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-07-2020_el-oro-sigue-adelante-se-ha-superado-otro-récord_4130b5edce2b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-07-2020_el-oro-sigue-adelante-se-ha-superado-otro-récord_4130b5edce2b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-07-2020_el-oro-sigue-adelante-se-ha-superado-otro-récord_4130b5edce2b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/81/58/91/ba/04/815891ba04d91ab312440034f7e3a1be_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-07-2020_el-oro-sigue-adelante-se-ha-superado-otro-récord_4130b5edce2b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/905/untitled-1-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-07-2020_el-oro-sigue-adelante-se-ha-superado-otro-récord_4130b5edce2b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:27.214813-03:00",
+  "status": "downloaded"
+}

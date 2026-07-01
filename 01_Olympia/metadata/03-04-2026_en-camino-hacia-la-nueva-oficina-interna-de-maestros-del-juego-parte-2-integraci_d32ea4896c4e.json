@@ -1,0 +1,97 @@
+{
+  "article_uid": "olympia_d32ea4896c4e",
+  "platform": "olympia",
+  "title": "En camino hacia la nueva oficina interna de Maestros del Juego. Parte 2: integración del mapa",
+  "date": "03.04.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integracion-del-mapa-0180",
+  "canonical_url": "https://olympia-lab.com/es/news/post/en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integracion-del-mapa-0180",
+  "content_hash": "4ac74755e4fe9cd4b365c353a1ab8b0071f741602495663757666f8042009668",
+  "url_hash": "2b28d3ad9138222a7ba9e55e95631b2c5b9ba2ae97c9dd193141a4ad038b071a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/00/fd/d2/17/f9/00fdd217f9a18e50c18e5ae0b8e31309.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/e7/43/2e/f6/5b/e7432ef65b0afc8ca2b76a486caf5f79.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/30/cf/82/45/2230cf8245c5273d70926f17a26a11ba.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ac/f7/34/39/fa/acf73439fa361ad0ea5b49ea3b26e129.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/40/fa/11/cc/d4/40fa11ccd4733fbd3cae872d10725c99.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e\\image_05.png",
+      "filename": "image_05.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/10/0c/69/82/06/100c6982064fd10e2b78801fcff78892_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/44/31/8f/66/d7/44318f66d79ad4254ed5d527329d54a2_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/11/d5/d4/58/2211d5d458f4538fdb42487e3c600c30_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e\\image_08.jpg",
+      "filename": "image_08.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/fe/35/df/bc/58fe35dfbcd379455a92540568923011_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e\\image_09.jpg",
+      "filename": "image_09.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/64/2c/05/28/7e/642c05287ef94a8b72f6944fb8c845e7_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e\\image_10.jpg",
+      "filename": "image_10.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:18:50.190979-03:00",
+  "status": "downloaded"
+}

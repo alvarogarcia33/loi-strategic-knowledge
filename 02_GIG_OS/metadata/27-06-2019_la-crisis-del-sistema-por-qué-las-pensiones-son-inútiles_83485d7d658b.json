@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_83485d7d658b",
+  "platform": "gig_os",
+  "title": "La crisis del sistema: ¿por qué las pensiones son inútiles?",
+  "date": "27.06.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-crisis-del-sistema-por-que-las-pensiones-son-inutiles-135",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-crisis-del-sistema-por-que-las-pensiones-son-inutiles-135",
+  "content_hash": "95958fcf31188fdf57540c5e43bdacb884d644c4b59c5f357cc4cff68dee1e71",
+  "url_hash": "0b9818dae712bbdf572878a647007ec1abbb22b3eaf4f38580d6a2e05395433e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-06-2019_la-crisis-del-sistema-por-qué-las-pensiones-son-inútiles_83485d7d658b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-06-2019_la-crisis-del-sistema-por-qué-las-pensiones-son-inútiles_83485d7d658b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-06-2019_la-crisis-del-sistema-por-qué-las-pensiones-son-inútiles_83485d7d658b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/14/3f/57/d5/70/143f57d5707824f8811ea5dfe056bcad_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-06-2019_la-crisis-del-sistema-por-qué-las-pensiones-son-inútiles_83485d7d658b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/723/global-intergold-oro23_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/723/global-intergold-oro20_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/723/global-intergold-oro21_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/723/global-intergold-oro22_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:17.220244-03:00",
+  "status": "downloaded"
+}

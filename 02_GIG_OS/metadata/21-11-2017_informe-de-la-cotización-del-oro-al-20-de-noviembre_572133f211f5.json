@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_572133f211f5",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 20 de noviembre",
+  "date": "21.11.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-20-de-noviembre",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-20-de-noviembre",
+  "content_hash": "f30c0fc6b6cbd92f7ec0e59fc05f30827b6baf50047b84cdb30ca5cef1a81e16",
+  "url_hash": "a08a562def2a8dac65e5aec62e20f4ca29518158e1a1e99078efc61f3febed83",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-11-2017_informe-de-la-cotización-del-oro-al-20-de-noviembre_572133f211f5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-11-2017_informe-de-la-cotización-del-oro-al-20-de-noviembre_572133f211f5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-11-2017_informe-de-la-cotización-del-oro-al-20-de-noviembre_572133f211f5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bd/da/3a/56/be/bdda3a56bee6e8cf64909ed3013fd59a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-11-2017_informe-de-la-cotización-del-oro-al-20-de-noviembre_572133f211f5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/417/global-intergold-gold-prices-14-20-november_1.PNG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:26:27.033892-03:00",
+  "status": "downloaded"
+}

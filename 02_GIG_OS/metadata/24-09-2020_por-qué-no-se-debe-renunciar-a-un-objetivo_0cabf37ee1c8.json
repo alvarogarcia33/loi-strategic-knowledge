@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_0cabf37ee1c8",
+  "platform": "gig_os",
+  "title": "¿Por qué no se debe renunciar a un objetivo?",
+  "date": "24.09.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-no-se-debe-renunciar-a-un-objetivo-310",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-no-se-debe-renunciar-a-un-objetivo-310",
+  "content_hash": "6ffcd990b31c25d975a05733fcae4327ae8585d69bde13f4b498cbc950a3b839",
+  "url_hash": "20e3038de917722049c26c2455041b6e6971774dfe121b76746915d6ef48a428",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-09-2020_por-qué-no-se-debe-renunciar-a-un-objetivo_0cabf37ee1c8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-09-2020_por-qué-no-se-debe-renunciar-a-un-objetivo_0cabf37ee1c8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-09-2020_por-qué-no-se-debe-renunciar-a-un-objetivo_0cabf37ee1c8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bd/4a/1e/89/9e/bd4a1e899e7be1ca53ff382a4105f16c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-09-2020_por-qué-no-se-debe-renunciar-a-un-objetivo_0cabf37ee1c8\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/957/imgonline-com-ua-resize-xbvt3nywiov3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-09-2020_por-qué-no-se-debe-renunciar-a-un-objetivo_0cabf37ee1c8\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/957/imgonline-com-ua-resize-xbvt3nywiov1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-09-2020_por-qué-no-se-debe-renunciar-a-un-objetivo_0cabf37ee1c8\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:39.495540-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_fd3924101d80",
+  "platform": "gig_os",
+  "title": "¿Por qué las personas se sienten financieramente inseguras?",
+  "date": "27.06.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-las-personas-se-sienten-financieramente-inseguras",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-las-personas-se-sienten-financieramente-inseguras",
+  "content_hash": "870f399acb3cb313fd6ea7d1f7d3eefa17279764c39f1e73d116100cec139080",
+  "url_hash": "9d5b7b136520c5fcfc34fa2882742f2698e6971a61c7162424fd07e7213e9d7b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-06-2018_por-qué-las-personas-se-sienten-financieramente-inseguras_fd3924101d80.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-06-2018_por-qué-las-personas-se-sienten-financieramente-inseguras_fd3924101d80.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-06-2018_por-qué-las-personas-se-sienten-financieramente-inseguras_fd3924101d80",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3f/54/fb/df/27/3f54fbdf2735124a5c1e88d66634dc00_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-06-2018_por-qué-las-personas-se-sienten-financieramente-inseguras_fd3924101d80\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/509/global-intergold-oro-la-seguridad-financiera-2_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/509/global-intergold-oro-la-seguridad-financiera-3_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/509/global-intergold-oro-la-seguridad-financiera-4_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/509/frame-294857319202_1.png",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:00.438619-03:00",
+  "status": "downloaded"
+}

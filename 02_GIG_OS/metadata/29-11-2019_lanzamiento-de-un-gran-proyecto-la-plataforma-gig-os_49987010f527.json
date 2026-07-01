@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_49987010f527",
+  "platform": "gig_os",
+  "title": "Lanzamiento de un gran proyecto: la plataforma GIG-OS",
+  "date": "29.11.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/lanzamiento-de-un-gran-proyecto-la-plataforma-gig-os-203",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/lanzamiento-de-un-gran-proyecto-la-plataforma-gig-os-203",
+  "content_hash": "39c29bfe235dace46bc5abd8547352f7c04c4c83ecc8b4bedfb67019086ea407",
+  "url_hash": "3aebe6c1d49c80bade9e595db353566b03ffeb1a3e4ebbfa085e2c18090fe72b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-11-2019_lanzamiento-de-un-gran-proyecto-la-plataforma-gig-os_49987010f527.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-11-2019_lanzamiento-de-un-gran-proyecto-la-plataforma-gig-os_49987010f527.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2019_lanzamiento-de-un-gran-proyecto-la-plataforma-gig-os_49987010f527",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bf/2a/3b/af/dc/bf2a3bafdcffae686554a0d38233c65d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2019_lanzamiento-de-un-gran-proyecto-la-plataforma-gig-os_49987010f527\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/809/slide29612_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2019_lanzamiento-de-un-gran-proyecto-la-plataforma-gig-os_49987010f527\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/809/gigos-subscriptions-700-v1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2019_lanzamiento-de-un-gran-proyecto-la-plataforma-gig-os_49987010f527\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/809/gigos-subscriptions-700-v1-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2019_lanzamiento-de-un-gran-proyecto-la-plataforma-gig-os_49987010f527\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/809/gigos-subscriptions-700-v1-6_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2019_lanzamiento-de-un-gran-proyecto-la-plataforma-gig-os_49987010f527\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:59.896347-03:00",
+  "status": "downloaded"
+}

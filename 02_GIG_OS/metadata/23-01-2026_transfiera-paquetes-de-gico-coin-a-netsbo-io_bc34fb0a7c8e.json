@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_bc34fb0a7c8e",
+  "platform": "gig_os",
+  "title": "Transfiera paquetes de GICO Coin a NETSBO.IO",
+  "date": "23.01.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/transfiera-paquetes-de-gico-coin-a-netsboio-0159",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/transfiera-paquetes-de-gico-coin-a-netsboio-0159",
+  "content_hash": "e5e66f32380e8d94483a49b575356267f5557dfcf2a663085e78255a2876a9cc",
+  "url_hash": "12ade37918d80dcaf1ba6ede0d80c8f38595689737ab918d97350ab015bdd2f5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-01-2026_transfiera-paquetes-de-gico-coin-a-netsbo-io_bc34fb0a7c8e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-01-2026_transfiera-paquetes-de-gico-coin-a-netsbo-io_bc34fb0a7c8e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2026_transfiera-paquetes-de-gico-coin-a-netsbo-io_bc34fb0a7c8e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/dd/f9/b6/13/61/ddf9b6136135ec1e1d087a478af9e50a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2026_transfiera-paquetes-de-gico-coin-a-netsbo-io_bc34fb0a7c8e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1983/1-0_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2026_transfiera-paquetes-de-gico-coin-a-netsbo-io_bc34fb0a7c8e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1983/1-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2026_transfiera-paquetes-de-gico-coin-a-netsbo-io_bc34fb0a7c8e\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1983/1-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2026_transfiera-paquetes-de-gico-coin-a-netsbo-io_bc34fb0a7c8e\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1983/1-4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2026_transfiera-paquetes-de-gico-coin-a-netsbo-io_bc34fb0a7c8e\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:30.657897-03:00",
+  "status": "downloaded"
+}

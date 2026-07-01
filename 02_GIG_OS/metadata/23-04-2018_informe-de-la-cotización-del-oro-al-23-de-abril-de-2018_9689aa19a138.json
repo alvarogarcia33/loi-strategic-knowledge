@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9689aa19a138",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 23 de abril de 2018",
+  "date": "23.04.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-23-de-abril-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-23-de-abril-de-2018",
+  "content_hash": "da0464ea87f0687edd2699164db3a100fedce0f0846aa1e273f58b487a9ebb37",
+  "url_hash": "c517c4ac8e907e955847291bfa14148ed953b9c93f9059638069aeecb33b30fe",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-04-2018_informe-de-la-cotización-del-oro-al-23-de-abril-de-2018_9689aa19a138.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-04-2018_informe-de-la-cotización-del-oro-al-23-de-abril-de-2018_9689aa19a138.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-04-2018_informe-de-la-cotización-del-oro-al-23-de-abril-de-2018_9689aa19a138",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b3/f6/78/ea/a0/b3f678eaa0f009b5f9ee15020a55f716_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/475/global-intergold-oro-pierre-moscovici_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:26:46.334148-03:00",
+  "status": "downloaded"
+}

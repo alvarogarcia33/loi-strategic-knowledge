@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_06e7810e0761",
+  "platform": "gig_os",
+  "title": "¡Se conocen los ganadores de la «President's champion race»!",
+  "date": "03.08.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-conocen-los-ganadores-de-la-presidents-champion-race-448",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-conocen-los-ganadores-de-la-presidents-champion-race-448",
+  "content_hash": "5dfbbd8cb18264b64e2fdda567a73f49fbc6c35c3fc8f71ddcfd01d185c5d36a",
+  "url_hash": "cbcae95ad686605bd6ab03a6bca8e021260247a1f3392de44ed16f88939a646a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-08-2021_se-conocen-los-ganadores-de-la-president-s-champion-race_06e7810e0761.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-08-2021_se-conocen-los-ganadores-de-la-president-s-champion-race_06e7810e0761.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-08-2021_se-conocen-los-ganadores-de-la-president-s-champion-race_06e7810e0761",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cc/5b/1d/bc/e2/cc5b1dbce288053e4d4281955339bf80_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-08-2021_se-conocen-los-ganadores-de-la-president-s-champion-race_06e7810e0761\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:54:50.629501-03:00",
+  "status": "downloaded"
+}

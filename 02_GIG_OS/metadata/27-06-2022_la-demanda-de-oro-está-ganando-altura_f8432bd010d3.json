@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_f8432bd010d3",
+  "platform": "gig_os",
+  "title": "La demanda de oro está «ganando altura»",
+  "date": "27.06.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-demanda-de-oro-esta-ganando-altura-593",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-demanda-de-oro-esta-ganando-altura-593",
+  "content_hash": "56ca3fa077b35ea8aeb3ab0d2be45ab0161b01524c625dc939feb0fdeb59de9e",
+  "url_hash": "fdfdfaf2a541cb1719f452eb522c3fe075b4c6ab91b9bc1f79df6040d31166d5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-06-2022_la-demanda-de-oro-está-ganando-altura_f8432bd010d3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-06-2022_la-demanda-de-oro-está-ganando-altura_f8432bd010d3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-06-2022_la-demanda-de-oro-está-ganando-altura_f8432bd010d3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4e/ec/ea/f1/de/4eeceaf1de96d98c8b687f7009c4a818_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-06-2022_la-demanda-de-oro-está-ganando-altura_f8432bd010d3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1303/ispfaber_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-06-2022_la-demanda-de-oro-está-ganando-altura_f8432bd010d3\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:37.930635-03:00",
+  "status": "downloaded"
+}

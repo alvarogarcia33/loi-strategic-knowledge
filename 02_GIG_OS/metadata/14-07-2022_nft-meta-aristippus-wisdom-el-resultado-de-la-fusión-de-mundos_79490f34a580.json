@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_79490f34a580",
+  "platform": "gig_os",
+  "title": "NFT META ARISTIPPUS WISDOM: el resultado de la fusión de mundos",
+  "date": "14.07.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nft-meta-aristippus-wisdom-el-resultado-de-la-fusion-de-mundos-599",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nft-meta-aristippus-wisdom-el-resultado-de-la-fusion-de-mundos-599",
+  "content_hash": "18dcf74544b840deac0d8280621ffdaa39d78f639bf5004126970334b3451c47",
+  "url_hash": "c62e0389b17b8d13016ff4a4d3fdd0ce6a6169a4a2d55d0f7fb3a5075b509547",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-07-2022_nft-meta-aristippus-wisdom-el-resultado-de-la-fusión-de-mundos_79490f34a580.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-07-2022_nft-meta-aristippus-wisdom-el-resultado-de-la-fusión-de-mundos_79490f34a580.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-07-2022_nft-meta-aristippus-wisdom-el-resultado-de-la-fusión-de-mundos_79490f34a580",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cc/67/20/1a/15/cc67201a15449760f6acd5fb61df4b79_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-07-2022_nft-meta-aristippus-wisdom-el-resultado-de-la-fusión-de-mundos_79490f34a580\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1312/nft-meta-aristippus-wisdom-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-07-2022_nft-meta-aristippus-wisdom-el-resultado-de-la-fusión-de-mundos_79490f34a580\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:09.137083-03:00",
+  "status": "downloaded"
+}

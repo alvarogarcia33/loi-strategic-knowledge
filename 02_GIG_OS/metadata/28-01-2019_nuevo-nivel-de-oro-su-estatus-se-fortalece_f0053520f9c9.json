@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_f0053520f9c9",
+  "platform": "gig_os",
+  "title": "Nuevo nivel de oro: ¡su estatus se fortalece!",
+  "date": "28.01.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nuevo-nivel-de-oro-su-estatus-se-fortalece",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nuevo-nivel-de-oro-su-estatus-se-fortalece",
+  "content_hash": "737cc2a9248848177b3fd5447d498b7ff8e82f03525b0aa7c4a3c23d50c2904a",
+  "url_hash": "f2ff40d89fde6f86168c51685877cd97c6ac718a6081ba46771aac7407daa915",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-01-2019_nuevo-nivel-de-oro-su-estatus-se-fortalece_f0053520f9c9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-01-2019_nuevo-nivel-de-oro-su-estatus-se-fortalece_f0053520f9c9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-01-2019_nuevo-nivel-de-oro-su-estatus-se-fortalece_f0053520f9c9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a0/49/e3/da/a2/a049e3daa29339cfdfe6ef58b8bc0829_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-01-2019_nuevo-nivel-de-oro-su-estatus-se-fortalece_f0053520f9c9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/640/global-intergold-gold-informe-de-la-cotizacion-del-oro-18.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/640/global-intergold-gold-informe-de-la-cotizacion-del-oro-19.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:43:53.653344-03:00",
+  "status": "downloaded"
+}

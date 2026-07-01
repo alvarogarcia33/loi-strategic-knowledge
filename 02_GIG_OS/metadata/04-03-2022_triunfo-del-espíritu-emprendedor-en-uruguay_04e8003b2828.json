@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_04e8003b2828",
+  "platform": "gig_os",
+  "title": "Triunfo del espíritu emprendedor en Uruguay",
+  "date": "04.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/triunfo-del-espiritu-emprendedor-en-uruguay-539",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/triunfo-del-espiritu-emprendedor-en-uruguay-539",
+  "content_hash": "5ffac80f9c1b9b6413b8e4a33e83ccfa2d68d51306e8cb58da9dc14a2da7c044",
+  "url_hash": "a69511aa7ef6ad130651c3b10263bb96fc0051e71f86d73ee4c89acbb9d3465f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-03-2022_triunfo-del-espíritu-emprendedor-en-uruguay_04e8003b2828.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-03-2022_triunfo-del-espíritu-emprendedor-en-uruguay_04e8003b2828.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-03-2022_triunfo-del-espíritu-emprendedor-en-uruguay_04e8003b2828",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1243/4-03-2022-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-03-2022_triunfo-del-espíritu-emprendedor-en-uruguay_04e8003b2828\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:49.185146-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_b09a89cd186c",
+  "platform": "gig_os",
+  "title": "La magia de fin de año: los resultados del sorteo festivo",
+  "date": "28.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-magia-de-fin-de-ano-los-resultados-del-sorteo-festivo-850",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-magia-de-fin-de-ano-los-resultados-del-sorteo-festivo-850",
+  "content_hash": "92b510509edd04158ef1d38fd64fd88e177597d12dd60784d94dfc959ff71584",
+  "url_hash": "5bc6aaea29521d3c7bbc8b926c6b2b745a44ca0ae8be779ce23e727dc7f2029b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-12-2023_la-magia-de-fin-de-año-los-resultados-del-sorteo-festivo_b09a89cd186c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-12-2023_la-magia-de-fin-de-año-los-resultados-del-sorteo-festivo_b09a89cd186c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-12-2023_la-magia-de-fin-de-año-los-resultados-del-sorteo-festivo_b09a89cd186c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/92/3b/9b/e0/d9/923b9be0d993433caa4b9748f9b49756_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-12-2023_la-magia-de-fin-de-año-los-resultados-del-sorteo-festivo_b09a89cd186c\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:33:07.542334-03:00",
+  "status": "downloaded"
+}

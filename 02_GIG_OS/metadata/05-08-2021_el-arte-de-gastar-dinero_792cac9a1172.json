@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_792cac9a1172",
+  "platform": "gig_os",
+  "title": "El arte de gastar dinero",
+  "date": "05.08.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-arte-de-gastar-dinero-449",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-arte-de-gastar-dinero-449",
+  "content_hash": "772dfe43fa0f58881a859aa5f16a8aff1d5a8a3dd375ca9245cd28ff0c264d12",
+  "url_hash": "55480b9cbfa0d9a069a49c968beaed85f4f3330a4dec065b3c120fbfa7a8e30c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-08-2021_el-arte-de-gastar-dinero_792cac9a1172.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-08-2021_el-arte-de-gastar-dinero_792cac9a1172.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-08-2021_el-arte-de-gastar-dinero_792cac9a1172",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c3/4b/78/43/b0/c34b7843b014e01d25012c403b9ec8fe_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-08-2021_el-arte-de-gastar-dinero_792cac9a1172\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:16.239194-03:00",
+  "status": "downloaded"
+}

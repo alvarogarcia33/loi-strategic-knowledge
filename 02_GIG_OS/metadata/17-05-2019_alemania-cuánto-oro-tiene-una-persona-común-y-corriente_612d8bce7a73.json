@@ -1,0 +1,50 @@
+{
+  "article_uid": "gig_os_612d8bce7a73",
+  "platform": "gig_os",
+  "title": "Alemania: ¿cuánto oro tiene una persona común y corriente?",
+  "date": "17.05.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad Noticias sobre la plataforma Materiales educativos Oro GoalSet Master",
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/alemania-cuanto-oro-tiene-una-persona-comun-y-corriente-118",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/alemania-cuanto-oro-tiene-una-persona-comun-y-corriente-118",
+  "content_hash": "8997aadc351dfe17632d8ca79edeab745a97bb23e721eb09d7b02a831841ba83",
+  "url_hash": "5600b1e30fd3a5c62e7f7eea12c21c476fae8ea1b3a3c5b5a67015c2c19a4b01",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-05-2019_alemania-cuánto-oro-tiene-una-persona-común-y-corriente_612d8bce7a73.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-05-2019_alemania-cuánto-oro-tiene-una-persona-común-y-corriente_612d8bce7a73.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2019_alemania-cuánto-oro-tiene-una-persona-común-y-corriente_612d8bce7a73",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b0/f6/70/a7/e8/b0f670a7e8df7851207e272c58690105_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2019_alemania-cuánto-oro-tiene-una-persona-común-y-corriente_612d8bce7a73\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/706/global-intergold-gold-informe-de-la-cotizacion-del-oro-22_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/706/global-intergold-gold-informe-de-la-cotizacion-del-oro-23_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T17:37:35.167004-03:00",
+  "status": "downloaded"
+}

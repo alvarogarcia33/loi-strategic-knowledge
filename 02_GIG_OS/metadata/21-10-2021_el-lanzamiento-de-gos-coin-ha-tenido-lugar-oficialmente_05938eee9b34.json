@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_05938eee9b34",
+  "platform": "gig_os",
+  "title": "¡El lanzamiento de GOS Coin ha tenido lugar oficialmente!",
+  "date": "21.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-lanzamiento-de-gos-coin-ha-tenido-lugar-oficialmente-483",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-lanzamiento-de-gos-coin-ha-tenido-lugar-oficialmente-483",
+  "content_hash": "97cd9627d9940e4c182c29cfd6b6f277a6ec178cfbdf1a953d8c7043abc09975",
+  "url_hash": "8c00fbbac1b246eddfde8f62be6d7eeb9ebf53a3323a767d310e2a1b8fdfb1b8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-10-2021_el-lanzamiento-de-gos-coin-ha-tenido-lugar-oficialmente_05938eee9b34.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-10-2021_el-lanzamiento-de-gos-coin-ha-tenido-lugar-oficialmente_05938eee9b34.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-10-2021_el-lanzamiento-de-gos-coin-ha-tenido-lugar-oficialmente_05938eee9b34",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/68/3f/25/03/5e/683f25035e86557ed7f01ce11fdf6247_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-10-2021_el-lanzamiento-de-gos-coin-ha-tenido-lugar-oficialmente_05938eee9b34\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1182/21-10-2021-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-10-2021_el-lanzamiento-de-gos-coin-ha-tenido-lugar-oficialmente_05938eee9b34\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:30.709813-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4d87387d1222",
+  "platform": "gig_os",
+  "title": "Argentina: un país de Líderes destacados e ideas brillantes",
+  "date": "17.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/argentina-un-pais-de-lideres-destacados-e-ideas-brillantes-507",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/argentina-un-pais-de-lideres-destacados-e-ideas-brillantes-507",
+  "content_hash": "06d2ba57887843f12bbc3464adbeb318a956dcf0dedf8a05550fbf564409c798",
+  "url_hash": "a66f91591542ee9687680ea8416cd30240fbfee9adf6a89430f233bc798f6edf",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-12-2021_argentina-un-país-de-líderes-destacados-e-ideas-brillantes_4d87387d1222.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-12-2021_argentina-un-país-de-líderes-destacados-e-ideas-brillantes_4d87387d1222.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-12-2021_argentina-un-país-de-líderes-destacados-e-ideas-brillantes_4d87387d1222",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1205/17-12-2021-32688-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-12-2021_argentina-un-país-de-líderes-destacados-e-ideas-brillantes_4d87387d1222\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:38.963269-03:00",
+  "status": "downloaded"
+}

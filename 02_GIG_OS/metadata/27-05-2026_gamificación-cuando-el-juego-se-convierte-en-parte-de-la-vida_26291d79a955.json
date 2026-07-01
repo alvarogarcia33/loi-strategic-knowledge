@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_26291d79a955",
+  "platform": "gig_os",
+  "title": "Gamificación: cuando el juego se convierte en parte de la vida",
+  "date": "27.05.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gamificacion-cuando-el-juego-se-convierte-en-parte-de-la-vida-0195",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gamificacion-cuando-el-juego-se-convierte-en-parte-de-la-vida-0195",
+  "content_hash": "1ec3c4bf81a68a97d59dee70794131cdd14677306c79eaee7e5d5c411a41edeb",
+  "url_hash": "0832453df4ea0c35898a45f393c1930b949f03f399f453ac54319c75177cad06",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-05-2026_gamificación-cuando-el-juego-se-convierte-en-parte-de-la-vida_26291d79a955.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-05-2026_gamificación-cuando-el-juego-se-convierte-en-parte-de-la-vida_26291d79a955.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-05-2026_gamificación-cuando-el-juego-se-convierte-en-parte-de-la-vida_26291d79a955",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/43/f2/67/d9/77/43f267d977c49421c843f4ca1bb180b6_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-05-2026_gamificación-cuando-el-juego-se-convierte-en-parte-de-la-vida_26291d79a955\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:25.333726-03:00",
+  "status": "downloaded"
+}

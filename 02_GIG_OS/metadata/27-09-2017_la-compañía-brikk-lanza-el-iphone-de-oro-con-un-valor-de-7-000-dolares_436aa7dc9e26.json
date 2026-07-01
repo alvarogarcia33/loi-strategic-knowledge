@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_436aa7dc9e26",
+  "platform": "gig_os",
+  "title": "¡La compañía Brikk lanza el iPhone de oro con un valor de 7,000 dolares!",
+  "date": "27.09.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-compania-brikk-lanza-el-iphone-de-oro-con-un-valor-de-7-000-dolares",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-compania-brikk-lanza-el-iphone-de-oro-con-un-valor-de-7-000-dolares",
+  "content_hash": "7bba2672f46e202f386780c0f1d80d63ddea6d07daa038cd2acde14ec4ca88a9",
+  "url_hash": "24bba62871f2a80afa8e0db14e06c937f29b51728d962f424d70bbf843f94210",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-09-2017_la-compañía-brikk-lanza-el-iphone-de-oro-con-un-valor-de-7-000-dolares_436aa7dc9e26.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-09-2017_la-compañía-brikk-lanza-el-iphone-de-oro-con-un-valor-de-7-000-dolares_436aa7dc9e26.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-09-2017_la-compañía-brikk-lanza-el-iphone-de-oro-con-un-valor-de-7-000-dolares_436aa7dc9e26",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/99/87/a0/e0/5f/9987a0e05f1c90cc63978fd8b25baf50_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-09-2017_la-compañía-brikk-lanza-el-iphone-de-oro-con-un-valor-de-7-000-dolares_436aa7dc9e26\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/367/global-intergold-oro-iphone-lux-airpods-mono-ingot-collection-3_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/367/global-intergold-oro-iphone-lux-airpods-mono-ingot-collection-1_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:30:13.074580-03:00",
+  "status": "downloaded"
+}

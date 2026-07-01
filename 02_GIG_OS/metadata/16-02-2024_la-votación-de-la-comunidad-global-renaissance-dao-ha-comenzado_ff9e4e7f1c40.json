@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_ff9e4e7f1c40",
+  "platform": "gig_os",
+  "title": "¡La votación de la comunidad Global Renaissance DAO ha comenzado!",
+  "date": "16.02.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-votacion-de-la-comunidad-global-renaissance-dao-ha-comenzado-880",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-votacion-de-la-comunidad-global-renaissance-dao-ha-comenzado-880",
+  "content_hash": "79334f990f29b3fc72a1abe0e572fe91acde0685e4283a93ace23b6e76b28946",
+  "url_hash": "4cfa6778f9a7ab3cd15917a310bf95ef2259a6c08ddcf8ac6fcf4c8827ec7fdb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-02-2024_la-votación-de-la-comunidad-global-renaissance-dao-ha-comenzado_ff9e4e7f1c40.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-02-2024_la-votación-de-la-comunidad-global-renaissance-dao-ha-comenzado_ff9e4e7f1c40.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-02-2024_la-votación-de-la-comunidad-global-renaissance-dao-ha-comenzado_ff9e4e7f1c40",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/31/e8/12/18/40/31e812184000493ff5468386642bda23_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-02-2024_la-votación-de-la-comunidad-global-renaissance-dao-ha-comenzado_ff9e4e7f1c40\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1625/text-meta-inception-276800_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-02-2024_la-votación-de-la-comunidad-global-renaissance-dao-ha-comenzado_ff9e4e7f1c40\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1625/triangles_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-02-2024_la-votación-de-la-comunidad-global-renaissance-dao-ha-comenzado_ff9e4e7f1c40\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:42.941930-03:00",
+  "status": "downloaded"
+}

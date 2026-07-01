@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_d1cb7d5ba77c",
+  "platform": "gig_os",
+  "title": "Australia contra China: ¿quién producirá más oro?",
+  "date": "13.09.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/australia-contra-china-quien-producira-mas-oro-464",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/australia-contra-china-quien-producira-mas-oro-464",
+  "content_hash": "f6b409f32b1c934483509dbfac004357941e14dcff80bc4867270bcf45b23782",
+  "url_hash": "5cfd0365efb5b9198c73f55987ecb81d23485841fc3712086b4c74f5c6ef1737",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-09-2021_australia-contra-china-quién-producirá-más-oro_d1cb7d5ba77c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-09-2021_australia-contra-china-quién-producirá-más-oro_d1cb7d5ba77c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-09-2021_australia-contra-china-quién-producirá-más-oro_d1cb7d5ba77c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a4/13/a9/e6/85/a413a9e68587a4d629004c69851dca87_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-09-2021_australia-contra-china-quién-producirá-más-oro_d1cb7d5ba77c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1160/chart_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-09-2021_australia-contra-china-quién-producirá-más-oro_d1cb7d5ba77c\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1160/la-mina-de-oro-super-pit_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-09-2021_australia-contra-china-quién-producirá-más-oro_d1cb7d5ba77c\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:59:14.906583-03:00",
+  "status": "downloaded"
+}

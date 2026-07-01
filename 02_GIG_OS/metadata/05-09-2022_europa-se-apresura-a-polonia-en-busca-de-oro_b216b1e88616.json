@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_b216b1e88616",
+  "platform": "gig_os",
+  "title": "Europa se apresura a Polonia en busca de oro",
+  "date": "05.09.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/europa-se-apresura-a-polonia-en-busca-de-oro-614",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/europa-se-apresura-a-polonia-en-busca-de-oro-614",
+  "content_hash": "9639070255a244bb6523857ad586cdde4121a24686ab6f44579d7389a861d3f9",
+  "url_hash": "c8eca0ace2382f2dd5a650e55dbc757d8cde2a75289793f72a04e7f8cb054302",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-09-2022_europa-se-apresura-a-polonia-en-busca-de-oro_b216b1e88616.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-09-2022_europa-se-apresura-a-polonia-en-busca-de-oro_b216b1e88616.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-09-2022_europa-se-apresura-a-polonia-en-busca-de-oro_b216b1e88616",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8c/0c/5a/2e/76/8c0c5a2e768a5aea52bd3d016a224e58_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-09-2022_europa-se-apresura-a-polonia-en-busca-de-oro_b216b1e88616\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1325/dizayn-bez-nazvaniya-26_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-09-2022_europa-se-apresura-a-polonia-en-busca-de-oro_b216b1e88616\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:28.183085-03:00",
+  "status": "downloaded"
+}

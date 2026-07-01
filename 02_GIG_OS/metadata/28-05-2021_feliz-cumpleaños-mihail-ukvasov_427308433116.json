@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_427308433116",
+  "platform": "gig_os",
+  "title": "¡Feliz cumpleaños, Mihail Ukvasov!",
+  "date": "28.05.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/feliz-cumpleanos-mihail-ukvasov-422",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/feliz-cumpleanos-mihail-ukvasov-422",
+  "content_hash": "0089d0d06616f2c257ba0b585756856d4e5b753d44e6095538b51afd1688e2ac",
+  "url_hash": "2ce100702c748a5fa3148b0b70f1c816c8649564c4d9dd302b7eeb45fae47d1b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-05-2021_feliz-cumpleaños-mihail-ukvasov_427308433116.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-05-2021_feliz-cumpleaños-mihail-ukvasov_427308433116.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-05-2021_feliz-cumpleaños-mihail-ukvasov_427308433116",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/32/4f/c7/59/65/324fc75965d8d4b948e6e2bcc47858fa_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-05-2021_feliz-cumpleaños-mihail-ukvasov_427308433116\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:18.823333-03:00",
+  "status": "downloaded"
+}

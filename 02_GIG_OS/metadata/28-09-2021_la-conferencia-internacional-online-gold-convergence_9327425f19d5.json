@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_9327425f19d5",
+  "platform": "gig_os",
+  "title": "La conferencia internacional online \"GOLD CONVERGENCE\"",
+  "date": "28.09.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-conferencia-internacional-online-gold-convergence-471",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-conferencia-internacional-online-gold-convergence-471",
+  "content_hash": "c90d1ba626ac1a4f42acc83f09abaf31977c5034fe177e7a7626dc75b66df4b7",
+  "url_hash": "71bbfc30f7e6858ad6cdbc9d84f14124c43e2268ebcc971f126b434bfd1ae132",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-09-2021_la-conferencia-internacional-online-gold-convergence_9327425f19d5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-09-2021_la-conferencia-internacional-online-gold-convergence_9327425f19d5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-09-2021_la-conferencia-internacional-online-gold-convergence_9327425f19d5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/84/56/fa/6f/24/8456fa6f24b61567e25e9707069b9626_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-09-2021_la-conferencia-internacional-online-gold-convergence_9327425f19d5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:30:48.975779-03:00",
+  "status": "downloaded"
+}

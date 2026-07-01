@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_a76066f96ae6",
+  "platform": "gig_os",
+  "title": "Evento histórico: ha tenido lugar la Primera Asamblea de Creadores de Mercado",
+  "date": "30.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/evento-historico-ha-tenido-lugar-la-primera-asamblea-de-creadores-de-mercado-981",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/evento-historico-ha-tenido-lugar-la-primera-asamblea-de-creadores-de-mercado-981",
+  "content_hash": "d3450e344304c0604f56059369676fb23a67b71b6bb7c607f3d7a20a1234720d",
+  "url_hash": "7e9351bc43da7126aefd21bf23f1b2ae06779f508ad856e1210cc4a3adab64fd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-08-2024_evento-histórico-ha-tenido-lugar-la-primera-asamblea-de-creadores-de-mercado_a76066f96ae6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-08-2024_evento-histórico-ha-tenido-lugar-la-primera-asamblea-de-creadores-de-mercado_a76066f96ae6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-08-2024_evento-histórico-ha-tenido-lugar-la-primera-asamblea-de-creadores-de-mercado_a76066f96ae6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/65/3b/c6/67/ab/653bc667abc6368057dd9c7cd20a1106_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-08-2024_evento-histórico-ha-tenido-lugar-la-primera-asamblea-de-creadores-de-mercado_a76066f96ae6\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:30.298042-03:00",
+  "status": "downloaded"
+}

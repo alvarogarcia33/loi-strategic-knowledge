@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e5382c562213",
+  "platform": "gig_os",
+  "title": "Ha empezado la inscripción para el evento online",
+  "date": "01.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-empezado-la-inscripcion-para-el-evento-online-554",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-empezado-la-inscripcion-para-el-evento-online-554",
+  "content_hash": "b9ceb05f406d17d0f2e9456f8dffdecd70c324ce3bbe5d66566cb89efa6a47b8",
+  "url_hash": "1b563196b19c5593965f8a66f991e0993a8ce0b65cca5a638887ddefc8ab2c9d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-04-2022_ha-empezado-la-inscripción-para-el-evento-online_e5382c562213.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-04-2022_ha-empezado-la-inscripción-para-el-evento-online_e5382c562213.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-04-2022_ha-empezado-la-inscripción-para-el-evento-online_e5382c562213",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/60/80/3a/1b/8c/60803a1b8ca105c95176d88f65fd4042_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-04-2022_ha-empezado-la-inscripción-para-el-evento-online_e5382c562213\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:22:44.215885-03:00",
+  "status": "downloaded"
+}

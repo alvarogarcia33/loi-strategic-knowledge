@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_1c152b0acd0f",
+  "platform": "gig_os",
+  "title": "Transmisión online del Presidente: ¡faltan solo dos días!",
+  "date": "21.07.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/transmision-online-del-presidente-faltan-solo-dos-dias-444",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/transmision-online-del-presidente-faltan-solo-dos-dias-444",
+  "content_hash": "a6e22df1e53a6ba41883cb1c62ab2d3d20a8d1cf1391074e77928bb28b5905e0",
+  "url_hash": "d4d51683ec048f6f21385d917756c47ae8ea7af5ed9b140febf65ee12d97fbae",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-07-2021_transmisión-online-del-presidente-faltan-solo-dos-días_1c152b0acd0f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-07-2021_transmisión-online-del-presidente-faltan-solo-dos-días_1c152b0acd0f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-07-2021_transmisión-online-del-presidente-faltan-solo-dos-días_1c152b0acd0f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2e/25/2e/79/0e/2e252e790ef7fdc9a48acb689843240d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-07-2021_transmisión-online-del-presidente-faltan-solo-dos-días_1c152b0acd0f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:40.515981-03:00",
+  "status": "downloaded"
+}

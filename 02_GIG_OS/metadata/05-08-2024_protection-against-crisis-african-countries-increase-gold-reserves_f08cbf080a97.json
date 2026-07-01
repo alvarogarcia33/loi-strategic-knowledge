@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_f08cbf080a97",
+  "platform": "gig_os",
+  "title": "Protection against crisis: African countries increase gold reserves",
+  "date": "05.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/protection-against-crisis-african-countries-increase-gold-reserves-970",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/protection-against-crisis-african-countries-increase-gold-reserves-970",
+  "content_hash": "66337726bd9b037c06c58832f36c2d02f1a27a62fad0881cc7fc251e68f887ed",
+  "url_hash": "a9d3d908e40c4f595355a5d729837a05dc075ba0c3150e29588b15fa7d6a76ff",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-08-2024_protection-against-crisis-african-countries-increase-gold-reserves_f08cbf080a97.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-08-2024_protection-against-crisis-african-countries-increase-gold-reserves_f08cbf080a97.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-08-2024_protection-against-crisis-african-countries-increase-gold-reserves_f08cbf080a97",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1a/1d/ff/bd/ad/1a1dffbdad1875af2dc6752e7887e982_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-08-2024_protection-against-crisis-african-countries-increase-gold-reserves_f08cbf080a97\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-en_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-08-2024_protection-against-crisis-african-countries-increase-gold-reserves_f08cbf080a97\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:35.991962-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_b639cd7e18dc",
+  "platform": "gig_os",
+  "title": "[REPORTAJE FOTOGRÁFICO] Los mejores momentos de la conferencia en Bogotá",
+  "date": "04.04.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/reportaje-fotografico-los-mejores-momentos-de-la-conferencia-en-bogota-1065",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/reportaje-fotografico-los-mejores-momentos-de-la-conferencia-en-bogota-1065",
+  "content_hash": "f98571736a631c2238eefda30b4bb191a53df95d29e6f49cf739d022f9c3671d",
+  "url_hash": "6fd124b6561c5a2f4fc205eb669aef8660c843cc5bac9947c5111cbab80f116a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-04-2025_reportaje-fotográfico-los-mejores-momentos-de-la-conferencia-en-bogotá_b639cd7e18dc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-04-2025_reportaje-fotográfico-los-mejores-momentos-de-la-conferencia-en-bogotá_b639cd7e18dc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2025_reportaje-fotográfico-los-mejores-momentos-de-la-conferencia-en-bogotá_b639cd7e18dc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1837/gig-04-04-2005-bogota-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2025_reportaje-fotográfico-los-mejores-momentos-de-la-conferencia-en-bogotá_b639cd7e18dc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:00.040308-03:00",
+  "status": "downloaded"
+}

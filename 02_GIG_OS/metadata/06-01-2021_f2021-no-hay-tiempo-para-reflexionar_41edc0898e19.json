@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_41edc0898e19",
+  "platform": "gig_os",
+  "title": "F2021! ¡No hay tiempo para reflexionar!",
+  "date": "06.01.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/f2021-no-hay-tiempo-para-reflexionar-352",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/f2021-no-hay-tiempo-para-reflexionar-352",
+  "content_hash": "095d62cae07614c5c7945cd60ef3d6cb60c06fcac639a2c89ed53bb8beef4bcb",
+  "url_hash": "adf0333130eb6dc81d9a4c6d75e095cd0c0fcd463b86f62cb401d8cb294eeef3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-01-2021_f2021-no-hay-tiempo-para-reflexionar_41edc0898e19.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-01-2021_f2021-no-hay-tiempo-para-reflexionar_41edc0898e19.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-01-2021_f2021-no-hay-tiempo-para-reflexionar_41edc0898e19",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b7/5d/19/ce/2b/b75d19ce2b5e469e08a5de1289fc307b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-01-2021_f2021-no-hay-tiempo-para-reflexionar_41edc0898e19\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:53.683772-03:00",
+  "status": "downloaded"
+}

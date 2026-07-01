@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_c1ce1040659f",
+  "platform": "gig_os",
+  "title": "En el mundo de la deudas, las crisis y las sanciones: ¿hay una salida?",
+  "date": "11.03.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/en-el-mundo-de-la-deudas-las-crisis-y-las-sanciones-hay-una-salida",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/en-el-mundo-de-la-deudas-las-crisis-y-las-sanciones-hay-una-salida",
+  "content_hash": "20c770883fb0568c79daf93b94669e2e877fead0a5f114d768df968818ecb11d",
+  "url_hash": "b663a4640ff7e9f84c2ce20f730734f7c0f0fc726f272bc2c3fd6dd76d2a244b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-03-2019_en-el-mundo-de-la-deudas-las-crisis-y-las-sanciones-hay-una-salida_c1ce1040659f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-03-2019_en-el-mundo-de-la-deudas-las-crisis-y-las-sanciones-hay-una-salida_c1ce1040659f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2019_en-el-mundo-de-la-deudas-las-crisis-y-las-sanciones-hay-una-salida_c1ce1040659f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5e/01/f9/74/b3/5e01f974b3ce07ece86f0dcf7f6e0f07_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2019_en-el-mundo-de-la-deudas-las-crisis-y-las-sanciones-hay-una-salida_c1ce1040659f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/669/untitled-1_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/669/global-intergold-gold-informe-de-la-cotizacion-del-oro-19_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:13:21.483619-03:00",
+  "status": "downloaded"
+}

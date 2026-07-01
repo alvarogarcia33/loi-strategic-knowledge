@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ac184dfe06db",
+  "platform": "gig_os",
+  "title": "Haga staking de los NFT de The Fundamental Set y reciba GOS Coin",
+  "date": "07.08.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/haga-staking-de-los-nft-de-the-fundamental-set-y-reciba-gos-coin-1121",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/haga-staking-de-los-nft-de-the-fundamental-set-y-reciba-gos-coin-1121",
+  "content_hash": "d3c703228c2948b51ff71a0fec867bd5f3bb0f43801d9a05bcb986830690d006",
+  "url_hash": "1786a2e95579573cd629f8b8013f0e37fd81c34719d09313fe7d46541d99f3e8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-08-2025_haga-staking-de-los-nft-de-the-fundamental-set-y-reciba-gos-coin_ac184dfe06db.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-08-2025_haga-staking-de-los-nft-de-the-fundamental-set-y-reciba-gos-coin_ac184dfe06db.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-08-2025_haga-staking-de-los-nft-de-the-fundamental-set-y-reciba-gos-coin_ac184dfe06db",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/29/ab/50/4c/69/29ab504c6906b37690b7d109bc2ddce1_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-08-2025_haga-staking-de-los-nft-de-the-fundamental-set-y-reciba-gos-coin_ac184dfe06db\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1901/gigos-inside-pic_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-08-2025_haga-staking-de-los-nft-de-the-fundamental-set-y-reciba-gos-coin_ac184dfe06db\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:23:24.592234-03:00",
+  "status": "downloaded"
+}

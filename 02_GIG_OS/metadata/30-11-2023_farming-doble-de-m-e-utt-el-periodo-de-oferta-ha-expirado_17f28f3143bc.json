@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_17f28f3143bc",
+  "platform": "gig_os",
+  "title": "Farming doble de M*E UTT: el periodo de oferta ha expirado",
+  "date": "30.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/farming-doble-de-me-utt-el-periodo-de-oferta-ha-expirado-832",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/farming-doble-de-me-utt-el-periodo-de-oferta-ha-expirado-832",
+  "content_hash": "468f21fd6d5484570291f4c5643f861b288dfcd62c1ffe0ba62c410b547dafe2",
+  "url_hash": "538a81f301b318119821b9efdb76a93c12acd375b2650f90f0d777311955fe2c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-11-2023_farming-doble-de-m-e-utt-el-periodo-de-oferta-ha-expirado_17f28f3143bc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-11-2023_farming-doble-de-m-e-utt-el-periodo-de-oferta-ha-expirado_17f28f3143bc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-11-2023_farming-doble-de-m-e-utt-el-periodo-de-oferta-ha-expirado_17f28f3143bc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5e/4a/f7/d3/68/5e4af7d3684d45534436088f8ac816e8_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-11-2023_farming-doble-de-m-e-utt-el-periodo-de-oferta-ha-expirado_17f28f3143bc\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1574/farming-2x-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-11-2023_farming-doble-de-m-e-utt-el-periodo-de-oferta-ha-expirado_17f28f3143bc\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:15:59.253338-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_b914be4c2fb2",
+  "platform": "gig_os",
+  "title": "¡No se pierdan la «Temporada de invierno»!",
+  "date": "26.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/no-se-pierdan-la-temporada-de-invierno-848",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/no-se-pierdan-la-temporada-de-invierno-848",
+  "content_hash": "a014ec6cd83da375a19ac3c02403ffedb19f84c8b5a3a0d6ce16b6c2a5e884d3",
+  "url_hash": "701f34129b47eeabe5b658be8c623a05c14813901a7d0d1aa680457c45d974e2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-12-2023_no-se-pierdan-la-temporada-de-invierno_b914be4c2fb2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-12-2023_no-se-pierdan-la-temporada-de-invierno_b914be4c2fb2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-12-2023_no-se-pierdan-la-temporada-de-invierno_b914be4c2fb2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/76/6f/95/96/c0/766f9596c0cb5b5e8e1b4d34a1586bfb_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-12-2023_no-se-pierdan-la-temporada-de-invierno_b914be4c2fb2\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:43:13.257724-03:00",
+  "status": "downloaded"
+}

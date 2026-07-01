@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_05143d5fd4f0",
+  "platform": "gig_os",
+  "title": "¡La competencia para el CRUCERO 2020 ha terminado!",
+  "date": "21.05.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-competencia-para-el-crucero-2020-ha-terminado-259",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-competencia-para-el-crucero-2020-ha-terminado-259",
+  "content_hash": "07d2605d3cacd07001698fc9ea113a7a235eb3b92a438f726d449d964f83c2d0",
+  "url_hash": "805ab424f4f959eff11dc27dad10097ea8e71a4105e48bd4858a69a02f4191d7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-05-2020_la-competencia-para-el-crucero-2020-ha-terminado_05143d5fd4f0.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-05-2020_la-competencia-para-el-crucero-2020-ha-terminado_05143d5fd4f0.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-05-2020_la-competencia-para-el-crucero-2020-ha-terminado_05143d5fd4f0",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c3/40/86/8c/b1/c340868cb1805a8fc42dd6b6ccc6ba0c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-05-2020_la-competencia-para-el-crucero-2020-ha-terminado_05143d5fd4f0\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:30:15.641451-03:00",
+  "status": "downloaded"
+}

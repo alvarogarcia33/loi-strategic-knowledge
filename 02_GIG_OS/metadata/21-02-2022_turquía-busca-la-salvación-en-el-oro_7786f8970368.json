@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7786f8970368",
+  "platform": "gig_os",
+  "title": "Turquía busca la salvación en el oro",
+  "date": "21.02.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/turquia-busca-la-salvacion-en-el-oro-533",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/turquia-busca-la-salvacion-en-el-oro-533",
+  "content_hash": "97bf669076c1d5b9dc488a0d23d38860b14b211b4ed8291ea528a549de432c9b",
+  "url_hash": "2c2192c65b701a6321aa365edb206e0b748638dd53ec545cb39a6cc43a065e07",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-02-2022_turquía-busca-la-salvación-en-el-oro_7786f8970368.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-02-2022_turquía-busca-la-salvación-en-el-oro_7786f8970368.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-02-2022_turquía-busca-la-salvación-en-el-oro_7786f8970368",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/72/bb/e9/17/7c/72bbe9177cc00bad9fb738f81c1dc23f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-02-2022_turquía-busca-la-salvación-en-el-oro_7786f8970368\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1233/dizayn-bez-nazvaniya19_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-02-2022_turquía-busca-la-salvación-en-el-oro_7786f8970368\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:57.010441-03:00",
+  "status": "downloaded"
+}

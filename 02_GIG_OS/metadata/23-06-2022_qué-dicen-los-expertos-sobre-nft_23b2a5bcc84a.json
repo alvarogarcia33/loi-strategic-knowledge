@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_23b2a5bcc84a",
+  "platform": "gig_os",
+  "title": "¿Qué dicen los expertos sobre NFT?",
+  "date": "23.06.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-dicen-los-expertos-sobre-nft-592",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-dicen-los-expertos-sobre-nft-592",
+  "content_hash": "5570a44ef44251ed94282d9823c248a063fadea7a107428c011035cff80ab970",
+  "url_hash": "1c8074ef8ce4f5629fbf4ee0df2425fa7d998a0c86d4a168b6c25d468dbc10bc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-06-2022_qué-dicen-los-expertos-sobre-nft_23b2a5bcc84a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-06-2022_qué-dicen-los-expertos-sobre-nft_23b2a5bcc84a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-06-2022_qué-dicen-los-expertos-sobre-nft_23b2a5bcc84a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/53/82/5f/93/9c/53825f939c496e0933fe3c8d5fb28c1a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-06-2022_qué-dicen-los-expertos-sobre-nft_23b2a5bcc84a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1299/novyy-proekt-55_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-06-2022_qué-dicen-los-expertos-sobre-nft_23b2a5bcc84a\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1299/novyy-proekt-56_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-06-2022_qué-dicen-los-expertos-sobre-nft_23b2a5bcc84a\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1299/novyy-proekt-62_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-06-2022_qué-dicen-los-expertos-sobre-nft_23b2a5bcc84a\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1299/dizayn-bez-nazvaniya-61_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-06-2022_qué-dicen-los-expertos-sobre-nft_23b2a5bcc84a\\image_05.png",
+      "filename": "image_05.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:17.473962-03:00",
+  "status": "downloaded"
+}

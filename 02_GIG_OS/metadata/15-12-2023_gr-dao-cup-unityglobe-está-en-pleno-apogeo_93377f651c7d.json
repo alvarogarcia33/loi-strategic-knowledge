@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_93377f651c7d",
+  "platform": "gig_os",
+  "title": "¡GR DAO CUP UnityGlobe está en pleno apogeo!",
+  "date": "15.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-unityglobe-esta-en-pleno-apogeo-843",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-unityglobe-esta-en-pleno-apogeo-843",
+  "content_hash": "574f0d74c1895116f818fe6735b219f37679a50b39590728ccae1b0974417a15",
+  "url_hash": "3f99cd09f6365f79b33ca1235f7fe0e5a7527a8f551239f9f7f34260ce14b397",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-12-2023_gr-dao-cup-unityglobe-está-en-pleno-apogeo_93377f651c7d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-12-2023_gr-dao-cup-unityglobe-está-en-pleno-apogeo_93377f651c7d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-12-2023_gr-dao-cup-unityglobe-está-en-pleno-apogeo_93377f651c7d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cf/55/46/75/0e/cf5546750e4cb90440cee3943cd7af22_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-12-2023_gr-dao-cup-unityglobe-está-en-pleno-apogeo_93377f651c7d\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1588/unity-globe-text-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-12-2023_gr-dao-cup-unityglobe-está-en-pleno-apogeo_93377f651c7d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:41.254032-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_6f49d3ae1a24",
+  "platform": "gig_os",
+  "title": "Ha comenzado la 3.ª etapa de la GR DAO CUP UnityGlobe",
+  "date": "10.02.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-la-3-etapa-de-la-gr-dao-cup-unityglobe-875",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-la-3-etapa-de-la-gr-dao-cup-unityglobe-875",
+  "content_hash": "56ed780ca6a785cf80bd9f03469ba72b64c850b0a856ece24dbd676b569c1dd3",
+  "url_hash": "8ca13b7dfb4357c7e047d5f83ab6e60a4c60419c401d5317e14ef7f0679c27af",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-02-2024_ha-comenzado-la-3-etapa-de-la-gr-dao-cup-unityglobe_6f49d3ae1a24.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-02-2024_ha-comenzado-la-3-etapa-de-la-gr-dao-cup-unityglobe_6f49d3ae1a24.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-02-2024_ha-comenzado-la-3-etapa-de-la-gr-dao-cup-unityglobe_6f49d3ae1a24",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7a/65/be/1d/a3/7a65be1da370451dda83684daab055bc_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-02-2024_ha-comenzado-la-3-etapa-de-la-gr-dao-cup-unityglobe_6f49d3ae1a24\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1620/stars94498_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-02-2024_ha-comenzado-la-3-etapa-de-la-gr-dao-cup-unityglobe_6f49d3ae1a24\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1620/call-to-action-es-3rd-stage_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-02-2024_ha-comenzado-la-3-etapa-de-la-gr-dao-cup-unityglobe_6f49d3ae1a24\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:22:19.353016-03:00",
+  "status": "downloaded"
+}

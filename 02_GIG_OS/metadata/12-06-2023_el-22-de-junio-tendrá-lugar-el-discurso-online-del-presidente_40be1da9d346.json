@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_40be1da9d346",
+  "platform": "gig_os",
+  "title": "El 22 de junio tendrá lugar el discurso online del Presidente",
+  "date": "12.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-22-de-junio-tendra-lugar-el-discurso-online-del-presidente-749",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-22-de-junio-tendra-lugar-el-discurso-online-del-presidente-749",
+  "content_hash": "6a748e8e1097cfbd105df16b43e16f44d7151eed31a193ecad08611dfb8b3e8e",
+  "url_hash": "f1eea0ad0ffa2c3f338cb39879ae6d92235540fb637ff569df550574831fd8d2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-06-2023_el-22-de-junio-tendrá-lugar-el-discurso-online-del-presidente_40be1da9d346.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-06-2023_el-22-de-junio-tendrá-lugar-el-discurso-online-del-presidente_40be1da9d346.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-06-2023_el-22-de-junio-tendrá-lugar-el-discurso-online-del-presidente_40be1da9d346",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/50/dc/00/f4/55/50dc00f4557db1b72d60176b6965ce26_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-06-2023_el-22-de-junio-tendrá-lugar-el-discurso-online-del-presidente_40be1da9d346\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:07.026062-03:00",
+  "status": "downloaded"
+}

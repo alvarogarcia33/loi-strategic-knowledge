@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_e11141d6a930",
+  "platform": "gig_os",
+  "title": "Ha comenzado el prelanzamiento de COMMODITY BOARD",
+  "date": "22.03.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-prelanzamiento-de-commodity-board-901",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-prelanzamiento-de-commodity-board-901",
+  "content_hash": "533c7875f9141b14e9082b7eb0daa9f5470da3303700187f206dc52dc03fb6d9",
+  "url_hash": "bd734c6aad923ea62b297201aa012077f35b50659d9a929a7b375b499ce8b37a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-03-2024_ha-comenzado-el-prelanzamiento-de-commodity-board_e11141d6a930.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-03-2024_ha-comenzado-el-prelanzamiento-de-commodity-board_e11141d6a930.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_ha-comenzado-el-prelanzamiento-de-commodity-board_e11141d6a930",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a0/81/29/95/fd/a0812995fdf913996ee2d8b1e99fc99c_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_ha-comenzado-el-prelanzamiento-de-commodity-board_e11141d6a930\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1653/1-number_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_ha-comenzado-el-prelanzamiento-de-commodity-board_e11141d6a930\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1653/2-number_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_ha-comenzado-el-prelanzamiento-de-commodity-board_e11141d6a930\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1653/3-number_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_ha-comenzado-el-prelanzamiento-de-commodity-board_e11141d6a930\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1653/4-number_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_ha-comenzado-el-prelanzamiento-de-commodity-board_e11141d6a930\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1653/commodity-call-to-action-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2024_ha-comenzado-el-prelanzamiento-de-commodity-board_e11141d6a930\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:21:59.569285-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_92951be37581",
+  "platform": "gig_os",
+  "title": "«Unique Partners Season»: ¡desarrolle su negocio y obtenga recompensas especiales!",
+  "date": "01.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/unique-partners-season-desarrolle-su-negocio-y-obtenga-recompensas-especiales-376",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/unique-partners-season-desarrolle-su-negocio-y-obtenga-recompensas-especiales-376",
+  "content_hash": "63db26117c79852f5287e1a9e5b51e1abcfb10632d9b56462af65e04d6393059",
+  "url_hash": "3982a8031d854f83a5264b9cea8c3d8210f1150564cc76beda3d996380444848",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-03-2021_unique-partners-season-desarrolle-su-negocio-y-obtenga-recompensas-especiales_92951be37581.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-03-2021_unique-partners-season-desarrolle-su-negocio-y-obtenga-recompensas-especiales_92951be37581.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2021_unique-partners-season-desarrolle-su-negocio-y-obtenga-recompensas-especiales_92951be37581",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/75/ef/4e/9a/c9/75ef4e9ac99a873ef7f1e81bf268068e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2021_unique-partners-season-desarrolle-su-negocio-y-obtenga-recompensas-especiales_92951be37581\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1042/untitled-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2021_unique-partners-season-desarrolle-su-negocio-y-obtenga-recompensas-especiales_92951be37581\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:44.985870-03:00",
+  "status": "downloaded"
+}

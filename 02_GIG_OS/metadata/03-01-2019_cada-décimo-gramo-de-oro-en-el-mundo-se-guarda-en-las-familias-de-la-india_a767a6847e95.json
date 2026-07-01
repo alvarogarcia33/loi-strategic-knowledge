@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_a767a6847e95",
+  "platform": "gig_os",
+  "title": "Cada décimo gramo de oro en el mundo se guarda en las familias de la India.",
+  "date": "03.01.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/cada-decimo-gramo-de-oro-en-el-mundo-se-guarda-en-las-familias-de-la-india",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/cada-decimo-gramo-de-oro-en-el-mundo-se-guarda-en-las-familias-de-la-india",
+  "content_hash": "d3174557ddc3c90af86aca6bfbc86f3b7053824da3c014282385401885ff8fae",
+  "url_hash": "6ef5a312dc78a66d993dab00d94bddcbfa10d4614daf7684030aafddd3481c1c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-01-2019_cada-décimo-gramo-de-oro-en-el-mundo-se-guarda-en-las-familias-de-la-india_a767a6847e95.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-01-2019_cada-décimo-gramo-de-oro-en-el-mundo-se-guarda-en-las-familias-de-la-india_a767a6847e95.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-01-2019_cada-décimo-gramo-de-oro-en-el-mundo-se-guarda-en-las-familias-de-la-india_a767a6847e95",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b7/85/10/39/a6/b7851039a6e9b6c73683f6a6f20cb2d5_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/624/global-intergold-oro-la-seguridad-financiera-17.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/624/global-intergold-oro-la-seguridad-financiera-18.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:00:14.533506-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_f1d21964cadc",
+  "platform": "gig_os",
+  "title": "GIG-OS: sobre la asociación comercial. Parte 2",
+  "date": "17.12.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gig-os-sobre-asociacion-comercial-parte-2-216",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gig-os-sobre-asociacion-comercial-parte-2-216",
+  "content_hash": "f1f790ca7d3161a6a6866a6e63e67278b4e0f20ad3eda0c74d4ab4785e5d41ed",
+  "url_hash": "5a966c3f1321b3a9a3ee6d9b619c30ef3d0379f2eefdc66305f7ce42c7913896",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-12-2019_gig-os-sobre-la-asociación-comercial-parte-2_f1d21964cadc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-12-2019_gig-os-sobre-la-asociación-comercial-parte-2_f1d21964cadc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-12-2019_gig-os-sobre-la-asociación-comercial-parte-2_f1d21964cadc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/20/5b/44/07/a1/205b4407a1973142989f42976cc808f4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-12-2019_gig-os-sobre-la-asociación-comercial-parte-2_f1d21964cadc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:18:02.204270-03:00",
+  "status": "downloaded"
+}

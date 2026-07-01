@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_8cbb91d6d8c8",
+  "platform": "gig_os",
+  "title": "Resumen de la transmisión internacional online",
+  "date": "20.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resumen-de-la-transmision-internacional-online-403",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resumen-de-la-transmision-internacional-online-403",
+  "content_hash": "b5f2267195a2c4b2465c97c5c851b54ea37541dea5f5eb172dbe60bd7e38a31f",
+  "url_hash": "468f8601820ec1963a1a89e1dc1e847d30d96fbd0269377ea7f286097619ec5b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-04-2021_resumen-de-la-transmisión-internacional-online_8cbb91d6d8c8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-04-2021_resumen-de-la-transmisión-internacional-online_8cbb91d6d8c8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-04-2021_resumen-de-la-transmisión-internacional-online_8cbb91d6d8c8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b8/a0/8f/72/2d/b8a08f722da061621bb81160153edfc9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-04-2021_resumen-de-la-transmisión-internacional-online_8cbb91d6d8c8\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:54:06.224682-03:00",
+  "status": "downloaded"
+}

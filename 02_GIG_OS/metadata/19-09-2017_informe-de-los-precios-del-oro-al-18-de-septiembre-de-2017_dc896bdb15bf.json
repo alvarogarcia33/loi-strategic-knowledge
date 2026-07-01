@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_dc896bdb15bf",
+  "platform": "gig_os",
+  "title": "Informe de los precios del oro al 18 de septiembre de 2017",
+  "date": "19.09.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-18-de-septiembre-de-2017",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-18-de-septiembre-de-2017",
+  "content_hash": "15cfdbcb8e88091ce94ed1ecfdef2accf84a4931083a8c0b65fac3bfbbfbb7ef",
+  "url_hash": "66fead44b84b95c1869ee0bf4eace3f6af11542aed4cdee554a204baa72d4992",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-09-2017_informe-de-los-precios-del-oro-al-18-de-septiembre-de-2017_dc896bdb15bf.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-09-2017_informe-de-los-precios-del-oro-al-18-de-septiembre-de-2017_dc896bdb15bf.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-09-2017_informe-de-los-precios-del-oro-al-18-de-septiembre-de-2017_dc896bdb15bf",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/20/2b/1b/81/da/202b1b81da2c403906bef76891030995_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/353/globalintergoldinformedelospreciosdeloro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:47.663865-03:00",
+  "status": "downloaded"
+}

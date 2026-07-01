@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_2bbaa655ffb3",
+  "platform": "gig_os",
+  "title": "¿Cómo acceder al COMMODITY BOARD?",
+  "date": "08.05.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-acceder-al-commodity-board-931",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-acceder-al-commodity-board-931",
+  "content_hash": "a87e57295cc7515dcb22e792dc0a4176bf24749dd00c678664c51e301920d035",
+  "url_hash": "9d019530f47a0c86386c8db03639fe0af44d9643e7e17337da6e069bfd56477d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-05-2024_cómo-acceder-al-commodity-board_2bbaa655ffb3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-05-2024_cómo-acceder-al-commodity-board_2bbaa655ffb3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-05-2024_cómo-acceder-al-commodity-board_2bbaa655ffb3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/70/26/42/23/a7/70264223a7367e81ff34d14103522a96_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-05-2024_cómo-acceder-al-commodity-board_2bbaa655ffb3\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1688/me-board-080524_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-05-2024_cómo-acceder-al-commodity-board_2bbaa655ffb3\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1688/hold-amp-080524_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-05-2024_cómo-acceder-al-commodity-board_2bbaa655ffb3\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:02:35.226777-03:00",
+  "status": "downloaded"
+}

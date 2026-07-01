@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_ff0d022d5579",
+  "platform": "gig_os",
+  "title": "Un año fantástico para el oro. ¿Cómo será el próximo?",
+  "date": "26.10.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/un-ano-fantastico-para-el-oro-como-sera-el-proximo-320",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/un-ano-fantastico-para-el-oro-como-sera-el-proximo-320",
+  "content_hash": "d967dc03be2a830bf98f067660c909be639854657334b0ec6c4e4d9f43e16e4c",
+  "url_hash": "5bdd8b213c76b7ccdc6844b9df2cb13e785d72c5bef570c38cd4b601a6d114c7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-10-2020_un-año-fantástico-para-el-oro-cómo-será-el-próximo_ff0d022d5579.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-10-2020_un-año-fantástico-para-el-oro-cómo-será-el-próximo_ff0d022d5579.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-10-2020_un-año-fantástico-para-el-oro-cómo-será-el-próximo_ff0d022d5579",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/76/6c/a5/8f/72/766ca58f727c1a8d6e3207c63deda4c0_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-10-2020_un-año-fantástico-para-el-oro-cómo-será-el-próximo_ff0d022d5579\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:28.748107-03:00",
+  "status": "downloaded"
+}

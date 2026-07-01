@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_b0b4adce557f",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 7 de mayo de 2018",
+  "date": "07.05.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-7-de-mayo-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-7-de-mayo-de-2018",
+  "content_hash": "05013cdba8604e4f0a04f42d1ee875f28e3c1e44b27572c3842be125f1097db7",
+  "url_hash": "8b73dd73cd47d6e5ae5d01704e908ad2e7e6e75abbe5c84bef4f9dde1f904b5b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-05-2018_informe-de-la-cotización-del-oro-al-7-de-mayo-de-2018_b0b4adce557f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-05-2018_informe-de-la-cotización-del-oro-al-7-de-mayo-de-2018_b0b4adce557f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-05-2018_informe-de-la-cotización-del-oro-al-7-de-mayo-de-2018_b0b4adce557f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/63/cc/17/53/4f/63cc17534fa421a83fc804f10de180cf_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/480/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:17.974837-03:00",
+  "status": "downloaded"
+}

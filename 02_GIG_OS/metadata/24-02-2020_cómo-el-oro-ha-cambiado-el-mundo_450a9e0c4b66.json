@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_450a9e0c4b66",
+  "platform": "gig_os",
+  "title": "Cómo el oro ha cambiado el mundo",
+  "date": "24.02.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-el-oro-ha-cambiado-el-mundo-223",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-el-oro-ha-cambiado-el-mundo-223",
+  "content_hash": "25f83a9572d05031f0cdd47241f0790102eb49196ef5cd71deab537188459603",
+  "url_hash": "9c5d2778ec2d3837ac513a2d2a8cb5f041be91e2c13326c35d50079ec53b2a93",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-02-2020_cómo-el-oro-ha-cambiado-el-mundo_450a9e0c4b66.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-02-2020_cómo-el-oro-ha-cambiado-el-mundo_450a9e0c4b66.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-02-2020_cómo-el-oro-ha-cambiado-el-mundo_450a9e0c4b66",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6e/77/12/ef/3d/6e7712ef3db24c215fdd3d256a392039_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-02-2020_cómo-el-oro-ha-cambiado-el-mundo_450a9e0c4b66\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/837/global-intergold--las-minas-de-minas-gerais_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-02-2020_cómo-el-oro-ha-cambiado-el-mundo_450a9e0c4b66\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/837/global-intergold--san-francisco-1851_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-02-2020_cómo-el-oro-ha-cambiado-el-mundo_450a9e0c4b66\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/837/global-intergold--buscadores-de-oro-australianos_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-02-2020_cómo-el-oro-ha-cambiado-el-mundo_450a9e0c4b66\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/837/global-intergold--johannesburgo_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-02-2020_cómo-el-oro-ha-cambiado-el-mundo_450a9e0c4b66\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:03:22.246473-03:00",
+  "status": "downloaded"
+}

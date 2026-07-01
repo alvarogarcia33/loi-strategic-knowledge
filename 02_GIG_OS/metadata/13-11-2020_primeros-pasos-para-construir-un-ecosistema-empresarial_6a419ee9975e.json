@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_6a419ee9975e",
+  "platform": "gig_os",
+  "title": "Primeros pasos para construir un Ecosistema Empresarial",
+  "date": "13.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/primeros-pasos-para-construir-un-ecosistema-empresarial-330",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/primeros-pasos-para-construir-un-ecosistema-empresarial-330",
+  "content_hash": "85582f91972ff8f425f8cb5d6d59b8e4b2d65f6ecb5667707b91e8679995e584",
+  "url_hash": "9f80c817cb403c1c6b899a3f05b4742425f3e1eb58ac19e3b911647670b2225a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-11-2020_primeros-pasos-para-construir-un-ecosistema-empresarial_6a419ee9975e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-11-2020_primeros-pasos-para-construir-un-ecosistema-empresarial_6a419ee9975e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-11-2020_primeros-pasos-para-construir-un-ecosistema-empresarial_6a419ee9975e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/03/1f/d6/04/49/031fd60449ddf8426da6beb2e043ece5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-11-2020_primeros-pasos-para-construir-un-ecosistema-empresarial_6a419ee9975e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:12.034729-03:00",
+  "status": "downloaded"
+}

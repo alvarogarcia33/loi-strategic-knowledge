@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_62943c956ecb",
+  "platform": "gig_os",
+  "title": "Informe de los precios del oro al 21 de Agosto",
+  "date": "22.08.2017",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-21-de-agosto",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-21-de-agosto",
+  "content_hash": "1fccf2e68a09c4ff801e914ab68effdc8fa51ac8f37db3e51b885354bda154e4",
+  "url_hash": "9ed2dd051572dfef3d0912335249c2677f20c9a4af64b8c8bd1e84768069e619",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-08-2017_informe-de-los-precios-del-oro-al-21-de-agosto_62943c956ecb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-08-2017_informe-de-los-precios-del-oro-al-21-de-agosto_62943c956ecb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-08-2017_informe-de-los-precios-del-oro-al-21-de-agosto_62943c956ecb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7d/22/0a/85/c7/7d220a85c79803aff31b4647946c9bb4_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://www.globalintergold.info/_files/ff/38/69/30/67/ff386930672726ae9cfe30b8f21b2404.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-08-2017_informe-de-los-precios-del-oro-al-21-de-agosto_62943c956ecb\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "text/html",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:55.049730-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_5d89290d701a",
+  "platform": "gig_os",
+  "title": "Una oferta especial — Moment Arm 2021",
+  "date": "16.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/una-oferta-especial-moment-arm-2021-400",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/una-oferta-especial-moment-arm-2021-400",
+  "content_hash": "0de917445eda5d096abe11f07c61db833b5e35789adcb40774df834b4953f0e6",
+  "url_hash": "7cf77333fe247678a24a5c8e09371ce8110aad1ed588f43ae41c7d2b114ec800",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-04-2021_una-oferta-especial-moment-arm-2021_5d89290d701a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-04-2021_una-oferta-especial-moment-arm-2021_5d89290d701a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-04-2021_una-oferta-especial-moment-arm-2021_5d89290d701a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/44/e4/62/70/4d/44e462704d39ba30229ac76c966109f7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-04-2021_una-oferta-especial-moment-arm-2021_5d89290d701a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:23.822656-03:00",
+  "status": "downloaded"
+}

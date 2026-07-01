@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_344dc551ab1d",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 8 de enero de 2018",
+  "date": "09.01.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-8-de-enero-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-8-de-enero-de-2018",
+  "content_hash": "e154cada256f6f7b5d7b1c0bfb1cffd833472740eb1d207f6f0194ed6af106d3",
+  "url_hash": "813175c1ef19878945c6e794876ccad7ee52ac5a97eaeb745b0546842e15fe9b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-01-2018_informe-de-la-cotización-del-oro-al-8-de-enero-de-2018_344dc551ab1d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-01-2018_informe-de-la-cotización-del-oro-al-8-de-enero-de-2018_344dc551ab1d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-01-2018_informe-de-la-cotización-del-oro-al-8-de-enero-de-2018_344dc551ab1d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1d/9c/c8/31/22/1d9cc831228f93096c7d9266117abe66_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-01-2018_informe-de-la-cotización-del-oro-al-8-de-enero-de-2018_344dc551ab1d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/437/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:21.508561-03:00",
+  "status": "downloaded"
+}

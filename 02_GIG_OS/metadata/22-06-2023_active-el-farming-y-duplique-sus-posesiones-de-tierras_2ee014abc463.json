@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_2ee014abc463",
+  "platform": "gig_os",
+  "title": "Active el farming y ¡duplique sus posesiones de tierras!",
+  "date": "22.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/active-el-farming-y-duplique-sus-posesiones-de-tierras-756",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/active-el-farming-y-duplique-sus-posesiones-de-tierras-756",
+  "content_hash": "0b0a0964b2a9172b6cecf26202a4a9be889fcebbe9bda44a9267e77549dd0361",
+  "url_hash": "b347493489c179b1d80a7b625f9d128b49c85b15843e8255f43324000cca38f5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-06-2023_active-el-farming-y-duplique-sus-posesiones-de-tierras_2ee014abc463.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-06-2023_active-el-farming-y-duplique-sus-posesiones-de-tierras_2ee014abc463.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-06-2023_active-el-farming-y-duplique-sus-posesiones-de-tierras_2ee014abc463",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8e/3c/76/52/3a/8e3c76523ac43dd97372116b3cc42c8f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-06-2023_active-el-farming-y-duplique-sus-posesiones-de-tierras_2ee014abc463\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1491/nextera_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-06-2023_active-el-farming-y-duplique-sus-posesiones-de-tierras_2ee014abc463\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:57:11.308983-03:00",
+  "status": "downloaded"
+}

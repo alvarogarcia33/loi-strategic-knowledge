@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_465ef8bf768f",
+  "platform": "gig_os",
+  "title": "Actitudes hacia el oro: resultados de la encuesta global",
+  "date": "20.06.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/actitudes-hacia-el-oro-resultados-de-la-encuesta-global-591",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/actitudes-hacia-el-oro-resultados-de-la-encuesta-global-591",
+  "content_hash": "577ee5311d222eab935832bfe85f9abd9ece19c35f54ba00155987ff5277a968",
+  "url_hash": "5232185e55c23ae5198fb6dd07354fd31c3939b4299615d71064e752f55533cd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-06-2022_actitudes-hacia-el-oro-resultados-de-la-encuesta-global_465ef8bf768f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-06-2022_actitudes-hacia-el-oro-resultados-de-la-encuesta-global_465ef8bf768f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-06-2022_actitudes-hacia-el-oro-resultados-de-la-encuesta-global_465ef8bf768f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f9/dc/9e/46/b4/f9dc9e46b4ec7c97d03bd32bd4f28c3c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-06-2022_actitudes-hacia-el-oro-resultados-de-la-encuesta-global_465ef8bf768f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1302/rezuljtaty-oprosa-centrobankov-11_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-06-2022_actitudes-hacia-el-oro-resultados-de-la-encuesta-global_465ef8bf768f\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:57:04.848544-03:00",
+  "status": "downloaded"
+}

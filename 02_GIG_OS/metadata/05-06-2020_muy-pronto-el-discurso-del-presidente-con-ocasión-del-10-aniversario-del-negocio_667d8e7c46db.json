@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_667d8e7c46db",
+  "platform": "gig_os",
+  "title": "MUY PRONTO: el discurso del Presidente con ocasión del 10º aniversario del negocio",
+  "date": "05.06.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/muy-pronto-el-discurso-del-presidente-con-ocasion-del-10-aniversario-del-269",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/muy-pronto-el-discurso-del-presidente-con-ocasion-del-10-aniversario-del-269",
+  "content_hash": "eaef7c4e5a47671bc943886567de0f3e5ba1012a9cf12e8b9eb8137ac70972b2",
+  "url_hash": "0fe57dde0fa7c0c2de72260c3abc739729a7fda2084c8f93521dc84a448337c8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-06-2020_muy-pronto-el-discurso-del-presidente-con-ocasión-del-10-aniversario-del-negocio_667d8e7c46db.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-06-2020_muy-pronto-el-discurso-del-presidente-con-ocasión-del-10-aniversario-del-negocio_667d8e7c46db.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-06-2020_muy-pronto-el-discurso-del-presidente-con-ocasión-del-10-aniversario-del-negocio_667d8e7c46db",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d5/04/35/5a/f3/d504355af3bd1066d60d332ec498e806_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-06-2020_muy-pronto-el-discurso-del-presidente-con-ocasión-del-10-aniversario-del-negocio_667d8e7c46db\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:40:42.640999-03:00",
+  "status": "downloaded"
+}

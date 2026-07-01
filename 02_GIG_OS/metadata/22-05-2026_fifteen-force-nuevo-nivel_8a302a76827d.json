@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_8a302a76827d",
+  "platform": "gig_os",
+  "title": "Fifteen Force: nuevo nivel",
+  "date": "22.05.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/fifteen-force-nuevo-nivel-0194",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/fifteen-force-nuevo-nivel-0194",
+  "content_hash": "22972cc372a134ef2a50f69a6b60031a75bdb90a4fe3d44862174596f9b9c1ee",
+  "url_hash": "d586bdcb4bbf7c8a34565c7ba16e2fa50af03394d61267ce023fff4b3d9af906",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1c/99/b6/41/82/1c99b641827eb82cb59cd74035b74c2c_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/2020/22-05-2026-pin-inside-gig2-1es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/2020/22-05-2026-pin-inside-gig-2es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/2020/22-05-2026-pin-inside-gig-3es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:38.556502-03:00",
+  "status": "downloaded"
+}

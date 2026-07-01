@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_29fa80177433",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 22 de enero de 2018",
+  "date": "23.01.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-22-de-enero-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-22-de-enero-de-2018",
+  "content_hash": "c9ebdb95a1a65c8777b7a1c4a0dba704c6a76173b7722e46a916aad2dfb15ba1",
+  "url_hash": "bcf9754265c95e6ff95ee324aca72b793225f8df58bac1bb0d2dac9d90c1e849",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-01-2018_informe-de-la-cotización-del-oro-al-22-de-enero-de-2018_29fa80177433.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-01-2018_informe-de-la-cotización-del-oro-al-22-de-enero-de-2018_29fa80177433.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2018_informe-de-la-cotización-del-oro-al-22-de-enero-de-2018_29fa80177433",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8a/ba/b3/6f/52/8abab36f52d6f9ba5db8bcf64649cba4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2018_informe-de-la-cotización-del-oro-al-22-de-enero-de-2018_29fa80177433\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://www.bullionvault.com/images/bv_logo.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2018_informe-de-la-cotización-del-oro-al-22-de-enero-de-2018_29fa80177433\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:26:39.572158-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_19e9e9c9a7e1",
+  "platform": "gig_os",
+  "title": "¡Comienza el farming de INT Coin!",
+  "date": "10.06.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/comienza-el-farming-de-int-coin-1095",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/comienza-el-farming-de-int-coin-1095",
+  "content_hash": "3d11358f5b2551da201f3504a256d804be0ec36c59affc3ee07ec52fc524d51c",
+  "url_hash": "7af54c53ae0fca2772e0279a599441cecb4e5cd6a5bd0d4aed5575727d63d30f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-06-2025_comienza-el-farming-de-int-coin_19e9e9c9a7e1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-06-2025_comienza-el-farming-de-int-coin_19e9e9c9a7e1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2025_comienza-el-farming-de-int-coin_19e9e9c9a7e1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e5/fd/39/21/57/e5fd3921576be0292c949b66913a2f92_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2025_comienza-el-farming-de-int-coin_19e9e9c9a7e1\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:02:22.693282-03:00",
+  "status": "downloaded"
+}

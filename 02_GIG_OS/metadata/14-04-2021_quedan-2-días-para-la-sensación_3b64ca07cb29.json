@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_3b64ca07cb29",
+  "platform": "gig_os",
+  "title": "¡Quedan 2 días para la sensación!",
+  "date": "14.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/quedan-2-dias-para-la-sensacion-399",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/quedan-2-dias-para-la-sensacion-399",
+  "content_hash": "0b3959f890ea56f0f78560d39e00ceef1a4561122aceb8a479542e5e657050b1",
+  "url_hash": "a2b2dde8ec1159a99b28d5917c328044bbace6939f22bae6c39cff8b6dcae6a7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-04-2021_quedan-2-días-para-la-sensación_3b64ca07cb29.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-04-2021_quedan-2-días-para-la-sensación_3b64ca07cb29.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-04-2021_quedan-2-días-para-la-sensación_3b64ca07cb29",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5b/86/9b/df/fe/5b869bdffe0a0a194f5d2f2b2cabe5d3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-04-2021_quedan-2-días-para-la-sensación_3b64ca07cb29\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:51:17.287920-03:00",
+  "status": "downloaded"
+}

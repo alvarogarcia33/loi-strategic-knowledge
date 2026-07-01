@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_f3920f33e50c",
+  "platform": "gig_os",
+  "title": "Información importante para los propietarios de ECN",
+  "date": "23.02.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informacion-importante-para-los-propietarios-de-ecn-372",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informacion-importante-para-los-propietarios-de-ecn-372",
+  "content_hash": "014423d0915fec2e05844f57f7cda4b46251fab082774b2d5c6240d14ed8520d",
+  "url_hash": "3146ff22188c84c44903fba912cc56f7a0f75006b83bfcffd075121d6ba09c83",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-02-2021_información-importante-para-los-propietarios-de-ecn_f3920f33e50c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-02-2021_información-importante-para-los-propietarios-de-ecn_f3920f33e50c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-02-2021_información-importante-para-los-propietarios-de-ecn_f3920f33e50c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/91/dc/46/d1/2e/91dc46d12ee465b6cac5b3bfde570723_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-02-2021_información-importante-para-los-propietarios-de-ecn_f3920f33e50c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1036/journal-mockup_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-02-2021_información-importante-para-los-propietarios-de-ecn_f3920f33e50c\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:30.701156-03:00",
+  "status": "downloaded"
+}

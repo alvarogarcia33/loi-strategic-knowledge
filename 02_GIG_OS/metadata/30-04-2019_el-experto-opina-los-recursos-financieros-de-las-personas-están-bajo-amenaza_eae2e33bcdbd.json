@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_eae2e33bcdbd",
+  "platform": "gig_os",
+  "title": "El experto opina: los recursos financieros de las personas están bajo amenaza",
+  "date": "30.04.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-experto-opina-los-recursos-financieros-de-las-personas-estan-bajo-amenaza",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-experto-opina-los-recursos-financieros-de-las-personas-estan-bajo-amenaza",
+  "content_hash": "76eb363c9f650c4ff0bfc2cecb0b31fc788cbb6d0b26321d5d11dd04ef8e9260",
+  "url_hash": "5762cc71f796f9f77c6b0325355d94e6eae6affe9018b47097ebc9a63b7497a8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-04-2019_el-experto-opina-los-recursos-financieros-de-las-personas-están-bajo-amenaza_eae2e33bcdbd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-04-2019_el-experto-opina-los-recursos-financieros-de-las-personas-están-bajo-amenaza_eae2e33bcdbd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-04-2019_el-experto-opina-los-recursos-financieros-de-las-personas-están-bajo-amenaza_eae2e33bcdbd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ed/ce/58/7e/fb/edce587efb05dfab4c53d4823aae8adb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-04-2019_el-experto-opina-los-recursos-financieros-de-las-personas-están-bajo-amenaza_eae2e33bcdbd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/695/global-intergold-oro20_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/695/global-intergold-oro21_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/695/global-intergold-oro22_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:04.942328-03:00",
+  "status": "downloaded"
+}

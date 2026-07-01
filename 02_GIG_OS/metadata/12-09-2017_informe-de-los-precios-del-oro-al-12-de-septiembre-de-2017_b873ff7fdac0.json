@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_b873ff7fdac0",
+  "platform": "gig_os",
+  "title": "Informe de los precios del oro al 12 de septiembre de 2017",
+  "date": "12.09.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-12-de-septiembre-de-2017",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-12-de-septiembre-de-2017",
+  "content_hash": "503a239495a3ca4cde7f2a3e0f609f74752568f73e8209660ff4d13d59e9ee16",
+  "url_hash": "83f5e0b2c7afd6359b0b0b6515510b12cba388d31300ae8744f97273a750ed6a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-09-2017_informe-de-los-precios-del-oro-al-12-de-septiembre-de-2017_b873ff7fdac0.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-09-2017_informe-de-los-precios-del-oro-al-12-de-septiembre-de-2017_b873ff7fdac0.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-09-2017_informe-de-los-precios-del-oro-al-12-de-septiembre-de-2017_b873ff7fdac0",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a1/63/71/c7/5c/a16371c75c0355f827defdc881295d87_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-09-2017_informe-de-los-precios-del-oro-al-12-de-septiembre-de-2017_b873ff7fdac0\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/340/globalintergold-goldweeklyreportchart_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:36.684383-03:00",
+  "status": "downloaded"
+}

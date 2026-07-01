@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_17a52cec0ee6",
+  "platform": "gig_os",
+  "title": "¿Continuará el Renacimiento “de oro” en 2019?",
+  "date": "05.12.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/continuara-el-renacimiento-de-oro-en-2019",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/continuara-el-renacimiento-de-oro-en-2019",
+  "content_hash": "791425c292d24c7fabfe7df71138544d09efcc9bc2f36a7ec2adb20607f189ff",
+  "url_hash": "ffc7952de2fb5544342a1bce4b4f380577744dbe6e3d00c9b774a1abd77d3dc0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-12-2018_continuará-el-renacimiento-de-oro-en-2019_17a52cec0ee6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-12-2018_continuará-el-renacimiento-de-oro-en-2019_17a52cec0ee6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-12-2018_continuará-el-renacimiento-de-oro-en-2019_17a52cec0ee6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d4/26/9c/d9/d2/d4269cd9d25c133b666401ee3cda2bdb_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/615/global-intergold-oro-la-seguridad-financiera-13.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/615/global-intergold-oro-la-seguridad-financiera-14.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/615/global-intergold-oro-la-seguridad-financiera-12.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/615/700x150.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/615/global-intergold-oro-la-seguridad-financiera-15.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:39.146301-03:00",
+  "status": "downloaded"
+}

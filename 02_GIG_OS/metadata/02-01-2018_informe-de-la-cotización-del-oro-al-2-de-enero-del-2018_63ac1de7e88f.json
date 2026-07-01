@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_63ac1de7e88f",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 2 de enero del 2018",
+  "date": "02.01.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-2-de-enero-del-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-2-de-enero-del-2018",
+  "content_hash": "b49ce257cf12f9b08c7213a7f634c9b8f900a83e298784cde262939a9175e527",
+  "url_hash": "026e927ce3b40b6c95ec62e9475577c25cf5d183bb0fd1f95b6499d37b5b2df9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-01-2018_informe-de-la-cotización-del-oro-al-2-de-enero-del-2018_63ac1de7e88f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-01-2018_informe-de-la-cotización-del-oro-al-2-de-enero-del-2018_63ac1de7e88f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-01-2018_informe-de-la-cotización-del-oro-al-2-de-enero-del-2018_63ac1de7e88f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/19/52/d7/e3/b6/1952d7e3b6c44476e2db19f358d163f1_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-01-2018_informe-de-la-cotización-del-oro-al-2-de-enero-del-2018_63ac1de7e88f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/436/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:26:10.149511-03:00",
+  "status": "downloaded"
+}

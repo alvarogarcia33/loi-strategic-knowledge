@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_f89c5eefc0eb",
+  "platform": "gig_os",
+  "title": "El creciente poder del oro",
+  "date": "09.04.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-creciente-poder-del-oro-243",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-creciente-poder-del-oro-243",
+  "content_hash": "651b9aa388fdd9fc08865f7889c33f811b684e104c4587f2cd703d37c19e64a9",
+  "url_hash": "983ced637d0ba14d7833d026eaa9e02215af08891a36b34b6a5fe4798daa1358",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-04-2020_el-creciente-poder-del-oro_f89c5eefc0eb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-04-2020_el-creciente-poder-del-oro_f89c5eefc0eb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2020_el-creciente-poder-del-oro_f89c5eefc0eb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5f/63/4e/fe/3b/5f634efe3bbdd0cf93cd1383b8b7e0f6_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2020_el-creciente-poder-del-oro_f89c5eefc0eb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/858/buttones_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2020_el-creciente-poder-del-oro_f89c5eefc0eb\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:41.489220-03:00",
+  "status": "downloaded"
+}

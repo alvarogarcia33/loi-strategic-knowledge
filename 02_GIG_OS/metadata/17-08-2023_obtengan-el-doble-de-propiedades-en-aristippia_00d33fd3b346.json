@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_00d33fd3b346",
+  "platform": "gig_os",
+  "title": "Obtengan el doble de propiedades en Aristippia",
+  "date": "17.08.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/obtengan-el-doble-de-propiedades-en-aristippia-778",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/obtengan-el-doble-de-propiedades-en-aristippia-778",
+  "content_hash": "e470871f6ff8e0b64bfc26317d100864120169761af46a65e86757011718416a",
+  "url_hash": "9f86547e3243d29ebdc9719a356ece6b603684e8e0c8e4fc35a49146dccd7c88",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-08-2023_obtengan-el-doble-de-propiedades-en-aristippia_00d33fd3b346.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-08-2023_obtengan-el-doble-de-propiedades-en-aristippia_00d33fd3b346.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-08-2023_obtengan-el-doble-de-propiedades-en-aristippia_00d33fd3b346",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/89/7f/bd/32/dc/897fbd32dc8c38b64cdd3addeac45178_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-08-2023_obtengan-el-doble-de-propiedades-en-aristippia_00d33fd3b346\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1491/nextera_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-08-2023_obtengan-el-doble-de-propiedades-en-aristippia_00d33fd3b346\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:21.250849-03:00",
+  "status": "downloaded"
+}

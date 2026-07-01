@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_b10c47ed2492",
+  "platform": "gig_os",
+  "title": "La nueva colección de NFT Interaction Alphabet M*E 2.0 está disponible",
+  "date": "16.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-nueva-coleccion-de-nft-interaction-alphabet-me2-esta-disponible-862",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-nueva-coleccion-de-nft-interaction-alphabet-me2-esta-disponible-862",
+  "content_hash": "1067070cd15c117a25eddbcf1776b093c4805c609b3dd543e3733128fbc765f4",
+  "url_hash": "e8c55613be4ca9b4019e0820cfd0ac82fc9cd6dca6233b40099fca4af4c3f19e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-01-2024_la-nueva-colección-de-nft-interaction-alphabet-m-e-2-0-está-disponible_b10c47ed2492.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-01-2024_la-nueva-colección-de-nft-interaction-alphabet-m-e-2-0-está-disponible_b10c47ed2492.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-01-2024_la-nueva-colección-de-nft-interaction-alphabet-m-e-2-0-está-disponible_b10c47ed2492",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d4/92/51/89/71/d492518971b75d2949a307ebd28c175e_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-01-2024_la-nueva-colección-de-nft-interaction-alphabet-m-e-2-0-está-disponible_b10c47ed2492\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1608/nft-call-to-action-es49907_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-01-2024_la-nueva-colección-de-nft-interaction-alphabet-m-e-2-0-está-disponible_b10c47ed2492\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:33:18.065707-03:00",
+  "status": "downloaded"
+}

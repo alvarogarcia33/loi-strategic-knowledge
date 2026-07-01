@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_58d3b30f5bf1",
+  "platform": "gig_os",
+  "title": "¡El programa «Millar de Oro» ha sido extendido!",
+  "date": "14.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-programa-millar-de-oro-ha-sido-extendido-821",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-programa-millar-de-oro-ha-sido-extendido-821",
+  "content_hash": "0881deea8a35eda1db96ab7fb8dcc2c51ee267240daede6d9f3116327f5bcb61",
+  "url_hash": "f761ebb869f5e56ea8c8b6c6f87bba879a86abbeaeacef991f1d6b807d4a004a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-11-2023_el-programa-millar-de-oro-ha-sido-extendido_58d3b30f5bf1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-11-2023_el-programa-millar-de-oro-ha-sido-extendido_58d3b30f5bf1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-11-2023_el-programa-millar-de-oro-ha-sido-extendido_58d3b30f5bf1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b9/4c/1e/b0/ce/b94c1eb0ce164425232ea7a9f461581b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-11-2023_el-programa-millar-de-oro-ha-sido-extendido_58d3b30f5bf1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:11:52.150504-03:00",
+  "status": "downloaded"
+}

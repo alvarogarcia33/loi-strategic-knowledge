@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_86989bf3006d",
+  "platform": "gig_os",
+  "title": "La acreditación de Special Marketing Bonus",
+  "date": "20.03.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-acreditacion-de-special-marketing-bonus-232",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-acreditacion-de-special-marketing-bonus-232",
+  "content_hash": "df2c936d5de008ebe5cca45c780161210fa64c185483d73bf56974cc860596aa",
+  "url_hash": "9087a4a564f53f73f51d5f6492d6d4d655c0c113a25407d02ed129cf4c2c8505",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-03-2020_la-acreditación-de-special-marketing-bonus_86989bf3006d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-03-2020_la-acreditación-de-special-marketing-bonus_86989bf3006d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2020_la-acreditación-de-special-marketing-bonus_86989bf3006d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7d/0b/b4/6e/32/7d0bb46e32b40c49a1f60ff2759b25e9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2020_la-acreditación-de-special-marketing-bonus_86989bf3006d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/847/smb--continuar_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2020_la-acreditación-de-special-marketing-bonus_86989bf3006d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:29:58.886061-03:00",
+  "status": "downloaded"
+}

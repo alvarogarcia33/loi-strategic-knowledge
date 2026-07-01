@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_7130ea5556af",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 26 de marzo de 2018",
+  "date": "26.03.2018",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-26-de-marzo-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-26-de-marzo-de-2018",
+  "content_hash": "90ee386682ff7595a55ca0aa023713995bcbbcf2a7f1be04aa2296ae7960b194",
+  "url_hash": "b4d26488676fc8cee27608bb7ed744731025d9dd1ea10a7b3ade7f83ac638a29",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-03-2018_informe-de-la-cotización-del-oro-al-26-de-marzo-de-2018_7130ea5556af.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-03-2018_informe-de-la-cotización-del-oro-al-26-de-marzo-de-2018_7130ea5556af.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2018_informe-de-la-cotización-del-oro-al-26-de-marzo-de-2018_7130ea5556af",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c3/67/c2/95/d5/c367c295d5c2790ebb837e1b76c8f0ca_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2018_informe-de-la-cotización-del-oro-al-26-de-marzo-de-2018_7130ea5556af\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/464/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/464/global-intergold-informe-de-la-cotizacion-del-oro-armas_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:27:09.908576-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_2178c46ceb1c",
+  "platform": "gig_os",
+  "title": "18.03.2022 — un acontecimiento histórico de esta primavera",
+  "date": "01.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/18032022-un-acontecimiento-historico-de-esta-primavera-540",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/18032022-un-acontecimiento-historico-de-esta-primavera-540",
+  "content_hash": "9a85649418fb8e57c6de2d99fffbc5684a9e6d3fa7f227ead61a6c24b8b256bc",
+  "url_hash": "9715259e6fa8f558d891b6c1b76650781436de9a35eb50151736710b31a1f1e2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-03-2022_18-03-2022-un-acontecimiento-histórico-de-esta-primavera_2178c46ceb1c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-03-2022_18-03-2022-un-acontecimiento-histórico-de-esta-primavera_2178c46ceb1c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2022_18-03-2022-un-acontecimiento-histórico-de-esta-primavera_2178c46ceb1c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d0/c8/17/e8/c5/d0c817e8c5217f5fea888af1996f0cc7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2022_18-03-2022-un-acontecimiento-histórico-de-esta-primavera_2178c46ceb1c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:55:11.681523-03:00",
+  "status": "downloaded"
+}

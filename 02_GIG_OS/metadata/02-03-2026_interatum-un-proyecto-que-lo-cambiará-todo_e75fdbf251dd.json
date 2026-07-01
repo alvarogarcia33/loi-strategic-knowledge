@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e75fdbf251dd",
+  "platform": "gig_os",
+  "title": "INTERATUM: un proyecto que lo cambiará todo",
+  "date": "02.03.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/interatum-un-proyecto-que-lo-cambiara-todo-0168",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/interatum-un-proyecto-que-lo-cambiara-todo-0168",
+  "content_hash": "133561ca22423e88e414bddfdb659dce87bd0cc3ea90c520b73e28564c606193",
+  "url_hash": "f78f0a760c248e38e1455d143fecdbd637393e55b09795af076b528869ac6a40",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-03-2026_interatum-un-proyecto-que-lo-cambiará-todo_e75fdbf251dd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-03-2026_interatum-un-proyecto-que-lo-cambiará-todo_e75fdbf251dd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-03-2026_interatum-un-proyecto-que-lo-cambiará-todo_e75fdbf251dd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/fb/16/6e/7c/69/fb166e7c696d332218d59e3ed5a627e1_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-03-2026_interatum-un-proyecto-que-lo-cambiará-todo_e75fdbf251dd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:29:42.990541-03:00",
+  "status": "downloaded"
+}

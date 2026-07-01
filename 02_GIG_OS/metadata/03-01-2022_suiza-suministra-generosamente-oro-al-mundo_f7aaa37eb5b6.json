@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_f7aaa37eb5b6",
+  "platform": "gig_os",
+  "title": "Suiza suministra generosamente oro al mundo",
+  "date": "03.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/suiza-suministra-generosamente-oro-al-mundo-514",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/suiza-suministra-generosamente-oro-al-mundo-514",
+  "content_hash": "5597e5215fc0969adda2cb84dcb8c5a8a57a55ea53228c7147d69199657b8b28",
+  "url_hash": "5525ede1a9004ad56bf6b2b141337da7569e295abf36f840857903a6a7b24798",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-01-2022_suiza-suministra-generosamente-oro-al-mundo_f7aaa37eb5b6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-01-2022_suiza-suministra-generosamente-oro-al-mundo_f7aaa37eb5b6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-01-2022_suiza-suministra-generosamente-oro-al-mundo_f7aaa37eb5b6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/88/f3/b3/13/8f/88f3b3138f941665b91467af8c81158e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-01-2022_suiza-suministra-generosamente-oro-al-mundo_f7aaa37eb5b6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1212/dizayn-bez-nazvaniya-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-01-2022_suiza-suministra-generosamente-oro-al-mundo_f7aaa37eb5b6\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:47.982489-03:00",
+  "status": "downloaded"
+}

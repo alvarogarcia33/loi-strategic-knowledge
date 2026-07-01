@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_cf0b7077a5ee",
+  "platform": "gig_os",
+  "title": "¿Por qué muchas personas quieren ganar dinero, pero muy pocos se enriquecen?",
+  "date": "07.02.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-muchas-personas-quieren-ganar-dinero-pero-muy-pocos-se-enriquecen",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-muchas-personas-quieren-ganar-dinero-pero-muy-pocos-se-enriquecen",
+  "content_hash": "ee2b3569c7a7ec8d2d0270bd46efa1003312534346bb7271054ed3bb5b9ecd45",
+  "url_hash": "95da3e7bf47f3c54f37de15674ef4ce86fb4a00bd2d2d55af72558feb52972bf",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-02-2019_por-qué-muchas-personas-quieren-ganar-dinero-pero-muy-pocos-se-enriquecen_cf0b7077a5ee.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-02-2019_por-qué-muchas-personas-quieren-ganar-dinero-pero-muy-pocos-se-enriquecen_cf0b7077a5ee.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-02-2019_por-qué-muchas-personas-quieren-ganar-dinero-pero-muy-pocos-se-enriquecen_cf0b7077a5ee",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/eb/78/2c/e5/cf/eb782ce5cf9febec57da016eb1ecedea_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/646/global-intergold-oro-la-seguridad-financiera-18.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:15.039235-03:00",
+  "status": "downloaded"
+}

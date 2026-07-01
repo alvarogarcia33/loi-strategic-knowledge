@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ecf5c52b4e71",
+  "platform": "gig_os",
+  "title": "GIG-OS: un nuevo modelo de negocio",
+  "date": "12.12.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gig-os-un-nuevo-modelo-de-negocio-208",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gig-os-un-nuevo-modelo-de-negocio-208",
+  "content_hash": "8dc6598433cfaa441d29d81a3a912ce1bb8929f6eaa44e22e0e7d08fa4ca915b",
+  "url_hash": "b92e7527b6e72f3b5bd872bdd033887930c94ddaddaddd31a3e1df2f41963bf4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-12-2019_gig-os-un-nuevo-modelo-de-negocio_ecf5c52b4e71.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-12-2019_gig-os-un-nuevo-modelo-de-negocio_ecf5c52b4e71.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2019_gig-os-un-nuevo-modelo-de-negocio_ecf5c52b4e71",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/45/57/f1/cf/2a/4557f1cf2a180748489f47703f37951c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2019_gig-os-un-nuevo-modelo-de-negocio_ecf5c52b4e71\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/819/global-intergold--gig-os-a-new-business-model-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2019_gig-os-un-nuevo-modelo-de-negocio_ecf5c52b4e71\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:18:12.789490-03:00",
+  "status": "downloaded"
+}

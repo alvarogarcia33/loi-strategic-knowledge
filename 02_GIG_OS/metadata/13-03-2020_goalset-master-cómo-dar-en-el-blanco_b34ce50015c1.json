@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_b34ce50015c1",
+  "platform": "gig_os",
+  "title": "GoalSet Master: cómo dar en el blanco",
+  "date": "13.03.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/goalset-master-como-dar-en-el-blanco-229",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/goalset-master-como-dar-en-el-blanco-229",
+  "content_hash": "386c7349f10851559e33cd49fdffb285375083f1a2049aa7dba0cc4a2b341581",
+  "url_hash": "822f0f4471ae160ed50bccbe967528d32ce2bb53f00d5f63aadb6c508856541b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-03-2020_goalset-master-cómo-dar-en-el-blanco_b34ce50015c1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-03-2020_goalset-master-cómo-dar-en-el-blanco_b34ce50015c1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-03-2020_goalset-master-cómo-dar-en-el-blanco_b34ce50015c1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d5/50/c7/94/01/d550c79401068d88c9231ffea2b5753f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-03-2020_goalset-master-cómo-dar-en-el-blanco_b34ce50015c1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:18:45.815382-03:00",
+  "status": "downloaded"
+}

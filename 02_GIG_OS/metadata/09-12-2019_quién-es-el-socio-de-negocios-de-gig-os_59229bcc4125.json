@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_59229bcc4125",
+  "platform": "gig_os",
+  "title": "¿Quién es el socio de negocios de GIG-OS?",
+  "date": "09.12.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/quien-es-el-socio-de-negocios-de-gig-os-206",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/quien-es-el-socio-de-negocios-de-gig-os-206",
+  "content_hash": "da9b5438cbf8011d5a10d51a4c587e872b84d5ce626e2cedf7008d08c38bb9b6",
+  "url_hash": "bc26ab16578b834a39af4d1cc9ef6f84591f52c9a55ce40ef815a2fd6a23818c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-12-2019_quién-es-el-socio-de-negocios-de-gig-os_59229bcc4125.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-12-2019_quién-es-el-socio-de-negocios-de-gig-os_59229bcc4125.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-12-2019_quién-es-el-socio-de-negocios-de-gig-os_59229bcc4125",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c0/58/44/31/8a/c05844318a9f8314962478a1a39efb0b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-12-2019_quién-es-el-socio-de-negocios-de-gig-os_59229bcc4125\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/816/table-170960_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-12-2019_quién-es-el-socio-de-negocios-de-gig-os_59229bcc4125\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/816/smart-and-pro_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-12-2019_quién-es-el-socio-de-negocios-de-gig-os_59229bcc4125\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/816/accord-and-line_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-12-2019_quién-es-el-socio-de-negocios-de-gig-os_59229bcc4125\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:51:33.151927-03:00",
+  "status": "downloaded"
+}

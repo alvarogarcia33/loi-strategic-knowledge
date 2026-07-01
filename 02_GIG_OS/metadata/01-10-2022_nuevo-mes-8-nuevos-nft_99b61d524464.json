@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_99b61d524464",
+  "platform": "gig_os",
+  "title": "Nuevo mes: 8 nuevos NFT",
+  "date": "01.10.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nuevo-mes-8-nuevos-nft-627",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nuevo-mes-8-nuevos-nft-627",
+  "content_hash": "f26117dd8a1d706eda329f94cf10ef04f6a44b1124fcfd53bd12d982c370aca7",
+  "url_hash": "111e4ca643fcb8192cc96a18beb85505d3bc7ea2a01708ba34dcbb61c7c850e8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-10-2022_nuevo-mes-8-nuevos-nft_99b61d524464.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-10-2022_nuevo-mes-8-nuevos-nft_99b61d524464.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-10-2022_nuevo-mes-8-nuevos-nft_99b61d524464",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f1/1f/ab/e4/a3/f11fabe4a3eb8ec7ba42b302fe41c664_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-10-2022_nuevo-mes-8-nuevos-nft_99b61d524464\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1342/qwe_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-10-2022_nuevo-mes-8-nuevos-nft_99b61d524464\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:43:46.595989-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_fe295890beea",
+  "platform": "gig_os",
+  "title": "Transmisión en vivo: ¡infórmese sobre GOS coin a tiempo!",
+  "date": "06.09.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/transmision-en-vivo-informese-sobre-gos-coin-a-tiempo-462",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/transmision-en-vivo-informese-sobre-gos-coin-a-tiempo-462",
+  "content_hash": "702fd801043ae7700b24ba9cdb696fe6f4cb0fc756a4d3d67c10970b7483797f",
+  "url_hash": "650fae66079169027ca8cd5bc0455efbc65f47e6d0f194c1f43d7bd6a623bc5d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-09-2021_transmisión-en-vivo-infórmese-sobre-gos-coin-a-tiempo_fe295890beea.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-09-2021_transmisión-en-vivo-infórmese-sobre-gos-coin-a-tiempo_fe295890beea.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-09-2021_transmisión-en-vivo-infórmese-sobre-gos-coin-a-tiempo_fe295890beea",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b0/e7/e8/f7/22/b0e7e8f722f11ece21d1f0cfc8d04da7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-09-2021_transmisión-en-vivo-infórmese-sobre-gos-coin-a-tiempo_fe295890beea\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1156/goscoinactivationcodes1142x180x1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-09-2021_transmisión-en-vivo-infórmese-sobre-gos-coin-a-tiempo_fe295890beea\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:37.183349-03:00",
+  "status": "downloaded"
+}

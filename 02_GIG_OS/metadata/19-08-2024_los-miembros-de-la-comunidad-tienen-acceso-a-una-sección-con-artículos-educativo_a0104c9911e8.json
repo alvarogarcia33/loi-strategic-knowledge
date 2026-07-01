@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a0104c9911e8",
+  "platform": "gig_os",
+  "title": "Los miembros de la comunidad tienen acceso a una sección con artículos educativos",
+  "date": "19.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-miembros-de-la-comunidad-tienen-acceso-a-una-seccion-con-articulos-educativos-976",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-miembros-de-la-comunidad-tienen-acceso-a-una-seccion-con-articulos-educativos-976",
+  "content_hash": "15bd230104f630b265a53f335764380149b057b0ff4505a1331cc2a36a932ea7",
+  "url_hash": "7fdb58d03658e3cf1bc74d1f0ce0ae36327cbaeb58dfa7c388e85fdf6f78b27f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-08-2024_los-miembros-de-la-comunidad-tienen-acceso-a-una-sección-con-artículos-educativo_a0104c9911e8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-08-2024_los-miembros-de-la-comunidad-tienen-acceso-a-una-sección-con-artículos-educativo_a0104c9911e8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-08-2024_los-miembros-de-la-comunidad-tienen-acceso-a-una-sección-con-artículos-educativo_a0104c9911e8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f7/30/51/32/f4/f7305132f4da477ff405a33e24791b5a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-08-2024_los-miembros-de-la-comunidad-tienen-acceso-a-una-sección-con-artículos-educativo_a0104c9911e8\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1742/1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-08-2024_los-miembros-de-la-comunidad-tienen-acceso-a-una-sección-con-artículos-educativo_a0104c9911e8\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:40.052251-03:00",
+  "status": "downloaded"
+}

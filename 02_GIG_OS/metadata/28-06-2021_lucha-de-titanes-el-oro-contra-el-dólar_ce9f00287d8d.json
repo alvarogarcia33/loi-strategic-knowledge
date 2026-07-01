@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_ce9f00287d8d",
+  "platform": "gig_os",
+  "title": "Lucha de titanes: el oro contra el dólar",
+  "date": "28.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/lucha-de-titanes-el-oro-contra-el-dolar-434",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/lucha-de-titanes-el-oro-contra-el-dolar-434",
+  "content_hash": "7236219c10b7bbbb3d403ddd76ed4a928cfa239a908eba1be9a7242e1b08a283",
+  "url_hash": "e4245b9ca211f647bb4980e93c6077a71be3a50154262912ba38b50801fc9437",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-06-2021_lucha-de-titanes-el-oro-contra-el-dólar_ce9f00287d8d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-06-2021_lucha-de-titanes-el-oro-contra-el-dólar_ce9f00287d8d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-06-2021_lucha-de-titanes-el-oro-contra-el-dólar_ce9f00287d8d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/dd/be/9a/24/88/ddbe9a2488207789c3720e5bf1d4412e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-06-2021_lucha-de-titanes-el-oro-contra-el-dólar_ce9f00287d8d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1119/1-0_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-06-2021_lucha-de-titanes-el-oro-contra-el-dólar_ce9f00287d8d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1119/2-0_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-06-2021_lucha-de-titanes-el-oro-contra-el-dólar_ce9f00287d8d\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1119/3-0_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-06-2021_lucha-de-titanes-el-oro-contra-el-dólar_ce9f00287d8d\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:41.692843-03:00",
+  "status": "downloaded"
+}

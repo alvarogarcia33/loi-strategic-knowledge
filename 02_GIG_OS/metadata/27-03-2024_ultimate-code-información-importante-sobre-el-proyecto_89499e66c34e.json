@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_89499e66c34e",
+  "platform": "gig_os",
+  "title": "Ultimate Code: información importante sobre el proyecto",
+  "date": "27.03.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ultimate-code-informacion-importante-sobre-el-proyecto",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ultimate-code-informacion-importante-sobre-el-proyecto",
+  "content_hash": "67529e106325270f33b2f4128418600d073acd90f72c3fc4f9c27847702dd049",
+  "url_hash": "28c2733b2a82ac1aeeab3e907df12782df22ffec0c062383a273b0244bc0adc8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-03-2024_ultimate-code-información-importante-sobre-el-proyecto_89499e66c34e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-03-2024_ultimate-code-información-importante-sobre-el-proyecto_89499e66c34e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-03-2024_ultimate-code-información-importante-sobre-el-proyecto_89499e66c34e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/59/0e/f9/ef/13/590ef9ef13dd169e7e3a8c249d4deab8_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-03-2024_ultimate-code-información-importante-sobre-el-proyecto_89499e66c34e\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:12.618623-03:00",
+  "status": "downloaded"
+}

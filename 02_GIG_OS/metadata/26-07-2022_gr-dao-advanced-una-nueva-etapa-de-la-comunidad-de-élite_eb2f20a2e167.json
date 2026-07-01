@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_eb2f20a2e167",
+  "platform": "gig_os",
+  "title": "GR DAO ADVANCED: una nueva etapa de la comunidad de élite",
+  "date": "26.07.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gr-dao-advanced-una-nueva-etapa-de-la-comunidad-de-elite-604",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gr-dao-advanced-una-nueva-etapa-de-la-comunidad-de-elite-604",
+  "content_hash": "f0b9cba9f82c306e7a117f5e682ddaef97f0a7573532d2f2249469f3777bbfe0",
+  "url_hash": "a96f19e8ccb679189b45e78a698156068e1ed6dde76aa86490bee7047d3b58de",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-07-2022_gr-dao-advanced-una-nueva-etapa-de-la-comunidad-de-élite_eb2f20a2e167.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-07-2022_gr-dao-advanced-una-nueva-etapa-de-la-comunidad-de-élite_eb2f20a2e167.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-07-2022_gr-dao-advanced-una-nueva-etapa-de-la-comunidad-de-élite_eb2f20a2e167",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/34/7b/00/86/c9/347b0086c9cebb53de4c17eaf53ce3cd_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-07-2022_gr-dao-advanced-una-nueva-etapa-de-la-comunidad-de-élite_eb2f20a2e167\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1317/example-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-07-2022_gr-dao-advanced-una-nueva-etapa-de-la-comunidad-de-élite_eb2f20a2e167\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1317/example-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-07-2022_gr-dao-advanced-una-nueva-etapa-de-la-comunidad-de-élite_eb2f20a2e167\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1317/gr-dao-advanced-2-it-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-07-2022_gr-dao-advanced-una-nueva-etapa-de-la-comunidad-de-élite_eb2f20a2e167\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:18.751003-03:00",
+  "status": "downloaded"
+}

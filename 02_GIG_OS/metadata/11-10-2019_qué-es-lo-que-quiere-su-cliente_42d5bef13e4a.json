@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_42d5bef13e4a",
+  "platform": "gig_os",
+  "title": "¿Qué es lo que quiere su cliente?",
+  "date": "11.10.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-es-lo-que-quiere-su-cliente-179",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-es-lo-que-quiere-su-cliente-179",
+  "content_hash": "deda2b1fa2e521037acf50f1ebe688b1587563e49a386c030ad2f6f1ebf2d7af",
+  "url_hash": "7f115dd530b870b73a13447b559706c1874fba624bc8e9c879f8a1b9437d8d0f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-10-2019_qué-es-lo-que-quiere-su-cliente_42d5bef13e4a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-10-2019_qué-es-lo-que-quiere-su-cliente_42d5bef13e4a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-10-2019_qué-es-lo-que-quiere-su-cliente_42d5bef13e4a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c5/87/95/55/0e/c58795550eca50f9c025754963f4ec58_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-10-2019_qué-es-lo-que-quiere-su-cliente_42d5bef13e4a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/782/vazhnostj-individualjnosti--the-importance-of-individuality--la-importancia-de-la-individualidad--limportanza-dellindividualita_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-10-2019_qué-es-lo-que-quiere-su-cliente_42d5bef13e4a\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:29.823898-03:00",
+  "status": "downloaded"
+}

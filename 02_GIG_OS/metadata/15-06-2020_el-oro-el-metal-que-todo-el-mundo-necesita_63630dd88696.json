@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_63630dd88696",
+  "platform": "gig_os",
+  "title": "El oro: el metal que todo el mundo necesita",
+  "date": "15.06.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-el-metal-que-todo-el-mundo-necesita-273",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-el-metal-que-todo-el-mundo-necesita-273",
+  "content_hash": "4abeec9da4e175b04baae074b7915db327f8af8bb027754b9628dd737db50f45",
+  "url_hash": "c03595abfe240b0ec7fab3c33493668bd3a2cc694e011925ff5d09ad0bc6da11",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-06-2020_el-oro-el-metal-que-todo-el-mundo-necesita_63630dd88696.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-06-2020_el-oro-el-metal-que-todo-el-mundo-necesita_63630dd88696.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-06-2020_el-oro-el-metal-que-todo-el-mundo-necesita_63630dd88696",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/03/33/49/35/95/0333493595ff19bb4abed5c916cdc732_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-06-2020_el-oro-el-metal-que-todo-el-mundo-necesita_63630dd88696\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/893/1111_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-06-2020_el-oro-el-metal-que-todo-el-mundo-necesita_63630dd88696\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/893/new-project1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-06-2020_el-oro-el-metal-que-todo-el-mundo-necesita_63630dd88696\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:22.166855-03:00",
+  "status": "downloaded"
+}

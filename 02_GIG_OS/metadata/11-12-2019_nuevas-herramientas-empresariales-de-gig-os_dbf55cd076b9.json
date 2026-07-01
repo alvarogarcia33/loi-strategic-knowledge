@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_dbf55cd076b9",
+  "platform": "gig_os",
+  "title": "Nuevas herramientas empresariales de GIG-OS",
+  "date": "11.12.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nuevas-herramientas-empresariales-de-gig-os-207",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nuevas-herramientas-empresariales-de-gig-os-207",
+  "content_hash": "588d55972c654f47d483c42428023517190b723aedc75779d00af19448b32a28",
+  "url_hash": "283c74fb523693ca826f27b0fc44c4a9e6a6cd80b87e286f9023ac6b0de89561",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-12-2019_nuevas-herramientas-empresariales-de-gig-os_dbf55cd076b9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-12-2019_nuevas-herramientas-empresariales-de-gig-os_dbf55cd076b9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2019_nuevas-herramientas-empresariales-de-gig-os_dbf55cd076b9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/61/3d/63/1a/ab/613d631aab42b8184cb15052fb4b0232_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2019_nuevas-herramientas-empresariales-de-gig-os_dbf55cd076b9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/818/gig-os-claster-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2019_nuevas-herramientas-empresariales-de-gig-os_dbf55cd076b9\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/818/gig-os-claster-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2019_nuevas-herramientas-empresariales-de-gig-os_dbf55cd076b9\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/818/gig-os-claster-3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2019_nuevas-herramientas-empresariales-de-gig-os_dbf55cd076b9\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/818/gig-os-claster-4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2019_nuevas-herramientas-empresariales-de-gig-os_dbf55cd076b9\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:43:40.264569-03:00",
+  "status": "downloaded"
+}

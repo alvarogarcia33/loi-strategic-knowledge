@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_80dfbdabc25a",
+  "platform": "olympia",
+  "title": "¡El 20 de agosto la nueva oficina interna de los Maestros del Juego abrirá sus puertas!",
+  "date": "30.04.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrira-sus-puertas-0193",
+  "canonical_url": "https://olympia-lab.com/es/news/post/el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrira-sus-puertas-0193",
+  "content_hash": "607e8c326350e0a811ea820570062e473c2c4f94c909c5895e9f7c4496396b5d",
+  "url_hash": "32bbfde0da9c150a820ac2ed042044f2ff80be9494ca96931bc68493d0cbccd3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\30-04-2026_el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrirá-sus-pu_80dfbdabc25a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\30-04-2026_el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrirá-sus-pu_80dfbdabc25a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-04-2026_el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrirá-sus-pu_80dfbdabc25a",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/ec/46/ee/96/31/ec46ee9631734e5f6d692fd716b44b29.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-04-2026_el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrirá-sus-pu_80dfbdabc25a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/10/0c/69/82/06/100c6982064fd10e2b78801fcff78892_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-04-2026_el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrirá-sus-pu_80dfbdabc25a\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/44/31/8f/66/d7/44318f66d79ad4254ed5d527329d54a2_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-04-2026_el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrirá-sus-pu_80dfbdabc25a\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/11/d5/d4/58/2211d5d458f4538fdb42487e3c600c30_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-04-2026_el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrirá-sus-pu_80dfbdabc25a\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/fe/35/df/bc/58fe35dfbcd379455a92540568923011_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-04-2026_el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrirá-sus-pu_80dfbdabc25a\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/64/2c/05/28/7e/642c05287ef94a8b72f6944fb8c845e7_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\30-04-2026_el-20-de-agosto-la-nueva-oficina-interna-de-los-maestros-del-juego-abrirá-sus-pu_80dfbdabc25a\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T15:34:03.951467-03:00",
+  "status": "downloaded"
+}

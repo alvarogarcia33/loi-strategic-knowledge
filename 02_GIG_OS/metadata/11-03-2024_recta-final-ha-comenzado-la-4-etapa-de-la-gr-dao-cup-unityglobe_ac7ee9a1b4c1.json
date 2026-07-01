@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_ac7ee9a1b4c1",
+  "platform": "gig_os",
+  "title": "Recta final: ¡ha comenzado la 4.ª etapa de la GR DAO CUP UnityGlobe!",
+  "date": "11.03.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/recta-final-ha-comenzado-la-4-etapa-de-la-gr-dao-cup-unityglobe-893",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/recta-final-ha-comenzado-la-4-etapa-de-la-gr-dao-cup-unityglobe-893",
+  "content_hash": "61fcd96712b18eb0ade91985f1bf84fd5bbda2c04690e665824325639a0da476",
+  "url_hash": "1dd0a0d7408cc11986840cdf4a806805d0d844598e047df7c149f87af0a1058e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-03-2024_recta-final-ha-comenzado-la-4-etapa-de-la-gr-dao-cup-unityglobe_ac7ee9a1b4c1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-03-2024_recta-final-ha-comenzado-la-4-etapa-de-la-gr-dao-cup-unityglobe_ac7ee9a1b4c1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2024_recta-final-ha-comenzado-la-4-etapa-de-la-gr-dao-cup-unityglobe_ac7ee9a1b4c1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d9/83/ef/d1/b5/d983efd1b5b6477e8e16875516675d59_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2024_recta-final-ha-comenzado-la-4-etapa-de-la-gr-dao-cup-unityglobe_ac7ee9a1b4c1\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1643/table-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2024_recta-final-ha-comenzado-la-4-etapa-de-la-gr-dao-cup-unityglobe_ac7ee9a1b4c1\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1643/unity-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2024_recta-final-ha-comenzado-la-4-etapa-de-la-gr-dao-cup-unityglobe_ac7ee9a1b4c1\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:52:02.419647-03:00",
+  "status": "downloaded"
+}

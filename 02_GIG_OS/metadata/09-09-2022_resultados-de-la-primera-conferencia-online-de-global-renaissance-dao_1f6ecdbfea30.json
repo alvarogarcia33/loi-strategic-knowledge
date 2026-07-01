@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1f6ecdbfea30",
+  "platform": "gig_os",
+  "title": "Resultados de la Primera conferencia online de GLOBAL RENAISSANCE DAO",
+  "date": "09.09.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-primera-conferencia-online-de-global-renaissance-dao-622",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-primera-conferencia-online-de-global-renaissance-dao-622",
+  "content_hash": "2ca12e4e727e47db8cbd07323938cc5455e1ba0dbd3715c39b219f15808ea858",
+  "url_hash": "6fb0d9772fadd4cd8adb806f6dbc74cee81f468b18c382074ffb0c3fde2b5a97",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-09-2022_resultados-de-la-primera-conferencia-online-de-global-renaissance-dao_1f6ecdbfea30.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-09-2022_resultados-de-la-primera-conferencia-online-de-global-renaissance-dao_1f6ecdbfea30.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-09-2022_resultados-de-la-primera-conferencia-online-de-global-renaissance-dao_1f6ecdbfea30",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/99/c8/f2/42/23/99c8f24223b56bea3a261b5190a3d040_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-09-2022_resultados-de-la-primera-conferencia-online-de-global-renaissance-dao_1f6ecdbfea30\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1335/untitled-1-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-09-2022_resultados-de-la-primera-conferencia-online-de-global-renaissance-dao_1f6ecdbfea30\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:34.152613-03:00",
+  "status": "downloaded"
+}

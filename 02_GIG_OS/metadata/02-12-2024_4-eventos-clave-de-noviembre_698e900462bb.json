@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_698e900462bb",
+  "platform": "gig_os",
+  "title": "4 eventos clave de noviembre",
+  "date": "02.12.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/4-eventos-clave-de-noviembre-1015",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/4-eventos-clave-de-noviembre-1015",
+  "content_hash": "39044b45cea503b7a7cfa044a8efe61139fa235c228e16a92329dcf378e6c236",
+  "url_hash": "58bd6b8b277b9e3396a2a74f88e8590da001ecbf0d278a949ef2d8ab7f570888",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-12-2024_4-eventos-clave-de-noviembre_698e900462bb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-12-2024_4-eventos-clave-de-noviembre_698e900462bb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-12-2024_4-eventos-clave-de-noviembre_698e900462bb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e9/65/6a/29/af/e9656a29af8e0d2b0483d47dab3eedc7_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-12-2024_4-eventos-clave-de-noviembre_698e900462bb\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:56:10.134517-03:00",
+  "status": "downloaded"
+}

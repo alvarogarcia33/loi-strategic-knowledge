@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_53e959da8d04",
+  "platform": "gig_os",
+  "title": "CIY Spring Season: arte, confianza y estilo",
+  "date": "20.03.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ciy-spring-season-arte-confianza-y-estilo-899",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ciy-spring-season-arte-confianza-y-estilo-899",
+  "content_hash": "be351dfee262ece5e3100173fdf4dff5560df833d853298c705c03b33fc0c3b3",
+  "url_hash": "23351de3d5e490bba9ee9926fb5ea706cc1ac138c57ea3e23ee41f4e1cabb892",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-03-2024_ciy-spring-season-arte-confianza-y-estilo_53e959da8d04.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-03-2024_ciy-spring-season-arte-confianza-y-estilo_53e959da8d04.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2024_ciy-spring-season-arte-confianza-y-estilo_53e959da8d04",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a7/f0/da/86/69/a7f0da866925a51201118c876e872ed4_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2024_ciy-spring-season-arte-confianza-y-estilo_53e959da8d04\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1650/ciy-bracelet_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2024_ciy-spring-season-arte-confianza-y-estilo_53e959da8d04\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:53.725631-03:00",
+  "status": "downloaded"
+}

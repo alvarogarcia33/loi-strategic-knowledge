@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_43458ffbf86c",
+  "platform": "gig_os",
+  "title": "¿Debemos confiar en las tendencias de moda en cuestiones de ganancias?",
+  "date": "13.03.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/debemos-confiar-en-las-tendencias-de-moda-en-cuestiones-de-ganancias",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/debemos-confiar-en-las-tendencias-de-moda-en-cuestiones-de-ganancias",
+  "content_hash": "28b666b0024ab2e9d2bcb6b06f36831764808c2e7823ee440fe1fe183c42df7d",
+  "url_hash": "0efb7e9def33518e935f7c725afa9deff25f4794110b4cbe9bc41f7c31e62149",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-03-2019_debemos-confiar-en-las-tendencias-de-moda-en-cuestiones-de-ganancias_43458ffbf86c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-03-2019_debemos-confiar-en-las-tendencias-de-moda-en-cuestiones-de-ganancias_43458ffbf86c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-03-2019_debemos-confiar-en-las-tendencias-de-moda-en-cuestiones-de-ganancias_43458ffbf86c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/92/09/1f/04/1b/92091f041ba68a4864478dd330d1bf30_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-03-2019_debemos-confiar-en-las-tendencias-de-moda-en-cuestiones-de-ganancias_43458ffbf86c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/670/global-intergold-oro19_1.png",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/670/global-intergold-oro19_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/670/global-intergold-oro20_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/670/global-intergold-oro21_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:05:32.758124-03:00",
+  "status": "downloaded"
+}

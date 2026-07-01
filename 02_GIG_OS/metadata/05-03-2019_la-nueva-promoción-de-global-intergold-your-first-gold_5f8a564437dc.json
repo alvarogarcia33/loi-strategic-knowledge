@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_5f8a564437dc",
+  "platform": "gig_os",
+  "title": "La nueva promoción de Global InterGold: Your First Gold",
+  "date": "05.03.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-nueva-promocion-de-global-intergold-your-first-gold",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-nueva-promocion-de-global-intergold-your-first-gold",
+  "content_hash": "de4cbd919fe42d66059a1e6bfc90753714600f0388314faca8ef5268481a278e",
+  "url_hash": "199a2a0d8eb0e5dc8ae69fcd8d32af043671c8dcb6dc1c3456314191759487b4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-03-2019_la-nueva-promoción-de-global-intergold-your-first-gold_5f8a564437dc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-03-2019_la-nueva-promoción-de-global-intergold-your-first-gold_5f8a564437dc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-03-2019_la-nueva-promoción-de-global-intergold-your-first-gold_5f8a564437dc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b0/8e/36/e5/0a/b08e36e50a27f58fbc644f8f168d42a9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-03-2019_la-nueva-promoción-de-global-intergold-your-first-gold_5f8a564437dc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/665/globalintergoldyourfirstgoldes-1_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:33:25.022755-03:00",
+  "status": "downloaded"
+}

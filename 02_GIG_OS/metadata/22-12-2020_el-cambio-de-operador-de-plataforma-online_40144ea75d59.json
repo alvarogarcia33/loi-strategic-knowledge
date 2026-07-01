@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_40144ea75d59",
+  "platform": "gig_os",
+  "title": "El cambio de operador de plataforma online",
+  "date": "22.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-cambio-de-operador-de-plataforma-online-345",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-cambio-de-operador-de-plataforma-online-345",
+  "content_hash": "da710c6cd3cd8c87747f15000d1fe7df19a31353bd59cac38d815c43054b95ff",
+  "url_hash": "e6a02628ee7b510ee42884f43b97c1669786c7ae52360f8826e5fe13160bb1e1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-12-2020_el-cambio-de-operador-de-plataforma-online_40144ea75d59.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-12-2020_el-cambio-de-operador-de-plataforma-online_40144ea75d59.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-12-2020_el-cambio-de-operador-de-plataforma-online_40144ea75d59",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6d/d3/c3/a5/65/6dd3c3a565003a02ab691c00bfeae112_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-12-2020_el-cambio-de-operador-de-plataforma-online_40144ea75d59\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:38.008818-03:00",
+  "status": "downloaded"
+}

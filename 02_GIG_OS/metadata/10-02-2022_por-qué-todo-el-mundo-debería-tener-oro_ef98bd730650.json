@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ef98bd730650",
+  "platform": "gig_os",
+  "title": "¿Por qué todo el mundo debería tener oro?",
+  "date": "10.02.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-todo-el-mundo-deberia-tener-oro-530",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-todo-el-mundo-deberia-tener-oro-530",
+  "content_hash": "6bd2e7e2da45a0e26c811f5d31842dd8e9306c228ffe2c4df91e4b9f8625bcd0",
+  "url_hash": "a57db350db10ab8bfa8bfd70e1d928c033dab8d932190a7cfce7b1dffa9c3681",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-02-2022_por-qué-todo-el-mundo-debería-tener-oro_ef98bd730650.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-02-2022_por-qué-todo-el-mundo-debería-tener-oro_ef98bd730650.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-02-2022_por-qué-todo-el-mundo-debería-tener-oro_ef98bd730650",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1c/df/4a/63/94/1cdf4a6394484d2b341625e4870a13b7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-02-2022_por-qué-todo-el-mundo-debería-tener-oro_ef98bd730650\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1229/pkfa_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-02-2022_por-qué-todo-el-mundo-debería-tener-oro_ef98bd730650\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:54.190763-03:00",
+  "status": "downloaded"
+}

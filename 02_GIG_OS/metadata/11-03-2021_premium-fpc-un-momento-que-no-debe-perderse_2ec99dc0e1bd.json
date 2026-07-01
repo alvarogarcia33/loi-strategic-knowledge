@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_2ec99dc0e1bd",
+  "platform": "gig_os",
+  "title": "Premium FPC: ¡un momento que no debe perderse!",
+  "date": "11.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/premium-fpc-un-momento-que-no-debe-perderse-381",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/premium-fpc-un-momento-que-no-debe-perderse-381",
+  "content_hash": "8834efa9f80525c082dc2a24529d6b3e0c423b60b77fe5e56a0b54b62aab7d0e",
+  "url_hash": "f909ae444151077633f9edfb529f4769e16bc6426bc722ceec303016558e1bc7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-03-2021_premium-fpc-un-momento-que-no-debe-perderse_2ec99dc0e1bd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-03-2021_premium-fpc-un-momento-que-no-debe-perderse_2ec99dc0e1bd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2021_premium-fpc-un-momento-que-no-debe-perderse_2ec99dc0e1bd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e7/51/bd/e3/a7/e751bde3a77b1d9cc7f9d46426b09d42_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2021_premium-fpc-un-momento-que-no-debe-perderse_2ec99dc0e1bd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:26.344545-03:00",
+  "status": "downloaded"
+}

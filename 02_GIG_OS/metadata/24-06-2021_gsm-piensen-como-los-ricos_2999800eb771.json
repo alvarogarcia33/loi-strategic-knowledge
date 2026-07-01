@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_2999800eb771",
+  "platform": "gig_os",
+  "title": "GSM: piensen como los ricos",
+  "date": "24.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gsm-piensen-como-los-ricos-433",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gsm-piensen-como-los-ricos-433",
+  "content_hash": "812d53498f38530b44a0f27cc1d1b52bb1c8de0ac7e4a9e9c7ced1e1502fff3d",
+  "url_hash": "b4d25bdfc7fc95d3fd215032490e938e06e2205d56721ee6cd66d7b93fc2ca87",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-06-2021_gsm-piensen-como-los-ricos_2999800eb771.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-06-2021_gsm-piensen-como-los-ricos_2999800eb771.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-06-2021_gsm-piensen-como-los-ricos_2999800eb771",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9e/76/47/35/5c/9e7647355c27fd1d0346df7f5df6e0fe_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-06-2021_gsm-piensen-como-los-ricos_2999800eb771\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:20:08.408912-03:00",
+  "status": "downloaded"
+}

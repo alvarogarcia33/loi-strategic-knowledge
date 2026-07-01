@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_96301c6b7a97",
+  "platform": "gig_os",
+  "title": "Oferta especial: +20 GOS Coin de regalo",
+  "date": "21.01.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oferta-especial-20-gos-coin-de-regalo-0157",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oferta-especial-20-gos-coin-de-regalo-0157",
+  "content_hash": "b1a4e240e822e99c27e75adfbe2d4a58c047776ee2808d2a878720684ec6f209",
+  "url_hash": "5c988bba09ce294a2595bf9e1b2b32e6c533c6bb1c3cc89ad24e2e4703a9cc5b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-01-2026_oferta-especial-20-gos-coin-de-regalo_96301c6b7a97.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-01-2026_oferta-especial-20-gos-coin-de-regalo_96301c6b7a97.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-01-2026_oferta-especial-20-gos-coin-de-regalo_96301c6b7a97",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f1/d4/9f/27/b5/f1d49f27b54ef4e72c3fc03be0d14c4e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-01-2026_oferta-especial-20-gos-coin-de-regalo_96301c6b7a97\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:30.130872-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_3a2fa3dc2b76",
+  "platform": "gig_os",
+  "title": "¡La primera etapa de GRAND START ha concluido!",
+  "date": "08.02.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-primera-etapa-de-grand-start-ha-concluido-1047",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-primera-etapa-de-grand-start-ha-concluido-1047",
+  "content_hash": "b39aa7ff45c53fd08c91b7f103dc87d26014e54560e59a3874ecebb212dc4658",
+  "url_hash": "f0c6a566da99325e848b5fa59d83e7d4756a9c622a4d325fb88ad93c61baf1b2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-02-2025_la-primera-etapa-de-grand-start-ha-concluido_3a2fa3dc2b76.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-02-2025_la-primera-etapa-de-grand-start-ha-concluido_3a2fa3dc2b76.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-02-2025_la-primera-etapa-de-grand-start-ha-concluido_3a2fa3dc2b76",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/67/8c/56/f2/b4/678c56f2b40f22980c582db6a1577241_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-02-2025_la-primera-etapa-de-grand-start-ha-concluido_3a2fa3dc2b76\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:00.034984-03:00",
+  "status": "downloaded"
+}

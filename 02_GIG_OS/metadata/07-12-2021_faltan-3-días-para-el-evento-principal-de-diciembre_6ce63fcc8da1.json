@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_6ce63fcc8da1",
+  "platform": "gig_os",
+  "title": "¡Faltan 3 días para el evento principal de diciembre!",
+  "date": "07.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/faltan-3-dias-para-el-evento-principal-de-diciembre-503",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/faltan-3-dias-para-el-evento-principal-de-diciembre-503",
+  "content_hash": "fc5dec586d325d0e1b1f5099918398bf66ccecbcdb40b407a4ad7ebfbd942dca",
+  "url_hash": "fee24c733b5be712469134f7f649f076defbe3d219228471f69bde3657a22c27",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-12-2021_faltan-3-días-para-el-evento-principal-de-diciembre_6ce63fcc8da1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-12-2021_faltan-3-días-para-el-evento-principal-de-diciembre_6ce63fcc8da1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-12-2021_faltan-3-días-para-el-evento-principal-de-diciembre_6ce63fcc8da1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3a/a7/68/6f/a5/3aa7686fa5ed922fd14153d121a38545_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-12-2021_faltan-3-días-para-el-evento-principal-de-diciembre_6ce63fcc8da1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:15:11.032839-03:00",
+  "status": "downloaded"
+}

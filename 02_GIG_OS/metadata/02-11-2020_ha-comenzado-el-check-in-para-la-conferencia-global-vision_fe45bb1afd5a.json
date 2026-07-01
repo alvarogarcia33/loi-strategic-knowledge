@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_fe45bb1afd5a",
+  "platform": "gig_os",
+  "title": "Ha comenzado el «check-in» para la conferencia «GLOBAL VISION»",
+  "date": "02.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-check-in-para-la-conferencia-global-vision-324",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-check-in-para-la-conferencia-global-vision-324",
+  "content_hash": "a2ec233fe49f18f476c81ecbdafdec1658f6c4df63fc386f1588b1fde1e4f937",
+  "url_hash": "c1ddbb03cc279b3b93ca21eac51724ed3b6374a837410b1b7860c2dd50f7143b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-11-2020_ha-comenzado-el-check-in-para-la-conferencia-global-vision_fe45bb1afd5a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-11-2020_ha-comenzado-el-check-in-para-la-conferencia-global-vision_fe45bb1afd5a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-11-2020_ha-comenzado-el-check-in-para-la-conferencia-global-vision_fe45bb1afd5a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d8/63/03/7a/1f/d863037a1fbcd99bb4a99cf5088d86b5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-11-2020_ha-comenzado-el-check-in-para-la-conferencia-global-vision_fe45bb1afd5a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:21:44.770242-03:00",
+  "status": "downloaded"
+}

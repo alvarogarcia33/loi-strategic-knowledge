@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_0cc80098323a",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 4 de diciembre",
+  "date": "05.12.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-4-de-diciembre",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-4-de-diciembre",
+  "content_hash": "cd0ab611e73356b03e2356bf4fa167b33da59bd8d9029bd82d3d680b3355a809",
+  "url_hash": "668a227be2a888feaa388904e76c5849f0242764af7018f37db9083bae57d863",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-12-2017_informe-de-la-cotización-del-oro-al-4-de-diciembre_0cc80098323a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-12-2017_informe-de-la-cotización-del-oro-al-4-de-diciembre_0cc80098323a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-12-2017_informe-de-la-cotización-del-oro-al-4-de-diciembre_0cc80098323a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4d/0d/da/cc/5c/4d0ddacc5cea6494b24353087714831e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-12-2017_informe-de-la-cotización-del-oro-al-4-de-diciembre_0cc80098323a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/429/global-intergold-gold-report-2017-12-04-gig_1.PNG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:27:57.369963-03:00",
+  "status": "downloaded"
+}

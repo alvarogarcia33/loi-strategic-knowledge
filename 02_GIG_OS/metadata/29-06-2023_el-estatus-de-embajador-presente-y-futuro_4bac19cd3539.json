@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4bac19cd3539",
+  "platform": "gig_os",
+  "title": "El estatus de Embajador: presente y futuro",
+  "date": "29.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-estatus-de-embajador-presente-y-futuro-760",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-estatus-de-embajador-presente-y-futuro-760",
+  "content_hash": "b8a932dc32a9d1c4f0afac61efdf111cc3689c0ac121ef82578e07da38da2a11",
+  "url_hash": "93bdedc1c5fde14bf423a39637ea12219584041128d240bdec7d83655c1cdebc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-06-2023_el-estatus-de-embajador-presente-y-futuro_4bac19cd3539.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-06-2023_el-estatus-de-embajador-presente-y-futuro_4bac19cd3539.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-06-2023_el-estatus-de-embajador-presente-y-futuro_4bac19cd3539",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7e/6b/e0/1c/26/7e6be01c2692ee3d6b9290cb1a711046_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-06-2023_el-estatus-de-embajador-presente-y-futuro_4bac19cd3539\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:01.247018-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_94a35d3b2d43",
+  "platform": "gig_os",
+  "title": "Se ha puesto en marcha el programa GLOBAL RENAISSANCE POWER",
+  "date": "14.03.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-ha-puesto-en-marcha-el-programa-global-renaissance-power-705",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-ha-puesto-en-marcha-el-programa-global-renaissance-power-705",
+  "content_hash": "f2455dbe0ba7ba2237aab10cde3f2d45b2b7a2f78824680c51093605f0001c02",
+  "url_hash": "de06b7ff79aa45a2b0810de55e2e877e9ce0f450d869fed3d41cde6f7dc889a3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-03-2023_se-ha-puesto-en-marcha-el-programa-global-renaissance-power_94a35d3b2d43.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-03-2023_se-ha-puesto-en-marcha-el-programa-global-renaissance-power_94a35d3b2d43.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2023_se-ha-puesto-en-marcha-el-programa-global-renaissance-power_94a35d3b2d43",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c5/3a/1d/bd/f1/c53a1dbdf18d57e74124f1cd449926e7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2023_se-ha-puesto-en-marcha-el-programa-global-renaissance-power_94a35d3b2d43\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1436/es-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2023_se-ha-puesto-en-marcha-el-programa-global-renaissance-power_94a35d3b2d43\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:25.311529-03:00",
+  "status": "downloaded"
+}

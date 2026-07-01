@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_51217d597547",
+  "platform": "gig_os",
+  "title": "Global Research 2020: ¡hacia las nuevas alturas!",
+  "date": "21.04.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/global-research-2020-hacia-las-nuevas-alturas-246",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/global-research-2020-hacia-las-nuevas-alturas-246",
+  "content_hash": "a5c8bfc505b40410ddf38fc3c5cfdc0260c9e6e65c9a69a62f975ce96c046a61",
+  "url_hash": "7cad44c40e22eb3bb9a384888445e1dfd3272c566845c030bf836b033bc03d51",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-04-2020_global-research-2020-hacia-las-nuevas-alturas_51217d597547.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-04-2020_global-research-2020-hacia-las-nuevas-alturas_51217d597547.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-04-2020_global-research-2020-hacia-las-nuevas-alturas_51217d597547",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/50/0c/03/09/84/500c030984c4f7e41cb1f3b3ff777b57_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-04-2020_global-research-2020-hacia-las-nuevas-alturas_51217d597547\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/861/button-es24433_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-04-2020_global-research-2020-hacia-las-nuevas-alturas_51217d597547\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:18:24.824642-03:00",
+  "status": "downloaded"
+}

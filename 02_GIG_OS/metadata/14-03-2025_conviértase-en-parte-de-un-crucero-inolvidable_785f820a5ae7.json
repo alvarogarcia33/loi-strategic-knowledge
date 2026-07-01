@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_785f820a5ae7",
+  "platform": "gig_os",
+  "title": "¡Conviértase en parte de un CRUCERO INOLVIDABLE!",
+  "date": "14.03.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/conviertase-en-parte-de-un-crucero-inolvidable-1055",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/conviertase-en-parte-de-un-crucero-inolvidable-1055",
+  "content_hash": "06f0d939ad960f2b1d2b46f31ee94ea935f6c48d59a86b4f9c6d7ec6c128d736",
+  "url_hash": "f61eefd469f27959ddaee4dd3108c9f1097a280fcc3c99132cffdb2fddba29dc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-03-2025_conviértase-en-parte-de-un-crucero-inolvidable_785f820a5ae7.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-03-2025_conviértase-en-parte-de-un-crucero-inolvidable_785f820a5ae7.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2025_conviértase-en-parte-de-un-crucero-inolvidable_785f820a5ae7",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bd/a8/f7/b6/3f/bda8f7b63fe29127cdc19400eb760d1e_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2025_conviértase-en-parte-de-un-crucero-inolvidable_785f820a5ae7\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1830/gig-table-cruise-1-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2025_conviértase-en-parte-de-un-crucero-inolvidable_785f820a5ae7\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:41.952003-03:00",
+  "status": "downloaded"
+}

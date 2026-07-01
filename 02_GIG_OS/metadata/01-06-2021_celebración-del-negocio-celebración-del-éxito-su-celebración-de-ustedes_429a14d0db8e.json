@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_429a14d0db8e",
+  "platform": "gig_os",
+  "title": "Celebración del negocio. Celebración del éxito. ¡Su celebración de ustedes!",
+  "date": "01.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/celebracion-del-negocio-celebracion-del-exito-su-celebracion-de-ustedes-424",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/celebracion-del-negocio-celebracion-del-exito-su-celebracion-de-ustedes-424",
+  "content_hash": "84a7713e57f2c4fd05c3874b499ace273fcb834bc84f3b9a084c6030d6da0320",
+  "url_hash": "74deba91c3fd33a05836994bf13541a2cbdeed09a04a513079e91e1c7096a4cf",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-06-2021_celebración-del-negocio-celebración-del-éxito-su-celebración-de-ustedes_429a14d0db8e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-06-2021_celebración-del-negocio-celebración-del-éxito-su-celebración-de-ustedes_429a14d0db8e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-06-2021_celebración-del-negocio-celebración-del-éxito-su-celebración-de-ustedes_429a14d0db8e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/53/80/d6/d6/f8/5380d6d6f8d0954c1c23ee2bbf3f591e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-06-2021_celebración-del-negocio-celebración-del-éxito-su-celebración-de-ustedes_429a14d0db8e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1102/untitled-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-06-2021_celebración-del-negocio-celebración-del-éxito-su-celebración-de-ustedes_429a14d0db8e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:00:50.459950-03:00",
+  "status": "downloaded"
+}

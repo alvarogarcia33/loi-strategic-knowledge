@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_086415b2b103",
+  "platform": "gig_os",
+  "title": "Próximamente: el discurso del Presidente",
+  "date": "04.09.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/proximamente-el-discurso-del-presidente-301",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/proximamente-el-discurso-del-presidente-301",
+  "content_hash": "232ef651703bae69497aaae6fdec9feea929ce0a3c2e11bea221423ce665f033",
+  "url_hash": "b5d5ada094e85e7e7eca5301e6684ee90806a87f7d8c2a6b46e908e28dcc3866",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-09-2020_próximamente-el-discurso-del-presidente_086415b2b103.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-09-2020_próximamente-el-discurso-del-presidente_086415b2b103.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-09-2020_próximamente-el-discurso-del-presidente_086415b2b103",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/54/84/68/f8/b5/548468f8b5921c007597f27937097a10_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-09-2020_próximamente-el-discurso-del-presidente_086415b2b103\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:49.171215-03:00",
+  "status": "downloaded"
+}

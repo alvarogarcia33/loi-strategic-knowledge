@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_476d69ac1700",
+  "platform": "gig_os",
+  "title": "El punto de crecimiento en Lituania: ¡ahora solo hacia adelante!",
+  "date": "06.07.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-punto-de-crecimiento-en-lituania-ahora-solo-hacia-adelante-441",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-punto-de-crecimiento-en-lituania-ahora-solo-hacia-adelante-441",
+  "content_hash": "ad826f7e3c4fe9cd294989b0752510c68815b6b7ca81392c8dae661e4c90c0b5",
+  "url_hash": "a1655b103e3e782d5c251ee2eaf374fd195017f9618f9a9ec1d141e75bd235aa",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-07-2021_el-punto-de-crecimiento-en-lituania-ahora-solo-hacia-adelante_476d69ac1700.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-07-2021_el-punto-de-crecimiento-en-lituania-ahora-solo-hacia-adelante_476d69ac1700.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-07-2021_el-punto-de-crecimiento-en-lituania-ahora-solo-hacia-adelante_476d69ac1700",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0c/1b/cc/a6/12/0c1bcca6124b24ee4cd48d4bafdcc285_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-07-2021_el-punto-de-crecimiento-en-lituania-ahora-solo-hacia-adelante_476d69ac1700\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1128/03_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-07-2021_el-punto-de-crecimiento-en-lituania-ahora-solo-hacia-adelante_476d69ac1700\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:13.932190-03:00",
+  "status": "downloaded"
+}

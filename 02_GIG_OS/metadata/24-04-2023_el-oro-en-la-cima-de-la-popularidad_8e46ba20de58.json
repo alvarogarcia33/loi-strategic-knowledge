@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_8e46ba20de58",
+  "platform": "gig_os",
+  "title": "El oro en la cima de la popularidad",
+  "date": "24.04.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-en-la-cima-de-la-popularidad-725",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-en-la-cima-de-la-popularidad-725",
+  "content_hash": "262ffa7460abc057bcb7f1f6bb6e6850e19939c1976e985ad44c786e10f80d75",
+  "url_hash": "98722431bc2f6dfd45bbfd4770a4e0a6cdb455fefa5dbebf48ab1d5b7d6642e7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-04-2023_el-oro-en-la-cima-de-la-popularidad_8e46ba20de58.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-04-2023_el-oro-en-la-cima-de-la-popularidad_8e46ba20de58.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-04-2023_el-oro-en-la-cima-de-la-popularidad_8e46ba20de58",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/61/9d/1d/b5/ff/619d1db5ff788ed272c292d5be866dba_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-04-2023_el-oro-en-la-cima-de-la-popularidad_8e46ba20de58\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gigosgold_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-04-2023_el-oro-en-la-cima-de-la-popularidad_8e46ba20de58\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-04-2023_el-oro-en-la-cima-de-la-popularidad_8e46ba20de58\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:39.431126-03:00",
+  "status": "downloaded"
+}

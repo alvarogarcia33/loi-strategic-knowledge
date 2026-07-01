@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_658ff15b4ce9",
+  "platform": "gig_os",
+  "title": "La unidad vencedora de los clientes de GIG-OS en Lituania",
+  "date": "22.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-unidad-vencedora-de-los-clientes-de-gig-os-en-lituania-510",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-unidad-vencedora-de-los-clientes-de-gig-os-en-lituania-510",
+  "content_hash": "cd4db2e39ad029b7d3cc349944efe54ce4bae4019166b26691fed6d24f449784",
+  "url_hash": "7a98ff58b1045619e0c449224d182b29b2596665a789867285ae1f1b6f5f645a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-12-2021_la-unidad-vencedora-de-los-clientes-de-gig-os-en-lituania_658ff15b4ce9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-12-2021_la-unidad-vencedora-de-los-clientes-de-gig-os-en-lituania_658ff15b4ce9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-12-2021_la-unidad-vencedora-de-los-clientes-de-gig-os-en-lituania_658ff15b4ce9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1209/22-12-2021-33006-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-12-2021_la-unidad-vencedora-de-los-clientes-de-gig-os-en-lituania_658ff15b4ce9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:35.481111-03:00",
+  "status": "downloaded"
+}

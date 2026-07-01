@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_945ae1f50880",
+  "platform": "gig_os",
+  "title": "LongDeal Project: ¡aproveche al máximo sus capacidades!",
+  "date": "25.02.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/longdeal-project-aproveche-al-maximo-sus-capacidades-373",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/longdeal-project-aproveche-al-maximo-sus-capacidades-373",
+  "content_hash": "6923781833cbca1f23771dfef891884d927ad6e85b86d483bd699a1701e98441",
+  "url_hash": "06ae9a038cc72310ac319468f6c0d61d5ae9c73ebc10649e8e3c8f1a2555efe8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-02-2021_longdeal-project-aproveche-al-máximo-sus-capacidades_945ae1f50880.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-02-2021_longdeal-project-aproveche-al-máximo-sus-capacidades_945ae1f50880.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-02-2021_longdeal-project-aproveche-al-máximo-sus-capacidades_945ae1f50880",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/dc/39/0b/09/ec/dc390b09ec48b0f02a4a7179508094f0_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-02-2021_longdeal-project-aproveche-al-máximo-sus-capacidades_945ae1f50880\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1039/25-02-2021-in-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-02-2021_longdeal-project-aproveche-al-máximo-sus-capacidades_945ae1f50880\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:06.427728-03:00",
+  "status": "downloaded"
+}

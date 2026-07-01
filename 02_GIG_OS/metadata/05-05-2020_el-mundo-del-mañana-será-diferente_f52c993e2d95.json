@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_f52c993e2d95",
+  "platform": "gig_os",
+  "title": "El mundo del mañana será diferente",
+  "date": "05.05.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-mundo-del-manana-sera-diferente-250",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-mundo-del-manana-sera-diferente-250",
+  "content_hash": "78bc4e631175fd782d37e25982b1e510ec26df6cf518233767a2f391424cca87",
+  "url_hash": "37d31a41551868ca349b4f8f11d12eae57133358303cd799271378818b008b75",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-05-2020_el-mundo-del-mañana-será-diferente_f52c993e2d95.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-05-2020_el-mundo-del-mañana-será-diferente_f52c993e2d95.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-05-2020_el-mundo-del-mañana-será-diferente_f52c993e2d95",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7d/11/e0/50/bb/7d11e050bb2c33c61bb05cec90346c0f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-05-2020_el-mundo-del-mañana-será-diferente_f52c993e2d95\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:51.588487-03:00",
+  "status": "downloaded"
+}

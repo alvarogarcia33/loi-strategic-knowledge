@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_efe565805987",
+  "platform": "gig_os",
+  "title": "GIG-OS: LAS ÚLTIMAS ACTUALIZACIONES",
+  "date": "06.12.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gig-os-las-ultimas-actualizaciones-204",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gig-os-las-ultimas-actualizaciones-204",
+  "content_hash": "5a4e039c18364653872619d25e51ed38451ae94ac185fa345cc57c55bd45f3c9",
+  "url_hash": "066387ea8c00306a154b48dcf42505213b7709c3b36208ab08773df005278a36",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-12-2019_gig-os-las-últimas-actualizaciones_efe565805987.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-12-2019_gig-os-las-últimas-actualizaciones_efe565805987.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2019_gig-os-las-últimas-actualizaciones_efe565805987",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/70/a6/65/a4/c9/70a665a4c90bbfb6efdfe70329c0a17e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2019_gig-os-las-últimas-actualizaciones_efe565805987\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:50.351697-03:00",
+  "status": "downloaded"
+}

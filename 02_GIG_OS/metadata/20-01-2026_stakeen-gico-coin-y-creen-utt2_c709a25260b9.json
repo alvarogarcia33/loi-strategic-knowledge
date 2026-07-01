@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_c709a25260b9",
+  "platform": "gig_os",
+  "title": "Stakeen GICO Coin y creen UTT2",
+  "date": "20.01.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/stakeen-gico-coin-y-creen-utt2-0156",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/stakeen-gico-coin-y-creen-utt2-0156",
+  "content_hash": "035de7c3a5ef91dcee6cb9aa9d931ca695acd2602ae78c3a6e72516168ab17db",
+  "url_hash": "7f9a808599023b6239106bcf2a66594921d6631df36aae64740546ce2264a2af",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-01-2026_stakeen-gico-coin-y-creen-utt2_c709a25260b9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-01-2026_stakeen-gico-coin-y-creen-utt2_c709a25260b9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2026_stakeen-gico-coin-y-creen-utt2_c709a25260b9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/fd/95/a8/a7/1d/fd95a8a71db5661145d8cff3d29d29d5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2026_stakeen-gico-coin-y-creen-utt2_c709a25260b9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1980/1-172346_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2026_stakeen-gico-coin-y-creen-utt2_c709a25260b9\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1980/1-291265_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2026_stakeen-gico-coin-y-creen-utt2_c709a25260b9\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:23.999360-03:00",
+  "status": "downloaded"
+}

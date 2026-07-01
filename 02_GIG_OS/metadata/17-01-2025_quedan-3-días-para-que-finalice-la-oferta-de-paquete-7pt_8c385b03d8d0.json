@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_8c385b03d8d0",
+  "platform": "gig_os",
+  "title": "¡Quedan 3 días para que finalice la oferta de paquete 7PT!",
+  "date": "17.01.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/quedan-3-dias-para-que-finalice-la-oferta-de-paquete-7pt-1035",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/quedan-3-dias-para-que-finalice-la-oferta-de-paquete-7pt-1035",
+  "content_hash": "0dce5b0029564a8231d9719a25ae344fccd7e2c08b3b98b6729bfbdb88811196",
+  "url_hash": "6f3abb5ff7504c2b88079d6d0223ee3614ea1834ae149b75a670e816f1507769",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-01-2025_quedan-3-días-para-que-finalice-la-oferta-de-paquete-7pt_8c385b03d8d0.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-01-2025_quedan-3-días-para-que-finalice-la-oferta-de-paquete-7pt_8c385b03d8d0.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-01-2025_quedan-3-días-para-que-finalice-la-oferta-de-paquete-7pt_8c385b03d8d0",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b6/a6/0e/d9/60/b6a60ed960bbd84822b6e26b3e03a182_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-01-2025_quedan-3-días-para-que-finalice-la-oferta-de-paquete-7pt_8c385b03d8d0\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1808/pack-tab-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-01-2025_quedan-3-días-para-que-finalice-la-oferta-de-paquete-7pt_8c385b03d8d0\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:51:23.334367-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_67c65e807e56",
+  "platform": "gig_os",
+  "title": "Resultados de la primera conferencia del nuevo Ecosistema Empresarial",
+  "date": "01.02.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-primera-conferencia-del-nuevo-ecosistema-empresarial-364",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-primera-conferencia-del-nuevo-ecosistema-empresarial-364",
+  "content_hash": "fd398d8f72566f99908f3d2f198df6ba6c90cdf1b4df8ecb19904e406b92d32b",
+  "url_hash": "ca74708ecf7ecad77cd651fb06c6d0aabac570fb2a771653d6001a8dcd1985c9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-02-2021_resultados-de-la-primera-conferencia-del-nuevo-ecosistema-empresarial_67c65e807e56.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-02-2021_resultados-de-la-primera-conferencia-del-nuevo-ecosistema-empresarial_67c65e807e56.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2021_resultados-de-la-primera-conferencia-del-nuevo-ecosistema-empresarial_67c65e807e56",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/60/cf/ba/da/a1/60cfbadaa1c96371606cb3e13e943af1_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2021_resultados-de-la-primera-conferencia-del-nuevo-ecosistema-empresarial_67c65e807e56\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1029/ldp-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2021_resultados-de-la-primera-conferencia-del-nuevo-ecosistema-empresarial_67c65e807e56\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1029/pf-2021-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2021_resultados-de-la-primera-conferencia-del-nuevo-ecosistema-empresarial_67c65e807e56\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1029/smb-1-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2021_resultados-de-la-primera-conferencia-del-nuevo-ecosistema-empresarial_67c65e807e56\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1029/fpc-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2021_resultados-de-la-primera-conferencia-del-nuevo-ecosistema-empresarial_67c65e807e56\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:30.735077-03:00",
+  "status": "downloaded"
+}

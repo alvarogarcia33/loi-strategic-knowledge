@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_f24ef08cc96c",
+  "platform": "gig_os",
+  "title": "El Must-Read del verano: el oro ha dejado atrás al platino",
+  "date": "29.07.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-must-read-del-verano-el-oro-ha-dejado-atras-al-platino-150",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-must-read-del-verano-el-oro-ha-dejado-atras-al-platino-150",
+  "content_hash": "b7d32a795c286f02d909c98c778868caea36e5ea1303c6831365182d0e6433dd",
+  "url_hash": "5a217f65fce18e0ea63d293235ea4dc0cebaa23315cff32bf5b1b11dba362be4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-07-2019_el-must-read-del-verano-el-oro-ha-dejado-atrás-al-platino_f24ef08cc96c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-07-2019_el-must-read-del-verano-el-oro-ha-dejado-atrás-al-platino_f24ef08cc96c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-07-2019_el-must-read-del-verano-el-oro-ha-dejado-atrás-al-platino_f24ef08cc96c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/51/20/88/fd/b8/512088fdb86ce269597ebce4552d27ab_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-07-2019_el-must-read-del-verano-el-oro-ha-dejado-atrás-al-platino_f24ef08cc96c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/750/global-intergold-gold-informe-de-la-cotizacion-del-oro-23_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/750/global-intergold-gold-informe-de-la-cotizacion-del-oro-24_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/750/global-intergold-gold-informe-de-la-cotizacion-del-oro-25_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/750/global-intergold-gold-informe-de-la-cotizacion-del-oro-26_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/750/global-intergold-gold-informe-de-la-cotizacion-del-oro-27_1.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:56.068309-03:00",
+  "status": "downloaded"
+}

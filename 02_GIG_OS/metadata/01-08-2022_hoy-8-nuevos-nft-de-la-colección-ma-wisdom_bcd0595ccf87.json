@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_bcd0595ccf87",
+  "platform": "gig_os",
+  "title": "HOY: 8 nuevos NFT de la colección MA WISDOM",
+  "date": "01.08.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/hoy-8-nuevos-nft-de-la-coleccion-ma-wisdom-606",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/hoy-8-nuevos-nft-de-la-coleccion-ma-wisdom-606",
+  "content_hash": "b2d83b7b495fed20e98fe1e6cb3add40b6729cface4e2206e25473fb0bcf8317",
+  "url_hash": "f33313e9e37a69c2410d121902d768b1de27f9806fdcb76fbe64a4da32276e5e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-08-2022_hoy-8-nuevos-nft-de-la-colección-ma-wisdom_bcd0595ccf87.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-08-2022_hoy-8-nuevos-nft-de-la-colección-ma-wisdom_bcd0595ccf87.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-08-2022_hoy-8-nuevos-nft-de-la-colección-ma-wisdom_bcd0595ccf87",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d1/07/46/a6/c3/d10746a6c30273aa1ebfcdc2a1a408a3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-08-2022_hoy-8-nuevos-nft-de-la-colección-ma-wisdom_bcd0595ccf87\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1318/nft-meta-aristippus-wisdom-3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-08-2022_hoy-8-nuevos-nft-de-la-colección-ma-wisdom_bcd0595ccf87\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:00.208721-03:00",
+  "status": "downloaded"
+}

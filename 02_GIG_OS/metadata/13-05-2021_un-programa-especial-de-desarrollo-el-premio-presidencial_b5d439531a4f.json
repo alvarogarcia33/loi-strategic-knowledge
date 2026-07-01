@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_b5d439531a4f",
+  "platform": "gig_os",
+  "title": "Un programa especial de desarrollo — el «Premio Presidencial»",
+  "date": "13.05.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/un-programa-especial-de-desarrollo-el-premio-presidencial-413",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/un-programa-especial-de-desarrollo-el-premio-presidencial-413",
+  "content_hash": "757efd61768c44c5d3ce5a28da0acb0c0769b6cba83cf6d46340df98ebaea224",
+  "url_hash": "61bb6f6e3ee7e9c6493bc4b498ce2988518e4cf10c9e3001ae9978ef8a8a0b9a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-05-2021_un-programa-especial-de-desarrollo-el-premio-presidencial_b5d439531a4f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-05-2021_un-programa-especial-de-desarrollo-el-premio-presidencial_b5d439531a4f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-05-2021_un-programa-especial-de-desarrollo-el-premio-presidencial_b5d439531a4f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ea/a8/42/b5/a7/eaa842b5a7a78f733e15904cf40d12b6_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-05-2021_un-programa-especial-de-desarrollo-el-premio-presidencial_b5d439531a4f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:03.688832-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_fa196c9846ed",
+  "platform": "gig_os",
+  "title": "GoalSet Master: el camino hacia un mundo nuevo",
+  "date": "04.03.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/goalset-master-el-camino-hacia-un-mundo-nuevo-227",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/goalset-master-el-camino-hacia-un-mundo-nuevo-227",
+  "content_hash": "9a88f3d070fb8d9abe3e0cb7b8b0fd62d6c7f82f4b1d2e80b661d81bc3b74d99",
+  "url_hash": "050da50b497e50b26b69bb0e9d3aa7ed0fe8aa2019f89eef791137af55fbc04e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-03-2020_goalset-master-el-camino-hacia-un-mundo-nuevo_fa196c9846ed.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-03-2020_goalset-master-el-camino-hacia-un-mundo-nuevo_fa196c9846ed.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-03-2020_goalset-master-el-camino-hacia-un-mundo-nuevo_fa196c9846ed",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/98/f0/0e/1e/bb/98f00e1ebb09aa088650249fa1fdeb25_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-03-2020_goalset-master-el-camino-hacia-un-mundo-nuevo_fa196c9846ed\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/841/global-intergold--goalset-master_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-03-2020_goalset-master-el-camino-hacia-un-mundo-nuevo_fa196c9846ed\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:18:52.532874-03:00",
+  "status": "downloaded"
+}

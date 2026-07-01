@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_779e8420c6aa",
+  "platform": "gig_os",
+  "title": "¡Los obstáculos están solo en su mente!",
+  "date": "10.06.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-obstaculos-estan-solo-en-su-mente-271",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-obstaculos-estan-solo-en-su-mente-271",
+  "content_hash": "2a311ecb4e2c8b900fd37d795c292d138e40aadeb3c87309f8df99156b612718",
+  "url_hash": "96943934eabc30cc2b9af0ab78d9a55b5bfd94bd30c861908c3f95e4dd31003e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-06-2020_los-obstáculos-están-solo-en-su-mente_779e8420c6aa.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-06-2020_los-obstáculos-están-solo-en-su-mente_779e8420c6aa.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2020_los-obstáculos-están-solo-en-su-mente_779e8420c6aa",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0e/cf/04/0a/c0/0ecf040ac02e20bfdb3f11c68f73ca8b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2020_los-obstáculos-están-solo-en-su-mente_779e8420c6aa\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:01.251216-03:00",
+  "status": "downloaded"
+}

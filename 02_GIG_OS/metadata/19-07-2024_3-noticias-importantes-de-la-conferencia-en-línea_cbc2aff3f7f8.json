@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_cbc2aff3f7f8",
+  "platform": "gig_os",
+  "title": "3 noticias importantes de la conferencia en línea",
+  "date": "19.07.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/3-noticias-importantes-de-la-conferencia-en-linea-962",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/3-noticias-importantes-de-la-conferencia-en-linea-962",
+  "content_hash": "00e9ebf08c430aa3c87b8067736bc5a721329c1fb1b8da105512ba8f1d57b4a7",
+  "url_hash": "fc2c2d67743ebfd352d5b65f3ac657e3fd6b8b10208940a051e2a7870140d231",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-07-2024_3-noticias-importantes-de-la-conferencia-en-línea_cbc2aff3f7f8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-07-2024_3-noticias-importantes-de-la-conferencia-en-línea_cbc2aff3f7f8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2024_3-noticias-importantes-de-la-conferencia-en-línea_cbc2aff3f7f8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5b/fe/c7/6f/0f/5bfec76f0f66404245deb3c156c4b52d_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2024_3-noticias-importantes-de-la-conferencia-en-línea_cbc2aff3f7f8\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:55:39.371637-03:00",
+  "status": "downloaded"
+}

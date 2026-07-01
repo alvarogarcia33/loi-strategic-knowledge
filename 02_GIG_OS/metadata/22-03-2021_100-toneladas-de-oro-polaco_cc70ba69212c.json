@@ -1,0 +1,42 @@
+{
+  "article_uid": "gig_os_cc70ba69212c",
+  "platform": "gig_os",
+  "title": "100 toneladas de oro polaco",
+  "date": "22.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad Noticias sobre la plataforma Materiales educativos Oro GoalSet Master",
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/100-toneladas-de-oro-polaco-387",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/100-toneladas-de-oro-polaco-387",
+  "content_hash": "77f8d1a71d5dc83e66fbd8fc6bbc8ac746f5cc5c25274cda023b26701c9770d1",
+  "url_hash": "b1bac8bf60ca78f1eb284c38ff7926fa647528389216739df7c6125b65777221",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-03-2021_100-toneladas-de-oro-polaco_cc70ba69212c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-03-2021_100-toneladas-de-oro-polaco_cc70ba69212c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2021_100-toneladas-de-oro-polaco_cc70ba69212c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3e/05/8e/cb/f5/3e058ecbf53bbbab82b2eb8293b5ab88_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2021_100-toneladas-de-oro-polaco_cc70ba69212c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1060/quarterly-official-gold-reserves_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2021_100-toneladas-de-oro-polaco_cc70ba69212c\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:32:26.020314-03:00",
+  "status": "downloaded"
+}

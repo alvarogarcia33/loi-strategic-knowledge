@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_89e01433bc89",
+  "platform": "gig_os",
+  "title": "¡ECN Round 2!",
+  "date": "19.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ecn-round-2-435",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ecn-round-2-435",
+  "content_hash": "95fafa06a02c23c1da213705c6a71fb21584fa31694cfe976d3ea03cb5bc3381",
+  "url_hash": "1d2d4435f96131efcc8a48845c069646f180ce667a662f09c0ef7c9a67be73a5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-06-2021_ecn-round-2_89e01433bc89.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-06-2021_ecn-round-2_89e01433bc89.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-06-2021_ecn-round-2_89e01433bc89",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/fe/87/64/65/6c/fe8764656c01a81ab0f4dc97254f5f71_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-06-2021_ecn-round-2_89e01433bc89\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:31.362646-03:00",
+  "status": "downloaded"
+}

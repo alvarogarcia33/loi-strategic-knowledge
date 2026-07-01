@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_18d3005e205e",
+  "platform": "gig_os",
+  "title": "Se ha publicado el TOP 500 de la Major League",
+  "date": "22.01.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-ha-publicado-el-top-500-de-la-major-league-1038",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-ha-publicado-el-top-500-de-la-major-league-1038",
+  "content_hash": "683f9e4e906d64abf4cace3a04606e0e79fcb116c847accc2864e1832ceea078",
+  "url_hash": "179caba5b37002b03aec21d15ddb7ac809e476bb69b2cfd2094fa9b36558b4f3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-01-2025_se-ha-publicado-el-top-500-de-la-major-league_18d3005e205e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-01-2025_se-ha-publicado-el-top-500-de-la-major-league_18d3005e205e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-01-2025_se-ha-publicado-el-top-500-de-la-major-league_18d3005e205e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/11/aa/c3/76/45/11aac37645b467eeba86664ec87d30f1_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-01-2025_se-ha-publicado-el-top-500-de-la-major-league_18d3005e205e\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:18.952182-03:00",
+  "status": "downloaded"
+}

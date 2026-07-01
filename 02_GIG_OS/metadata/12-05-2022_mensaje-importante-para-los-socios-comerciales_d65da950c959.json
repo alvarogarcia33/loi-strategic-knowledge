@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d65da950c959",
+  "platform": "gig_os",
+  "title": "¡Mensaje importante para los Socios comerciales!",
+  "date": "12.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/mensaje-importante-para-los-socios-comerciales-574",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/mensaje-importante-para-los-socios-comerciales-574",
+  "content_hash": "cfc9f3c43c05939380832ebe09ccc296702043fe0eb77c980a27dd5bd0f664f2",
+  "url_hash": "9f5c071cd1fc17d21eb627c810b74d9ea05e04f7fe9c1f6b94c21750dacf60da",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-05-2022_mensaje-importante-para-los-socios-comerciales_d65da950c959.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-05-2022_mensaje-importante-para-los-socios-comerciales_d65da950c959.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-05-2022_mensaje-importante-para-los-socios-comerciales_d65da950c959",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3d/d4/12/cb/9c/3dd412cb9c302467a67b3a9e0f6d9e5f_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-05-2022_mensaje-importante-para-los-socios-comerciales_d65da950c959\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:26.252968-03:00",
+  "status": "downloaded"
+}

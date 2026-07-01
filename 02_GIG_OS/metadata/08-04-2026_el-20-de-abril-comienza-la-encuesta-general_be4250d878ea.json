@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_be4250d878ea",
+  "platform": "gig_os",
+  "title": "El 20 de abril comienza la encuesta general",
+  "date": "08.04.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-20-de-abril-comienza-la-encuesta-general-0180",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-20-de-abril-comienza-la-encuesta-general-0180",
+  "content_hash": "c4602fb2bf061b4ce67b0dbb2692ddfc7edeea3c73c9582a71b81295f24a4699",
+  "url_hash": "a1645495cb5842802925e2d8b375d0b13815cee9b9335c405d2d2c19d8dd5247",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-04-2026_el-20-de-abril-comienza-la-encuesta-general_be4250d878ea.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-04-2026_el-20-de-abril-comienza-la-encuesta-general_be4250d878ea.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-04-2026_el-20-de-abril-comienza-la-encuesta-general_be4250d878ea",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a8/9f/31/1a/2b/a89f311a2bd5807127088661bc8fb878_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-04-2026_el-20-de-abril-comienza-la-encuesta-general_be4250d878ea\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:04.429114-03:00",
+  "status": "downloaded"
+}

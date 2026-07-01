@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_dc3d820b7633",
+  "platform": "gig_os",
+  "title": "¡Se han anunciado los ganadores de la 3.ª etapa de la GR DAO CUP UnityGlobe!",
+  "date": "12.03.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-han-anunciado-los-ganadores-de-la-3-etapa-de-la-gr-dao-cup-unityglobe-894",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-han-anunciado-los-ganadores-de-la-3-etapa-de-la-gr-dao-cup-unityglobe-894",
+  "content_hash": "506e28d6c2d5585a4ee01a4f5ed3d0770bd222f1de7498a7f947dbda2f7ec3fb",
+  "url_hash": "b8d38346175c03c200f5b4519be56119ba7ca0b0b04f4be156682f19f40bcf72",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-03-2024_se-han-anunciado-los-ganadores-de-la-3-etapa-de-la-gr-dao-cup-unityglobe_dc3d820b7633.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-03-2024_se-han-anunciado-los-ganadores-de-la-3-etapa-de-la-gr-dao-cup-unityglobe_dc3d820b7633.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-03-2024_se-han-anunciado-los-ganadores-de-la-3-etapa-de-la-gr-dao-cup-unityglobe_dc3d820b7633",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bb/d0/0d/f0/7e/bbd00df07ee03cb6dc6fc457fd5446eb_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-03-2024_se-han-anunciado-los-ganadores-de-la-3-etapa-de-la-gr-dao-cup-unityglobe_dc3d820b7633\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1645/11-03-2024-top-names-es64719_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-03-2024_se-han-anunciado-los-ganadores-de-la-3-etapa-de-la-gr-dao-cup-unityglobe_dc3d820b7633\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1645/element-for-text-conference_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-03-2024_se-han-anunciado-los-ganadores-de-la-3-etapa-de-la-gr-dao-cup-unityglobe_dc3d820b7633\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1645/unity-conference-cup39793_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-03-2024_se-han-anunciado-los-ganadores-de-la-3-etapa-de-la-gr-dao-cup-unityglobe_dc3d820b7633\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:50.282146-03:00",
+  "status": "downloaded"
+}

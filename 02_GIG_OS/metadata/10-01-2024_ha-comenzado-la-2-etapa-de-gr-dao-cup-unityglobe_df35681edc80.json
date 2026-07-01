@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_df35681edc80",
+  "platform": "gig_os",
+  "title": "Ha comenzado la 2.ª etapa de GR DAO CUP UnityGlobe",
+  "date": "10.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-la-2-etapa-de-gr-dao-cup-unityglobe-856",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-la-2-etapa-de-gr-dao-cup-unityglobe-856",
+  "content_hash": "04ffd42645c57167d5c9c3589bc486e8ac0ae9efcc19ef853dafbe03564d9b9a",
+  "url_hash": "100604120792ee2a1fe7cce8f863e34a274b543bcb227180b8567a5fe414df8e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-01-2024_ha-comenzado-la-2-etapa-de-gr-dao-cup-unityglobe_df35681edc80.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-01-2024_ha-comenzado-la-2-etapa-de-gr-dao-cup-unityglobe_df35681edc80.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-01-2024_ha-comenzado-la-2-etapa-de-gr-dao-cup-unityglobe_df35681edc80",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c0/a1/16/4f/96/c0a1164f9643690167af8f4a5460e4dc_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-01-2024_ha-comenzado-la-2-etapa-de-gr-dao-cup-unityglobe_df35681edc80\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1602/call-to-action-unity-2nd-stage-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-01-2024_ha-comenzado-la-2-etapa-de-gr-dao-cup-unityglobe_df35681edc80\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:22:12.782934-03:00",
+  "status": "downloaded"
+}

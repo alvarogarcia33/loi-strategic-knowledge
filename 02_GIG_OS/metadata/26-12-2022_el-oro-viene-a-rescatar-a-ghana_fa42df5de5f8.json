@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_fa42df5de5f8",
+  "platform": "gig_os",
+  "title": "El oro viene a rescatar a Ghana",
+  "date": "26.12.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-viene-a-rescatar-a-ghana-671",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-viene-a-rescatar-a-ghana-671",
+  "content_hash": "d4600658230609df4e33a0bb90a79685f5d1b6113fafaf6723c9cb4cbb7e95c7",
+  "url_hash": "2410ecbe35e5217a19303be40e0d09c22786e2d9a5a42bdc7336096d8769a041",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-12-2022_el-oro-viene-a-rescatar-a-ghana_fa42df5de5f8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-12-2022_el-oro-viene-a-rescatar-a-ghana_fa42df5de5f8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-12-2022_el-oro-viene-a-rescatar-a-ghana_fa42df5de5f8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/71/34/6f/c8/8e/71346fc88ef52e800882defede376b80_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-12-2022_el-oro-viene-a-rescatar-a-ghana_fa42df5de5f8\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1389/vice-prezident-mahamudu-bavumiya_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-12-2022_el-oro-viene-a-rescatar-a-ghana_fa42df5de5f8\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1389/dizayn-bez-nazvaniya-45_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-12-2022_el-oro-viene-a-rescatar-a-ghana_fa42df5de5f8\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:38.749472-03:00",
+  "status": "downloaded"
+}

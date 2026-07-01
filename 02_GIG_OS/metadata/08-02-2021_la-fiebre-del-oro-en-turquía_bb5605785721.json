@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_bb5605785721",
+  "platform": "gig_os",
+  "title": "La \"fiebre del oro\" en Turquía",
+  "date": "08.02.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-fiebre-del-oro-en-turquia-367",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-fiebre-del-oro-en-turquia-367",
+  "content_hash": "c1b6331de179a7fb01a20bb76d0f1175ef70bc122c641261cea77a540d84a048",
+  "url_hash": "bcd71ef50c12fe04bd5b9a9479f2e692186ff561131bab2e4eb4e118f88ce601",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-02-2021_la-fiebre-del-oro-en-turquía_bb5605785721.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-02-2021_la-fiebre-del-oro-en-turquía_bb5605785721.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-02-2021_la-fiebre-del-oro-en-turquía_bb5605785721",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c7/9b/f8/8b/55/c79bf88b551babea19aca6f6ddaa72a6_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-02-2021_la-fiebre-del-oro-en-turquía_bb5605785721\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1032/chart_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-02-2021_la-fiebre-del-oro-en-turquía_bb5605785721\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:25.016479-03:00",
+  "status": "downloaded"
+}

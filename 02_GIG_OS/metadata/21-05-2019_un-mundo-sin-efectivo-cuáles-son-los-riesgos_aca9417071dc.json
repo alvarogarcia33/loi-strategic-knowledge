@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_aca9417071dc",
+  "platform": "gig_os",
+  "title": "Un mundo sin efectivo: ¿cuáles son los riesgos?",
+  "date": "21.05.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/un-mundo-sin-efectivo-cuales-son-los-riesgos-119",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/un-mundo-sin-efectivo-cuales-son-los-riesgos-119",
+  "content_hash": "d99551c77f6f1ab2bb2bc90bcb231c4eb920da559783206267c5c3bf1a28f686",
+  "url_hash": "140e72fecf4f9b47d905d04068b7feedc06b4c8002a196ecb002e7a43b57fb12",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-05-2019_un-mundo-sin-efectivo-cuáles-son-los-riesgos_aca9417071dc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-05-2019_un-mundo-sin-efectivo-cuáles-son-los-riesgos_aca9417071dc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-05-2019_un-mundo-sin-efectivo-cuáles-son-los-riesgos_aca9417071dc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3b/3c/26/57/e9/3b3c2657e9704b61ab964637dd88f7c5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-05-2019_un-mundo-sin-efectivo-cuáles-son-los-riesgos_aca9417071dc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/707/global-intergold-oro-la-seguridad-financiera-2_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/707/global-intergold-oro-la-seguridad-financiera-1_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:56.665347-03:00",
+  "status": "downloaded"
+}

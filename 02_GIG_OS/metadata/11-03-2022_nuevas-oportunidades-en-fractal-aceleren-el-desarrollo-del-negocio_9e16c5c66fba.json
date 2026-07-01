@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9e16c5c66fba",
+  "platform": "gig_os",
+  "title": "Nuevas oportunidades en Fractal: ¡aceleren el desarrollo del negocio!",
+  "date": "11.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nuevas-oportunidades-en-fractal-aceleren-el-desarrollo-del-negocio-543",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nuevas-oportunidades-en-fractal-aceleren-el-desarrollo-del-negocio-543",
+  "content_hash": "18171e8206291a7cf0ad08aa2391a71a50ae8738756ea1854c702089ba49a44c",
+  "url_hash": "abaea78c75f932d609f8e0c2d0b5284641045befac5c6499be63faa9959ae78f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-03-2022_nuevas-oportunidades-en-fractal-aceleren-el-desarrollo-del-negocio_9e16c5c66fba.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-03-2022_nuevas-oportunidades-en-fractal-aceleren-el-desarrollo-del-negocio_9e16c5c66fba.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2022_nuevas-oportunidades-en-fractal-aceleren-el-desarrollo-del-negocio_9e16c5c66fba",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/42/41/a5/f6/05/4241a5f60570de93411c4ba867c5dbd1_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2022_nuevas-oportunidades-en-fractal-aceleren-el-desarrollo-del-negocio_9e16c5c66fba\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1248/11-03-2022-34058-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2022_nuevas-oportunidades-en-fractal-aceleren-el-desarrollo-del-negocio_9e16c5c66fba\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:43:43.190931-03:00",
+  "status": "downloaded"
+}

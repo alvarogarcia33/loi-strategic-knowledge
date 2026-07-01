@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_d9b4ed294125",
+  "platform": "olympia",
+  "title": "Tres centros claves de Global Metaverse",
+  "date": "20.03.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/tres-centros-claves-de-global-metaverse-0177",
+  "canonical_url": "https://olympia-lab.com/es/news/post/tres-centros-claves-de-global-metaverse-0177",
+  "content_hash": "d47559ff9e802abb9ad67af5818f9707107083c7fca98d5f3231878c2930cb75",
+  "url_hash": "d3dd7e7059d74b4a54cf7d4a108b5ac10104ec1725eeb2eba81c5e4d68807fc7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/73/57/a5/32/24/7357a532240b5f6101397e18e68a8903.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/72/ba/01/31/2272ba0131aaea68d4b4afb0a835a2d6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ae/f1/6f/e5/32/aef16fe532a983dbe6359eb674405da9_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/15/e2/94/fe/b1/15e294feb146514b67e125d3f5847e18_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/66/20/03/b5/53/662003b5536e57f075dd804546ad98ba_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/9d/28/c0/b5/b1/9d28c0b5b1eae022d9f6113fd38e4a3a_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:18:16.570500-03:00",
+  "status": "downloaded"
+}

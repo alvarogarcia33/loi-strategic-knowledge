@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d5ea28374475",
+  "platform": "gig_os",
+  "title": "Una clase magistral alemana de creación de ahorros en oro",
+  "date": "24.05.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/una-clase-magistral-alemana-de-creacion-de-ahorros-en-oro-414",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/una-clase-magistral-alemana-de-creacion-de-ahorros-en-oro-414",
+  "content_hash": "7f403aa7edd618381c42ef3d6ea4e34924414376847115e916de718f2b033cb4",
+  "url_hash": "20dbf870af03abc8fe9df1eb5df73501fc294cd526a08e5eacca06df91b89e8a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-05-2021_una-clase-magistral-alemana-de-creación-de-ahorros-en-oro_d5ea28374475.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-05-2021_una-clase-magistral-alemana-de-creación-de-ahorros-en-oro_d5ea28374475.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-05-2021_una-clase-magistral-alemana-de-creación-de-ahorros-en-oro_d5ea28374475",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0b/ab/44/0b/65/0bab440b659597471ae1111f2db56edc_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-05-2021_una-clase-magistral-alemana-de-creación-de-ahorros-en-oro_d5ea28374475\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1091/screenshot6-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-05-2021_una-clase-magistral-alemana-de-creación-de-ahorros-en-oro_d5ea28374475\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:11.374645-03:00",
+  "status": "downloaded"
+}

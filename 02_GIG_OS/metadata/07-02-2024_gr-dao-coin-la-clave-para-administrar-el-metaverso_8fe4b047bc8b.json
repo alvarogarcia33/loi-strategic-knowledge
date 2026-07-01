@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_8fe4b047bc8b",
+  "platform": "gig_os",
+  "title": "GR DAO Coin: la clave para administrar el metaverso",
+  "date": "07.02.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gr-dao-coin-la-clave-para-administrar-el-metaverso-874",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gr-dao-coin-la-clave-para-administrar-el-metaverso-874",
+  "content_hash": "dd0c0331c2d596dac773e21aeb7144f47127dd53a3a9647c9418d531b4889f22",
+  "url_hash": "3d4331877e1d8e38394d8fbfc2c69a6930dfc6bb4693441521eea1a6559afea3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-02-2024_gr-dao-coin-la-clave-para-administrar-el-metaverso_8fe4b047bc8b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-02-2024_gr-dao-coin-la-clave-para-administrar-el-metaverso_8fe4b047bc8b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-02-2024_gr-dao-coin-la-clave-para-administrar-el-metaverso_8fe4b047bc8b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c0/4a/b9/46/d7/c04ab946d7f291991bdfbe6d4911d13e_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-02-2024_gr-dao-coin-la-clave-para-administrar-el-metaverso_8fe4b047bc8b\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1619/element-for-text-conference_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-02-2024_gr-dao-coin-la-clave-para-administrar-el-metaverso_8fe4b047bc8b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1619/gr-dao-coin-levels-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-02-2024_gr-dao-coin-la-clave-para-administrar-el-metaverso_8fe4b047bc8b\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:22.584624-03:00",
+  "status": "downloaded"
+}

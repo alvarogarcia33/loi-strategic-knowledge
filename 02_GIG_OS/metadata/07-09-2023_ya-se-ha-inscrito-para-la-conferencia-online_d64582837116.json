@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d64582837116",
+  "platform": "gig_os",
+  "title": "¿Ya se ha inscrito para la conferencia online?",
+  "date": "07.09.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ya-se-ha-inscrito-para-la-conferencia-online-788",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ya-se-ha-inscrito-para-la-conferencia-online-788",
+  "content_hash": "4fb2e6e4f8a3e200d661d76f317aff18959ba9b7a530ff563aebec9a8b64f3d0",
+  "url_hash": "46d6856fbde9091186f684a9861a7179ca17091771794d08ea88846df944098c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-09-2023_ya-se-ha-inscrito-para-la-conferencia-online_d64582837116.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-09-2023_ya-se-ha-inscrito-para-la-conferencia-online_d64582837116.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-09-2023_ya-se-ha-inscrito-para-la-conferencia-online_d64582837116",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a0/41/41/26/a4/a0414126a4c0e0df1b69a43d168a1fed_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-09-2023_ya-se-ha-inscrito-para-la-conferencia-online_d64582837116\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:05:53.204057-03:00",
+  "status": "downloaded"
+}

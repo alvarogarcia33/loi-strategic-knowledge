@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ed4285a82b92",
+  "platform": "gig_os",
+  "title": "Próximamente: mensaje de Año Nuevo del Presidente",
+  "date": "14.12.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/proximamente-mensaje-de-ano-nuevo-del-presidente-665",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/proximamente-mensaje-de-ano-nuevo-del-presidente-665",
+  "content_hash": "9d903195b436c7ca7419f49cb3ea5f99899743506d636a3321494b238e177454",
+  "url_hash": "0866f12f997fcd77e4955a8e82dfceec022ddc1a2d65ed351cb7c9ce1ae9f99a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-12-2022_próximamente-mensaje-de-año-nuevo-del-presidente_ed4285a82b92.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-12-2022_próximamente-mensaje-de-año-nuevo-del-presidente_ed4285a82b92.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-12-2022_próximamente-mensaje-de-año-nuevo-del-presidente_ed4285a82b92",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2c/76/aa/cf/3b/2c76aacf3b7512fe6e03371d95ebf353_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-12-2022_próximamente-mensaje-de-año-nuevo-del-presidente_ed4285a82b92\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1384/christmasbc-banner-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-12-2022_próximamente-mensaje-de-año-nuevo-del-presidente_ed4285a82b92\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:00.605668-03:00",
+  "status": "downloaded"
+}

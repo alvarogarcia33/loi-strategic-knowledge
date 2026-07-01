@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_9998de695645",
+  "platform": "gig_os",
+  "title": "First Meta Steps 2023 — el primer gran evento del año",
+  "date": "31.01.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/first-meta-steps-2023-el-primer-gran-evento-del-ano-682",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/first-meta-steps-2023-el-primer-gran-evento-del-ano-682",
+  "content_hash": "8c62f2ce9f5dc4d365e2fe38b7930fea918e6bc6fdafd0c4e053b1a72d3100e4",
+  "url_hash": "cd68416d89d393376bc8c41bb8f3798cee4eb7056b60497513b11f10ab29e49c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\31-01-2023_first-meta-steps-2023-el-primer-gran-evento-del-año_9998de695645.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\31-01-2023_first-meta-steps-2023-el-primer-gran-evento-del-año_9998de695645.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-01-2023_first-meta-steps-2023-el-primer-gran-evento-del-año_9998de695645",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/82/c3/24/e6/c6/82c324e6c68de4be470602a39547d499_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-01-2023_first-meta-steps-2023-el-primer-gran-evento-del-año_9998de695645\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:41.149013-03:00",
+  "status": "downloaded"
+}

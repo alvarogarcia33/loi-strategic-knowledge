@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_cb2142f90a53",
+  "platform": "gig_os",
+  "title": "Mercado de oro: 30 años de evolución",
+  "date": "06.03.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/mercado-de-oro-30-anos-de-evolucion-699",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/mercado-de-oro-30-anos-de-evolucion-699",
+  "content_hash": "85248327a9303ebc4487b25ad9cc55f825d56aa16f1b3cc108fa4eff15a6553e",
+  "url_hash": "8fed2a90af013619a103a7cd48b92127a5230a87e80a78f550b69338078204a6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-03-2023_mercado-de-oro-30-años-de-evolución_cb2142f90a53.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-03-2023_mercado-de-oro-30-años-de-evolución_cb2142f90a53.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-03-2023_mercado-de-oro-30-años-de-evolución_cb2142f90a53",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/19/86/72/e1/ee/198672e1ee629a1e4e06ad4219069bdb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-03-2023_mercado-de-oro-30-años-de-evolución_cb2142f90a53\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1427/gold-gigos_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-03-2023_mercado-de-oro-30-años-de-evolución_cb2142f90a53\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:30.646181-03:00",
+  "status": "downloaded"
+}

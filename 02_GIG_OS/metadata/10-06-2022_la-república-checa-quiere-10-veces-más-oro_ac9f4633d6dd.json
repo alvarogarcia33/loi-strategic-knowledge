@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ac9f4633d6dd",
+  "platform": "gig_os",
+  "title": "La República Checa quiere 10 veces más oro",
+  "date": "10.06.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-republica-checa-quiere-10-veces-mas-oro-587",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-republica-checa-quiere-10-veces-mas-oro-587",
+  "content_hash": "4c5d382700b434aedcd5ce2eb75113027a3186bd3a7570f74fb74ed743cb1e98",
+  "url_hash": "a74c1d12de6923577816cd3b11d7d9d981c445b1525dedaa2f445565e04fbc0c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-06-2022_la-república-checa-quiere-10-veces-más-oro_ac9f4633d6dd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-06-2022_la-república-checa-quiere-10-veces-más-oro_ac9f4633d6dd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2022_la-república-checa-quiere-10-veces-más-oro_ac9f4633d6dd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cc/16/ab/3b/43/cc16ab3b43f39b3b136dac96cdbd46f5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2022_la-república-checa-quiere-10-veces-más-oro_ac9f4633d6dd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1298/goldreportesp_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2022_la-república-checa-quiere-10-veces-más-oro_ac9f4633d6dd\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:24.856191-03:00",
+  "status": "downloaded"
+}

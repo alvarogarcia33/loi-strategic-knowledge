@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_1357ab976d65",
+  "platform": "gig_os",
+  "title": "¡Cuidado! ¡Estafadores!",
+  "date": "15.09.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/cuidado-estafadores-791",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/cuidado-estafadores-791",
+  "content_hash": "4b7a8b5fa683fb1b1d51d3e4078fdac148f3acdb1c393f1b563bd1badebe9587",
+  "url_hash": "1f9b425aa036b2f4c54864b30a293e6e9a1ab6219599bae40c0103c017288846",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-09-2023_cuidado-estafadores_1357ab976d65.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-09-2023_cuidado-estafadores_1357ab976d65.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-09-2023_cuidado-estafadores_1357ab976d65",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/33/7b/ec/78/50/337bec7850c17692c10e22428e0a4e42_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-09-2023_cuidado-estafadores_1357ab976d65\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:05:25.471647-03:00",
+  "status": "downloaded"
+}

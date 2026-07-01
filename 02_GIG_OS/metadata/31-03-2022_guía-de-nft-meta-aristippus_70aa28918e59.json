@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_70aa28918e59",
+  "platform": "gig_os",
+  "title": "Guía de NFT Meta Aristippus",
+  "date": "31.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/guia-de-nft-meta-aristippus-553",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/guia-de-nft-meta-aristippus-553",
+  "content_hash": "05a53a969fa318d0415323cb04d2aa97bd28e75f4d05607ccfa21e14fe4798e5",
+  "url_hash": "fb3f6ae71282f122e9401b6658226fea7d2ffe9883548113c6e8cde038cea990",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\31-03-2022_guía-de-nft-meta-aristippus_70aa28918e59.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\31-03-2022_guía-de-nft-meta-aristippus_70aa28918e59.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-03-2022_guía-de-nft-meta-aristippus_70aa28918e59",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/15/8d/6d/0b/aa/158d6d0baae234b6b9c091915b4133a5_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-03-2022_guía-de-nft-meta-aristippus_70aa28918e59\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1257/novyy-proekt-151_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-03-2022_guía-de-nft-meta-aristippus_70aa28918e59\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:20:12.133362-03:00",
+  "status": "downloaded"
+}

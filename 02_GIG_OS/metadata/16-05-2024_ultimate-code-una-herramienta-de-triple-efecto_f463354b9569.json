@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_f463354b9569",
+  "platform": "gig_os",
+  "title": "Ultimate Code: una herramienta de triple efecto",
+  "date": "16.05.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ultimate-code-una-herramienta-de-triple-efecto-935",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ultimate-code-una-herramienta-de-triple-efecto-935",
+  "content_hash": "7d1e4678db88506cdd1e306e9040794605544567a62eab17e738cb65c52b6b0f",
+  "url_hash": "20a4c2ecc8329383655c1ff978a042a843816b579493586ace931a7e4a558284",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-05-2024_ultimate-code-una-herramienta-de-triple-efecto_f463354b9569.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-05-2024_ultimate-code-una-herramienta-de-triple-efecto_f463354b9569.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2024_ultimate-code-una-herramienta-de-triple-efecto_f463354b9569",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6e/73/c6/a7/58/6e73c6a758c9ef2de5b7e75ea484b972_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2024_ultimate-code-una-herramienta-de-triple-efecto_f463354b9569\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1693/number-158421_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2024_ultimate-code-una-herramienta-de-triple-efecto_f463354b9569\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1693/number-27914_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2024_ultimate-code-una-herramienta-de-triple-efecto_f463354b9569\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1693/number-34463_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2024_ultimate-code-una-herramienta-de-triple-efecto_f463354b9569\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:19.455026-03:00",
+  "status": "downloaded"
+}

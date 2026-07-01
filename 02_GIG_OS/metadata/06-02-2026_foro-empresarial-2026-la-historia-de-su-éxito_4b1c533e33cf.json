@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4b1c533e33cf",
+  "platform": "gig_os",
+  "title": "Foro Empresarial 2026: la historia de su éxito",
+  "date": "06.02.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/foro-empresarial-2026-la-historia-de-su-exito-0163",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/foro-empresarial-2026-la-historia-de-su-exito-0163",
+  "content_hash": "5cbbcc4c9a23ea1a9b0ab088aea13d3af11b78a4a3c706269ed9afe668a0a5cf",
+  "url_hash": "dac608f29a7ed2081dc58db939e687579f2fb5f73feecf38cb2cd2777d65f7b1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-02-2026_foro-empresarial-2026-la-historia-de-su-éxito_4b1c533e33cf.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-02-2026_foro-empresarial-2026-la-historia-de-su-éxito_4b1c533e33cf.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-02-2026_foro-empresarial-2026-la-historia-de-su-éxito_4b1c533e33cf",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f7/20/bc/f9/ae/f720bcf9aec04dedd653def4dac99ecb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-02-2026_foro-empresarial-2026-la-historia-de-su-éxito_4b1c533e33cf\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:53.172523-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a4133e18fbd1",
+  "platform": "gig_os",
+  "title": "Los bancos centrales mundiales siguen aumentando las reservas de oro",
+  "date": "13.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-bancos-centrales-mundiales-siguen-aumentando-las-reservas-de-oro-819",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-bancos-centrales-mundiales-siguen-aumentando-las-reservas-de-oro-819",
+  "content_hash": "aff1a85f29832fe4c458c6ce46abc08e2c47e28ae13fe1ae07fe08daa6e8d278",
+  "url_hash": "ecc0020882ce31dcb82b003da9c9642f6ddc1fd70e4aff359999a7cae8176e86",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-11-2023_los-bancos-centrales-mundiales-siguen-aumentando-las-reservas-de-oro_a4133e18fbd1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-11-2023_los-bancos-centrales-mundiales-siguen-aumentando-las-reservas-de-oro_a4133e18fbd1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-11-2023_los-bancos-centrales-mundiales-siguen-aumentando-las-reservas-de-oro_a4133e18fbd1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/01/ac/19/ba/89/01ac19ba89f0bfbfc631b8d5ab4b12b8_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-11-2023_los-bancos-centrales-mundiales-siguen-aumentando-las-reservas-de-oro_a4133e18fbd1\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-11-2023_los-bancos-centrales-mundiales-siguen-aumentando-las-reservas-de-oro_a4133e18fbd1\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:25.213588-03:00",
+  "status": "downloaded"
+}

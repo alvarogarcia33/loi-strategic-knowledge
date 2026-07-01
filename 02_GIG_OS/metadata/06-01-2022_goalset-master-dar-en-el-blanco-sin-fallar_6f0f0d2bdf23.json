@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_6f0f0d2bdf23",
+  "platform": "gig_os",
+  "title": "GoalSet Master: dar en el blanco sin fallar",
+  "date": "06.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/goalset-master-dar-en-el-blanco-sin-fallar-517",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/goalset-master-dar-en-el-blanco-sin-fallar-517",
+  "content_hash": "50944d2caa549a28852f86d454c39b9d2acf4221ee240d4f280ee406048be039",
+  "url_hash": "7a77b476adae6b16e7876cfe9cdefffa72887852d8f444e8663a98081e1a33a6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-01-2022_goalset-master-dar-en-el-blanco-sin-fallar_6f0f0d2bdf23.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-01-2022_goalset-master-dar-en-el-blanco-sin-fallar_6f0f0d2bdf23.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-01-2022_goalset-master-dar-en-el-blanco-sin-fallar_6f0f0d2bdf23",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1204/120721gold2-8_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-01-2022_goalset-master-dar-en-el-blanco-sin-fallar_6f0f0d2bdf23\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:18:50.087207-03:00",
+  "status": "downloaded"
+}

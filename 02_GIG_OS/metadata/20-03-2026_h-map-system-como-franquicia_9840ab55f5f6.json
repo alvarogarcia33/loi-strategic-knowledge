@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_9840ab55f5f6",
+  "platform": "gig_os",
+  "title": "H-MAP System como franquicia",
+  "date": "20.03.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/h-map-system-como-franquicia-0176",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/h-map-system-como-franquicia-0176",
+  "content_hash": "155c7685bfeaa567132fd4e871758611494a03d50a3d38cdc0467e0c11bb3cc6",
+  "url_hash": "ff31246d29abb40a06cd379965955f0d2a653839f800619fcec1ef9118434c46",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-03-2026_h-map-system-como-franquicia_9840ab55f5f6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-03-2026_h-map-system-como-franquicia_9840ab55f5f6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2026_h-map-system-como-franquicia_9840ab55f5f6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1d/6a/45/c8/62/1d6a45c862f94a5cc1e63cc70651d614_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2026_h-map-system-como-franquicia_9840ab55f5f6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:20:22.451693-03:00",
+  "status": "downloaded"
+}

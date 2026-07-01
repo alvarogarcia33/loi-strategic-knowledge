@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_3fde8dd052c2",
+  "platform": "gig_os",
+  "title": "¡El primer evento de 2022 ha tenido lugar!",
+  "date": "28.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-primer-evento-de-2022-ha-tenido-lugar-525",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-primer-evento-de-2022-ha-tenido-lugar-525",
+  "content_hash": "e6e3003592ed6926bcbb642f5a0a7f0b9cc49b3068ac3777b28b21f364cc8a5f",
+  "url_hash": "ad2bddd0ff376461f50a448ad4b42d5ef42fdea3b5287898a4164046e4025d34",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-01-2022_el-primer-evento-de-2022-ha-tenido-lugar_3fde8dd052c2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-01-2022_el-primer-evento-de-2022-ha-tenido-lugar_3fde8dd052c2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-01-2022_el-primer-evento-de-2022-ha-tenido-lugar_3fde8dd052c2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a3/c5/30/98/98/a3c53098987bdd1d9d110c89c1ac0a1d_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-01-2022_el-primer-evento-de-2022-ha-tenido-lugar_3fde8dd052c2\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:11:40.099916-03:00",
+  "status": "downloaded"
+}

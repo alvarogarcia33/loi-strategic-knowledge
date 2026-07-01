@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_4ba51ec608b5",
+  "platform": "gig_os",
+  "title": "¿No están seguros de cómo conseguir GOS Coin?",
+  "date": "29.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/no-estan-seguros-de-como-conseguir-gos-coin-486",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/no-estan-seguros-de-como-conseguir-gos-coin-486",
+  "content_hash": "6d2956d688053221b5076aa242a12d1bcead19e1a6a6e23a3781443b5a2a764e",
+  "url_hash": "a07475fc3d8a4937a44ebf613f46b21b96188dfa6a451b7536d585c656a0abc2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-10-2021_no-están-seguros-de-cómo-conseguir-gos-coin_4ba51ec608b5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-10-2021_no-están-seguros-de-cómo-conseguir-gos-coin_4ba51ec608b5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-10-2021_no-están-seguros-de-cómo-conseguir-gos-coin_4ba51ec608b5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c7/31/a7/0e/70/c731a70e70e41d748501d0d665821a36_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-10-2021_no-están-seguros-de-cómo-conseguir-gos-coin_4ba51ec608b5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1185/no-estan-seguros-de-como-conseguir-gos-coin_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-10-2021_no-están-seguros-de-cómo-conseguir-gos-coin_4ba51ec608b5\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:43.598041-03:00",
+  "status": "downloaded"
+}

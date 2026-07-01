@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_87e64c3ee123",
+  "platform": "gig_os",
+  "title": "¡Obtengan +20 GOS Coin!",
+  "date": "26.03.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/obtengan-20-gos-coin-1062",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/obtengan-20-gos-coin-1062",
+  "content_hash": "b8f7c43b4e774ab1020de3543d0885ffb6024a5db7329182d5821b80f9fd8785",
+  "url_hash": "eb1725480052e2f7f3366848c763c5903de68a87acda7e85aa40d806dde6c2ea",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-03-2025_obtengan-20-gos-coin_87e64c3ee123.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-03-2025_obtengan-20-gos-coin_87e64c3ee123.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2025_obtengan-20-gos-coin_87e64c3ee123",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/41/c0/92/e7/9e/41c092e79e8502d1b46ee4f3baecf7e3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2025_obtengan-20-gos-coin_87e64c3ee123\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:06.864834-03:00",
+  "status": "downloaded"
+}

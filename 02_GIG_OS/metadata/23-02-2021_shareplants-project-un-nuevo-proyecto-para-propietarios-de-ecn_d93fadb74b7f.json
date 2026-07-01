@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d93fadb74b7f",
+  "platform": "gig_os",
+  "title": "SharePlants Project: un nuevo proyecto para propietarios de ECN",
+  "date": "23.02.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/shareplants-project-un-nuevo-proyecto-para-propietarios-de-ecn-371",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/shareplants-project-un-nuevo-proyecto-para-propietarios-de-ecn-371",
+  "content_hash": "c2b18e23786b2bef1fcb8517b8de2a1c6051d4b6ce6a52590d9ad70b3b2f48d7",
+  "url_hash": "586ed9f6b201dab9397684501d491914f40682d196409bc5d42800dd5602cb40",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-02-2021_shareplants-project-un-nuevo-proyecto-para-propietarios-de-ecn_d93fadb74b7f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-02-2021_shareplants-project-un-nuevo-proyecto-para-propietarios-de-ecn_d93fadb74b7f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-02-2021_shareplants-project-un-nuevo-proyecto-para-propietarios-de-ecn_d93fadb74b7f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/16/4e/eb/89/a0/164eeb89a0be5237b4461143f0c9f712_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-02-2021_shareplants-project-un-nuevo-proyecto-para-propietarios-de-ecn_d93fadb74b7f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:56:48.018108-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7fd25cbbff90",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 16 de abril de 2018",
+  "date": "16.04.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-16-de-abril-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-16-de-abril-de-2018",
+  "content_hash": "ff4dc4e5ff48fb4f252b2860fce2f4012b5e65392e437fa8af8c6fbdd7d8fbda",
+  "url_hash": "616f228d103cd756c12eb91192e6f5bb7b94dd4f04b920ff002c04a1efb1ad57",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-04-2018_informe-de-la-cotización-del-oro-al-16-de-abril-de-2018_7fd25cbbff90.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-04-2018_informe-de-la-cotización-del-oro-al-16-de-abril-de-2018_7fd25cbbff90.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-04-2018_informe-de-la-cotización-del-oro-al-16-de-abril-de-2018_7fd25cbbff90",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/18/4c/23/bf/b4/184c23bfb4d64840c7d27bff9f5522f7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-04-2018_informe-de-la-cotización-del-oro-al-16-de-abril-de-2018_7fd25cbbff90\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/472/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:25:38.388952-03:00",
+  "status": "downloaded"
+}

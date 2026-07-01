@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_43c47d2f4c1a",
+  "platform": "gig_os",
+  "title": "Julio dorado: los bancos centrales aumentan sus reservas",
+  "date": "04.09.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/julio-dorado-los-bancos-centrales-aumentan-sus-reservas-783",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/julio-dorado-los-bancos-centrales-aumentan-sus-reservas-783",
+  "content_hash": "92527b4b029e75649f643a181d9ec8e459323f2fecfef694679909a1ae86da20",
+  "url_hash": "19499812e784973f7f425ead147731a70dd9dd29e638df99722650892cf059f6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-09-2023_julio-dorado-los-bancos-centrales-aumentan-sus-reservas_43c47d2f4c1a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-09-2023_julio-dorado-los-bancos-centrales-aumentan-sus-reservas_43c47d2f4c1a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-09-2023_julio-dorado-los-bancos-centrales-aumentan-sus-reservas_43c47d2f4c1a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/fe/72/d2/04/bb/fe72d204bb6902bbf79dc4ca4a9bb89f_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-09-2023_julio-dorado-los-bancos-centrales-aumentan-sus-reservas_43c47d2f4c1a\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-09-2023_julio-dorado-los-bancos-centrales-aumentan-sus-reservas_43c47d2f4c1a\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:29:56.467839-03:00",
+  "status": "downloaded"
+}

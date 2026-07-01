@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_ab7fa29e2fc5",
+  "platform": "gig_os",
+  "title": "La victoria del equipo en Barcelona",
+  "date": "03.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-victoria-del-equipo-en-barcelona-501",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-victoria-del-equipo-en-barcelona-501",
+  "content_hash": "6639f99c0a07c8fb608a6b9257f224d111b24a378fdc551ecd887927d53e2683",
+  "url_hash": "f761db86e6b803b799fbf8524a8f579037e5591872a51d58a5c8d39118b9f89b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-12-2021_la-victoria-del-equipo-en-barcelona_ab7fa29e2fc5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-12-2021_la-victoria-del-equipo-en-barcelona_ab7fa29e2fc5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-12-2021_la-victoria-del-equipo-en-barcelona_ab7fa29e2fc5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1199/3-12-2021-2n_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-12-2021_la-victoria-del-equipo-en-barcelona_ab7fa29e2fc5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:39.448895-03:00",
+  "status": "downloaded"
+}

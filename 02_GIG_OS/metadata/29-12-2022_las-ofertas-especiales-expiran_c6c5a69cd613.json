@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c6c5a69cd613",
+  "platform": "gig_os",
+  "title": "Las ofertas especiales expiran",
+  "date": "29.12.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/las-ofertas-especiales-expiran-672",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/las-ofertas-especiales-expiran-672",
+  "content_hash": "10d9e3373721a80c9f4e284fc14cfe026549a20dde235b63278a6d1799e9e615",
+  "url_hash": "e745099ebd59d6eda9414ff62e5eb627ea92202493989d348dbedd613f26f9f4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-12-2022_las-ofertas-especiales-expiran_c6c5a69cd613.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-12-2022_las-ofertas-especiales-expiran_c6c5a69cd613.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-12-2022_las-ofertas-especiales-expiran_c6c5a69cd613",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/17/84/43/d5/f7/178443d5f7ce358f0628db57e081dae8_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-12-2022_las-ofertas-especiales-expiran_c6c5a69cd613\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:36:18.665298-03:00",
+  "status": "downloaded"
+}

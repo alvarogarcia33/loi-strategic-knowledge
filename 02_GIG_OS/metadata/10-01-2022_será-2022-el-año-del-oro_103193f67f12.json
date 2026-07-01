@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_103193f67f12",
+  "platform": "gig_os",
+  "title": "¿Será 2022 el año del oro?",
+  "date": "10.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/sera-2022-el-ano-del-oro-518",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/sera-2022-el-ano-del-oro-518",
+  "content_hash": "659180019e7a028ca6e7eadb5e1c751e3a35967a9cd06c9b369968fe5cd7fa24",
+  "url_hash": "52084d78236718de851ade01c9c734fac9a957d7e0c809a893ef031c1e7110e6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-01-2022_será-2022-el-año-del-oro_103193f67f12.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-01-2022_será-2022-el-año-del-oro_103193f67f12.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-01-2022_será-2022-el-año-del-oro_103193f67f12",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/df/18/86/ec/43/df1886ec43dd59b92490633899c04f44_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-01-2022_será-2022-el-año-del-oro_103193f67f12\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1215/220110gold2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-01-2022_será-2022-el-año-del-oro_103193f67f12\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:56:41.065834-03:00",
+  "status": "downloaded"
+}

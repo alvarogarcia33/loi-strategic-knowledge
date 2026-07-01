@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_60ca8dcbd3e1",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 27 de diciembre",
+  "date": "27.12.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-27-de-diciembre",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-27-de-diciembre",
+  "content_hash": "14af2a72475de6a507d2b173e5f34e58be64392ee8cbba022a8173121ea2f8d6",
+  "url_hash": "b8f1db2f0ea06c9e8ec3138cfd0fbaf9ac9cd011979b4d74f5a366b69131cc57",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-12-2017_informe-de-la-cotización-del-oro-al-27-de-diciembre_60ca8dcbd3e1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-12-2017_informe-de-la-cotización-del-oro-al-27-de-diciembre_60ca8dcbd3e1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-12-2017_informe-de-la-cotización-del-oro-al-27-de-diciembre_60ca8dcbd3e1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/42/d8/f8/3d/c7/42d8f83dc7c9b571cbef756267e2d38c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-12-2017_informe-de-la-cotización-del-oro-al-27-de-diciembre_60ca8dcbd3e1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/435/global-intergold-otchet-o-zolote_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:27:27.324981-03:00",
+  "status": "downloaded"
+}

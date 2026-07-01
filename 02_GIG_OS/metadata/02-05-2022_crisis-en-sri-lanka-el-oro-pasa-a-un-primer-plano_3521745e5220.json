@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_3521745e5220",
+  "platform": "gig_os",
+  "title": "Crisis en Sri Lanka: el oro pasa a un primer plano",
+  "date": "02.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/crisis-en-sri-lanka-el-oro-pasa-a-un-primer-plano-569",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/crisis-en-sri-lanka-el-oro-pasa-a-un-primer-plano-569",
+  "content_hash": "1ea5be8cccb4c03f1e31c7d7782cf0d93bf5e50c15500ef42c37fbe0280369a9",
+  "url_hash": "5f7e3784e7e8460cbfafecb38e889cdc3e2db1252fe195968c946c8cf247fa69",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-05-2022_crisis-en-sri-lanka-el-oro-pasa-a-un-primer-plano_3521745e5220.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-05-2022_crisis-en-sri-lanka-el-oro-pasa-a-un-primer-plano_3521745e5220.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-05-2022_crisis-en-sri-lanka-el-oro-pasa-a-un-primer-plano_3521745e5220",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b2/57/50/08/ed/b2575008edb91b66247008296497345e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-05-2022_crisis-en-sri-lanka-el-oro-pasa-a-un-primer-plano_3521745e5220\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1270/dizayn-bez-nazvaniya17_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-05-2022_crisis-en-sri-lanka-el-oro-pasa-a-un-primer-plano_3521745e5220\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1270/dizayn-bez-nazvaniya19_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-05-2022_crisis-en-sri-lanka-el-oro-pasa-a-un-primer-plano_3521745e5220\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:59.117190-03:00",
+  "status": "downloaded"
+}

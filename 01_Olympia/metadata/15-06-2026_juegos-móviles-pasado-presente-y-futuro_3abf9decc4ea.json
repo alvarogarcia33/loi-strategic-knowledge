@@ -1,0 +1,67 @@
+{
+  "article_uid": "olympia_3abf9decc4ea",
+  "platform": "olympia",
+  "title": "Juegos móviles: pasado, presente y futuro",
+  "date": "15.06.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/juegos-moviles-pasado-presente-y-futuro-0204",
+  "canonical_url": "https://olympia-lab.com/es/news/post/juegos-moviles-pasado-presente-y-futuro-0204",
+  "content_hash": "1e9440ea0709ad76b6c0e01300538e75214a6a7b18efbffb45e6208de3a3635f",
+  "url_hash": "552dbc756d3a12b21d188ab7fc5b3bfc432e66c967adf574fb122d97ff19bdb0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\15-06-2026_juegos-móviles-pasado-presente-y-futuro_3abf9decc4ea.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\15-06-2026_juegos-móviles-pasado-presente-y-futuro_3abf9decc4ea.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-06-2026_juegos-móviles-pasado-presente-y-futuro_3abf9decc4ea",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/22/11/d5/d4/58/2211d5d458f4538fdb42487e3c600c30.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-06-2026_juegos-móviles-pasado-presente-y-futuro_3abf9decc4ea\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/fe/35/df/bc/58fe35dfbcd379455a92540568923011_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-06-2026_juegos-móviles-pasado-presente-y-futuro_3abf9decc4ea\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/64/2c/05/28/7e/642c05287ef94a8b72f6944fb8c845e7_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-06-2026_juegos-móviles-pasado-presente-y-futuro_3abf9decc4ea\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ec/46/ee/96/31/ec46ee9631734e5f6d692fd716b44b29_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-06-2026_juegos-móviles-pasado-presente-y-futuro_3abf9decc4ea\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/ec/91/27/16/0bec9127168ecac283ce1dd649df5fe9_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-06-2026_juegos-móviles-pasado-presente-y-futuro_3abf9decc4ea\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/63/bd/da/21/90/63bdda21904e0930996a96bf1dfc45b6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-06-2026_juegos-móviles-pasado-presente-y-futuro_3abf9decc4ea\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-21T17:33:00.513582-03:00",
+  "status": "downloaded",
+  "legacy_origin_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_Olympia\\metadata\\15-06-2026_juegos-móviles-pasado-presente-y-futuro_3abf9decc4ea.json",
+  "normalized_at": "2026-06-29T15:59:23.617690-03:00"
+}

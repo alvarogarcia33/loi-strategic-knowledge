@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_b73dde13b5c0",
+  "platform": "gig_os",
+  "title": "3 proyectos del Global Metaverse a gran escala: ¡es hora de actuar!",
+  "date": "01.02.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/3-proyectos-del-global-metaverse-a-gran-escala-es-hora-de-actuar-871",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/3-proyectos-del-global-metaverse-a-gran-escala-es-hora-de-actuar-871",
+  "content_hash": "8a00029bb6560b5ccaf3b5c73bfa95401c64d88391e98c7243727c8f8bbc23e4",
+  "url_hash": "9ee4fa20ea3bb3656ad46209362e013fef48bd80634e4606c7609ae73a1397f0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-02-2024_3-proyectos-del-global-metaverse-a-gran-escala-es-hora-de-actuar_b73dde13b5c0.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-02-2024_3-proyectos-del-global-metaverse-a-gran-escala-es-hora-de-actuar_b73dde13b5c0.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2024_3-proyectos-del-global-metaverse-a-gran-escala-es-hora-de-actuar_b73dde13b5c0",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6e/fa/c3/3d/cc/6efac33dcc05bf8b336316e2fbcedbe9_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2024_3-proyectos-del-global-metaverse-a-gran-escala-es-hora-de-actuar_b73dde13b5c0\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1615/ciy83893_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2024_3-proyectos-del-global-metaverse-a-gran-escala-es-hora-de-actuar_b73dde13b5c0\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1615/nitro-utt_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2024_3-proyectos-del-global-metaverse-a-gran-escala-es-hora-de-actuar_b73dde13b5c0\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1615/me-code-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-02-2024_3-proyectos-del-global-metaverse-a-gran-escala-es-hora-de-actuar_b73dde13b5c0\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:55:42.910248-03:00",
+  "status": "downloaded"
+}

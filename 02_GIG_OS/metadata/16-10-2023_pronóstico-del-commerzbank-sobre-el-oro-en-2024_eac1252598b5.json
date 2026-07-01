@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_eac1252598b5",
+  "platform": "gig_os",
+  "title": "Pronóstico del Commerzbank sobre el oro en 2024",
+  "date": "16.10.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/pronostico-del-commerzbank-sobre-el-oro-en-2024-804",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/pronostico-del-commerzbank-sobre-el-oro-en-2024-804",
+  "content_hash": "3a579f18658a19c27344fe2f3a79264abfedab4cc15b5f130729ab4536d2a7ac",
+  "url_hash": "37aaa951fbaa6ded02c9b32c26d28841e1433b9da0da2082182d5ff5a953e911",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-10-2023_pronóstico-del-commerzbank-sobre-el-oro-en-2024_eac1252598b5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-10-2023_pronóstico-del-commerzbank-sobre-el-oro-en-2024_eac1252598b5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-10-2023_pronóstico-del-commerzbank-sobre-el-oro-en-2024_eac1252598b5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/66/09/c3/87/4b/6609c3874bf5fee437d761df4cb53f36_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-10-2023_pronóstico-del-commerzbank-sobre-el-oro-en-2024_eac1252598b5\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1544/gold-growth-commerzbank63696_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-10-2023_pronóstico-del-commerzbank-sobre-el-oro-en-2024_eac1252598b5\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-10-2023_pronóstico-del-commerzbank-sobre-el-oro-en-2024_eac1252598b5\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:21.491194-03:00",
+  "status": "downloaded"
+}

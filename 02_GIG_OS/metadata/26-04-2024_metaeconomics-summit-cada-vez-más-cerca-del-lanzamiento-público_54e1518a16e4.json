@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_54e1518a16e4",
+  "platform": "gig_os",
+  "title": "MetaEconomics Summit: cada vez más cerca del lanzamiento público",
+  "date": "26.04.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/metaeconomics-summit-cada-vez-mas-cerca-del-lanzamiento-publico-925",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/metaeconomics-summit-cada-vez-mas-cerca-del-lanzamiento-publico-925",
+  "content_hash": "b073fa9b69611cf3788193e7716dc739169f0bc1055c484fd12275e5f9e50e94",
+  "url_hash": "fed151fa80c4598bc64ba9c699ffade1932d2dc45063d50952c8033c74ef6595",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-04-2024_metaeconomics-summit-cada-vez-más-cerca-del-lanzamiento-público_54e1518a16e4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-04-2024_metaeconomics-summit-cada-vez-más-cerca-del-lanzamiento-público_54e1518a16e4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_metaeconomics-summit-cada-vez-más-cerca-del-lanzamiento-público_54e1518a16e4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/60/09/11/35/07/60091135070d4431f64c61232fd82823_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_metaeconomics-summit-cada-vez-más-cerca-del-lanzamiento-público_54e1518a16e4\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1682/logo-ciy2-bracelet44135_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_metaeconomics-summit-cada-vez-más-cerca-del-lanzamiento-público_54e1518a16e4\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1682/logo-hold-amp-279884_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_metaeconomics-summit-cada-vez-más-cerca-del-lanzamiento-público_54e1518a16e4\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1682/logo-miners-coin92248_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2024_metaeconomics-summit-cada-vez-más-cerca-del-lanzamiento-público_54e1518a16e4\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:41.331287-03:00",
+  "status": "downloaded"
+}

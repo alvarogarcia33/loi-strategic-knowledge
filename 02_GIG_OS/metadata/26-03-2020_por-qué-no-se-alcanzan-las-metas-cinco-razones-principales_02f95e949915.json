@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_02f95e949915",
+  "platform": "gig_os",
+  "title": "¿Por qué no se alcanzan las metas: cinco razones principales?",
+  "date": "26.03.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-no-se-alcanzan-las-metas-cinco-razones-principales-235",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-no-se-alcanzan-las-metas-cinco-razones-principales-235",
+  "content_hash": "d657632d88ee9c8fdd0e940aee40350a7eda81d38c8485cee16c9b18d114426f",
+  "url_hash": "e1575a8ea23ecb65a33560e5c0c353eda40d375bf330c24b1ad0fcf98fd0c424",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-03-2020_por-qué-no-se-alcanzan-las-metas-cinco-razones-principales_02f95e949915.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-03-2020_por-qué-no-se-alcanzan-las-metas-cinco-razones-principales_02f95e949915.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2020_por-qué-no-se-alcanzan-las-metas-cinco-razones-principales_02f95e949915",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6f/8d/77/c5/46/6f8d77c546cc9873c39b7dba78e16ab2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2020_por-qué-no-se-alcanzan-las-metas-cinco-razones-principales_02f95e949915\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/850/294176_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2020_por-qué-no-se-alcanzan-las-metas-cinco-razones-principales_02f95e949915\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:32.891786-03:00",
+  "status": "downloaded"
+}

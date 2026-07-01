@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_80f6a8764967",
+  "platform": "gig_os",
+  "title": "¿Cómo obtener REEX Coin?",
+  "date": "08.10.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-obtener-reex-coin-996",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-obtener-reex-coin-996",
+  "content_hash": "815c60f346e6996c5fa6caf83a874b0a0e7add6e59fcdde5c50c4330b055f4ac",
+  "url_hash": "53af50eb5044795e833fccc583b0b261bc7902027642912ba1adafda03ca5ed0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-10-2024_cómo-obtener-reex-coin_80f6a8764967.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-10-2024_cómo-obtener-reex-coin_80f6a8764967.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2024_cómo-obtener-reex-coin_80f6a8764967",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d1/70/62/38/a8/d1706238a8ca677f9e15eaf4ff4e21f1_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2024_cómo-obtener-reex-coin_80f6a8764967\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1765/131144_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2024_cómo-obtener-reex-coin_80f6a8764967\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1765/12_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2024_cómo-obtener-reex-coin_80f6a8764967\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1765/228796_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2024_cómo-obtener-reex-coin_80f6a8764967\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1765/310434_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2024_cómo-obtener-reex-coin_80f6a8764967\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1765/4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2024_cómo-obtener-reex-coin_80f6a8764967\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:03:54.031267-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a52bb133170a",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 4 de junio de 2018",
+  "date": "04.06.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-4-de-junio-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-4-de-junio-de-2018",
+  "content_hash": "4122b6d5f46f06ef9d0b75b2f120485366555ccf55a63ba3550aa17421d28e43",
+  "url_hash": "4a8035a15dc1eeb5561a6dd0c1149f4072c35b1bbedc2f48c8a17a3e152d132a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-06-2018_informe-de-la-cotización-del-oro-al-4-de-junio-de-2018_a52bb133170a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-06-2018_informe-de-la-cotización-del-oro-al-4-de-junio-de-2018_a52bb133170a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-06-2018_informe-de-la-cotización-del-oro-al-4-de-junio-de-2018_a52bb133170a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/89/da/22/62/58/89da2262580d06dcce3e5b363672a486_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/495/global-intergold-weekly-oro-report-prices_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:00.155420-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,67 @@
+{
+  "article_uid": "olympia_5585fb0023db",
+  "platform": "olympia",
+  "title": "Se ha realizado un Airdrop de 7PT COUPON",
+  "date": "08.06.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/se-ha-realizado-un-airdrop-de-7pt-coupon-0210",
+  "canonical_url": "https://olympia-lab.com/es/news/post/se-ha-realizado-un-airdrop-de-7pt-coupon-0210",
+  "content_hash": "ba702754e5afede96b59c4ab8edb1ea6aec7657497cf96d15866c4e0c1914c2e",
+  "url_hash": "c2cbcbc4001ccf741d4b3a691ddd174a5797e09e9c1a951607057a0efc996b63",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/14/d5/da/67/3a/14d5da673a6acbffabbc90d4ef1d4952.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/97/5a/78/61/d3/975a7861d31f7f583ca3b310b7f4b418_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/73/74/95/44/0b737495445a2909e41b948bd7e3ad8e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/95/c9/97/e5/a7/95c997e5a7a7923e524730988afd52ed_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/6c/c9/46/e1/da6cc946e1ef65d70b3d486c76929e0e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/56/ab/2c/d2/ab/56ab2cd2ab949bac195a051d607a7883_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-23T14:56:41.459633-03:00",
+  "status": "downloaded",
+  "legacy_origin_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_Olympia\\metadata\\08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.json",
+  "normalized_at": "2026-06-29T15:59:23.584950-03:00"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_e6ff9f1d762e",
+  "platform": "gig_os",
+  "title": "¡Se ha realizado un Airdrop para los propietarios de los NFT de estatus Bogotá!",
+  "date": "09.07.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-ha-realizado-un-airdrop-para-los-propietarios-de-los-nft-de-estatus-bogota-1107",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-ha-realizado-un-airdrop-para-los-propietarios-de-los-nft-de-estatus-bogota-1107",
+  "content_hash": "65d34497bfb28217a3cafc95306583cb428a7de7684a5de72779cc469b764ca2",
+  "url_hash": "ce5b210ce66228de4b7ff1a209ee536b25f5f3aef60d04b2f53999278f8856f5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-07-2025_se-ha-realizado-un-airdrop-para-los-propietarios-de-los-nft-de-estatus-bogotá_e6ff9f1d762e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-07-2025_se-ha-realizado-un-airdrop-para-los-propietarios-de-los-nft-de-estatus-bogotá_e6ff9f1d762e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-07-2025_se-ha-realizado-un-airdrop-para-los-propietarios-de-los-nft-de-estatus-bogotá_e6ff9f1d762e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8c/9f/ec/63/c5/8c9fec63c558ee19e5e50b1ce00eec4d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-07-2025_se-ha-realizado-un-airdrop-para-los-propietarios-de-los-nft-de-estatus-bogotá_e6ff9f1d762e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1887/firework_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-07-2025_se-ha-realizado-un-airdrop-para-los-propietarios-de-los-nft-de-estatus-bogotá_e6ff9f1d762e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1887/result-gig86276_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-07-2025_se-ha-realizado-un-airdrop-para-los-propietarios-de-los-nft-de-estatus-bogotá_e6ff9f1d762e\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:37.187178-03:00",
+  "status": "downloaded"
+}

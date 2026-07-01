@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_e9a652fddf60",
+  "platform": "gig_os",
+  "title": "El Poder de un objetivo establecido correctamente",
+  "date": "28.05.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-poder-de-un-objetivo-establecido-correctamente-263",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-poder-de-un-objetivo-establecido-correctamente-263",
+  "content_hash": "f45dc252b3675d8fd16538159dea1788f80806154351c53ee295896ff1cf1b8c",
+  "url_hash": "0e21eaf821b6b73ced06af296168f8191f87862d05fa4449284eaa0e123a70aa",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-05-2020_el-poder-de-un-objetivo-establecido-correctamente_e9a652fddf60.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-05-2020_el-poder-de-un-objetivo-establecido-correctamente_e9a652fddf60.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-05-2020_el-poder-de-un-objetivo-establecido-correctamente_e9a652fddf60",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8b/e0/9b/52/2e/8be09b522eed770544aa0dc7a5dd8afa_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-05-2020_el-poder-de-un-objetivo-establecido-correctamente_e9a652fddf60\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/882/christophercolumbus3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-05-2020_el-poder-de-un-objetivo-establecido-correctamente_e9a652fddf60\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/882/image_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-05-2020_el-poder-de-un-objetivo-establecido-correctamente_e9a652fddf60\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:11:01.251754-03:00",
+  "status": "downloaded"
+}

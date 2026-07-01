@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_77c0ca0ce378",
+  "platform": "gig_os",
+  "title": "¡La última oportunidad de hacerse Embajador!",
+  "date": "16.09.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-ultima-oportunidad-de-hacerse-embajador-623",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-ultima-oportunidad-de-hacerse-embajador-623",
+  "content_hash": "7198da9ceb4ed64b7426975022a2f08fd6ad6a39cbbabefa9a5ecd302a4e00a5",
+  "url_hash": "e5a7738fd5dee3fbe4f96077963559b40bc9313e714b9c7c0384c219ae81ed5b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-09-2022_la-última-oportunidad-de-hacerse-embajador_77c0ca0ce378.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-09-2022_la-última-oportunidad-de-hacerse-embajador_77c0ca0ce378.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2022_la-última-oportunidad-de-hacerse-embajador_77c0ca0ce378",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f1/62/63/72/27/f162637227bc6c605d6389e70f4935ba_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2022_la-última-oportunidad-de-hacerse-embajador_77c0ca0ce378\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1339/1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2022_la-última-oportunidad-de-hacerse-embajador_77c0ca0ce378\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:30.839726-03:00",
+  "status": "downloaded"
+}

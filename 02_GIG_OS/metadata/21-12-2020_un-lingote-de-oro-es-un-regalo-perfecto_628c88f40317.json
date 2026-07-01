@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_628c88f40317",
+  "platform": "gig_os",
+  "title": "¡Un lingote de oro es un regalo perfecto!",
+  "date": "21.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/un-lingote-de-oro-es-un-regalo-perfecto-344",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/un-lingote-de-oro-es-un-regalo-perfecto-344",
+  "content_hash": "0c77cdfab91761ca923ddaec274ea84557b4c1fe8b1c5b4ba0bc2e2da4fb239d",
+  "url_hash": "4f5e7b0060bbcd552877b1de080c49c899d8765442266bd745d036ccb66de0cd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-12-2020_un-lingote-de-oro-es-un-regalo-perfecto_628c88f40317.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-12-2020_un-lingote-de-oro-es-un-regalo-perfecto_628c88f40317.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-12-2020_un-lingote-de-oro-es-un-regalo-perfecto_628c88f40317",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e9/ec/30/35/ef/e9ec3035ef45dfb9477ee068d9054927_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-12-2020_un-lingote-de-oro-es-un-regalo-perfecto_628c88f40317\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1006/22-12-2020-25648-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-12-2020_un-lingote-de-oro-es-un-regalo-perfecto_628c88f40317\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:46.573957-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_fe4078e681b2",
+  "platform": "gig_os",
+  "title": "Resultados de la reunión en línea",
+  "date": "16.01.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-reunion-en-linea-1154",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-reunion-en-linea-1154",
+  "content_hash": "3f46bfb0ff08d2ea72499972edeb708a82e757bf8b58a2e1aafe3d4ec43ea7d3",
+  "url_hash": "67cf07977f8c9bc52f3ba638e90200c4bbf730baa3af75c22e979c6aeea19ecc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-01-2026_resultados-de-la-reunión-en-línea_fe4078e681b2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-01-2026_resultados-de-la-reunión-en-línea_fe4078e681b2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-01-2026_resultados-de-la-reunión-en-línea_fe4078e681b2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/59/a8/b4/66/39/59a8b46639c75fd4c7288e7076079014_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-01-2026_resultados-de-la-reunión-en-línea_fe4078e681b2\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:40.533820-03:00",
+  "status": "downloaded"
+}

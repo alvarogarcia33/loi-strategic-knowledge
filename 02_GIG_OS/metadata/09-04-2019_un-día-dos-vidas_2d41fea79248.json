@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_2d41fea79248",
+  "platform": "gig_os",
+  "title": "Un día — dos vidas...",
+  "date": "09.04.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/un-dia-dos-vidas",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/un-dia-dos-vidas",
+  "content_hash": "36c182ac20dc07dad0e31a72643d8b85067a6def9e09bd6d25ddbd4ebe4c052c",
+  "url_hash": "ee403ee7f393282932ea7ecdd0dc3a5e8b86b42d49a9b1c9c04273a9c9272c71",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-04-2019_un-día-dos-vidas_2d41fea79248.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-04-2019_un-día-dos-vidas_2d41fea79248.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2019_un-día-dos-vidas_2d41fea79248",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/11/5b/07/5c/24/115b075c240760f5a47ca5730734f3d1_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2019_un-día-dos-vidas_2d41fea79248\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/687/gig1_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/687/gig2_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/687/gig5_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/687/gig3_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/687/gig4_1.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:42.980445-03:00",
+  "status": "downloaded"
+}

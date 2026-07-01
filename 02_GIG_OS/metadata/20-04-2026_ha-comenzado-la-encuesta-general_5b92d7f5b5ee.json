@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_5b92d7f5b5ee",
+  "platform": "gig_os",
+  "title": "¡Ha comenzado la encuesta general!",
+  "date": "20.04.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-la-encuesta-general",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-la-encuesta-general",
+  "content_hash": "19e24dc9208c5850d662f82443c8c358c7d13e4ccc8cdbce4960e61002c01f90",
+  "url_hash": "1fe3def69c9d3dce10edd18646917c3345881725a1768a73acc54bff7fc1dd54",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-04-2026_ha-comenzado-la-encuesta-general_5b92d7f5b5ee.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-04-2026_ha-comenzado-la-encuesta-general_5b92d7f5b5ee.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-04-2026_ha-comenzado-la-encuesta-general_5b92d7f5b5ee",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/79/a7/e8/04/c6/79a7e804c613e6b2356b54e7413e90bb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-04-2026_ha-comenzado-la-encuesta-general_5b92d7f5b5ee\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:22:22.324961-03:00",
+  "status": "downloaded"
+}

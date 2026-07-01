@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_beebcf00e26b",
+  "platform": "gig_os",
+  "title": "Tres centros claves de Global Metaverse",
+  "date": "20.03.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/tres-centros-claves-de-global-metaverse-0175",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/tres-centros-claves-de-global-metaverse-0175",
+  "content_hash": "8ed22a085a302d9eb6815f6ee0058468ff3ab25a08cad8c4070d705ee2f2f949",
+  "url_hash": "b7c51c86ad0b6a395e7b4a88ba33fd8b2f67dfa3222996429b3274f14fbf2902",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-03-2026_tres-centros-claves-de-global-metaverse_beebcf00e26b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-03-2026_tres-centros-claves-de-global-metaverse_beebcf00e26b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2026_tres-centros-claves-de-global-metaverse_beebcf00e26b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/69/01/31/f8/44/690131f8446689fc8e688c2bdf6942e4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-03-2026_tres-centros-claves-de-global-metaverse_beebcf00e26b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:43.941605-03:00",
+  "status": "downloaded"
+}

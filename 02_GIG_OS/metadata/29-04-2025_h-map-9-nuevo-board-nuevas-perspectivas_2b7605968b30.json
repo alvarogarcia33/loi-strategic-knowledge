@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_2b7605968b30",
+  "platform": "gig_os",
+  "title": "H-MAP.9: nuevo board, nuevas perspectivas",
+  "date": "29.04.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/h-map9-nuevo-board-nuevas-perspectivas-1070",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/h-map9-nuevo-board-nuevas-perspectivas-1070",
+  "content_hash": "f51fd7544a400b926bb5f4bb73a54ad9c566290b8270bf06e6ee708a4a362213",
+  "url_hash": "f7e1452e76c8fc10d4fcc8fa62ccdb7a123345c708193fabbb9417409a313a68",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-04-2025_h-map-9-nuevo-board-nuevas-perspectivas_2b7605968b30.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-04-2025_h-map-9-nuevo-board-nuevas-perspectivas_2b7605968b30.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-04-2025_h-map-9-nuevo-board-nuevas-perspectivas_2b7605968b30",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d2/db/dd/28/34/d2dbdd2834f01c1a26eceeda14a51f03_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-04-2025_h-map-9-nuevo-board-nuevas-perspectivas_2b7605968b30\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1844/7b3026df53659b8505e4d3806fbf1ed4_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-04-2025_h-map-9-nuevo-board-nuevas-perspectivas_2b7605968b30\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1844/03f8302a273998d524c96010693dc3a6_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-04-2025_h-map-9-nuevo-board-nuevas-perspectivas_2b7605968b30\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:21:34.554710-03:00",
+  "status": "downloaded"
+}

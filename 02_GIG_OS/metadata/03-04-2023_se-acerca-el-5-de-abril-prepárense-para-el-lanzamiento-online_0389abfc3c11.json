@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_0389abfc3c11",
+  "platform": "gig_os",
+  "title": "Se acerca el 5 de abril: ¡prepárense para el lanzamiento online!",
+  "date": "03.04.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-acerca-el-5-de-abril-preparense-para-el-lanzamiento-online-713",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-acerca-el-5-de-abril-preparense-para-el-lanzamiento-online-713",
+  "content_hash": "a5020c0479474c6f15577c1083dae36804d2c62fe426528d85a0cb422770f6e8",
+  "url_hash": "d770b0b532263d264a157563019d5161e96add8af6ec35c1722f622a088e3d15",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-04-2023_se-acerca-el-5-de-abril-prepárense-para-el-lanzamiento-online_0389abfc3c11.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-04-2023_se-acerca-el-5-de-abril-prepárense-para-el-lanzamiento-online_0389abfc3c11.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2023_se-acerca-el-5-de-abril-prepárense-para-el-lanzamiento-online_0389abfc3c11",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0f/36/a1/9a/26/0f36a19a26c4e54cc0882b63c48dd9e9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2023_se-acerca-el-5-de-abril-prepárense-para-el-lanzamiento-online_0389abfc3c11\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:54:39.395283-03:00",
+  "status": "downloaded"
+}

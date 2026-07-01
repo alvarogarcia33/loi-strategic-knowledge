@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_0cfb5c557e93",
+  "platform": "gig_os",
+  "title": "Oro contra platino. El duelo de los metales preciosos",
+  "date": "22.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-contra-platino-el-duelo-de-los-metales-preciosos-347",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-contra-platino-el-duelo-de-los-metales-preciosos-347",
+  "content_hash": "aa1c2536c11d955a1acccd784d71d26e30317587bbcbbeb8bdc332b1add7d371",
+  "url_hash": "01d8845197339a2b25de705840e3ccf1adfee506c355da40082066b8ba1d6ae2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-12-2020_oro-contra-platino-el-duelo-de-los-metales-preciosos_0cfb5c557e93.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-12-2020_oro-contra-platino-el-duelo-de-los-metales-preciosos_0cfb5c557e93.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-12-2020_oro-contra-platino-el-duelo-de-los-metales-preciosos_0cfb5c557e93",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/32/9a/f5/42/07/329af54207f28d6667baedc08aedb69b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-12-2020_oro-contra-platino-el-duelo-de-los-metales-preciosos_0cfb5c557e93\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1009/platinum-prices-vs-gold-prices-2020-12-21-macrotrends_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-12-2020_oro-contra-platino-el-duelo-de-los-metales-preciosos_0cfb5c557e93\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1009/platinum-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-12-2020_oro-contra-platino-el-duelo-de-los-metales-preciosos_0cfb5c557e93\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1009/gold1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-12-2020_oro-contra-platino-el-duelo-de-los-metales-preciosos_0cfb5c557e93\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:02.888175-03:00",
+  "status": "downloaded"
+}

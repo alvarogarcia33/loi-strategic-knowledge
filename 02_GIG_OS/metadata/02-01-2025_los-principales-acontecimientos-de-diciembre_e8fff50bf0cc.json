@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e8fff50bf0cc",
+  "platform": "gig_os",
+  "title": "Los principales acontecimientos de diciembre",
+  "date": "02.01.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-principales-acontecimientos-de-diciembre-1029",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-principales-acontecimientos-de-diciembre-1029",
+  "content_hash": "95f14145b384de972c619b5575a0abb9c845d724bb7f13194d5de9970744cf20",
+  "url_hash": "ac09f034d03f9248105843630d738c5c0751d205caec69c2dcc92b7c11a0312b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-01-2025_los-principales-acontecimientos-de-diciembre_e8fff50bf0cc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-01-2025_los-principales-acontecimientos-de-diciembre_e8fff50bf0cc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-01-2025_los-principales-acontecimientos-de-diciembre_e8fff50bf0cc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cf/03/59/8c/72/cf03598c729b68802f2c8d32d4f3f030_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-01-2025_los-principales-acontecimientos-de-diciembre_e8fff50bf0cc\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:16.603107-03:00",
+  "status": "downloaded"
+}

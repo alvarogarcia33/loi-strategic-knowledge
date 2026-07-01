@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_cb02f6d25aef",
+  "platform": "gig_os",
+  "title": "Una vejez sin preocupaciones. ¿Vale la pena contar con una jubilación?",
+  "date": "17.09.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/una-vejez-sin-preocupaciones-vale-la-pena-contar-con-una-jubilacion-308",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/una-vejez-sin-preocupaciones-vale-la-pena-contar-con-una-jubilacion-308",
+  "content_hash": "986cd5fed77a385b376be26106f22877e4c3f28a14aa7022fac1b55fff2bb53b",
+  "url_hash": "81d4d30b5162f1350960f99263a33a7613eb3fc9111eeb7751a0e56e0d081783",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-09-2020_una-vejez-sin-preocupaciones-vale-la-pena-contar-con-una-jubilación_cb02f6d25aef.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-09-2020_una-vejez-sin-preocupaciones-vale-la-pena-contar-con-una-jubilación_cb02f6d25aef.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-09-2020_una-vejez-sin-preocupaciones-vale-la-pena-contar-con-una-jubilación_cb02f6d25aef",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/79/c0/38/98/4a/79c038984a367006cf070cbd04a7068c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-09-2020_una-vejez-sin-preocupaciones-vale-la-pena-contar-con-una-jubilación_cb02f6d25aef\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/955/es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-09-2020_una-vejez-sin-preocupaciones-vale-la-pena-contar-con-una-jubilación_cb02f6d25aef\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:38.241103-03:00",
+  "status": "downloaded"
+}

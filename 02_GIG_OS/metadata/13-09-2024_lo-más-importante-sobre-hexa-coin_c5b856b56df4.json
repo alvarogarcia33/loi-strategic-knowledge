@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c5b856b56df4",
+  "platform": "gig_os",
+  "title": "Lo más importante sobre HEXA Coin",
+  "date": "13.09.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/lo-mas-importante-sobre-hexa-coin-988",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/lo-mas-importante-sobre-hexa-coin-988",
+  "content_hash": "1a110ff96ef7f6f8f71ac84206034c5d776ed02c8361f0f11bae9c22362c5535",
+  "url_hash": "c992112acf454dc37bcdc82c9120e413ebfa4302319332759b8c7e31007cca67",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-09-2024_lo-más-importante-sobre-hexa-coin_c5b856b56df4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-09-2024_lo-más-importante-sobre-hexa-coin_c5b856b56df4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-09-2024_lo-más-importante-sobre-hexa-coin_c5b856b56df4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/56/c3/7c/97/2a/56c37c972ac6bc48f27a8a687bdb03c2_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-09-2024_lo-más-importante-sobre-hexa-coin_c5b856b56df4\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:36:50.539900-03:00",
+  "status": "downloaded"
+}

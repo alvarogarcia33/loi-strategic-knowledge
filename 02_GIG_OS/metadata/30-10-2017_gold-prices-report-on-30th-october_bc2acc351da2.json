@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_bc2acc351da2",
+  "platform": "gig_os",
+  "title": "Gold prices report on 30th October",
+  "date": "30.10.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gold-prices-report-on-30th-october",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gold-prices-report-on-30th-october",
+  "content_hash": "b7e2adfadd37f2b01e8f8753a0a79648682b3ba20735e0402953316793e61b7b",
+  "url_hash": "c2b187e692752bfc8a2df46ef0d49add326d82287964e6997e12f1f0bedeb371",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-10-2017_gold-prices-report-on-30th-october_bc2acc351da2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-10-2017_gold-prices-report-on-30th-october_bc2acc351da2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-10-2017_gold-prices-report-on-30th-october_bc2acc351da2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/da/5e/b2/34/76/da5eb23476fb799fd688347fd3740f3f_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/407/global-intergold-gold-weekly-gold-report_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:07.749668-03:00",
+  "status": "downloaded"
+}

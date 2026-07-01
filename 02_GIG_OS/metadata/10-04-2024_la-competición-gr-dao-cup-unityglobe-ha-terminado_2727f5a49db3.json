@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_2727f5a49db3",
+  "platform": "gig_os",
+  "title": "¡La competición GR DAO CUP UnityGlobe ha terminado!",
+  "date": "10.04.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-competicion-gr-dao-cup-unityglobe-ha-terminado-914",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-competicion-gr-dao-cup-unityglobe-ha-terminado-914",
+  "content_hash": "ffd081d9e70ac535e99812f542fda84a519c9b47a62c86dab653c0706f7ea77d",
+  "url_hash": "774125633af3f5d401ebe2b5e81c570963bec601c4591185f6c21f4cbc262ad4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-04-2024_la-competición-gr-dao-cup-unityglobe-ha-terminado_2727f5a49db3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-04-2024_la-competición-gr-dao-cup-unityglobe-ha-terminado_2727f5a49db3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-04-2024_la-competición-gr-dao-cup-unityglobe-ha-terminado_2727f5a49db3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ee/6a/42/16/9a/ee6a42169a716f4d440396e9044ec470_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-04-2024_la-competición-gr-dao-cup-unityglobe-ha-terminado_2727f5a49db3\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1667/logo-small_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-04-2024_la-competición-gr-dao-cup-unityglobe-ha-terminado_2727f5a49db3\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:30:21.904209-03:00",
+  "status": "downloaded"
+}

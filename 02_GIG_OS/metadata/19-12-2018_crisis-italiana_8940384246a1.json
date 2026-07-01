@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_8940384246a1",
+  "platform": "gig_os",
+  "title": "Crisis italiana",
+  "date": "19.12.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/crisis-italiana",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/crisis-italiana",
+  "content_hash": "ced910503374cfb9ca2b98788a344fa9cc2c7d1d1ebb00cac0b1aa1f1a45a38f",
+  "url_hash": "33d5294a41bb9ef0dcb3eea56d5f3ad027977b26aaa1bdfae2f6780024e77baa",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-12-2018_crisis-italiana_8940384246a1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-12-2018_crisis-italiana_8940384246a1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-12-2018_crisis-italiana_8940384246a1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/29/7d/77/28/26/297d772826b11dfcb059f88efab8f331_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/622/global-intergold-oro-la-seguridad-financiera-19.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/622/global-intergold-oro-la-seguridad-financiera-17.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/622/global-intergold-oro-la-seguridad-financiera-18.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:05:02.179286-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_51ad7ffcffd0",
+  "platform": "gig_os",
+  "title": "Picnic empresarial a la colombiana",
+  "date": "21.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/picnic-empresarial-a-la-colombiana-404",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/picnic-empresarial-a-la-colombiana-404",
+  "content_hash": "76de6a08b0fd32ac586b71d46ca2a9aa2000e89be424a193daef4ed016904583",
+  "url_hash": "20fc6862194957bdc33c5924b26f1044ab2547f408994c5f29cf4166f7b7bf8b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-04-2021_picnic-empresarial-a-la-colombiana_51ad7ffcffd0.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-04-2021_picnic-empresarial-a-la-colombiana_51ad7ffcffd0.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-04-2021_picnic-empresarial-a-la-colombiana_51ad7ffcffd0",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1081/22-04-2021-26927_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-04-2021_picnic-empresarial-a-la-colombiana_51ad7ffcffd0\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:29.827597-03:00",
+  "status": "downloaded"
+}

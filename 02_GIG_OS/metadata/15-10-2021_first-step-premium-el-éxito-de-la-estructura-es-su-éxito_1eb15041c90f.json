@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1eb15041c90f",
+  "platform": "gig_os",
+  "title": "FIRST STEP PREMIUM: ¡el éxito de la estructura es su éxito!",
+  "date": "15.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/first-step-premium-el-exito-de-la-estructura-es-su-exito-481",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/first-step-premium-el-exito-de-la-estructura-es-su-exito-481",
+  "content_hash": "f6733598c0178af1f5aba99b60629c0c73fc425c26ce2f592ce23bb8eb51bf47",
+  "url_hash": "5aacb30bc1a31bac3918a553119bc0d3b8cf64f6fd64aa1985e590793209de1e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-10-2021_first-step-premium-el-éxito-de-la-estructura-es-su-éxito_1eb15041c90f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-10-2021_first-step-premium-el-éxito-de-la-estructura-es-su-éxito_1eb15041c90f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-10-2021_first-step-premium-el-éxito-de-la-estructura-es-su-éxito_1eb15041c90f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7e/23/af/d7/0e/7e23afd70e5556fbbae97990b5b6551b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-10-2021_first-step-premium-el-éxito-de-la-estructura-es-su-éxito_1eb15041c90f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1179/first-step-premium-el-exito-de-la-estructura-es-su-exito20899_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-10-2021_first-step-premium-el-éxito-de-la-estructura-es-su-éxito_1eb15041c90f\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:50.401018-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_c0130601a737",
+  "platform": "gig_os",
+  "title": "¿Por qué los países aumentan sus reservas de oro?",
+  "date": "18.07.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-los-paises-aumentan-sus-reservas-de-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-los-paises-aumentan-sus-reservas-de-oro",
+  "content_hash": "5ca6f803e2328fc15766ff058ab00af61eca7316cdf70137c86c93acfda57b04",
+  "url_hash": "b29b39f0819e7f9dcb52f57d8d69ed15e872de02676dab141094379cff5e37c0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-07-2018_por-qué-los-países-aumentan-sus-reservas-de-oro_c0130601a737.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-07-2018_por-qué-los-países-aumentan-sus-reservas-de-oro_c0130601a737.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-07-2018_por-qué-los-países-aumentan-sus-reservas-de-oro_c0130601a737",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c2/c5/cf/d7/22/c2c5cfd7223188749988f5f5a2b4358e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-07-2018_por-qué-los-países-aumentan-sus-reservas-de-oro_c0130601a737\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/523/global-intergold-gold-reservas-de-oro-6_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/523/global-intergold-gold-reservas-de-oro-2_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/523/frame-294857319202_1.png",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:09.056076-03:00",
+  "status": "downloaded"
+}

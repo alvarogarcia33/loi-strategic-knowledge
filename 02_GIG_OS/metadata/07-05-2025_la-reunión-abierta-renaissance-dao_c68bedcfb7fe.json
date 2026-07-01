@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c68bedcfb7fe",
+  "platform": "gig_os",
+  "title": "La Reunión Abierta Renaissance DAO",
+  "date": "07.05.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-reunion-abierta-renaissance-dao-1073",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-reunion-abierta-renaissance-dao-1073",
+  "content_hash": "a48b45ee52d31c3bafe694253d6a3be00acf14dbd3c24ae707afd22a290252bc",
+  "url_hash": "415b4a7baaba74cfb308b975c4a71c1858908b9ccffbaebfef744160df9caaf3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-05-2025_la-reunión-abierta-renaissance-dao_c68bedcfb7fe.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-05-2025_la-reunión-abierta-renaissance-dao_c68bedcfb7fe.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-05-2025_la-reunión-abierta-renaissance-dao_c68bedcfb7fe",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/fb/53/9e/88/c5/fb539e88c5e41acbf8a75b88875f5979_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-05-2025_la-reunión-abierta-renaissance-dao_c68bedcfb7fe\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:42.523966-03:00",
+  "status": "downloaded"
+}

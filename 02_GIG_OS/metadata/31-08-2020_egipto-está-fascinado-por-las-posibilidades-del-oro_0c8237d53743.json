@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_0c8237d53743",
+  "platform": "gig_os",
+  "title": "Egipto está fascinado por las posibilidades del oro",
+  "date": "31.08.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/egipto-esta-fascinado-por-las-posibilidades-del-oro-299",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/egipto-esta-fascinado-por-las-posibilidades-del-oro-299",
+  "content_hash": "4ce6d7c2720cfda8660d5646d64c5b8864c728d5e597ffe5602f0c54a74c0055",
+  "url_hash": "2b50b1a100be4a57d4a1aff190a6baed873d05d87299591533441edb42f3f798",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\31-08-2020_egipto-está-fascinado-por-las-posibilidades-del-oro_0c8237d53743.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\31-08-2020_egipto-está-fascinado-por-las-posibilidades-del-oro_0c8237d53743.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-08-2020_egipto-está-fascinado-por-las-posibilidades-del-oro_0c8237d53743",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/25/3e/7e/d2/c5/253e7ed2c56d0c2c57989c6b25616b2e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-08-2020_egipto-está-fascinado-por-las-posibilidades-del-oro_0c8237d53743\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:51.496394-03:00",
+  "status": "downloaded"
+}

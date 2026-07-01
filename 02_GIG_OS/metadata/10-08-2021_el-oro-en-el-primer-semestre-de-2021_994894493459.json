@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_994894493459",
+  "platform": "gig_os",
+  "title": "El oro en el primer semestre de 2021",
+  "date": "10.08.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-en-el-primer-semestre-de-2021-451",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-en-el-primer-semestre-de-2021-451",
+  "content_hash": "a378565781a5287c57a5bcb483a4fabd815537d89ee432ca1f7860fbabec13fc",
+  "url_hash": "68a93c0921670e0770ff8338d56481696e9cd6855dca896cc9d86eaadb1204eb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-08-2021_el-oro-en-el-primer-semestre-de-2021_994894493459.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-08-2021_el-oro-en-el-primer-semestre-de-2021_994894493459.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-08-2021_el-oro-en-el-primer-semestre-de-2021_994894493459",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/81/3a/bf/af/f8/813abfaff81ed4497d0c5c8eecaa710c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-08-2021_el-oro-en-el-primer-semestre-de-2021_994894493459\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1141/120721gold2-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-08-2021_el-oro-en-el-primer-semestre-de-2021_994894493459\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:28.402241-03:00",
+  "status": "downloaded"
+}

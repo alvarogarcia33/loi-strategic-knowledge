@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_2233a3485e2d",
+  "platform": "gig_os",
+  "title": "Challenge financiero: ahorrar dinero con alegría",
+  "date": "06.05.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/challenge-financiero-ahorrar-dinero-con-alegria-355",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/challenge-financiero-ahorrar-dinero-con-alegria-355",
+  "content_hash": "bef9a6df283aeb53bc25743cd50375c343356c484af6d218daad9091b568993a",
+  "url_hash": "785ad37b94446c229d7bb866cacbd6bc436c5d3258f34647b946bb16bc85673c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-05-2021_challenge-financiero-ahorrar-dinero-con-alegría_2233a3485e2d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-05-2021_challenge-financiero-ahorrar-dinero-con-alegría_2233a3485e2d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-05-2021_challenge-financiero-ahorrar-dinero-con-alegría_2233a3485e2d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/42/be/0e/cc/e4/42be0ecce4458b2685bbe67b5ea2c858_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-05-2021_challenge-financiero-ahorrar-dinero-con-alegría_2233a3485e2d\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:24.573402-03:00",
+  "status": "downloaded"
+}

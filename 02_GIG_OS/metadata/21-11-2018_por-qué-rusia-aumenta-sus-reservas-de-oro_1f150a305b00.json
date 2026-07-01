@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_1f150a305b00",
+  "platform": "gig_os",
+  "title": "¿Por qué Rusia aumenta sus reservas de oro?",
+  "date": "21.11.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-rusia-aumenta-sus-reservas-de-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-rusia-aumenta-sus-reservas-de-oro",
+  "content_hash": "f6cd2935e81f6ebb6060ab019d99d4fd1b816c9b2d5e27e9395db19657ffade8",
+  "url_hash": "154c8c5c1dcfa9db097587190dc60a686cdd99a76ae90997c813c8c9ce116967",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-11-2018_por-qué-rusia-aumenta-sus-reservas-de-oro_1f150a305b00.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-11-2018_por-qué-rusia-aumenta-sus-reservas-de-oro_1f150a305b00.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-11-2018_por-qué-rusia-aumenta-sus-reservas-de-oro_1f150a305b00",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/60/76/d9/96/df/6076d996df5f0c4fc4b8de170acd9fb7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-11-2018_por-qué-rusia-aumenta-sus-reservas-de-oro_1f150a305b00\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/606/global-intergold-oro-la-seguridad-financiera-12_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/606/global-intergold-oro-la-seguridad-financiera-14_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/606/global-intergold-oro-la-seguridad-financiera-13_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:47.562854-03:00",
+  "status": "downloaded"
+}

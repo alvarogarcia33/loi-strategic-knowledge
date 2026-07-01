@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_08b6e72a2e22",
+  "platform": "gig_os",
+  "title": "¡La plataforma online GIG-OS ha sido actualizada!",
+  "date": "26.01.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-plataforma-online-gig-os-ha-sido-actualizada-362",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-plataforma-online-gig-os-ha-sido-actualizada-362",
+  "content_hash": "29d04bffc1f7a1339443e550a5e8e8e70c57cc4dd0cea73d88d4fcde611221ab",
+  "url_hash": "08950404780ffad756050dd000419cfa6254d6a3b7e430d98ea07744ba650d1c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-01-2021_la-plataforma-online-gig-os-ha-sido-actualizada_08b6e72a2e22.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-01-2021_la-plataforma-online-gig-os-ha-sido-actualizada_08b6e72a2e22.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-01-2021_la-plataforma-online-gig-os-ha-sido-actualizada_08b6e72a2e22",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1d/fc/2a/f1/d3/1dfc2af1d3f370d011f22fd633db1992_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-01-2021_la-plataforma-online-gig-os-ha-sido-actualizada_08b6e72a2e22\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:33:51.163440-03:00",
+  "status": "downloaded"
+}

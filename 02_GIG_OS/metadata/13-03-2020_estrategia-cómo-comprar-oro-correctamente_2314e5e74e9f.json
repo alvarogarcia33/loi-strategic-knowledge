@@ -1,0 +1,42 @@
+{
+  "article_uid": "gig_os_2314e5e74e9f",
+  "platform": "gig_os",
+  "title": "Estrategia: cómo comprar oro correctamente",
+  "date": "13.03.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad Noticias sobre la plataforma Materiales educativos Oro GoalSet Master",
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/estrategia-como-comprar-oro-correctamente-230",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/estrategia-como-comprar-oro-correctamente-230",
+  "content_hash": "3407b482da2de58997e2ae5d1f8f058990a8be839c025596561f6a16cf3b1465",
+  "url_hash": "841d965229f9bf9d7b7a4204197016634163705f1a6029abcdf00cccd7c67874",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-03-2020_estrategia-cómo-comprar-oro-correctamente_2314e5e74e9f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-03-2020_estrategia-cómo-comprar-oro-correctamente_2314e5e74e9f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-03-2020_estrategia-cómo-comprar-oro-correctamente_2314e5e74e9f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/97/d1/b8/18/12/97d1b81812d6a009ad625ed6c01fe1c8_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-03-2020_estrategia-cómo-comprar-oro-correctamente_2314e5e74e9f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/844/global-intergold--suscripciones-de-gig-os35986_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-03-2020_estrategia-cómo-comprar-oro-correctamente_2314e5e74e9f\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:37:43.331785-03:00",
+  "status": "downloaded"
+}

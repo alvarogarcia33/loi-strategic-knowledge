@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_2ae5227a72d5",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 17 de octubre de 2017",
+  "date": "17.10.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-17-de-octubre-de-2017",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-17-de-octubre-de-2017",
+  "content_hash": "db181c084ac317a53a05488bb03dedb8d67dc0c63ba989cff694e59817923994",
+  "url_hash": "920d2e166329053286b44af987aa8a4ddd11bc1e16457c73e04e496ce887b51b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-10-2017_informe-de-la-cotización-del-oro-al-17-de-octubre-de-2017_2ae5227a72d5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-10-2017_informe-de-la-cotización-del-oro-al-17-de-octubre-de-2017_2ae5227a72d5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-10-2017_informe-de-la-cotización-del-oro-al-17-de-octubre-de-2017_2ae5227a72d5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2e/f0/d4/05/38/2ef0d40538f5ff8a29df0a6ca3eec82e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-10-2017_informe-de-la-cotización-del-oro-al-17-de-octubre-de-2017_2ae5227a72d5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/391/global-intergold-oro-informe-de-los-precios-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:25:49.876306-03:00",
+  "status": "downloaded"
+}

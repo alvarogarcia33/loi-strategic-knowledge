@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_27bc01e316f1",
+  "platform": "gig_os",
+  "title": "La primera plataforma de oro: respondiendo al desafío de nuestros tiempos",
+  "date": "09.03.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-primera-plataforma-de-oro-respondiendo-al-desafio-de-nuestros-tiempos-228",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-primera-plataforma-de-oro-respondiendo-al-desafio-de-nuestros-tiempos-228",
+  "content_hash": "f7e2d511016fe430c29e267d3cc4bd1b67f453f3c6e5661300906bcaf0bcdfb3",
+  "url_hash": "f6dbb870728f5b6adb64d7e7631ab3b9d501ecc6e260bcef599d8888e18ae510",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-03-2020_la-primera-plataforma-de-oro-respondiendo-al-desafío-de-nuestros-tiempos_27bc01e316f1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-03-2020_la-primera-plataforma-de-oro-respondiendo-al-desafío-de-nuestros-tiempos_27bc01e316f1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-03-2020_la-primera-plataforma-de-oro-respondiendo-al-desafío-de-nuestros-tiempos_27bc01e316f1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ac/f2/02/51/1b/acf202511b53cf583071310d9161e790_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-03-2020_la-primera-plataforma-de-oro-respondiendo-al-desafío-de-nuestros-tiempos_27bc01e316f1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/842/global-intergold--gig-os_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-03-2020_la-primera-plataforma-de-oro-respondiendo-al-desafío-de-nuestros-tiempos_27bc01e316f1\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:02.966916-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_8e233143a1b4",
+  "platform": "gig_os",
+  "title": "¡Ocupen una posición de liderazgo!",
+  "date": "12.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ocupen-una-posicion-de-liderazgo-559",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ocupen-una-posicion-de-liderazgo-559",
+  "content_hash": "d49148ff079a1ad6041fa109812d88707ee6d98ddb956eac31b8573af9ed3e17",
+  "url_hash": "bacaaf109ceb4ed235cc6974ddac76953e73c4f43ee98c77aa393964cbd18dc6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-04-2022_ocupen-una-posición-de-liderazgo_8e233143a1b4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-04-2022_ocupen-una-posición-de-liderazgo_8e233143a1b4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-04-2022_ocupen-una-posición-de-liderazgo_8e233143a1b4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b1/38/c5/81/10/b138c581108dba29d73d3fda09388a3e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-04-2022_ocupen-una-posición-de-liderazgo_8e233143a1b4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:26.700672-03:00",
+  "status": "downloaded"
+}

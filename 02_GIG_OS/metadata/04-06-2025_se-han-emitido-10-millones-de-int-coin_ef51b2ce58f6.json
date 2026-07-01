@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_ef51b2ce58f6",
+  "platform": "gig_os",
+  "title": "¡Se han emitido 10 millones de INT Coin!",
+  "date": "04.06.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-han-emitido-10-millones-de-int-coin-1091",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-han-emitido-10-millones-de-int-coin-1091",
+  "content_hash": "76cdd183c16a99fc157ba895d9ad363197ff791ed1759dc972ebdeae1c696cba",
+  "url_hash": "ad6838c589f1d99d87e58d4058ca5fb5a6a90f7ad74946485a380a5f49de67cc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-06-2025_se-han-emitido-10-millones-de-int-coin_ef51b2ce58f6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-06-2025_se-han-emitido-10-millones-de-int-coin_ef51b2ce58f6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-06-2025_se-han-emitido-10-millones-de-int-coin_ef51b2ce58f6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9d/fc/76/d4/4d/9dfc76d44d69734763c433b074567650_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-06-2025_se-han-emitido-10-millones-de-int-coin_ef51b2ce58f6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:56.785380-03:00",
+  "status": "downloaded"
+}

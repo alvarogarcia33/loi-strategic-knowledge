@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_8c4aa00b91b5",
+  "platform": "gig_os",
+  "title": "El negocio en la carrera contra el tiempo",
+  "date": "22.05.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-negocio-en-la-carrera-contra-el-tiempo-261",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-negocio-en-la-carrera-contra-el-tiempo-261",
+  "content_hash": "c466b946152514fbbb7fa6d558bfba37c587f9648af2be34daef61bfd30e7cdd",
+  "url_hash": "7053c549a03bce389998b796db0f8e02b60390d9322ba2aa99bc00ea0518da31",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-05-2020_el-negocio-en-la-carrera-contra-el-tiempo_8c4aa00b91b5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-05-2020_el-negocio-en-la-carrera-contra-el-tiempo_8c4aa00b91b5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2020_el-negocio-en-la-carrera-contra-el-tiempo_8c4aa00b91b5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cc/48/73/a6/ae/cc4873a6ae7338ca312f5149c4fe5aa3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2020_el-negocio-en-la-carrera-contra-el-tiempo_8c4aa00b91b5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/879/grath1new-need_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2020_el-negocio-en-la-carrera-contra-el-tiempo_8c4aa00b91b5\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/879/grath2new-need_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2020_el-negocio-en-la-carrera-contra-el-tiempo_8c4aa00b91b5\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:05.321718-03:00",
+  "status": "downloaded"
+}

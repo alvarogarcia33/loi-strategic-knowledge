@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_fe956f959fac",
+  "platform": "gig_os",
+  "title": "Premios a los ganadores de la 4.ª etapa de la GR DAO CUP 2023",
+  "date": "11.04.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/premios-a-los-ganadores-de-la-4-etapa-de-la-gr-dao-cup-2023-720",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/premios-a-los-ganadores-de-la-4-etapa-de-la-gr-dao-cup-2023-720",
+  "content_hash": "a4e4cbe13edb09040b0b9383371042f539074e7ed06cac916d4d67dc06f3a547",
+  "url_hash": "53745fd84ae2d902343c8e44f36fedce35569c4b51bf90fcae54e2ac675756df",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-04-2023_premios-a-los-ganadores-de-la-4-etapa-de-la-gr-dao-cup-2023_fe956f959fac.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-04-2023_premios-a-los-ganadores-de-la-4-etapa-de-la-gr-dao-cup-2023_fe956f959fac.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-04-2023_premios-a-los-ganadores-de-la-4-etapa-de-la-gr-dao-cup-2023_fe956f959fac",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/60/82/cc/40/92/6082cc4092f7735b2a2b558feffab610_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-04-2023_premios-a-los-ganadores-de-la-4-etapa-de-la-gr-dao-cup-2023_fe956f959fac\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1450/12-gr-dao-coin-es-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-04-2023_premios-a-los-ganadores-de-la-4-etapa-de-la-gr-dao-cup-2023_fe956f959fac\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:14.617184-03:00",
+  "status": "downloaded"
+}

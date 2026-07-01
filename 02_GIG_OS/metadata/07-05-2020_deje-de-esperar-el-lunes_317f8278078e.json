@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_317f8278078e",
+  "platform": "gig_os",
+  "title": "¡Deje de esperar el lunes!",
+  "date": "07.05.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/deje-de-esperar-el-lunes-253",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/deje-de-esperar-el-lunes-253",
+  "content_hash": "1f1d78464170a91c1659580da6127bbd726555b9a5ad2f6595e95c8c712d9f4b",
+  "url_hash": "a784f5564dda5da3cdadf873d2f94102c6cd09fb3d3f9a6003dcfd4905dc82f8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-05-2020_deje-de-esperar-el-lunes_317f8278078e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-05-2020_deje-de-esperar-el-lunes_317f8278078e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-05-2020_deje-de-esperar-el-lunes_317f8278078e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/07/06/d7/9f/db/0706d79fdb98d2669cd6ba5bd8cf9842_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-05-2020_deje-de-esperar-el-lunes_317f8278078e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:05:38.578661-03:00",
+  "status": "downloaded"
+}

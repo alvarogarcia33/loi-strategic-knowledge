@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_05aa096a72e1",
+  "platform": "gig_os",
+  "title": "¡No pierdan su estructura en el M*E Board!",
+  "date": "10.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/no-pierdan-su-estructura-en-el-me-board-818",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/no-pierdan-su-estructura-en-el-me-board-818",
+  "content_hash": "abee43ac95721ee2ae3ca507c129ee161884f6502f7f1cc91173ec8fde0a9c64",
+  "url_hash": "9bb79aacc97953fc3ed83773e68e4841b33f6856cce1d45a227d7c9bfa2bb4b4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-11-2023_no-pierdan-su-estructura-en-el-m-e-board_05aa096a72e1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-11-2023_no-pierdan-su-estructura-en-el-m-e-board_05aa096a72e1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-11-2023_no-pierdan-su-estructura-en-el-m-e-board_05aa096a72e1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/40/d9/48/3f/f1/40d9483ff1680f6ea39e26651986ee93_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-11-2023_no-pierdan-su-estructura-en-el-m-e-board_05aa096a72e1\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:49.351401-03:00",
+  "status": "downloaded"
+}

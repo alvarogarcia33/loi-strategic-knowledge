@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_b74cd7c74687",
+  "platform": "gig_os",
+  "title": "Massimo De Trizio: a los 39 años, ¡no es demasiado tarde para cambiar la vida!",
+  "date": "16.06.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/massimo-de-trizio-a-los-39-anos-no-es-demasiado-tarde-para-cambiar-la-vida-272",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/massimo-de-trizio-a-los-39-anos-no-es-demasiado-tarde-para-cambiar-la-vida-272",
+  "content_hash": "72643706f9f71103f2e766d5182666d226ece0c37563ce32323a0ee424f2cdfe",
+  "url_hash": "8c1866a76906db39125778e83f5befc2643351afca92f79fc7b488f870280b78",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-06-2020_massimo-de-trizio-a-los-39-años-no-es-demasiado-tarde-para-cambiar-la-vida_b74cd7c74687.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-06-2020_massimo-de-trizio-a-los-39-años-no-es-demasiado-tarde-para-cambiar-la-vida_b74cd7c74687.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-06-2020_massimo-de-trizio-a-los-39-años-no-es-demasiado-tarde-para-cambiar-la-vida_b74cd7c74687",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/33/73/0a/0a/11/33730a0a11dff6241ecf72ea2ab84663_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-06-2020_massimo-de-trizio-a-los-39-años-no-es-demasiado-tarde-para-cambiar-la-vida_b74cd7c74687\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/891/photo2020-06-0815-52-27_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-06-2020_massimo-de-trizio-a-los-39-años-no-es-demasiado-tarde-para-cambiar-la-vida_b74cd7c74687\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/891/masimocouple_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-06-2020_massimo-de-trizio-a-los-39-años-no-es-demasiado-tarde-para-cambiar-la-vida_b74cd7c74687\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/891/family_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-06-2020_massimo-de-trizio-a-los-39-años-no-es-demasiado-tarde-para-cambiar-la-vida_b74cd7c74687\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:57.968899-03:00",
+  "status": "downloaded"
+}

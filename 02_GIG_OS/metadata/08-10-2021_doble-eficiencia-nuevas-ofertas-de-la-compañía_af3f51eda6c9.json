@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_af3f51eda6c9",
+  "platform": "gig_os",
+  "title": "Doble eficiencia: nuevas ofertas de la compañía",
+  "date": "08.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/doble-eficiencia-nuevas-ofertas-de-la-compania-478",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/doble-eficiencia-nuevas-ofertas-de-la-compania-478",
+  "content_hash": "a6e82c623bbe5562bf014dc878bf97fa63119c4c1e38c48909fa53685cf004a6",
+  "url_hash": "e05c8fe73696773b47d3746028ff0ff41b1a01067d8afe6518504cf1f8f41e0e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-10-2021_doble-eficiencia-nuevas-ofertas-de-la-compañía_af3f51eda6c9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-10-2021_doble-eficiencia-nuevas-ofertas-de-la-compañía_af3f51eda6c9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2021_doble-eficiencia-nuevas-ofertas-de-la-compañía_af3f51eda6c9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3e/76/b0/f9/f8/3e76b0f9f850c66a4a8dab5fc4390bef_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2021_doble-eficiencia-nuevas-ofertas-de-la-compañía_af3f51eda6c9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1174/doble-eficiencia-nuevas-ofertas-de-la-compania_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-10-2021_doble-eficiencia-nuevas-ofertas-de-la-compañía_af3f51eda6c9\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:10.790583-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a4b35175bbbb",
+  "platform": "gig_os",
+  "title": "Anunciamos a los mejores participantes de la segunda etapa de la GR DAO CUP NextEra",
+  "date": "20.07.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/anunciamos-a-los-mejores-participantes-de-la-segunda-etapa-de-la-gr-dao-cup-nextera-769",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/anunciamos-a-los-mejores-participantes-de-la-segunda-etapa-de-la-gr-dao-cup-nextera-769",
+  "content_hash": "c3d976ccf10e8b0afe6b059f9db08cb3ad8440308eb0aafa68295a60681eb791",
+  "url_hash": "c468f120144d72fc0f4b7e0cb9d89d131ec07f81653dfda9fa934f5422b2780e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-07-2023_anunciamos-a-los-mejores-participantes-de-la-segunda-etapa-de-la-gr-dao-cup-next_a4b35175bbbb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-07-2023_anunciamos-a-los-mejores-participantes-de-la-segunda-etapa-de-la-gr-dao-cup-next_a4b35175bbbb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-07-2023_anunciamos-a-los-mejores-participantes-de-la-segunda-etapa-de-la-gr-dao-cup-next_a4b35175bbbb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cd/7d/02/bd/e2/cd7d02bde29f89b36fe6fb26d14f4f4f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-07-2023_anunciamos-a-los-mejores-participantes-de-la-segunda-etapa-de-la-gr-dao-cup-next_a4b35175bbbb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1505/20-07-2023-41186-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-07-2023_anunciamos-a-los-mejores-participantes-de-la-segunda-etapa-de-la-gr-dao-cup-next_a4b35175bbbb\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:13.192380-03:00",
+  "status": "downloaded"
+}

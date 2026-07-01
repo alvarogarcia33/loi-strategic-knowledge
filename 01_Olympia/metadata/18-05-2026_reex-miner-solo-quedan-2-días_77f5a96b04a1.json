@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_77f5a96b04a1",
+  "platform": "olympia",
+  "title": "REEX.MINER: ¡solo quedan 2 días!",
+  "date": "18.05.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/reexminer-solo-quedan-2-dias-0201",
+  "canonical_url": "https://olympia-lab.com/es/news/post/reexminer-solo-quedan-2-dias-0201",
+  "content_hash": "141e0e947387714f1860ad957aee2dba5be87c817a2f34f9c5e0067f5c08dc60",
+  "url_hash": "f09c146e3b78624b42c85b249013cd88750aeb5894ca32f229b03f1b75264656",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/a6/d0/5c/c4/26/a6d05cc4264cc2ba9343c4afa4d349fc.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/97/5a/78/61/d3/975a7861d31f7f583ca3b310b7f4b418_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/73/74/95/44/0b737495445a2909e41b948bd7e3ad8e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/95/c9/97/e5/a7/95c997e5a7a7923e524730988afd52ed_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/14/d5/da/67/3a/14d5da673a6acbffabbc90d4ef1d4952_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/6c/c9/46/e1/da6cc946e1ef65d70b3d486c76929e0e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:19:57.971868-03:00",
+  "status": "downloaded"
+}

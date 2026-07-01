@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_19be8593ce21",
+  "platform": "gig_os",
+  "title": "Científicos: el oro es más valioso de lo que muchos piensan",
+  "date": "20.07.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/cientificos-el-oro-es-mas-valioso-de-lo-que-muchos-piensan-284",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/cientificos-el-oro-es-mas-valioso-de-lo-que-muchos-piensan-284",
+  "content_hash": "5eeeebbeac917651ed71e4b1a80f18f0b8ca3aed9dcc75e92b192f3fded7c674",
+  "url_hash": "6954891e6dfcd9c0354b400f92fd166c2f8dc6a5f612a0ff19813a48416275f8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-07-2020_científicos-el-oro-es-más-valioso-de-lo-que-muchos-piensan_19be8593ce21.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-07-2020_científicos-el-oro-es-más-valioso-de-lo-que-muchos-piensan_19be8593ce21.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-07-2020_científicos-el-oro-es-más-valioso-de-lo-que-muchos-piensan_19be8593ce21",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/77/4e/92/df/1b/774e92df1b02032531eb23bf9925ae4b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-07-2020_científicos-el-oro-es-más-valioso-de-lo-que-muchos-piensan_19be8593ce21\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/907/kardiffskiy-universitet-v-velikobritanii83272_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-07-2020_científicos-el-oro-es-más-valioso-de-lo-que-muchos-piensan_19be8593ce21\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:47.673505-03:00",
+  "status": "downloaded"
+}

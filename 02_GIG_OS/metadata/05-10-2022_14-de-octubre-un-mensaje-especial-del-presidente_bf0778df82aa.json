@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_bf0778df82aa",
+  "platform": "gig_os",
+  "title": "14 de octubre: un mensaje especial del Presidente",
+  "date": "05.10.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/14-de-octubre-un-mensaje-especial-del-presidente-632",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/14-de-octubre-un-mensaje-especial-del-presidente-632",
+  "content_hash": "d09921631225a8b400e478dfe01aaaa04a6c2253607a9fafae145895cb963dee",
+  "url_hash": "79690aa6f5ea9c679bb8fb86de4c60b610e559e8e95659b29fe155b06197a97a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-10-2022_14-de-octubre-un-mensaje-especial-del-presidente_bf0778df82aa.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-10-2022_14-de-octubre-un-mensaje-especial-del-presidente_bf0778df82aa.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-10-2022_14-de-octubre-un-mensaje-especial-del-presidente_bf0778df82aa",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/93/95/8f/45/15/93958f45159f0356903e091940417a3a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-10-2022_14-de-octubre-un-mensaje-especial-del-presidente_bf0778df82aa\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:54:55.440092-03:00",
+  "status": "downloaded"
+}

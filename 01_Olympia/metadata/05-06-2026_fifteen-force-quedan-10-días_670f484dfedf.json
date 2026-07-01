@@ -1,0 +1,67 @@
+{
+  "article_uid": "olympia_670f484dfedf",
+  "platform": "olympia",
+  "title": "Fifteen Force: quedan 10 días",
+  "date": "05.06.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/fifteen-force-quedan-10-dias-0209",
+  "canonical_url": "https://olympia-lab.com/es/news/post/fifteen-force-quedan-10-dias-0209",
+  "content_hash": "10bf0f8c16a0ae005062de218c291a20d556e3ac19ee6f605dc60cb2c464f5a5",
+  "url_hash": "e02549963cf4713014b12aae72f81bf768f2cc6fdff725279ee80b3f4f8e8d21",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\05-06-2026_fifteen-force-quedan-10-días_670f484dfedf",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/da/6c/c9/46/e1/da6cc946e1ef65d70b3d486c76929e0e.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\05-06-2026_fifteen-force-quedan-10-días_670f484dfedf\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/97/5a/78/61/d3/975a7861d31f7f583ca3b310b7f4b418_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\05-06-2026_fifteen-force-quedan-10-días_670f484dfedf\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/73/74/95/44/0b737495445a2909e41b948bd7e3ad8e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\05-06-2026_fifteen-force-quedan-10-días_670f484dfedf\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/95/c9/97/e5/a7/95c997e5a7a7923e524730988afd52ed_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\05-06-2026_fifteen-force-quedan-10-días_670f484dfedf\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/14/d5/da/67/3a/14d5da673a6acbffabbc90d4ef1d4952_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\05-06-2026_fifteen-force-quedan-10-días_670f484dfedf\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/56/ab/2c/d2/ab/56ab2cd2ab949bac195a051d607a7883_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\05-06-2026_fifteen-force-quedan-10-días_670f484dfedf\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-23T14:56:47.249021-03:00",
+  "status": "downloaded",
+  "legacy_origin_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_Olympia\\metadata\\05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.json",
+  "normalized_at": "2026-06-29T15:59:23.561969-03:00"
+}

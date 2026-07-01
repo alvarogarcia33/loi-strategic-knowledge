@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_56bd49ee9e05",
+  "platform": "gig_os",
+  "title": "Informe de los precios del oro al 14 de agosto",
+  "date": "15.08.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-14-de-agosto",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-14-de-agosto",
+  "content_hash": "22d2ed777f2b448216764cfa897b4842ded12c89e2b6bcdba395f876f9a38daa",
+  "url_hash": "616e60061a87196341917f4e08dbb3ae805c80e91bb9cf1184acff0ddd67f215",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-08-2017_informe-de-los-precios-del-oro-al-14-de-agosto_56bd49ee9e05.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-08-2017_informe-de-los-precios-del-oro-al-14-de-agosto_56bd49ee9e05.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2017_informe-de-los-precios-del-oro-al-14-de-agosto_56bd49ee9e05",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f4/a4/52/ac/29/f4a452ac29b6cc2ba6554de3c510d4b5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2017_informe-de-los-precios-del-oro-al-14-de-agosto_56bd49ee9e05\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://www.globalintergold.info/_files/a5/74/28/2d/0c/a574282d0c321a74d281baa6ced51de3.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2017_informe-de-los-precios-del-oro-al-14-de-agosto_56bd49ee9e05\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "text/html",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:44.384733-03:00",
+  "status": "downloaded"
+}

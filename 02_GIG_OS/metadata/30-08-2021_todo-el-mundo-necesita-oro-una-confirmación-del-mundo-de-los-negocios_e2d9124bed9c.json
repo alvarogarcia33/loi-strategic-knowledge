@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_e2d9124bed9c",
+  "platform": "gig_os",
+  "title": "Todo el mundo necesita oro: una confirmación del mundo de los negocios",
+  "date": "30.08.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/todo-el-mundo-necesita-oro-una-confirmacion-del-mundo-de-los-negocios-459",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/todo-el-mundo-necesita-oro-una-confirmacion-del-mundo-de-los-negocios-459",
+  "content_hash": "f3a3fbc54e56c8203996d3ec45856d3c670cd8cc06183886eb4046251508dd1b",
+  "url_hash": "da50f0e01201181d6d2a49a08bffa44620d077fc69ede3e8cdf216e1926da73f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-08-2021_todo-el-mundo-necesita-oro-una-confirmación-del-mundo-de-los-negocios_e2d9124bed9c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-08-2021_todo-el-mundo-necesita-oro-una-confirmación-del-mundo-de-los-negocios_e2d9124bed9c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-08-2021_todo-el-mundo-necesita-oro-una-confirmación-del-mundo-de-los-negocios_e2d9124bed9c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d1/a0/b3/b5/5a/d1a0b3b55a957ffe0c4dd5b1fa56fd8f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-08-2021_todo-el-mundo-necesita-oro-una-confirmación-del-mundo-de-los-negocios_e2d9124bed9c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1148/weeklygoldreport300821-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-08-2021_todo-el-mundo-necesita-oro-una-confirmación-del-mundo-de-los-negocios_e2d9124bed9c\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:07.899172-03:00",
+  "status": "downloaded"
+}

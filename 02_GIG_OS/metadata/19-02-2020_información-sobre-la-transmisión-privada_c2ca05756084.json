@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c2ca05756084",
+  "platform": "gig_os",
+  "title": "INFORMACIÓN SOBRE LA TRANSMISIÓN PRIVADA",
+  "date": "19.02.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informacion-sobre-la-transmision-privada-222",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informacion-sobre-la-transmision-privada-222",
+  "content_hash": "4b0c3d9dffee2c0002b9f98fbc3c9490e8982888ac7fcfe04cbc2a9eb096f9b8",
+  "url_hash": "1d9b93b13a6b845d8f56823a63c6353732e8031ba460a50c5db40eff6931b50d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-02-2020_información-sobre-la-transmisión-privada_c2ca05756084.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-02-2020_información-sobre-la-transmisión-privada_c2ca05756084.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-02-2020_información-sobre-la-transmisión-privada_c2ca05756084",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/43/1b/18/63/f8/431b1863f8f589edee1bf5583843a8c6_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-02-2020_información-sobre-la-transmisión-privada_c2ca05756084\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:39.867549-03:00",
+  "status": "downloaded"
+}

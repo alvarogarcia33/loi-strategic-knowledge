@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e2742a20075e",
+  "platform": "gig_os",
+  "title": "Acontecimiento en Italia: ¡es imposible de olvidar!",
+  "date": "19.11.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/acontecimiento-en-italia-es-imposible-de-olvidar-494",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/acontecimiento-en-italia-es-imposible-de-olvidar-494",
+  "content_hash": "221f7183037a548491b5bf90d839b670344976fd3565389fa944490b710a05c3",
+  "url_hash": "b60d6bd6c9dda955e3d29cd867d1a5cacd1d92217d81461177421f6421448d62",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-11-2021_acontecimiento-en-italia-es-imposible-de-olvidar_e2742a20075e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-11-2021_acontecimiento-en-italia-es-imposible-de-olvidar_e2742a20075e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-11-2021_acontecimiento-en-italia-es-imposible-de-olvidar_e2742a20075e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1193/19-11-2021-32186-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-11-2021_acontecimiento-en-italia-es-imposible-de-olvidar_e2742a20075e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:56:57.392999-03:00",
+  "status": "downloaded"
+}

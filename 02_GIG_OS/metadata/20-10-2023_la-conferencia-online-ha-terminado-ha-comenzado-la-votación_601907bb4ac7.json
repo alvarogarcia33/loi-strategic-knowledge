@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_601907bb4ac7",
+  "platform": "gig_os",
+  "title": "La conferencia online ha terminado, ¡ha comenzado la votación!",
+  "date": "20.10.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-ha-terminado-ha-comenzado-la-votacion-806",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-ha-terminado-ha-comenzado-la-votacion-806",
+  "content_hash": "0c3847f88b8bd67a9e5e462251643b9732aed46ee3b416f5505c1601ee315305",
+  "url_hash": "d74683f29c240da64738a9f9b96b8f0a01e16a186495b57f473ef9dd043a78f1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-10-2023_la-conferencia-online-ha-terminado-ha-comenzado-la-votación_601907bb4ac7.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-10-2023_la-conferencia-online-ha-terminado-ha-comenzado-la-votación_601907bb4ac7.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-10-2023_la-conferencia-online-ha-terminado-ha-comenzado-la-votación_601907bb4ac7",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/07/b8/3b/e4/92/07b83be49295e442fb60b2ac435e24c5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-10-2023_la-conferencia-online-ha-terminado-ha-comenzado-la-votación_601907bb4ac7\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:04.265433-03:00",
+  "status": "downloaded"
+}

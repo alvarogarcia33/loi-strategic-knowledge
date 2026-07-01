@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_8cd8f361bca1",
+  "platform": "gig_os",
+  "title": "¿Qué hacer para acumular los ingresos?",
+  "date": "18.09.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-hacer-para-acumular-el-capital",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-hacer-para-acumular-el-capital",
+  "content_hash": "4f1d3be6d96dc470031f0a30b91a0bed69073c244098af66f51185ed3f4996c6",
+  "url_hash": "196a2e82326c01795706608a4ebdd12d7810d9e454da3a16f5f9ee9fc81d9363",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-09-2018_qué-hacer-para-acumular-los-ingresos_8cd8f361bca1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-09-2018_qué-hacer-para-acumular-los-ingresos_8cd8f361bca1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2018_qué-hacer-para-acumular-los-ingresos_8cd8f361bca1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/01/15/6b/ac/9d/01156bac9d52bd7e3f3968ffb0510642_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/565/global-intergold-oro-la-seguridad-financiera-9_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:44.015075-03:00",
+  "status": "downloaded"
+}

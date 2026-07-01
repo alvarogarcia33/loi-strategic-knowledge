@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7dddc41f9c90",
+  "platform": "gig_os",
+  "title": "¡Definitivamente deberían escuchar al Presidente!",
+  "date": "15.09.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/definitivamente-deberian-escuchar-al-presidente-465",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/definitivamente-deberian-escuchar-al-presidente-465",
+  "content_hash": "adec8ef503d550b09a781deb2558ac94b25a2008099f0822f5e1250e98f414b8",
+  "url_hash": "0754dd9131dd81af955b055247f23a13176a4678390a96757052af1c247fbc52",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-09-2021_definitivamente-deberían-escuchar-al-presidente_7dddc41f9c90.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-09-2021_definitivamente-deberían-escuchar-al-presidente_7dddc41f9c90.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-09-2021_definitivamente-deberían-escuchar-al-presidente_7dddc41f9c90",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e3/59/46/cd/f1/e35946cdf12e3cfd2594d6904ebc7451_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-09-2021_definitivamente-deberían-escuchar-al-presidente_7dddc41f9c90\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1162/10-09-2021-30964-121_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-09-2021_definitivamente-deberían-escuchar-al-presidente_7dddc41f9c90\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:05:36.149409-03:00",
+  "status": "downloaded"
+}

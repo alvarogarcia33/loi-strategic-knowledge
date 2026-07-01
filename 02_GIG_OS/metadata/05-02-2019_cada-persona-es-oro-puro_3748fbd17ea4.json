@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_3748fbd17ea4",
+  "platform": "gig_os",
+  "title": "¡Cada persona es oro puro!",
+  "date": "05.02.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/cada-persona-es-oro-puro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/cada-persona-es-oro-puro",
+  "content_hash": "2226f30269d45757bb7aa47c4344ac2a5e573b6364921414ef872285cdf76c52",
+  "url_hash": "7b575b88744e2f025ab1ff17a8da488ecf157d5b0ac05b05ac73c43a79f27b64",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-02-2019_cada-persona-es-oro-puro_3748fbd17ea4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-02-2019_cada-persona-es-oro-puro_3748fbd17ea4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-02-2019_cada-persona-es-oro-puro_3748fbd17ea4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b6/5d/a6/2c/99/b65da62c9938334cb0bf729c8c017fb7_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:00:20.701180-03:00",
+  "status": "downloaded"
+}

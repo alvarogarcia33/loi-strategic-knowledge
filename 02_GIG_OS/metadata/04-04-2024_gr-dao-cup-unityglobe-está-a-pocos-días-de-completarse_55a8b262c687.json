@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_55a8b262c687",
+  "platform": "gig_os",
+  "title": "GR DAO CUP UnityGlobe está a pocos días de completarse",
+  "date": "04.04.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-unityglobe-esta-a-pocos-dias-de-completarse-909",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-unityglobe-esta-a-pocos-dias-de-completarse-909",
+  "content_hash": "ed75e4c0bf947af36c00864ff2f10d2fbe76d151cd55ca3fb27b6ed766f593ed",
+  "url_hash": "762bc832cc5e664b5994ebee6c5ba20b824d3c21dee9151acabf01fb23a0b134",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-04-2024_gr-dao-cup-unityglobe-está-a-pocos-días-de-completarse_55a8b262c687.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-04-2024_gr-dao-cup-unityglobe-está-a-pocos-días-de-completarse_55a8b262c687.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2024_gr-dao-cup-unityglobe-está-a-pocos-días-de-completarse_55a8b262c687",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/33/15/b6/a5/6a/3315b6a56a7966527aa82b0106a68958_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2024_gr-dao-cup-unityglobe-está-a-pocos-días-de-completarse_55a8b262c687\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1661/table-text-unity-conference_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2024_gr-dao-cup-unityglobe-está-a-pocos-días-de-completarse_55a8b262c687\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1661/call-to-action-unity-es96741_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2024_gr-dao-cup-unityglobe-está-a-pocos-días-de-completarse_55a8b262c687\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:37.664149-03:00",
+  "status": "downloaded"
+}

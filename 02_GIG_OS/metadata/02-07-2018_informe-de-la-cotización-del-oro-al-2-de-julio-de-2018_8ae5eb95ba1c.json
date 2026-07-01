@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_8ae5eb95ba1c",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 2 de julio de 2018",
+  "date": "02.07.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-2-de-julio-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-2-de-julio-de-2018",
+  "content_hash": "01dbde31effd7248e1a0b773e5b8e9bc26cfe42e79dbd7b2e50eaa0121157d66",
+  "url_hash": "8e843c6a1b474f02f8f548d65eac3505a31677225f735e881325a83cbb73a3f7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-07-2018_informe-de-la-cotización-del-oro-al-2-de-julio-de-2018_8ae5eb95ba1c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-07-2018_informe-de-la-cotización-del-oro-al-2-de-julio-de-2018_8ae5eb95ba1c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-07-2018_informe-de-la-cotización-del-oro-al-2-de-julio-de-2018_8ae5eb95ba1c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3e/09/1f/05/fb/3e091f05fbe4b50fc6aa168523c83add_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-07-2018_informe-de-la-cotización-del-oro-al-2-de-julio-de-2018_8ae5eb95ba1c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/514/201709211717563257_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/514/2_1.JPG",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/514/3_1.jpeg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:26:14.636603-03:00",
+  "status": "downloaded"
+}

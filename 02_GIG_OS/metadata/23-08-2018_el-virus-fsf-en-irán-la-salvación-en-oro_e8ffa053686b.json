@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_e8ffa053686b",
+  "platform": "gig_os",
+  "title": "El virus FSF en Irán: la salvación en oro",
+  "date": "23.08.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-virus-fsf-en-iran-la-salvacion-en-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-virus-fsf-en-iran-la-salvacion-en-oro",
+  "content_hash": "cbd51e1a3778a30023342faaead8f3913b2cec4bea9fd8ab43332febfebd9f0a",
+  "url_hash": "ec39f2c3a20d9e81699386f059ce1a075ae5be8b7a9a229696fbb1519300582c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-08-2018_el-virus-fsf-en-irán-la-salvación-en-oro_e8ffa053686b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-08-2018_el-virus-fsf-en-irán-la-salvación-en-oro_e8ffa053686b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-08-2018_el-virus-fsf-en-irán-la-salvación-en-oro_e8ffa053686b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/92/2f/24/fb/33/922f24fb33d58419afbcb9b2b7be229e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-08-2018_el-virus-fsf-en-irán-la-salvación-en-oro_e8ffa053686b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/549/global-intergold-oro-la-seguridad-financiera-10_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/549/global-intergold-oro-la-seguridad-financiera-9_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:56.604431-03:00",
+  "status": "downloaded"
+}

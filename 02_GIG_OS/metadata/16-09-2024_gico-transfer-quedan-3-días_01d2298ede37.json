@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_01d2298ede37",
+  "platform": "gig_os",
+  "title": "GICO TRANSFER: quedan 3 días",
+  "date": "16.09.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gico-transfer-quedan-3-dias-988",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gico-transfer-quedan-3-dias-988",
+  "content_hash": "2e170e3580f316721790bc31a218f1bec4a1e44de69b218de5618d3d685c040a",
+  "url_hash": "f8fec0ffdf0b0bb0441522e12ac19ef461c93c898955fb8ef3721d9581fb2dae",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-09-2024_gico-transfer-quedan-3-días_01d2298ede37.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-09-2024_gico-transfer-quedan-3-días_01d2298ede37.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2024_gico-transfer-quedan-3-días_01d2298ede37",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/02/92/db/6e/d9/0292db6ed9f09887a35cd44e955127a1_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2024_gico-transfer-quedan-3-días_01d2298ede37\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:43.216312-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_50d3db9faf2e",
+  "platform": "gig_os",
+  "title": "La etapa 2 de la GR DAO CUP 2023: premios para los tres primeros",
+  "date": "14.02.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/proximamente-la-cena-con-el-presidente-690",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/proximamente-la-cena-con-el-presidente-690",
+  "content_hash": "faed92d169973941f86ab88ce0a5cb1873aa12806f4b6d5bcc1c705938be1f9a",
+  "url_hash": "b394f7b0693ea8fbda803b9136cf8c2d7d54f5591cb025455e45686a9ddb9114",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-02-2023_la-etapa-2-de-la-gr-dao-cup-2023-premios-para-los-tres-primeros_50d3db9faf2e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-02-2023_la-etapa-2-de-la-gr-dao-cup-2023-premios-para-los-tres-primeros_50d3db9faf2e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2023_la-etapa-2-de-la-gr-dao-cup-2023-premios-para-los-tres-primeros_50d3db9faf2e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/88/61/03/ee/ac/886103eeac711625984b713fd567b3db_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2023_la-etapa-2-de-la-gr-dao-cup-2023-premios-para-los-tres-primeros_50d3db9faf2e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1377/10-02-2023-38962-x-2-17-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2023_la-etapa-2-de-la-gr-dao-cup-2023-premios-para-los-tres-primeros_50d3db9faf2e\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1377/10-02-2023-38962-x-2-1982500_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2023_la-etapa-2-de-la-gr-dao-cup-2023-premios-para-los-tres-primeros_50d3db9faf2e\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1377/10-02-2023-38962-x-2-30_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2023_la-etapa-2-de-la-gr-dao-cup-2023-premios-para-los-tres-primeros_50d3db9faf2e\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:53.641814-03:00",
+  "status": "downloaded"
+}

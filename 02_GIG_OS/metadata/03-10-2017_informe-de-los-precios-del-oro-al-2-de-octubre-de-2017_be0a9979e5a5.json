@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_be0a9979e5a5",
+  "platform": "gig_os",
+  "title": "Informe de los precios del oro al 2 de octubre de 2017",
+  "date": "03.10.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-2-de-octubre-de-2017",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-los-precios-del-oro-al-2-de-octubre-de-2017",
+  "content_hash": "a0f43245b59a6855810e0199c22c600fba3bbf8ad3a9f2596f84c989278fcd80",
+  "url_hash": "a502897d0d71e3e7e4ac7178d43cf8ac79e23799616e33cabaf92cacb2705797",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-10-2017_informe-de-los-precios-del-oro-al-2-de-octubre-de-2017_be0a9979e5a5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-10-2017_informe-de-los-precios-del-oro-al-2-de-octubre-de-2017_be0a9979e5a5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-10-2017_informe-de-los-precios-del-oro-al-2-de-octubre-de-2017_be0a9979e5a5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e0/b6/a7/5d/ea/e0b6a75deafba7e685509434de77ff13_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/375/globalintergold-informe-de-los-precios-del-oro-2_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:51.257332-03:00",
+  "status": "downloaded"
+}

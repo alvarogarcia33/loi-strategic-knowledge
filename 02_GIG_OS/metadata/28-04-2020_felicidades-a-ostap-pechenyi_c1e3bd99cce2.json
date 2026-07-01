@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c1e3bd99cce2",
+  "platform": "gig_os",
+  "title": "¡Felicidades a Ostap Pechenyi!",
+  "date": "28.04.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/felicidades-a-ostap-pechenyi-249",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/felicidades-a-ostap-pechenyi-249",
+  "content_hash": "49fa82d3330da5ab79b262305d7b292613ee98e68b3af733618d2c4483e930a6",
+  "url_hash": "1598fd934cf3ce1f0e15922f6931a107db6c4254fba61e67ca453d807caeeb3e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-04-2020_felicidades-a-ostap-pechenyi_c1e3bd99cce2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-04-2020_felicidades-a-ostap-pechenyi_c1e3bd99cce2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-04-2020_felicidades-a-ostap-pechenyi_c1e3bd99cce2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cd/49/41/c9/af/cd4941c9afc9345d35a6720308b5b513_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-04-2020_felicidades-a-ostap-pechenyi_c1e3bd99cce2\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:05.525952-03:00",
+  "status": "downloaded"
+}

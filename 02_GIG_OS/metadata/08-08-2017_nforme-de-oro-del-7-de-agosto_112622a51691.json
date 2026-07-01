@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_112622a51691",
+  "platform": "gig_os",
+  "title": "nforme de oro del 7 de agosto",
+  "date": "08.08.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nforme-de-oro-del-7-de-agosto",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nforme-de-oro-del-7-de-agosto",
+  "content_hash": "beb04259dcf007df0c5f3f6da352a7b5f35e294b9a4793e2ef0ffb2832f34bae",
+  "url_hash": "19206782b040e773f01583e2ab6f1919f5665d466c2f9d71ea05c2694e5209dd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-08-2017_nforme-de-oro-del-7-de-agosto_112622a51691.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-08-2017_nforme-de-oro-del-7-de-agosto_112622a51691.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-08-2017_nforme-de-oro-del-7-de-agosto_112622a51691",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cf/62/0f/e8/d4/cf620fe8d4d5c16caf5cdaf38f3acb82_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-08-2017_nforme-de-oro-del-7-de-agosto_112622a51691\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://www.globalintergold.info/_files/37/4d/33/af/79/374d33af7990344803163c172cf80ce0.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-08-2017_nforme-de-oro-del-7-de-agosto_112622a51691\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "text/html",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:41:21.903831-03:00",
+  "status": "downloaded"
+}

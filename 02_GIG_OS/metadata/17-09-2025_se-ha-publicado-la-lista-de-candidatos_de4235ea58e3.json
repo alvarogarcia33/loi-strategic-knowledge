@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_de4235ea58e3",
+  "platform": "gig_os",
+  "title": "¡Se ha publicado la lista de candidatos!",
+  "date": "17.09.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-ha-publicado-la-lista-de-candidatos-1141",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-ha-publicado-la-lista-de-candidatos-1141",
+  "content_hash": "575cdea1c3c8e9ed0c34cb7ffa043df54c62172fb6e79701874ad5df884a01e9",
+  "url_hash": "c87f882ba2c3340bf377a4379f93410935b6d31ff65fddbe32a3aac0e5c41e60",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-09-2025_se-ha-publicado-la-lista-de-candidatos_de4235ea58e3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-09-2025_se-ha-publicado-la-lista-de-candidatos_de4235ea58e3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-09-2025_se-ha-publicado-la-lista-de-candidatos_de4235ea58e3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ec/17/c9/49/24/ec17c9492487bc94483e022b1baa8725_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-09-2025_se-ha-publicado-la-lista-de-candidatos_de4235ea58e3\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:21.941173-03:00",
+  "status": "downloaded"
+}

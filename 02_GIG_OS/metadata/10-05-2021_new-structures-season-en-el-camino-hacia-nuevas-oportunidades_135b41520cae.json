@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_135b41520cae",
+  "platform": "gig_os",
+  "title": "NEW STRUCTURES SEASON: ¡en el camino hacia nuevas oportunidades!",
+  "date": "10.05.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/new-structures-season-en-el-camino-hacia-nuevas-oportunidades-412",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/new-structures-season-en-el-camino-hacia-nuevas-oportunidades-412",
+  "content_hash": "63139bc76c5611c4e07949944090ff64bb28f25554a9b77cedd84b4d44d8c1d0",
+  "url_hash": "cc015be3a25a7cfdfefc3bd5b1b375865065ef9752352d5d2a800d0c30f56b44",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-05-2021_new-structures-season-en-el-camino-hacia-nuevas-oportunidades_135b41520cae.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-05-2021_new-structures-season-en-el-camino-hacia-nuevas-oportunidades_135b41520cae.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2021_new-structures-season-en-el-camino-hacia-nuevas-oportunidades_135b41520cae",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1f/68/1a/9a/1f/1f681a9a1fc11c90c5617d6179e2eebf_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2021_new-structures-season-en-el-camino-hacia-nuevas-oportunidades_135b41520cae\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1089/gsmanbox-kneeed1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2021_new-structures-season-en-el-camino-hacia-nuevas-oportunidades_135b41520cae\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:40:49.445605-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ad7892e9d877",
+  "platform": "gig_os",
+  "title": "China allana el camino para el oro",
+  "date": "26.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/china-allana-el-camino-para-el-oro-407",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/china-allana-el-camino-para-el-oro-407",
+  "content_hash": "b13042eab404db3834a372bfec1722c247482e5b271969c8ed9d106ec17fa5a4",
+  "url_hash": "495d24e272b4770604646b6a4a672174f24c62ef1d4235ed090203f744dc8a45",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-04-2021_china-allana-el-camino-para-el-oro_ad7892e9d877.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-04-2021_china-allana-el-camino-para-el-oro_ad7892e9d877.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2021_china-allana-el-camino-para-el-oro_ad7892e9d877",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8a/4d/b5/91/4d/8a4db5914de46f7d3ad7e90dadae260a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2021_china-allana-el-camino-para-el-oro_ad7892e9d877\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1084/image_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2021_china-allana-el-camino-para-el-oro_ad7892e9d877\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:28.406132-03:00",
+  "status": "downloaded"
+}

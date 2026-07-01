@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d3e60309fdb9",
+  "platform": "gig_os",
+  "title": "[REPORTAJE FOTOGRÁFICO]: \"Global Vision\": el principal evento de la década",
+  "date": "12.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/reportaje-fotografico-global-vision-el-principal-evento-de-la-decada-329",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/reportaje-fotografico-global-vision-el-principal-evento-de-la-decada-329",
+  "content_hash": "654f8ac9caf5a725a322704d4d557881171dc20959fb3431e82ab1d603065c71",
+  "url_hash": "1c864a4a79277914659995d364d77b60d24502b03068a125de75b054d9fd8817",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-11-2020_reportaje-fotográfico-global-vision-el-principal-evento-de-la-década_d3e60309fdb9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-11-2020_reportaje-fotográfico-global-vision-el-principal-evento-de-la-década_d3e60309fdb9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-11-2020_reportaje-fotográfico-global-vision-el-principal-evento-de-la-década_d3e60309fdb9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/984/12-11-2020-25209-2-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-11-2020_reportaje-fotográfico-global-vision-el-principal-evento-de-la-década_d3e60309fdb9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:52:44.307525-03:00",
+  "status": "downloaded"
+}

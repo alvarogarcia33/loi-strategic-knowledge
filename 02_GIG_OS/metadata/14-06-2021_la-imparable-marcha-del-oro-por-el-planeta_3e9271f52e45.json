@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_3e9271f52e45",
+  "platform": "gig_os",
+  "title": "La imparable marcha del oro por el planeta",
+  "date": "14.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-imparable-marcha-del-oro-por-el-planeta-427",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-imparable-marcha-del-oro-por-el-planeta-427",
+  "content_hash": "7f29239b4cbb0162a4fe19b18c09b8273ac5f8beaccbcb6ee047a1b189432d8a",
+  "url_hash": "4b19f508c6cd56a14c2d20abe4b595a38a5c1e8a8b96f5fa9a1b0f62458bea43",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-06-2021_la-imparable-marcha-del-oro-por-el-planeta_3e9271f52e45.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-06-2021_la-imparable-marcha-del-oro-por-el-planeta_3e9271f52e45.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-06-2021_la-imparable-marcha-del-oro-por-el-planeta_3e9271f52e45",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5a/5b/b8/c8/c4/5a5bb8c8c4fca36aad599c7a23cc49de_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-06-2021_la-imparable-marcha-del-oro-por-el-planeta_3e9271f52e45\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1108/imagepsd17_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-06-2021_la-imparable-marcha-del-oro-por-el-planeta_3e9271f52e45\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1108/imagepsd19_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-06-2021_la-imparable-marcha-del-oro-por-el-planeta_3e9271f52e45\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:33.888187-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_bb5501f58b3c",
+  "platform": "gig_os",
+  "title": "¡El cambio de NFT por GR DAO ADVANCED está disponible solo hasta el 31 de diciembre!",
+  "date": "14.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-cambio-de-nft-por-gr-dao-advanced-esta-disponible-solo-hasta-el-31-de-diciembre-841",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-cambio-de-nft-por-gr-dao-advanced-esta-disponible-solo-hasta-el-31-de-diciembre-841",
+  "content_hash": "61cc7de341b9d5c723188276a4c6e8270d763898cb0c0e24aa9471310b32ab93",
+  "url_hash": "ec0e5ec993bf2bb7bcac6477e03fd989b951d51e4130bccaca0adced5ceb715e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-12-2023_el-cambio-de-nft-por-gr-dao-advanced-está-disponible-solo-hasta-el-31-de-diciemb_bb5501f58b3c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-12-2023_el-cambio-de-nft-por-gr-dao-advanced-está-disponible-solo-hasta-el-31-de-diciemb_bb5501f58b3c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-12-2023_el-cambio-de-nft-por-gr-dao-advanced-está-disponible-solo-hasta-el-31-de-diciemb_bb5501f58b3c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/07/cf/41/53/50/07cf415350ade77b079d4cf1e83536df_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-12-2023_el-cambio-de-nft-por-gr-dao-advanced-está-disponible-solo-hasta-el-31-de-diciemb_bb5501f58b3c\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1585/es-table-14-12-2023_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-12-2023_el-cambio-de-nft-por-gr-dao-advanced-está-disponible-solo-hasta-el-31-de-diciemb_bb5501f58b3c\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:32.646833-03:00",
+  "status": "downloaded"
+}

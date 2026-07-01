@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_96fbbaefcf8a",
+  "platform": "gig_os",
+  "title": "\"GOLD CONVERGENCE\" — ¡un futuro que no se puede posponer!",
+  "date": "06.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gold-convergence-un-futuro-que-no-se-puede-posponer-475",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gold-convergence-un-futuro-que-no-se-puede-posponer-475",
+  "content_hash": "eb4434b1b2cac49b6173887ca48a933b3df75123241f43f3b5d37caa0fa0d1c8",
+  "url_hash": "dc40367a04d51087e4e40c554fdb06278a0ba910d74f338a78ae8b367a6947dc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-10-2021_gold-convergence-un-futuro-que-no-se-puede-posponer_96fbbaefcf8a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-10-2021_gold-convergence-un-futuro-que-no-se-puede-posponer_96fbbaefcf8a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-10-2021_gold-convergence-un-futuro-que-no-se-puede-posponer_96fbbaefcf8a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/57/a9/92/d2/5e/57a992d25e9098596c7e7ae2d8ff5a99_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-10-2021_gold-convergence-un-futuro-que-no-se-puede-posponer_96fbbaefcf8a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1172/gold-convergence-un-futuro-que-no-se-puede-posponer_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-10-2021_gold-convergence-un-futuro-que-no-se-puede-posponer_96fbbaefcf8a\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:04.918509-03:00",
+  "status": "downloaded"
+}

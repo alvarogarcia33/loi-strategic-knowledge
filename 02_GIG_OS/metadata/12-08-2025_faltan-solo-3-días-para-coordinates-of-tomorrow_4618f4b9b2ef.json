@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4618f4b9b2ef",
+  "platform": "gig_os",
+  "title": "Faltan solo 3 días para Coordinates of Tomorrow",
+  "date": "12.08.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/faltan-solo-3-dias-para-coordinates-of-tomorrow-1122",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/faltan-solo-3-dias-para-coordinates-of-tomorrow-1122",
+  "content_hash": "3cec64a6f88a409e5ef56cd658d66a9d5a314c8d1f5871398094934ea1cd3e6b",
+  "url_hash": "5a478c2863b3dcade26fc1596ce426ab2eab241233d43f895ab4399f6839462a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-08-2025_faltan-solo-3-días-para-coordinates-of-tomorrow_4618f4b9b2ef.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-08-2025_faltan-solo-3-días-para-coordinates-of-tomorrow_4618f4b9b2ef.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-08-2025_faltan-solo-3-días-para-coordinates-of-tomorrow_4618f4b9b2ef",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/52/c6/de/1b/4c/52c6de1b4c8311cb382a58157581d59d_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-08-2025_faltan-solo-3-días-para-coordinates-of-tomorrow_4618f4b9b2ef\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:15:40.417899-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_f0bbd8517539",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 13 de noviembre de 2017",
+  "date": "14.11.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-13-de-noviembre-de-2017",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-13-de-noviembre-de-2017",
+  "content_hash": "f27ad963d77ac430bd621b86b81ec67d83b16671f0ded4211c9759765c949d96",
+  "url_hash": "62ee9d62dca000f71aa0180ebee5abe8fbea2cbd5f608c516dd6392612d6dd46",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-11-2017_informe-de-la-cotización-del-oro-al-13-de-noviembre-de-2017_f0bbd8517539.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-11-2017_informe-de-la-cotización-del-oro-al-13-de-noviembre-de-2017_f0bbd8517539.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-11-2017_informe-de-la-cotización-del-oro-al-13-de-noviembre-de-2017_f0bbd8517539",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ab/e1/c8/a9/00/abe1c8a9005513ae6cdc56e140867fa7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-11-2017_informe-de-la-cotización-del-oro-al-13-de-noviembre-de-2017_f0bbd8517539\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/413/global-intergold-oro-informe-de-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:25:22.245859-03:00",
+  "status": "downloaded"
+}

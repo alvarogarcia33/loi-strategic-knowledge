@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_7a127e5e0a0c",
+  "platform": "gig_os",
+  "title": "¡Hágase minero del blockchain público!",
+  "date": "02.05.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/hagase-minero-del-blockchain-publico-929",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/hagase-minero-del-blockchain-publico-929",
+  "content_hash": "72202ed6a31d6955da6f03cf0b423ac13618e2623b8678fdebdf383e34843cf2",
+  "url_hash": "85adfb3b3aad4032400eb4bcd60d949a1a0ecca45536d230f932ef9161eeb4c2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-05-2024_hágase-minero-del-blockchain-público_7a127e5e0a0c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-05-2024_hágase-minero-del-blockchain-público_7a127e5e0a0c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-05-2024_hágase-minero-del-blockchain-público_7a127e5e0a0c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a2/75/0c/44/89/a2750c4489d791e736f936e43e40c9ea_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-05-2024_hágase-minero-del-blockchain-público_7a127e5e0a0c\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1684/public-blockhain-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-05-2024_hágase-minero-del-blockchain-público_7a127e5e0a0c\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1684/miner-text-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-05-2024_hágase-minero-del-blockchain-público_7a127e5e0a0c\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1684/path-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-05-2024_hágase-minero-del-blockchain-público_7a127e5e0a0c\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:23:31.169550-03:00",
+  "status": "downloaded"
+}

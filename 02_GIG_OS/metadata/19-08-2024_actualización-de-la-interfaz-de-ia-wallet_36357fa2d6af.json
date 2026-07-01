@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_36357fa2d6af",
+  "platform": "gig_os",
+  "title": "Actualización de la interfaz de IA WALLET",
+  "date": "19.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/actualizacion-de-la-interfaz-de-ia-wallet-975",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/actualizacion-de-la-interfaz-de-ia-wallet-975",
+  "content_hash": "cf60c1405134138aa49ab87710fda12c2622004a4e3293853282620223252081",
+  "url_hash": "46112ead3090a0233d59541ce4eae360adbb3c8ad509e5cc243781aec81a45d0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-08-2024_actualización-de-la-interfaz-de-ia-wallet_36357fa2d6af.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-08-2024_actualización-de-la-interfaz-de-ia-wallet_36357fa2d6af.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-08-2024_actualización-de-la-interfaz-de-ia-wallet_36357fa2d6af",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/99/c6/fb/60/d0/99c6fb60d019d903a5b5bf6d6bdb646a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-08-2024_actualización-de-la-interfaz-de-ia-wallet_36357fa2d6af\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1741/image2024-08-1916-53-31_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-08-2024_actualización-de-la-interfaz-de-ia-wallet_36357fa2d6af\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:57:15.823993-03:00",
+  "status": "downloaded"
+}

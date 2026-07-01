@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-06-30T01:34:26.452851+00:00",
+  "collection_name": "loi_ai_articles_v1",
+  "embedding_model": "nomic-embed-text:latest",
+  "generation_model": "qwen3:8b",
+  "chunk_size": 800,
+  "chunk_overlap": 150,
+  "total_documents": 1264,
+  "total_chunks": 6116,
+  "sources": [
+    "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown",
+    "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown"
+  ]
+}

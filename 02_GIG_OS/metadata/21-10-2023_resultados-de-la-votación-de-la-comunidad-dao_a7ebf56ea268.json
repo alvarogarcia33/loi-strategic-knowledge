@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a7ebf56ea268",
+  "platform": "gig_os",
+  "title": "Resultados de la votación de la comunidad DAO",
+  "date": "21.10.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-votacion-de-la-comunidad-dao-positive-807",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-votacion-de-la-comunidad-dao-positive-807",
+  "content_hash": "f647e7c5921c162ce0832ef34f6588c0c49e3d0b12ffadb166e26a3927d15178",
+  "url_hash": "5c884fad1e5b8cec8b7b90c3534b1712d4f9f9a7752b3d7bd7e981c37164dc1b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-10-2023_resultados-de-la-votación-de-la-comunidad-dao_a7ebf56ea268.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-10-2023_resultados-de-la-votación-de-la-comunidad-dao_a7ebf56ea268.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-10-2023_resultados-de-la-votación-de-la-comunidad-dao_a7ebf56ea268",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5c/e4/4e/19/18/5ce44e1918c90b1794169083710793c6_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-10-2023_resultados-de-la-votación-de-la-comunidad-dao_a7ebf56ea268\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1547/es-nft-table52002_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-10-2023_resultados-de-la-votación-de-la-comunidad-dao_a7ebf56ea268\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:46.830734-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_1fd9e69ff4cc",
+  "platform": "gig_os",
+  "title": "¿Cómo vencer el miedo y empezar la vida de nuevo?",
+  "date": "21.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-vencer-el-miedo-y-empezar-la-vida-de-nuevo-563",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-vencer-el-miedo-y-empezar-la-vida-de-nuevo-563",
+  "content_hash": "85dfe3dd0038d88a12c6308ec84ce4132fd887d1892fa67fb6648eef454d0aa2",
+  "url_hash": "c15613852d256d486d2eb72e20abaf6f9a018ace2de5eea60122b87f2565a572",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-04-2022_cómo-vencer-el-miedo-y-empezar-la-vida-de-nuevo_1fd9e69ff4cc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-04-2022_cómo-vencer-el-miedo-y-empezar-la-vida-de-nuevo_1fd9e69ff4cc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-04-2022_cómo-vencer-el-miedo-y-empezar-la-vida-de-nuevo_1fd9e69ff4cc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c3/fc/77/cf/93/c3fc77cf935bf6967f0953d2bcc02068_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-04-2022_cómo-vencer-el-miedo-y-empezar-la-vida-de-nuevo_1fd9e69ff4cc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1267/dizayn-bez-nazvaniya-25_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-04-2022_cómo-vencer-el-miedo-y-empezar-la-vida-de-nuevo_1fd9e69ff4cc\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1267/dizayn-bez-nazvaniya-28_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-04-2022_cómo-vencer-el-miedo-y-empezar-la-vida-de-nuevo_1fd9e69ff4cc\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:05.466117-03:00",
+  "status": "downloaded"
+}

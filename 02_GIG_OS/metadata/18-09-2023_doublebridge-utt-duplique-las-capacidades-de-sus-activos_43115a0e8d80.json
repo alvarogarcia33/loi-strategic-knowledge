@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_43115a0e8d80",
+  "platform": "gig_os",
+  "title": "DOUBLEBRIDGE UTT: duplique las capacidades de sus activos",
+  "date": "18.09.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/doublebridge-utt-duplique-las-capacidades-de-sus-activos-492",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/doublebridge-utt-duplique-las-capacidades-de-sus-activos-492",
+  "content_hash": "a6ec0df45c739d8dad0007780262dd141220262908a0b17dcc31b337c22b7f9e",
+  "url_hash": "c8d0e35bdbb3ad1531f4bf8cd912054a2c403b3d598cc6c02a766b867be301ce",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-09-2023_doublebridge-utt-duplique-las-capacidades-de-sus-activos_43115a0e8d80.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-09-2023_doublebridge-utt-duplique-las-capacidades-de-sus-activos_43115a0e8d80.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2023_doublebridge-utt-duplique-las-capacidades-de-sus-activos_43115a0e8d80",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/04/b9/cc/ca/a4/04b9cccaa43c6cfd140acbdef061e5a6_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2023_doublebridge-utt-duplique-las-capacidades-de-sus-activos_43115a0e8d80\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1530/10goscoin_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2023_doublebridge-utt-duplique-las-capacidades-de-sus-activos_43115a0e8d80\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:26.393386-03:00",
+  "status": "downloaded"
+}

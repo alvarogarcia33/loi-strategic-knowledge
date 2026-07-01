@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_50be0662abd7",
+  "platform": "gig_os",
+  "title": "La suspensión del programa Fractal",
+  "date": "01.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-suspension-del-programa-fractal-318",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-suspension-del-programa-fractal-318",
+  "content_hash": "527ebe5919495ea944a043a3e9b895beb02ce183554f0bdd9f6e1d4b4f7a44d4",
+  "url_hash": "287e19156f4d577002f7965d36d8e1d6fc813d1911e03eab069c689a589a3c4c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-11-2020_la-suspensión-del-programa-fractal_50be0662abd7.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-11-2020_la-suspensión-del-programa-fractal_50be0662abd7.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-11-2020_la-suspensión-del-programa-fractal_50be0662abd7",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ce/76/e8/69/70/ce76e869708ab28c24e64ba80e74ba63_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-11-2020_la-suspensión-del-programa-fractal_50be0662abd7\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:05.484162-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c93a67893c29",
+  "platform": "gig_os",
+  "title": "¡Preséntense a la comunidad!",
+  "date": "16.09.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/presentense-a-la-comunidad-1142",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/presentense-a-la-comunidad-1142",
+  "content_hash": "cc01ebc30501755882e918614071783ff97c5dc2793318777acad0236d6a7a38",
+  "url_hash": "7d1ad0918e8488a775dd6840f3688bd174f62a8136a042c971543ea2070d5561",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-09-2025_preséntense-a-la-comunidad_c93a67893c29.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-09-2025_preséntense-a-la-comunidad_c93a67893c29.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2025_preséntense-a-la-comunidad_c93a67893c29",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/97/42/a8/9a/a6/9742a89aa69805be196591fe2afcd9b9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2025_preséntense-a-la-comunidad_c93a67893c29\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:57.053723-03:00",
+  "status": "downloaded"
+}

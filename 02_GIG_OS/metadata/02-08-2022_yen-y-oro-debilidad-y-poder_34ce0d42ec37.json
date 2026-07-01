@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_34ce0d42ec37",
+  "platform": "gig_os",
+  "title": "Yen y oro: debilidad y poder",
+  "date": "02.08.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/yen-y-oro-debilidad-y-poder-607",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/yen-y-oro-debilidad-y-poder-607",
+  "content_hash": "9bb1cc2318f9df4a1c1ce9e525f7a8f2f52b9f20abf7b46ed1e4804e4afe9128",
+  "url_hash": "d61ff0f9a54e535ff85a3850265a500dca769ce1b81ec7ec555537f1d00eed8f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-08-2022_yen-y-oro-debilidad-y-poder_34ce0d42ec37.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-08-2022_yen-y-oro-debilidad-y-poder_34ce0d42ec37.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-08-2022_yen-y-oro-debilidad-y-poder_34ce0d42ec37",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d2/b3/63/46/70/d2b363467050823ea762ffb66f082e20_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-08-2022_yen-y-oro-debilidad-y-poder_34ce0d42ec37\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:06:04.787959-03:00",
+  "status": "downloaded"
+}

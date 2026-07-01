@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_812a41636f29",
+  "platform": "gig_os",
+  "title": "¡El lanzamiento del COMMODITY BOARD ha tenido lugar!",
+  "date": "19.04.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-lanzamiento-del-commodity-board-ha-tenido-lugar-921",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-lanzamiento-del-commodity-board-ha-tenido-lugar-921",
+  "content_hash": "2477e9655de91587179a726240b8c3bb827e14d8c99d4678f45f6c98d97fde3f",
+  "url_hash": "993a84e5b1de60cd9f19efae004a4f2470057b825b3f92dced172327a77aab74",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-04-2024_el-lanzamiento-del-commodity-board-ha-tenido-lugar_812a41636f29.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-04-2024_el-lanzamiento-del-commodity-board-ha-tenido-lugar_812a41636f29.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-04-2024_el-lanzamiento-del-commodity-board-ha-tenido-lugar_812a41636f29",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/44/c2/22/7e/32/44c2227e329e933954f55560e416206e_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-04-2024_el-lanzamiento-del-commodity-board-ha-tenido-lugar_812a41636f29\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1674/untitled-1-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-04-2024_el-lanzamiento-del-commodity-board-ha-tenido-lugar_812a41636f29\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1674/untitled-sdf_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-04-2024_el-lanzamiento-del-commodity-board-ha-tenido-lugar_812a41636f29\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:37.034052-03:00",
+  "status": "downloaded"
+}

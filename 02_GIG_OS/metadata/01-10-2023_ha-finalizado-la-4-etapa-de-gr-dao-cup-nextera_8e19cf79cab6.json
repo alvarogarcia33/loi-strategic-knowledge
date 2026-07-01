@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_8e19cf79cab6",
+  "platform": "gig_os",
+  "title": "Ha finalizado la 4.ª etapa de GR DAO CUP NextEra",
+  "date": "01.10.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-finalizado-la-4-etapa-de-gr-dao-cup-nextera-797",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-finalizado-la-4-etapa-de-gr-dao-cup-nextera-797",
+  "content_hash": "1d12ea24cc206d6896d7bb17876a5a286bc1f9585986c263c9c0e4402cc95aae",
+  "url_hash": "34597cb4ebf3e035abbc703b1de2fbb78519aff64d2e30eeb0a602a791ae46b6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-10-2023_ha-finalizado-la-4-etapa-de-gr-dao-cup-nextera_8e19cf79cab6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-10-2023_ha-finalizado-la-4-etapa-de-gr-dao-cup-nextera_8e19cf79cab6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-10-2023_ha-finalizado-la-4-etapa-de-gr-dao-cup-nextera_8e19cf79cab6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a5/bd/96/e4/3a/a5bd96e43a674782e9847083b4e42a69_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-10-2023_ha-finalizado-la-4-etapa-de-gr-dao-cup-nextera_8e19cf79cab6\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:22:52.056743-03:00",
+  "status": "downloaded"
+}

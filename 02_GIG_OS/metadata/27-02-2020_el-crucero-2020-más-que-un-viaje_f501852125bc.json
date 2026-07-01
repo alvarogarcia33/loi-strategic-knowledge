@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_f501852125bc",
+  "platform": "gig_os",
+  "title": "EL CRUCERO 2020: más que un viaje",
+  "date": "27.02.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-crucero-2020-mas-que-un-viaje-225",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-crucero-2020-mas-que-un-viaje-225",
+  "content_hash": "8f542b1b4f546246251323e0fff1d041077685cdf90df743e83ddbf1c7b80829",
+  "url_hash": "dca55359d6691a65a67fe13e73dfe71f7afe6104060ca6ca4f280b611db6ea16",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-02-2020_el-crucero-2020-más-que-un-viaje_f501852125bc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-02-2020_el-crucero-2020-más-que-un-viaje_f501852125bc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-02-2020_el-crucero-2020-más-que-un-viaje_f501852125bc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7e/3e/e3/29/f0/7e3ee329f0d3276c1c9ad01cf48ca3d6_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-02-2020_el-crucero-2020-más-que-un-viaje_f501852125bc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:43.969882-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1b4b03b75fd6",
+  "platform": "gig_os",
+  "title": "En el umbral de los cambios: el oro está ganando impulso",
+  "date": "11.05.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/en-el-umbral-de-los-cambios-el-oro-esta-ganando-impulso-254",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/en-el-umbral-de-los-cambios-el-oro-esta-ganando-impulso-254",
+  "content_hash": "0e15af5cb76888015b1c3f637ee8d72bf38ab9b5691cbcc9ab23eec050133923",
+  "url_hash": "12c538b8663acc03b83a653c8a28193fa63b87ba00194fa9b81f79408cb827ee",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-05-2020_en-el-umbral-de-los-cambios-el-oro-está-ganando-impulso_1b4b03b75fd6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-05-2020_en-el-umbral-de-los-cambios-el-oro-está-ganando-impulso_1b4b03b75fd6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-05-2020_en-el-umbral-de-los-cambios-el-oro-está-ganando-impulso_1b4b03b75fd6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/41/16/93/e6/25/411693e62531b339fedd5b5894a41d5b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-05-2020_en-el-umbral-de-los-cambios-el-oro-está-ganando-impulso_1b4b03b75fd6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/871/kitko_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-05-2020_en-el-umbral-de-los-cambios-el-oro-está-ganando-impulso_1b4b03b75fd6\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:13:24.842720-03:00",
+  "status": "downloaded"
+}

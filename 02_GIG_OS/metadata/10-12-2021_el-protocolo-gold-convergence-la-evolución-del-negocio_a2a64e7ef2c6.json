@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a2a64e7ef2c6",
+  "platform": "gig_os",
+  "title": "El protocolo GOLD CONVERGENCE — ¡la evolución del negocio!",
+  "date": "10.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-protocolo-gold-convergence-la-evolucion-del-negocio-504",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-protocolo-gold-convergence-la-evolucion-del-negocio-504",
+  "content_hash": "3f0fbb1ca91df0f2118dc616009591efc0b2558a7d6a74c3355d6cc45de77a5f",
+  "url_hash": "03f2c9f09003d00e7070a126e12f8b0bed730c88c14cd0478a82dd94fb24950d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-12-2021_el-protocolo-gold-convergence-la-evolución-del-negocio_a2a64e7ef2c6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-12-2021_el-protocolo-gold-convergence-la-evolución-del-negocio_a2a64e7ef2c6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-12-2021_el-protocolo-gold-convergence-la-evolución-del-negocio_a2a64e7ef2c6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1f/82/01/7d/a9/1f82017da9f7aea46324715f1e2ae80e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-12-2021_el-protocolo-gold-convergence-la-evolución-del-negocio_a2a64e7ef2c6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1203/untitled-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-12-2021_el-protocolo-gold-convergence-la-evolución-del-negocio_a2a64e7ef2c6\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:00.421728-03:00",
+  "status": "downloaded"
+}

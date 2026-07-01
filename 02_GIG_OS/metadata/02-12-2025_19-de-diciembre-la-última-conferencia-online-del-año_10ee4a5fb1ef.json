@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_10ee4a5fb1ef",
+  "platform": "gig_os",
+  "title": "19 de diciembre: la última conferencia online del año",
+  "date": "02.12.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/19-de-diciembre-la-ultima-conferencia-online-del-ano-1138",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/19-de-diciembre-la-ultima-conferencia-online-del-ano-1138",
+  "content_hash": "d14ad821a45c90037ebb746a5cc4ca241fdabe3b62317053d7aebc5f3f9f2bed",
+  "url_hash": "fe154af7725b33976268109b05905bea48fa9c0dd4e428186ddc1fa8efbb0db8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-12-2025_19-de-diciembre-la-última-conferencia-online-del-año_10ee4a5fb1ef.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-12-2025_19-de-diciembre-la-última-conferencia-online-del-año_10ee4a5fb1ef.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-12-2025_19-de-diciembre-la-última-conferencia-online-del-año_10ee4a5fb1ef",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/88/eb/b0/a2/d5/88ebb0a2d5a9c8c010a8a9194e0c933c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-12-2025_19-de-diciembre-la-última-conferencia-online-del-año_10ee4a5fb1ef\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:55:14.572274-03:00",
+  "status": "downloaded"
+}

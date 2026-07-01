@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4da302a350bd",
+  "platform": "gig_os",
+  "title": "La zona amarilla de Aristippia: ¡posibilidades ampliadas!",
+  "date": "02.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-zona-amarilla-de-aristippia-posibilidades-ampliadas-743",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-zona-amarilla-de-aristippia-posibilidades-ampliadas-743",
+  "content_hash": "3a7d5dbd4ef47e3f1328a601fe82297d2d86e6bb8016ce0f04c6dcc5a701522e",
+  "url_hash": "f59438a4c8e68065e870c9b4291c86d5f2dd6e0e7ecbea4642113af631a6351e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-06-2023_la-zona-amarilla-de-aristippia-posibilidades-ampliadas_4da302a350bd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-06-2023_la-zona-amarilla-de-aristippia-posibilidades-ampliadas_4da302a350bd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-06-2023_la-zona-amarilla-de-aristippia-posibilidades-ampliadas_4da302a350bd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a3/c3/1a/2f/ca/a3c31a2fcafe489dcdf585ccd0b9c767_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-06-2023_la-zona-amarilla-de-aristippia-posibilidades-ampliadas_4da302a350bd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:45.896404-03:00",
+  "status": "downloaded"
+}

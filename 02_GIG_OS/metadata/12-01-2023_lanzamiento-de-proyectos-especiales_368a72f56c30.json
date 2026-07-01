@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_368a72f56c30",
+  "platform": "gig_os",
+  "title": "¡Lanzamiento de proyectos especiales!",
+  "date": "12.01.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/lanzamiento-de-proyectos-especiales-678",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/lanzamiento-de-proyectos-especiales-678",
+  "content_hash": "b06de0962a02de9ed92dac6536c0643607fd834634a12d10664ef4c11b28b830",
+  "url_hash": "5e156bea7a353d23b6e3eb0b0d47c29886c3602a971e58e5734e1b12128de454",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-01-2023_lanzamiento-de-proyectos-especiales_368a72f56c30.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-01-2023_lanzamiento-de-proyectos-especiales_368a72f56c30.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-01-2023_lanzamiento-de-proyectos-especiales_368a72f56c30",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2a/5f/d6/10/44/2a5fd61044b81b3885cfd6d966ace070_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-01-2023_lanzamiento-de-proyectos-especiales_368a72f56c30\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:54.164028-03:00",
+  "status": "downloaded"
+}

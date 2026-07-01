@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_3004fea02acd",
+  "platform": "gig_os",
+  "title": "UnityGlobe Conference: el acontecimiento más brillante de la primavera",
+  "date": "26.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/unityglobe-conference-el-acontecimiento-mas-brillante-de-la-primavera-868",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/unityglobe-conference-el-acontecimiento-mas-brillante-de-la-primavera-868",
+  "content_hash": "5f3652154449227cbb35786f43d6bce7fb63ac428a052e2db126605a0187c33d",
+  "url_hash": "0d43747f0e1159c3734308ef9bf0890bfdbf5cffd14280dfc6b00d5c22a1fbd0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-01-2024_unityglobe-conference-el-acontecimiento-más-brillante-de-la-primavera_3004fea02acd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-01-2024_unityglobe-conference-el-acontecimiento-más-brillante-de-la-primavera_3004fea02acd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-01-2024_unityglobe-conference-el-acontecimiento-más-brillante-de-la-primavera_3004fea02acd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1613/unity-globe-conference-26-01-2024-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-01-2024_unityglobe-conference-el-acontecimiento-más-brillante-de-la-primavera_3004fea02acd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1613/table-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-01-2024_unityglobe-conference-el-acontecimiento-más-brillante-de-la-primavera_3004fea02acd\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1613/cupunity-time-4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-01-2024_unityglobe-conference-el-acontecimiento-más-brillante-de-la-primavera_3004fea02acd\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:01:02.591278-03:00",
+  "status": "downloaded"
+}

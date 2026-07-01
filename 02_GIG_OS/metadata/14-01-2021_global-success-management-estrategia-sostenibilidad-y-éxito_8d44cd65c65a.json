@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_8d44cd65c65a",
+  "platform": "gig_os",
+  "title": "Global Success Management: ¡estrategia, sostenibilidad y éxito!",
+  "date": "14.01.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/global-success-management-estrategia-sostenibilidad-y-exito-359",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/global-success-management-estrategia-sostenibilidad-y-exito-359",
+  "content_hash": "0b05538f66f342d1856001a538bbf5133d4dd49748f29c43b0ced24d99b57546",
+  "url_hash": "a0f62319c512b63e47bc9b8dc9aee206c9f06f0f9b0f62b4d727cc2d6ae02aab",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-01-2021_global-success-management-estrategia-sostenibilidad-y-éxito_8d44cd65c65a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-01-2021_global-success-management-estrategia-sostenibilidad-y-éxito_8d44cd65c65a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-01-2021_global-success-management-estrategia-sostenibilidad-y-éxito_8d44cd65c65a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/21/fc/f6/3f/c7/21fcf63fc7c7e9a3e5f383a81edbb700_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-01-2021_global-success-management-estrategia-sostenibilidad-y-éxito_8d44cd65c65a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1023/14-01-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-01-2021_global-success-management-estrategia-sostenibilidad-y-éxito_8d44cd65c65a\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:18:38.237762-03:00",
+  "status": "downloaded"
+}

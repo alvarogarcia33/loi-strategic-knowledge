@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_17fab0e7174b",
+  "platform": "gig_os",
+  "title": "Oro en lugar de moneda: la experiencia estadounidense",
+  "date": "16.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-en-lugar-de-moneda-la-experiencia-estadounidense-575",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-en-lugar-de-moneda-la-experiencia-estadounidense-575",
+  "content_hash": "0a3c4da4cb5755d26e5f6d8a2feb6137d5b34245e444180e0f1682c4ef620ac1",
+  "url_hash": "bef0ee75d102179f1cdb7b9bc279c7939a3891ea8cf9031d7cc612cfae949c7e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-05-2022_oro-en-lugar-de-moneda-la-experiencia-estadounidense_17fab0e7174b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-05-2022_oro-en-lugar-de-moneda-la-experiencia-estadounidense_17fab0e7174b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2022_oro-en-lugar-de-moneda-la-experiencia-estadounidense_17fab0e7174b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e1/11/8b/3a/90/e1118b3a901905a54626396359bfd0a4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2022_oro-en-lugar-de-moneda-la-experiencia-estadounidense_17fab0e7174b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1282/dizayn-bez-nazvaniya-36_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2022_oro-en-lugar-de-moneda-la-experiencia-estadounidense_17fab0e7174b\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1282/dizayn-bez-nazvaniya-38_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2022_oro-en-lugar-de-moneda-la-experiencia-estadounidense_17fab0e7174b\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:28.247309-03:00",
+  "status": "downloaded"
+}

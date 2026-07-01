@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_ff8d882e40d3",
+  "platform": "gig_os",
+  "title": "Demanda de oro en Europa",
+  "date": "20.09.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/demanda-de-oro-en-europa-468",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/demanda-de-oro-en-europa-468",
+  "content_hash": "0656fec2dcc7d7e48348824801f2e68e91878bda5f31d899f63c4b82b86fde0a",
+  "url_hash": "7c326f5795f1a2e924fe1c9923f9e84f46fa0eed471bd46e5a9961cd964cbd1d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-09-2021_demanda-de-oro-en-europa_ff8d882e40d3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-09-2021_demanda-de-oro-en-europa_ff8d882e40d3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-09-2021_demanda-de-oro-en-europa_ff8d882e40d3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7d/59/5e/d7/86/7d595ed786cb6434cf8345fa0288eb8a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-09-2021_demanda-de-oro-en-europa_ff8d882e40d3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1164/demanda-de-oro-en-europa5682_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-09-2021_demanda-de-oro-en-europa_ff8d882e40d3\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1164/demanda-de-oro-en-europa44332_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-09-2021_demanda-de-oro-en-europa_ff8d882e40d3\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:05:46.592995-03:00",
+  "status": "downloaded"
+}

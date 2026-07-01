@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_2060e890cbae",
+  "platform": "gig_os",
+  "title": "El impacto del oro: cómo el dólar logró el éxito",
+  "date": "17.02.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-impacto-del-oro-como-el-dolar-logro-el-exito-221",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-impacto-del-oro-como-el-dolar-logro-el-exito-221",
+  "content_hash": "b2ef6f030b6266bb71d6e87c2ad8bc26c496b1c3a4865893d24086f0260d04bc",
+  "url_hash": "2dd468693c8ff9ce38985da9afc57598dfdceb56ba5fe4cee9758540a04fe468",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-02-2020_el-impacto-del-oro-cómo-el-dólar-logró-el-éxito_2060e890cbae.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-02-2020_el-impacto-del-oro-cómo-el-dólar-logró-el-éxito_2060e890cbae.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-02-2020_el-impacto-del-oro-cómo-el-dólar-logró-el-éxito_2060e890cbae",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ee/cb/64/79/b3/eecb6479b3256297709bc08e5af8b2c8_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-02-2020_el-impacto-del-oro-cómo-el-dólar-logró-el-éxito_2060e890cbae\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/835/global-intergold--los-participantes-de-la-conferencia-de-bretton-woods_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-02-2020_el-impacto-del-oro-cómo-el-dólar-logró-el-éxito_2060e890cbae\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/835/global-intergold--valor-del-oro-desde-principios-de-2019_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-02-2020_el-impacto-del-oro-cómo-el-dólar-logró-el-éxito_2060e890cbae\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:24.904427-03:00",
+  "status": "downloaded"
+}

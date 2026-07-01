@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_ed428ae2b84e",
+  "platform": "gig_os",
+  "title": "¡Falta poco para el final de la promoción!",
+  "date": "14.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/falta-poco-para-el-final-de-la-promocion-544",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/falta-poco-para-el-final-de-la-promocion-544",
+  "content_hash": "52cd255457d3c3f440384713df7731297a0343da158e4671c45de19e00568b92",
+  "url_hash": "cb7e9a0a0bf7104f8da42ecdc9aac97aa8078b1c7aa1508156c0a40c8b41c9ae",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-03-2022_falta-poco-para-el-final-de-la-promoción_ed428ae2b84e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-03-2022_falta-poco-para-el-final-de-la-promoción_ed428ae2b84e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2022_falta-poco-para-el-final-de-la-promoción_ed428ae2b84e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/23/d2/e9/c2/77/23d2e9c27743581df1a63274e44760e9_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-03-2022_falta-poco-para-el-final-de-la-promoción_ed428ae2b84e\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:59.918055-03:00",
+  "status": "downloaded"
+}

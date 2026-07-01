@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9972b70caefd",
+  "platform": "gig_os",
+  "title": "Nueva tendencia: extraer oro de los smartphones",
+  "date": "08.11.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nueva-tendencia-extraer-oro-de-los-smartphones-490",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nueva-tendencia-extraer-oro-de-los-smartphones-490",
+  "content_hash": "754fa337c90b8813762745cc341f92dca6f0900fea056534b982566cf185c38b",
+  "url_hash": "cf96111a4ff4c38665f07c6c55ea5de697193fa87cf7576af30b9c98cdc247e1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-11-2021_nueva-tendencia-extraer-oro-de-los-smartphones_9972b70caefd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-11-2021_nueva-tendencia-extraer-oro-de-los-smartphones_9972b70caefd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-11-2021_nueva-tendencia-extraer-oro-de-los-smartphones_9972b70caefd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f3/0f/75/60/a1/f30f7560a1eb0fb7a9fb1a0b6bc70d96_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-11-2021_nueva-tendencia-extraer-oro-de-los-smartphones_9972b70caefd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1189/120721gold2-12_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-11-2021_nueva-tendencia-extraer-oro-de-los-smartphones_9972b70caefd\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:43:35.939139-03:00",
+  "status": "downloaded"
+}

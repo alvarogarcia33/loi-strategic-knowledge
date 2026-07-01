@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_9a20f4cef31a",
+  "platform": "gig_os",
+  "title": "¿Por qué necesita oro?",
+  "date": "29.04.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-necesita-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-necesita-oro",
+  "content_hash": "650737e70a4fa67e5e6fa7bf2e6c1d2c6111301786df61da7e28e973617695f3",
+  "url_hash": "7988ad2223860bfb2fc2b911ffa738d92a78e81cc6da1dc60bc8211b6d283fba",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-04-2019_por-qué-necesita-oro_9a20f4cef31a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-04-2019_por-qué-necesita-oro_9a20f4cef31a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-04-2019_por-qué-necesita-oro_9a20f4cef31a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e9/43/09/c3/af/e94309c3af90360840ae38989aea51d0_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-04-2019_por-qué-necesita-oro_9a20f4cef31a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/694/global-intergold-gold-informe-de-la-cotizacion-del-oro-19_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/694/global-intergold-gold-informe-de-la-cotizacion-del-oro-20_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:18.875066-03:00",
+  "status": "downloaded"
+}

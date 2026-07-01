@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_d1e70f8da268",
+  "platform": "gig_os",
+  "title": "El proyecto especial 10Together: ¡nuevas oportunidades de oro!",
+  "date": "10.06.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-proyecto-especial-10together-nuevas-oportunidades-de-oro-256",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-proyecto-especial-10together-nuevas-oportunidades-de-oro-256",
+  "content_hash": "c809eaddb38ea1db6fd0c7a03bf179b5369dc3752bf0fd87c29a3bc0b0635917",
+  "url_hash": "657e3a568ad82711b9edb90de76eb155add4e8a3d19af391a28cb8d8fb63a3cd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-06-2020_el-proyecto-especial-10together-nuevas-oportunidades-de-oro_d1e70f8da268.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-06-2020_el-proyecto-especial-10together-nuevas-oportunidades-de-oro_d1e70f8da268.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2020_el-proyecto-especial-10together-nuevas-oportunidades-de-oro_d1e70f8da268",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9c/74/6a/94/b2/9c746a94b23d6942a5ecb6158546b596_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2020_el-proyecto-especial-10together-nuevas-oportunidades-de-oro_d1e70f8da268\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/873/10t-path-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2020_el-proyecto-especial-10together-nuevas-oportunidades-de-oro_d1e70f8da268\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/873/tablicaesnew_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2020_el-proyecto-especial-10together-nuevas-oportunidades-de-oro_d1e70f8da268\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:07.336211-03:00",
+  "status": "downloaded"
+}

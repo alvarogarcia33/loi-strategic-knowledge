@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_fe68f9c22d69",
+  "platform": "gig_os",
+  "title": "La Inflación está ganando impulso. ¿Cómo reacciona el oro?",
+  "date": "31.05.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-inflacion-esta-ganando-impulso-como-reacciona-el-oro-423",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-inflacion-esta-ganando-impulso-como-reacciona-el-oro-423",
+  "content_hash": "880e6e16b7b258b9c28aee7203f287b891cb731d3b84305135c91fc9ad8f0d35",
+  "url_hash": "3948bdf524794ec3062a2cb8ff8292648b90e709194c77659c547aa2d15230e4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\31-05-2021_la-inflación-está-ganando-impulso-cómo-reacciona-el-oro_fe68f9c22d69.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\31-05-2021_la-inflación-está-ganando-impulso-cómo-reacciona-el-oro_fe68f9c22d69.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-05-2021_la-inflación-está-ganando-impulso-cómo-reacciona-el-oro_fe68f9c22d69",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/af/b6/2f/67/f1/afb62f67f148bbce29c48dc4c1f93213_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-05-2021_la-inflación-está-ganando-impulso-cómo-reacciona-el-oro_fe68f9c22d69\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1101/screenshot-2021-05-31-0955131_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-05-2021_la-inflación-está-ganando-impulso-cómo-reacciona-el-oro_fe68f9c22d69\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1101/imagepsd5_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-05-2021_la-inflación-está-ganando-impulso-cómo-reacciona-el-oro_fe68f9c22d69\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:41.350609-03:00",
+  "status": "downloaded"
+}

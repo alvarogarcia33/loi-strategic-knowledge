@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_5de36d5f6419",
+  "platform": "gig_os",
+  "title": "El oro es imparable: ¡nuevo récord histórico!",
+  "date": "03.08.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-es-imparable-nuevo-record-historico-289",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-es-imparable-nuevo-record-historico-289",
+  "content_hash": "bd6799546d3d30163887ed89fc16d99d2c095579277b063189fa9adc847f5821",
+  "url_hash": "2a5a74d620a5273969e435784cb5e74d92c3f84d0080b9578e35498c3b5099a4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-08-2020_el-oro-es-imparable-nuevo-récord-histórico_5de36d5f6419.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-08-2020_el-oro-es-imparable-nuevo-récord-histórico_5de36d5f6419.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-08-2020_el-oro-es-imparable-nuevo-récord-histórico_5de36d5f6419",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6d/14/ac/11/f3/6d14ac11f33c28e7360eaa9ff76743d0_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-08-2020_el-oro-es-imparable-nuevo-récord-histórico_5de36d5f6419\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/914/imgonline-com-ua-resize-mnvrgmi1gf9soa21_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-08-2020_el-oro-es-imparable-nuevo-récord-histórico_5de36d5f6419\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:57.794987-03:00",
+  "status": "downloaded"
+}

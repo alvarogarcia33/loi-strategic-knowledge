@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_8dffbee5ce1d",
+  "platform": "gig_os",
+  "title": "El seminario online inaugura una era de innovaciones en GIG-OS",
+  "date": "09.09.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-seminario-online-inaugura-una-era-de-innovaciones-en-gig-os-463",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-seminario-online-inaugura-una-era-de-innovaciones-en-gig-os-463",
+  "content_hash": "b1dd390a1d5a565f43b17fca7bb55e39ddbed4aad56896c5b79ec297f5c74e45",
+  "url_hash": "2047be7a3f45d060fd5180c2dda16a2096ad39e97fdd915802fd8daba73451cc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-09-2021_el-seminario-online-inaugura-una-era-de-innovaciones-en-gig-os_8dffbee5ce1d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-09-2021_el-seminario-online-inaugura-una-era-de-innovaciones-en-gig-os_8dffbee5ce1d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-09-2021_el-seminario-online-inaugura-una-era-de-innovaciones-en-gig-os_8dffbee5ce1d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/86/86/82/11/29/86868211292b267174999742a7af8692_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-09-2021_el-seminario-online-inaugura-una-era-de-innovaciones-en-gig-os_8dffbee5ce1d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1157/goscoinactivationcodes1142x180x1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-09-2021_el-seminario-online-inaugura-una-era-de-innovaciones-en-gig-os_8dffbee5ce1d\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:26.696241-03:00",
+  "status": "downloaded"
+}

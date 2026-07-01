@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_29c430f2a692",
+  "platform": "gig_os",
+  "title": "NFT RenaSER Brazil 2023: ¡quedan solo 6 días!",
+  "date": "28.02.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nft-renaser-brazil-2023-quedan-solo-6-dias-887",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nft-renaser-brazil-2023-quedan-solo-6-dias-887",
+  "content_hash": "a50257a9f2f368a3d46e91ff55f5514232248695691ef39d633b6fc643d4cfba",
+  "url_hash": "6bf758088d950621e6232ba4d48af776f28e82d7cdcb6258bfe673394dea2236",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-02-2024_nft-renaser-brazil-2023-quedan-solo-6-días_29c430f2a692.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-02-2024_nft-renaser-brazil-2023-quedan-solo-6-días_29c430f2a692.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-02-2024_nft-renaser-brazil-2023-quedan-solo-6-días_29c430f2a692",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/92/2e/88/4a/cd/922e884acd9c391b4f023dcba2826baf_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-02-2024_nft-renaser-brazil-2023-quedan-solo-6-días_29c430f2a692\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1638/ciy-bracelet-28-02-224_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-02-2024_nft-renaser-brazil-2023-quedan-solo-6-días_29c430f2a692\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:21.373130-03:00",
+  "status": "downloaded"
+}

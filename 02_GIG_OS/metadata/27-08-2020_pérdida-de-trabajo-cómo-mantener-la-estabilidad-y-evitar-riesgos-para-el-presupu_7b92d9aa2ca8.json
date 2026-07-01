@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_7b92d9aa2ca8",
+  "platform": "gig_os",
+  "title": "Pérdida de trabajo: ¿cómo mantener la estabilidad y evitar riesgos para el presupuesto?",
+  "date": "27.08.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/perdida-de-trabajo-como-mantener-la-estabilidad-y-evitar-riesgos-para-el-presupuesto-298",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/perdida-de-trabajo-como-mantener-la-estabilidad-y-evitar-riesgos-para-el-presupuesto-298",
+  "content_hash": "545f0e28bbb5b958499fd9d2aa935554094625bc8d202327712a727f1963802e",
+  "url_hash": "493da4b1e8da2a51ffb891afb26dccfbe66de04d6f92bdd6df4cd647fa2e66c7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-08-2020_pérdida-de-trabajo-cómo-mantener-la-estabilidad-y-evitar-riesgos-para-el-presupu_7b92d9aa2ca8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-08-2020_pérdida-de-trabajo-cómo-mantener-la-estabilidad-y-evitar-riesgos-para-el-presupu_7b92d9aa2ca8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-08-2020_pérdida-de-trabajo-cómo-mantener-la-estabilidad-y-evitar-riesgos-para-el-presupu_7b92d9aa2ca8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/937/1-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-08-2020_pérdida-de-trabajo-cómo-mantener-la-estabilidad-y-evitar-riesgos-para-el-presupu_7b92d9aa2ca8\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/937/2-21744_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-08-2020_pérdida-de-trabajo-cómo-mantener-la-estabilidad-y-evitar-riesgos-para-el-presupu_7b92d9aa2ca8\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/937/3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-08-2020_pérdida-de-trabajo-cómo-mantener-la-estabilidad-y-evitar-riesgos-para-el-presupu_7b92d9aa2ca8\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:25.124012-03:00",
+  "status": "downloaded"
+}

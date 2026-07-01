@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_0a17274f4eb3",
+  "platform": "gig_os",
+  "title": "Gana el que tiene oro",
+  "date": "12.07.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gana-el-que-tiene-oro-438",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gana-el-que-tiene-oro-438",
+  "content_hash": "80aac39ff2cc71524566efe8b4d4b5e7bfd6a462999b4df7b3e35c5c4411e047",
+  "url_hash": "95fdefa9af0d773b3e4ac63dcf21fe2a49278e3dc3979041f5ff1e7a836184b8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-07-2021_gana-el-que-tiene-oro_0a17274f4eb3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-07-2021_gana-el-que-tiene-oro_0a17274f4eb3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2021_gana-el-que-tiene-oro_0a17274f4eb3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0e/3e/2b/cd/4e/0e3e2bcd4e236ddd513a3ae20257faf4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2021_gana-el-que-tiene-oro_0a17274f4eb3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1121/120721gold16063_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2021_gana-el-que-tiene-oro_0a17274f4eb3\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1121/120721gold2-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2021_gana-el-que-tiene-oro_0a17274f4eb3\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1121/120721gold224533_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2021_gana-el-que-tiene-oro_0a17274f4eb3\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:29.352054-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_acdae58f83ed",
+  "platform": "gig_os",
+  "title": "La India: ¡nunca hay demasiado oro!",
+  "date": "05.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-india-nunca-hay-demasiado-oro-394",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-india-nunca-hay-demasiado-oro-394",
+  "content_hash": "b8b6ba8a92c6c301b92bb699beace1dd3d8c2b276ff29616a4bfbe1c53e70762",
+  "url_hash": "f970697390952db0dda7b50d2191f362a7dbcb325b3067bac86dcbac26f29fde",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-04-2021_la-india-nunca-hay-demasiado-oro_acdae58f83ed.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-04-2021_la-india-nunca-hay-demasiado-oro_acdae58f83ed.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-04-2021_la-india-nunca-hay-demasiado-oro_acdae58f83ed",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d2/67/f3/61/b1/d267f361b1d4652142084760994a2f36_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-04-2021_la-india-nunca-hay-demasiado-oro_acdae58f83ed\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1069/new-project-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-04-2021_la-india-nunca-hay-demasiado-oro_acdae58f83ed\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1069/new-project_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-04-2021_la-india-nunca-hay-demasiado-oro_acdae58f83ed\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:37.291003-03:00",
+  "status": "downloaded"
+}

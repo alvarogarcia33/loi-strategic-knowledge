@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_2d610b13fc3e",
+  "platform": "gig_os",
+  "title": "¿Por qué el oro es mejor que un dispositivo de moda?",
+  "date": "18.11.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-el-oro-es-mejor-que-un-dispositivo-de-moda-189",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-el-oro-es-mejor-que-un-dispositivo-de-moda-189",
+  "content_hash": "d64316bc2d0a79675348e93f4f167d21164feb168870ee0834dac35d6ce546da",
+  "url_hash": "37ed1dcfdd8e4f1400ede9a63162e88c5b84eae78ef7654ac8e36c2ad19037f0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-11-2019_por-qué-el-oro-es-mejor-que-un-dispositivo-de-moda_2d610b13fc3e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-11-2019_por-qué-el-oro-es-mejor-que-un-dispositivo-de-moda_2d610b13fc3e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-11-2019_por-qué-el-oro-es-mejor-que-un-dispositivo-de-moda_2d610b13fc3e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cc/80/d3/ad/17/cc80d3ad172e8e4e412cecca6b164d41_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-11-2019_por-qué-el-oro-es-mejor-que-un-dispositivo-de-moda_2d610b13fc3e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/802/portativnyy-telefon-1989-goda--the-first-portable-phone-el-primer-telefono-portatil-lanzado-en-1989--il-primo-telefono-portatile-rilasciato-nel-1989_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-11-2019_por-qué-el-oro-es-mejor-que-un-dispositivo-de-moda_2d610b13fc3e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/802/starye-izobreteniya--old-inventions--viejos-inventos--vecchie-invenzioni_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-11-2019_por-qué-el-oro-es-mejor-que-un-dispositivo-de-moda_2d610b13fc3e\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:42.551172-03:00",
+  "status": "downloaded"
+}

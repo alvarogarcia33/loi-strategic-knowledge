@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_cff2178de7ca",
+  "platform": "gig_os",
+  "title": "Ha comenzado el intercambio de NFT por la moneda de gobernanza GR DAO ADVANCED",
+  "date": "27.10.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-intercambio-de-nft-por-la-moneda-de-gobernanza-gr-dao-advanced-812",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-intercambio-de-nft-por-la-moneda-de-gobernanza-gr-dao-advanced-812",
+  "content_hash": "9b8b08c5f704568978de4d6705c829415e51ff95f7ef9afaee9b6c6637fb1361",
+  "url_hash": "25f73693d5d332a8f961dbdded76738a4998c8b6f829703267ed0bf3623b3e21",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-10-2023_ha-comenzado-el-intercambio-de-nft-por-la-moneda-de-gobernanza-gr-dao-advanced_cff2178de7ca.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-10-2023_ha-comenzado-el-intercambio-de-nft-por-la-moneda-de-gobernanza-gr-dao-advanced_cff2178de7ca.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-10-2023_ha-comenzado-el-intercambio-de-nft-por-la-moneda-de-gobernanza-gr-dao-advanced_cff2178de7ca",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5f/54/e4/9e/b0/5f54e49eb07cd32768384bcac4bfcf1e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-10-2023_ha-comenzado-el-intercambio-de-nft-por-la-moneda-de-gobernanza-gr-dao-advanced_cff2178de7ca\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1554/es-table-27-10-202324881_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-10-2023_ha-comenzado-el-intercambio-de-nft-por-la-moneda-de-gobernanza-gr-dao-advanced_cff2178de7ca\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:21:55.239072-03:00",
+  "status": "downloaded"
+}

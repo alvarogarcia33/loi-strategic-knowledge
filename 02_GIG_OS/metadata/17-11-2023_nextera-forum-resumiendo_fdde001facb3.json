@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_fdde001facb3",
+  "platform": "gig_os",
+  "title": "NextEra Forum: ¡resumiendo!",
+  "date": "17.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nextera-forum-resumiendo-823",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nextera-forum-resumiendo-823",
+  "content_hash": "6a3f16e6febfd92e3799842286268f3170aac27418502e9b68fcbb01f543cf65",
+  "url_hash": "e14caf9f8e5f73dad7d7cb90a2a207e5202355ea39c20af2dae7efe87f2c1af8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-11-2023_nextera-forum-resumiendo_fdde001facb3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-11-2023_nextera-forum-resumiendo_fdde001facb3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-11-2023_nextera-forum-resumiendo_fdde001facb3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1565/rresults-next-era-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-11-2023_nextera-forum-resumiendo_fdde001facb3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1565/1111z_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-11-2023_nextera-forum-resumiendo_fdde001facb3\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1565/2222z_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-11-2023_nextera-forum-resumiendo_fdde001facb3\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1565/3333z_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-11-2023_nextera-forum-resumiendo_fdde001facb3\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:41:12.131420-03:00",
+  "status": "downloaded"
+}

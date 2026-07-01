@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4d3243608e3e",
+  "platform": "gig_os",
+  "title": "¿Ya han completado la encuesta?",
+  "date": "12.05.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ya-han-completado-la-encuesta-0191",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ya-han-completado-la-encuesta-0191",
+  "content_hash": "81353901f5dcefef5b78e9dcf5fb3622badc7997e75e8dc4779eb21415d63677",
+  "url_hash": "c21e3db4621b824515326e790eb5df09086a6e6e9926adf87fe11795531db594",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-05-2026_ya-han-completado-la-encuesta_4d3243608e3e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-05-2026_ya-han-completado-la-encuesta_4d3243608e3e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-05-2026_ya-han-completado-la-encuesta_4d3243608e3e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a3/a1/c2/b6/80/a3a1c2b680ea2dceae77798afc794af1_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-05-2026_ya-han-completado-la-encuesta_4d3243608e3e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:05:44.056060-03:00",
+  "status": "downloaded"
+}

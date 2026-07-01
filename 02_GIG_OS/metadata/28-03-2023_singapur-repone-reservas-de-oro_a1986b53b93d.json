@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a1986b53b93d",
+  "platform": "gig_os",
+  "title": "Singapur repone reservas de oro",
+  "date": "28.03.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/singapur-repone-reservas-711",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/singapur-repone-reservas-711",
+  "content_hash": "92a62047b877be6a41eb1d4ea92065ebf706339402aaac6f7d4546483fde2ced",
+  "url_hash": "74c60f6f07427fb07137f21e62f5af48adf1d9e7ea17c50270ca28f6047e00d0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-03-2023_singapur-repone-reservas-de-oro_a1986b53b93d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-03-2023_singapur-repone-reservas-de-oro_a1986b53b93d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-03-2023_singapur-repone-reservas-de-oro_a1986b53b93d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2b/eb/25/15/2d/2beb25152d2495419b5258e11e38b4bb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-03-2023_singapur-repone-reservas-de-oro_a1986b53b93d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1440/gold-gigos-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-03-2023_singapur-repone-reservas-de-oro_a1986b53b93d\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:56:59.982827-03:00",
+  "status": "downloaded"
+}

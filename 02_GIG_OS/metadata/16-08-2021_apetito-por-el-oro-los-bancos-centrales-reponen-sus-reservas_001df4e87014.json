@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_001df4e87014",
+  "platform": "gig_os",
+  "title": "Apetito por el oro: los bancos centrales reponen sus reservas",
+  "date": "16.08.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/apetito-por-el-oro-los-bancos-centrales-reponen-sus-reservas-453",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/apetito-por-el-oro-los-bancos-centrales-reponen-sus-reservas-453",
+  "content_hash": "b67fbe49160bddf518ccdfb03653bd882f8195a7ec5a82e78ef8b62a3a4f24cd",
+  "url_hash": "4da0bc09e70c101501136447260b8f4a2abdc687a9b0d4fbc28bd88b24205eb6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-08-2021_apetito-por-el-oro-los-bancos-centrales-reponen-sus-reservas_001df4e87014.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-08-2021_apetito-por-el-oro-los-bancos-centrales-reponen-sus-reservas_001df4e87014.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-08-2021_apetito-por-el-oro-los-bancos-centrales-reponen-sus-reservas_001df4e87014",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2a/d5/e6/34/12/2ad5e634124726891f97244ee3678f5e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-08-2021_apetito-por-el-oro-los-bancos-centrales-reponen-sus-reservas_001df4e87014\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1143/160821gold222897_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-08-2021_apetito-por-el-oro-los-bancos-centrales-reponen-sus-reservas_001df4e87014\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:20.145406-03:00",
+  "status": "downloaded"
+}

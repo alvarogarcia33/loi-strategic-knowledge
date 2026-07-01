@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_46e3b54bcd50",
+  "platform": "gig_os",
+  "title": "BoardAmp: ¡nuevas oportunidades!",
+  "date": "01.07.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/boardamp-nuevas-oportunidades-439",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/boardamp-nuevas-oportunidades-439",
+  "content_hash": "5a4de8d2bd909b2ce43f1f581ad4412eb3c28142f676bd426c73dde60a6aca8e",
+  "url_hash": "db8bfaba7db1753d1f35d09cd64085db99cf144b0bef9aa3fa7b0078808b3d45",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-07-2021_boardamp-nuevas-oportunidades_46e3b54bcd50.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-07-2021_boardamp-nuevas-oportunidades_46e3b54bcd50.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-07-2021_boardamp-nuevas-oportunidades_46e3b54bcd50",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6e/61/5e/d6/d6/6e615ed6d61613c1bb51d30a25a57008_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-07-2021_boardamp-nuevas-oportunidades_46e3b54bcd50\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:59:52.072252-03:00",
+  "status": "downloaded"
+}

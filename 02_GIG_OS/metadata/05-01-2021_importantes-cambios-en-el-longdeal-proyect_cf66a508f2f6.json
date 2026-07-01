@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_cf66a508f2f6",
+  "platform": "gig_os",
+  "title": "¡Importantes cambios en el LongDeal Proyect!",
+  "date": "05.01.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/importantes-cambios-en-el-longdeal-proyect-356",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/importantes-cambios-en-el-longdeal-proyect-356",
+  "content_hash": "8e73e88dda35a9627496323d0818945491899fe0483ed5c97221d23bc0f6c95a",
+  "url_hash": "98047a36e042383f8c2ef12922da7f28ccb583f7e24e2f6e49a67e1785ecd0a7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-01-2021_importantes-cambios-en-el-longdeal-proyect_cf66a508f2f6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-01-2021_importantes-cambios-en-el-longdeal-proyect_cf66a508f2f6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-01-2021_importantes-cambios-en-el-longdeal-proyect_cf66a508f2f6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/09/15/44/c3/83/091544c383b2738572562392dc2fc431_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-01-2021_importantes-cambios-en-el-longdeal-proyect_cf66a508f2f6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:14.701241-03:00",
+  "status": "downloaded"
+}

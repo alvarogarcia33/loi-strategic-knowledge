@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_7888d8f616f4",
+  "platform": "gig_os",
+  "title": "Resultados de la cena con el Presidente",
+  "date": "05.12.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-cena-con-el-presidente-661",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-cena-con-el-presidente-661",
+  "content_hash": "4ae316de2fa1d835ae377ee1e8f1bb0b11cbb9ee8385f1dffa5ca56452dd195c",
+  "url_hash": "e6ba4dfb251feb5dff6122e1712b248e9f14281b15e5e9f5fc0dd066b71fadae",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-12-2022_resultados-de-la-cena-con-el-presidente_7888d8f616f4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-12-2022_resultados-de-la-cena-con-el-presidente_7888d8f616f4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-12-2022_resultados-de-la-cena-con-el-presidente_7888d8f616f4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1381/cena-con-el-presidente-2022_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-12-2022_resultados-de-la-cena-con-el-presidente_7888d8f616f4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:11.566497-03:00",
+  "status": "downloaded"
+}

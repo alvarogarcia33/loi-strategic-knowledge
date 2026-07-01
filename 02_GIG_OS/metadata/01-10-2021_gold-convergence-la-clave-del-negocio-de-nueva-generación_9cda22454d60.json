@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9cda22454d60",
+  "platform": "gig_os",
+  "title": "\"GOLD CONVERGENCE\" — la clave del negocio de nueva generación",
+  "date": "01.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gold-convergence-la-clave-del-negocio-de-nueva-generacion-472",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gold-convergence-la-clave-del-negocio-de-nueva-generacion-472",
+  "content_hash": "ae4c10c3c35c0f194b32763943d946f651b929cbae2d9536d055546501bceea4",
+  "url_hash": "f634fa552abf1107670ac1e603de50430a75d9c06c37f3eae538ee912a4e2b61",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-10-2021_gold-convergence-la-clave-del-negocio-de-nueva-generación_9cda22454d60.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-10-2021_gold-convergence-la-clave-del-negocio-de-nueva-generación_9cda22454d60.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-10-2021_gold-convergence-la-clave-del-negocio-de-nueva-generación_9cda22454d60",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6e/07/74/d1/d3/6e0774d1d30a3d75f190f35d81ded132_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-10-2021_gold-convergence-la-clave-del-negocio-de-nueva-generación_9cda22454d60\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1169/gold-convergence-la-clave-del-negocio-de-nueva-generacion_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-10-2021_gold-convergence-la-clave-del-negocio-de-nueva-generación_9cda22454d60\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:01.591262-03:00",
+  "status": "downloaded"
+}

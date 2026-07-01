@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_2f17d4e06c3e",
+  "platform": "gig_os",
+  "title": "¿Cómo ayudar a su familia?",
+  "date": "03.10.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-ayudar-a-su-familia",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-ayudar-a-su-familia",
+  "content_hash": "e19eda087d54000ac7a1ec1418778b5ba4341a5ccf52c99ecccd28a444684490",
+  "url_hash": "3e3177054758ad6d8a4a434949ce78406504064403fb08e1f205cb3df8a659c8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-10-2018_cómo-ayudar-a-su-familia_2f17d4e06c3e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-10-2018_cómo-ayudar-a-su-familia_2f17d4e06c3e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-10-2018_cómo-ayudar-a-su-familia_2f17d4e06c3e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2d/dd/79/31/a0/2ddd7931a04b0dbfb6ec19d2a6f04c9c_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/580/frame-294857319202_1.png",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:02:43.459458-03:00",
+  "status": "downloaded"
+}

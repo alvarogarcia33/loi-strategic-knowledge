@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_85b1dc87b1d8",
+  "platform": "gig_os",
+  "title": "¡La entrega de pulseras CIY está en plena marcha!",
+  "date": "05.02.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-entrega-de-pulseras-ciy-esta-en-plena-marcha-873",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-entrega-de-pulseras-ciy-esta-en-plena-marcha-873",
+  "content_hash": "e2a1bbbd5d25a359d3999adad2a1ee26df73da2720388d9051b752624718542c",
+  "url_hash": "06042d15f7e45508ae657c494f208e2b75e296cdd8df307486a0ee15628a5462",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-02-2024_la-entrega-de-pulseras-ciy-está-en-plena-marcha_85b1dc87b1d8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-02-2024_la-entrega-de-pulseras-ciy-está-en-plena-marcha_85b1dc87b1d8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-02-2024_la-entrega-de-pulseras-ciy-está-en-plena-marcha_85b1dc87b1d8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c6/15/3b/ce/dd/c6153bcedd30463c7f8ccb79ced6ab4b_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-02-2024_la-entrega-de-pulseras-ciy-está-en-plena-marcha_85b1dc87b1d8\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1618/bracelet-box80445_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-02-2024_la-entrega-de-pulseras-ciy-está-en-plena-marcha_85b1dc87b1d8\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:56.852886-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_62bec0a0122f",
+  "platform": "gig_os",
+  "title": "GIG-OS: la respuesta al desafío de la modernidad",
+  "date": "13.12.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gig-os-la-respuesta-al-desafio-de-la-modernidad-209",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gig-os-la-respuesta-al-desafio-de-la-modernidad-209",
+  "content_hash": "0088750babcbb379996d33ab20f95a82885a8655c0545b4e40e19997df8a4b7d",
+  "url_hash": "46780c3ac8532605910b83e8752119898940ffee45758a49fda85882fd2f4a7b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-12-2019_gig-os-la-respuesta-al-desafío-de-la-modernidad_62bec0a0122f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-12-2019_gig-os-la-respuesta-al-desafío-de-la-modernidad_62bec0a0122f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-12-2019_gig-os-la-respuesta-al-desafío-de-la-modernidad_62bec0a0122f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f7/6d/ef/f3/71/f76deff371cd89645ac4e4a4c8c26e28_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-12-2019_gig-os-la-respuesta-al-desafío-de-la-modernidad_62bec0a0122f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/820/global-intergold--gig-os-la-respuesta-al-desafio-de-la-modernidad-sp_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-12-2019_gig-os-la-respuesta-al-desafío-de-la-modernidad_62bec0a0122f\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:47.929674-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_9d919b99bb7c",
+  "platform": "gig_os",
+  "title": "La degradación* económica: ¿qué pasará con el oro?",
+  "date": "25.03.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-degradacion-economica-que-pasara-con-el-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-degradacion-economica-que-pasara-con-el-oro",
+  "content_hash": "672cb728fc33dd15015164153367f4bd9a29bf454a42b4053c3de5543a63ce1f",
+  "url_hash": "86c8e6b500fce67bf61faed1811f97b4cf179f799290ae30d597263d021764ac",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-03-2019_la-degradación-económica-qué-pasará-con-el-oro_9d919b99bb7c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-03-2019_la-degradación-económica-qué-pasará-con-el-oro_9d919b99bb7c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-03-2019_la-degradación-económica-qué-pasará-con-el-oro_9d919b99bb7c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/88/75/03/4d/00/8875034d00b61c027e8bef77ef6a1a22_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-03-2019_la-degradación-económica-qué-pasará-con-el-oro_9d919b99bb7c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/677/france2019_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/677/headquarter-ecb-frankfurt_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/677/gb-pounds_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/677/gig-gold_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/677/gold-price-ounce_1.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:26.627285-03:00",
+  "status": "downloaded"
+}

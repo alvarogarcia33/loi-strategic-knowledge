@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_944d00ff3769",
+  "platform": "gig_os",
+  "title": "La ruina de los bancos: ¿cuál es la ventaja del oro?",
+  "date": "23.04.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-ruina-de-los-bancos-cual-es-la-ventaja-del-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-ruina-de-los-bancos-cual-es-la-ventaja-del-oro",
+  "content_hash": "e856e775f1852d98dcdeea829a650518aa4613c446bc81d49301cd4ec6e4f3ee",
+  "url_hash": "ad5bd4fdeee11dfb999a2c294fc5216a2c443954bf618df2671b3be64570f105",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-04-2019_la-ruina-de-los-bancos-cuál-es-la-ventaja-del-oro_944d00ff3769.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-04-2019_la-ruina-de-los-bancos-cuál-es-la-ventaja-del-oro_944d00ff3769.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-04-2019_la-ruina-de-los-bancos-cuál-es-la-ventaja-del-oro_944d00ff3769",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f6/63/22/56/bb/f6632256bb237182fe406f2cc2542efc_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-04-2019_la-ruina-de-los-bancos-cuál-es-la-ventaja-del-oro_944d00ff3769\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/692/global-intergold-gold-informe-de-la-cotizacion-del-oro-22_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/692/global-intergold-gold-informe-de-la-cotizacion-del-oro-21_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/692/grafik_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:53.562223-03:00",
+  "status": "downloaded"
+}

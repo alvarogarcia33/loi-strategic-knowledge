@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_f74813b60375",
+  "platform": "gig_os",
+  "title": "Les invitamos a una reunión online con el Presidente",
+  "date": "04.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/les-invitamos-a-una-reunion-online-con-el-presidente-515",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/les-invitamos-a-una-reunion-online-con-el-presidente-515",
+  "content_hash": "2e001ba493a25597ed0703f476c0e7b9a1a79e8210fd1a981863a530b14b1401",
+  "url_hash": "b1561828692a2ac1e2a99c3c493f945a9b2ebb03dd4771b454c1fd21d9dc3b65",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-01-2022_les-invitamos-a-una-reunión-online-con-el-presidente_f74813b60375.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-01-2022_les-invitamos-a-una-reunión-online-con-el-presidente_f74813b60375.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-01-2022_les-invitamos-a-una-reunión-online-con-el-presidente_f74813b60375",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/70/55/48/da/83/705548da83a71d56db8a3c7f775b18a2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-01-2022_les-invitamos-a-una-reunión-online-con-el-presidente_f74813b60375\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:36:41.416693-03:00",
+  "status": "downloaded"
+}

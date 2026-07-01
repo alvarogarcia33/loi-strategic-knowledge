@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_fcd49c8d4818",
+  "platform": "gig_os",
+  "title": "Oro y tasa de interés de la FED",
+  "date": "18.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-y-tasa-de-interes-de-la-fed-561",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-y-tasa-de-interes-de-la-fed-561",
+  "content_hash": "b798d4e2bd4343a5b0bd4e5e0ade49d8d9fc9c24da8d5d1cd42f0cf825e913e6",
+  "url_hash": "544eaf01f7adb2697806e96b0029b32b8ba04ab61aad4c81d56f925bed99793d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-04-2022_oro-y-tasa-de-interés-de-la-fed_fcd49c8d4818.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-04-2022_oro-y-tasa-de-interés-de-la-fed_fcd49c8d4818.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-04-2022_oro-y-tasa-de-interés-de-la-fed_fcd49c8d4818",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ef/a9/a1/55/5b/efa9a1555b8e0bdda0fda0978171aeda_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-04-2022_oro-y-tasa-de-interés-de-la-fed_fcd49c8d4818\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1265/dizayn-bez-nazvaniya-7_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-04-2022_oro-y-tasa-de-interés-de-la-fed_fcd49c8d4818\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:01.432405-03:00",
+  "status": "downloaded"
+}

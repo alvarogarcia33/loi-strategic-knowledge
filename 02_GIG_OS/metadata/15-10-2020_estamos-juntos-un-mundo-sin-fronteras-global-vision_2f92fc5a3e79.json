@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_2f92fc5a3e79",
+  "platform": "gig_os",
+  "title": "¡Estamos juntos, un mundo sin fronteras! | \"GLOBAL VISION\"",
+  "date": "15.10.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/estamos-juntos-un-mundo-sin-fronteras-global-vision-316",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/estamos-juntos-un-mundo-sin-fronteras-global-vision-316",
+  "content_hash": "651c68474ee432f40781a65eef7cbaeed3ca478a15b676bc5ab7fb3be3b17ae7",
+  "url_hash": "8e87e5671e17f45ff26010dfa8884360e25189080bd0fd06ecf4077a0b9e718a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-10-2020_estamos-juntos-un-mundo-sin-fronteras-global-vision_2f92fc5a3e79.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-10-2020_estamos-juntos-un-mundo-sin-fronteras-global-vision_2f92fc5a3e79.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-10-2020_estamos-juntos-un-mundo-sin-fronteras-global-vision_2f92fc5a3e79",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f7/1a/e4/ba/25/f71ae4ba25a5563cae0aed357de83efb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-10-2020_estamos-juntos-un-mundo-sin-fronteras-global-vision_2f92fc5a3e79\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/967/15-10-2020-24671-c_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-10-2020_estamos-juntos-un-mundo-sin-fronteras-global-vision_2f92fc5a3e79\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:15.658829-03:00",
+  "status": "downloaded"
+}

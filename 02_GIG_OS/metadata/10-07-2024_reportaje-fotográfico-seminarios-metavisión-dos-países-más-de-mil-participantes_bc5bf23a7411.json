@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_bc5bf23a7411",
+  "platform": "gig_os",
+  "title": "[REPORTAJE FOTOGRÁFICO] Seminarios METAVISIÓN: dos países, más de mil participantes",
+  "date": "10.07.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/reportaje-fotografico-seminarios-metavision-dos-paises-mas-de-mil-participantes-957",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/reportaje-fotografico-seminarios-metavision-dos-paises-mas-de-mil-participantes-957",
+  "content_hash": "cb4e04990d819c22866891d12bb9ee4e6aa2ac626f3215c9f1b96c50be22bcc1",
+  "url_hash": "1d76fe893a1a93015f33e3337f5f1971e8155afcd69e2e32db32cea746b3d454",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-07-2024_reportaje-fotográfico-seminarios-metavisión-dos-países-más-de-mil-participantes_bc5bf23a7411.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-07-2024_reportaje-fotográfico-seminarios-metavisión-dos-países-más-de-mil-participantes_bc5bf23a7411.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-07-2024_reportaje-fotográfico-seminarios-metavisión-dos-países-más-de-mil-participantes_bc5bf23a7411",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1720/metavision-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-07-2024_reportaje-fotográfico-seminarios-metavisión-dos-países-más-de-mil-participantes_bc5bf23a7411\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:03.830470-03:00",
+  "status": "downloaded"
+}

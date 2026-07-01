@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_b72cacb18f5f",
+  "platform": "gig_os",
+  "title": "Mercado del oro en el primer trimestre de 2024",
+  "date": "20.05.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/mercado-del-oro-en-el-primer-trimestre-de-2024-937",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/mercado-del-oro-en-el-primer-trimestre-de-2024-937",
+  "content_hash": "b4b7ffd3cd86fcfcab1069c69b60cae431e2200538a7121ca249fa3bc396a35d",
+  "url_hash": "81a5412c7876b06347aff48af85c259a690f863382cec859d1cb1e35d994b35a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-05-2024_mercado-del-oro-en-el-primer-trimestre-de-2024_b72cacb18f5f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-05-2024_mercado-del-oro-en-el-primer-trimestre-de-2024_b72cacb18f5f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2024_mercado-del-oro-en-el-primer-trimestre-de-2024_b72cacb18f5f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a2/99/8a/da/26/a2998ada26d3a89fff9537cea5dd797c_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2024_mercado-del-oro-en-el-primer-trimestre-de-2024_b72cacb18f5f\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2024_mercado-del-oro-en-el-primer-trimestre-de-2024_b72cacb18f5f\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:33.524303-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_dae4b525c7b8",
+  "platform": "gig_os",
+  "title": "¡Las reservas mundiales de oro alcanzan una cifra récord!",
+  "date": "30.10.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/las-reservas-mundiales-de-oro-alcanzan-una-cifra-record-815",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/las-reservas-mundiales-de-oro-alcanzan-una-cifra-record-815",
+  "content_hash": "fd3c61b941e63d90bfb171e7863812799c83041edc33151c9b13f0a7ec99f11a",
+  "url_hash": "68ed29e221382add3b7f8f5df577088c1c9308a3e3d502fa8853a7245387454b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-10-2023_las-reservas-mundiales-de-oro-alcanzan-una-cifra-récord_dae4b525c7b8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-10-2023_las-reservas-mundiales-de-oro-alcanzan-una-cifra-récord_dae4b525c7b8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-10-2023_las-reservas-mundiales-de-oro-alcanzan-una-cifra-récord_dae4b525c7b8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/14/31/4b/72/5a/14314b725a246d94d51e9844da3574cb_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-10-2023_las-reservas-mundiales-de-oro-alcanzan-una-cifra-récord_dae4b525c7b8\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1556/jannieuwenhuijs-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-10-2023_las-reservas-mundiales-de-oro-alcanzan-una-cifra-récord_dae4b525c7b8\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1556/chartgoldreserves12464_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-10-2023_las-reservas-mundiales-de-oro-alcanzan-una-cifra-récord_dae4b525c7b8\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-10-2023_las-reservas-mundiales-de-oro-alcanzan-una-cifra-récord_dae4b525c7b8\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:36:29.169563-03:00",
+  "status": "downloaded"
+}

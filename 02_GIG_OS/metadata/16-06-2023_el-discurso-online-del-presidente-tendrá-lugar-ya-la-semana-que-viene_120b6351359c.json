@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_120b6351359c",
+  "platform": "gig_os",
+  "title": "¡El discurso online del Presidente tendrá lugar ya la semana que viene!",
+  "date": "16.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-discurso-online-del-presidente-tendra-lugar-ya-la-semana-que-viene-752",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-discurso-online-del-presidente-tendra-lugar-ya-la-semana-que-viene-752",
+  "content_hash": "1f1c2da21da8f94dc1a7c1cf1d96dd327db57ea902f8b9c586bdb53930c324bb",
+  "url_hash": "23f55d0e570dd8429f6ad19744855ff2d0f90c7e6d77ff21499b374df01c9816",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-06-2023_el-discurso-online-del-presidente-tendrá-lugar-ya-la-semana-que-viene_120b6351359c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-06-2023_el-discurso-online-del-presidente-tendrá-lugar-ya-la-semana-que-viene_120b6351359c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-06-2023_el-discurso-online-del-presidente-tendrá-lugar-ya-la-semana-que-viene_120b6351359c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b0/40/53/39/e6/b0405339e6012716ecd2f6b7341c0c00_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-06-2023_el-discurso-online-del-presidente-tendrá-lugar-ya-la-semana-que-viene_120b6351359c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:52.163376-03:00",
+  "status": "downloaded"
+}

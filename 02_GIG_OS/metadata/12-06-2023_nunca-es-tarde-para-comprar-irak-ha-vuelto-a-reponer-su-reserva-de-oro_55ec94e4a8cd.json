@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_55ec94e4a8cd",
+  "platform": "gig_os",
+  "title": "Nunca es tarde para comprar: Irak ha vuelto a reponer su reserva de oro",
+  "date": "12.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nunca-es-tarde-para-comprar-irak-ha-vuelto-a-reponer-su-reserva-de-oro-747",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nunca-es-tarde-para-comprar-irak-ha-vuelto-a-reponer-su-reserva-de-oro-747",
+  "content_hash": "212308d1bd40c380134f992af2a4ec6aac250c001713f81e7187b9a89ffef08f",
+  "url_hash": "edb261d30e58a2490a896457f8663cd7d5e36ec2c17951915c707b6661f62c7d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-06-2023_nunca-es-tarde-para-comprar-irak-ha-vuelto-a-reponer-su-reserva-de-oro_55ec94e4a8cd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-06-2023_nunca-es-tarde-para-comprar-irak-ha-vuelto-a-reponer-su-reserva-de-oro_55ec94e4a8cd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-06-2023_nunca-es-tarde-para-comprar-irak-ha-vuelto-a-reponer-su-reserva-de-oro_55ec94e4a8cd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f3/1d/1b/38/63/f31d1b3863013a17ae52a96d8e9cc6bc_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-06-2023_nunca-es-tarde-para-comprar-irak-ha-vuelto-a-reponer-su-reserva-de-oro_55ec94e4a8cd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-06-2023_nunca-es-tarde-para-comprar-irak-ha-vuelto-a-reponer-su-reserva-de-oro_55ec94e4a8cd\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:00.641741-03:00",
+  "status": "downloaded"
+}

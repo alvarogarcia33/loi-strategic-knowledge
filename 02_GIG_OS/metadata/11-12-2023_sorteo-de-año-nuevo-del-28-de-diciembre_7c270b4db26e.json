@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_7c270b4db26e",
+  "platform": "gig_os",
+  "title": "¡Sorteo de Año Nuevo del 28 de diciembre!",
+  "date": "11.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/sorteo-de-ano-nuevo-del-28-de-diciembre-838",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/sorteo-de-ano-nuevo-del-28-de-diciembre-838",
+  "content_hash": "4b5069d11b461505cc86e7d4fc9dd92cdf0cd41655c150ece58d3a2c6a99075d",
+  "url_hash": "64d220defb55237d0954b3f5fee4e2304f54accb00d7555375f0afd95ce43ef1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-12-2023_sorteo-de-año-nuevo-del-28-de-diciembre_7c270b4db26e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-12-2023_sorteo-de-año-nuevo-del-28-de-diciembre_7c270b4db26e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2023_sorteo-de-año-nuevo-del-28-de-diciembre_7c270b4db26e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ad/80/5a/45/5b/ad805a455b413665ceb21483d5c99098_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2023_sorteo-de-año-nuevo-del-28-de-diciembre_7c270b4db26e\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:17.306711-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_95b3abd22fdf",
+  "platform": "gig_os",
+  "title": "Elecciones de los Asesores del Presidente",
+  "date": "15.08.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/elecciones-de-los-asesores-del-presidente-1124",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/elecciones-de-los-asesores-del-presidente-1124",
+  "content_hash": "c193a98ab24c2b3fdc86d74b2856d13b9a67006e5bd29c00043f11dd96a63126",
+  "url_hash": "6f012a561a780ebe4f463af7926b87c3c470c4653c985431a4ec7a43762b4526",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-08-2025_elecciones-de-los-asesores-del-presidente_95b3abd22fdf.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-08-2025_elecciones-de-los-asesores-del-presidente_95b3abd22fdf.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2025_elecciones-de-los-asesores-del-presidente_95b3abd22fdf",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/75/0f/25/3f/d4/750f253fd42da19d41f8da9ee5437f17_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2025_elecciones-de-los-asesores-del-presidente_95b3abd22fdf\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:13:09.738277-03:00",
+  "status": "downloaded"
+}

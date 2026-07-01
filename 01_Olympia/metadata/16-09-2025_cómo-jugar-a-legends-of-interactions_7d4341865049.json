@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_7d4341865049",
+  "platform": "olympia",
+  "title": "¿Cómo jugar a Legends of Interactions?",
+  "date": "16.09.2025",
+  "source_url": "https://olympia-lab.com/es/news/post/como-jugar-a-legends-of-interactions-0115",
+  "canonical_url": "https://olympia-lab.com/es/news/post/como-jugar-a-legends-of-interactions-0115",
+  "content_hash": "1efa4e299abd2efaab68a26eb2df5fc1b1e8007d7f514616d5fa7a8972f81ae8",
+  "url_hash": "dc82de9e20fd11047cb1653654af9608c34c2bec688536eddaa514514c319ad1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/19/3b/2f/5a/39/193b2f5a399e7541488f232c58399689.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/f2/ab/e9/9d/0e/f2abe99d0e657674cb529f23acc0e77c_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/1e/31/92/91/75/1e31929175f3724b2f654c5b7fb70c3b_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/55/0f/e0/0c/be/550fe00cbe15a5168b02a7f34b4f6594_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/72/1e/7f/ff/b0/721e7fffb0cec06d55e9df957837c0ae_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/db/66/c3/1d/b6/db66c31db63cd17dad1e76f639f0a982_2.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049\\image_06.png",
+      "filename": "image_06.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:17:48.611116-03:00",
+  "status": "downloaded"
+}

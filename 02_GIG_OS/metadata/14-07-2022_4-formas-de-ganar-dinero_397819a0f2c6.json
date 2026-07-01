@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_397819a0f2c6",
+  "platform": "gig_os",
+  "title": "4 formas de ganar dinero",
+  "date": "14.07.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/4-formas-de-ganar-dinero-597",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/4-formas-de-ganar-dinero-597",
+  "content_hash": "b28d5b191f10de31e1d2ad49119e2244137b9df6615c8f492fb1fd2f57440618",
+  "url_hash": "8fce4ea51e88e6fff692fff8c95c8b27f6bedca9232f827a21b296919d207eb0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-07-2022_4-formas-de-ganar-dinero_397819a0f2c6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-07-2022_4-formas-de-ganar-dinero_397819a0f2c6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-07-2022_4-formas-de-ganar-dinero_397819a0f2c6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ad/b9/ac/f6/fd/adb9acf6fdab8d91f96af5746d600e72_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-07-2022_4-formas-de-ganar-dinero_397819a0f2c6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1305/dizayn-bez-nazvaniya-89_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-07-2022_4-formas-de-ganar-dinero_397819a0f2c6\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1305/dizayn-bez-nazvaniya-93_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-07-2022_4-formas-de-ganar-dinero_397819a0f2c6\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1305/dizayn-bez-nazvaniya-92_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-07-2022_4-formas-de-ganar-dinero_397819a0f2c6\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1305/dizayn-bez-nazvaniya-87_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-07-2022_4-formas-de-ganar-dinero_397819a0f2c6\\image_05.png",
+      "filename": "image_05.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:56:16.533119-03:00",
+  "status": "downloaded"
+}

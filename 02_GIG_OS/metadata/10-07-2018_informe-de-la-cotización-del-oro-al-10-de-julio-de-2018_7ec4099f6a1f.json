@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_7ec4099f6a1f",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 10 de julio de 2018",
+  "date": "10.07.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-10-de-julio-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-10-de-julio-de-2018",
+  "content_hash": "cf4b072bb97a125a41d5a92971ae58924bd5407f5f2dc9c06cd5c00dd8dcd188",
+  "url_hash": "6d8fdd1a23d122bb86f65c446f41d7d0276ff894b0f6f6cd47930bf4ab019348",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-07-2018_informe-de-la-cotización-del-oro-al-10-de-julio-de-2018_7ec4099f6a1f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-07-2018_informe-de-la-cotización-del-oro-al-10-de-julio-de-2018_7ec4099f6a1f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-07-2018_informe-de-la-cotización-del-oro-al-10-de-julio-de-2018_7ec4099f6a1f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/43/41/f5/1a/cb/4341f51acb6c8605ca81ce42b7fecb56_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-07-2018_informe-de-la-cotización-del-oro-al-10-de-julio-de-2018_7ec4099f6a1f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/519/global-intergold-gold-informe-de-la-cotizacion-del-oro-2_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/519/global-intergold-gold-informe-de-la-cotizacion-del-oro-1_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/519/global-intergold-gold-informe-de-la-cotizacion-del-oro-4_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:52.283813-03:00",
+  "status": "downloaded"
+}

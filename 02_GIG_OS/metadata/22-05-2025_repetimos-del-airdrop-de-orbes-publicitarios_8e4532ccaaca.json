@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_8e4532ccaaca",
+  "platform": "gig_os",
+  "title": "¡Repetimos del Airdrop de orbes publicitarios!",
+  "date": "22.05.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/repetimos-del-airdrop-de-orbes-publicitarios-1081",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/repetimos-del-airdrop-de-orbes-publicitarios-1081",
+  "content_hash": "f82d710589f3315bec9c9b4fba7a66fae62a391461f5a46a5d017bd281043633",
+  "url_hash": "60102bf48b9dc53ca036085acf41102b30cfca0cd600a3897c8665be21144ed8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-05-2025_repetimos-del-airdrop-de-orbes-publicitarios_8e4532ccaaca.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-05-2025_repetimos-del-airdrop-de-orbes-publicitarios_8e4532ccaaca.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2025_repetimos-del-airdrop-de-orbes-publicitarios_8e4532ccaaca",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/fc/19/48/55/b3/fc194855b3df2aaffe2024975f556723_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-05-2025_repetimos-del-airdrop-de-orbes-publicitarios_8e4532ccaaca\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:52:35.387742-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_f26e73eed8a4",
+  "platform": "gig_os",
+  "title": "La encuesta general ha terminado",
+  "date": "15.05.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-encuesta-general-ha-terminado-0193",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-encuesta-general-ha-terminado-0193",
+  "content_hash": "58438069704d47792a70af009d8666cf8554ca0da4a1789f353fdc83d84de01d",
+  "url_hash": "a7b9ac1f6c691ad27638c3cd93b8a2cbc13eef257b7753aba3f5c944980f94f5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-05-2026_la-encuesta-general-ha-terminado_f26e73eed8a4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-05-2026_la-encuesta-general-ha-terminado_f26e73eed8a4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-05-2026_la-encuesta-general-ha-terminado_f26e73eed8a4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f8/fc/73/e5/aa/f8fc73e5aae8bc2ee2211ba5013cd53b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-05-2026_la-encuesta-general-ha-terminado_f26e73eed8a4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:53.141179-03:00",
+  "status": "downloaded"
+}

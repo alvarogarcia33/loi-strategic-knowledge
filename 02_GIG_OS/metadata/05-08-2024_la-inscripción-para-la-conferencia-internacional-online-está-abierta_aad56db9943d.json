@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_aad56db9943d",
+  "platform": "gig_os",
+  "title": "¡La inscripción para la conferencia internacional online está abierta!",
+  "date": "05.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-inscripcion-para-la-conferencia-internacional-online-esta-abierta-970",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-inscripcion-para-la-conferencia-internacional-online-esta-abierta-970",
+  "content_hash": "2296c85ffc120e8b5d14976ae387ca2d6b7bd14557f86bd3895ba7ca66a5cb2d",
+  "url_hash": "e61df08acc30136e87941c70556db9048f8b5b972c3a855ff0b01e5527e67e26",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-08-2024_la-inscripción-para-la-conferencia-internacional-online-está-abierta_aad56db9943d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-08-2024_la-inscripción-para-la-conferencia-internacional-online-está-abierta_aad56db9943d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-08-2024_la-inscripción-para-la-conferencia-internacional-online-está-abierta_aad56db9943d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b6/10/c1/d8/48/b610c1d8489cc1a4557e6cb2a239fd57_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-08-2024_la-inscripción-para-la-conferencia-internacional-online-está-abierta_aad56db9943d\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:50.986553-03:00",
+  "status": "downloaded"
+}

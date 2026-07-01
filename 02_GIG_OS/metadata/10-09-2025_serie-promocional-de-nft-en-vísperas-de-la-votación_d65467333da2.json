@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d65467333da2",
+  "platform": "gig_os",
+  "title": "Serie promocional de NFT en vísperas de la votación",
+  "date": "10.09.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/serie-promocional-de-nft-en-visperas-de-la-votacion-1138",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/serie-promocional-de-nft-en-visperas-de-la-votacion-1138",
+  "content_hash": "d24590ce6c0ca794a09c0a13f9a9e163caf93068a76661f78b7b4687ceacdeda",
+  "url_hash": "3d6be43c280bc124358ef08c48f5892991e7881d44aafc11f49bc2319bc3b164",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-09-2025_serie-promocional-de-nft-en-vísperas-de-la-votación_d65467333da2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-09-2025_serie-promocional-de-nft-en-vísperas-de-la-votación_d65467333da2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2025_serie-promocional-de-nft-en-vísperas-de-la-votación_d65467333da2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4d/5b/dd/ea/77/4d5bddea778a92892c6d6a3316c2cf0c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2025_serie-promocional-de-nft-en-vísperas-de-la-votación_d65467333da2\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1918/1nft-bc_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2025_serie-promocional-de-nft-en-vísperas-de-la-votación_d65467333da2\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:56:45.007850-03:00",
+  "status": "downloaded"
+}

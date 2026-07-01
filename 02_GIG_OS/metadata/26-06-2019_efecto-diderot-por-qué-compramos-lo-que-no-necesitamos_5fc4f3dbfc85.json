@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_5fc4f3dbfc85",
+  "platform": "gig_os",
+  "title": "Efecto Diderot: ¿Por qué compramos lo que no necesitamos?",
+  "date": "26.06.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/efecto-diderot-por-que-compramos-lo-que-no-necesitamos-132",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/efecto-diderot-por-que-compramos-lo-que-no-necesitamos-132",
+  "content_hash": "cf7298fb48afccfc65ef766ad99d49260212e1864dc4af9acafb3bb288b706d1",
+  "url_hash": "87c171b4be90ca336a59dc00a8fda0895c056edbc65a903cbdd6f60c969f8004",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-06-2019_efecto-diderot-por-qué-compramos-lo-que-no-necesitamos_5fc4f3dbfc85.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-06-2019_efecto-diderot-por-qué-compramos-lo-que-no-necesitamos_5fc4f3dbfc85.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-06-2019_efecto-diderot-por-qué-compramos-lo-que-no-necesitamos_5fc4f3dbfc85",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/53/96/eb/0f/33/5396eb0f33463bc0c78b2e8852e49398_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-06-2019_efecto-diderot-por-qué-compramos-lo-que-no-necesitamos_5fc4f3dbfc85\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/720/global-intergold-oro-la-seguridad-financiera-9_1.png",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/720/global-intergold-oro-la-seguridad-financiera-10_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:43.605975-03:00",
+  "status": "downloaded"
+}

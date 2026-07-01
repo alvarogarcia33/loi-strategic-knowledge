@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d86fc27f2a3a",
+  "platform": "gig_os",
+  "title": "H-MAP.9: se ha ampliado el período de prelanzamiento",
+  "date": "27.05.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/h-map9-se-ha-ampliado-el-periodo-de-prelanzamiento-1083",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/h-map9-se-ha-ampliado-el-periodo-de-prelanzamiento-1083",
+  "content_hash": "54ec299ebc15504f677497ca171416c6d61d900b998d37eec32644bc4a12a359",
+  "url_hash": "0bff671cf789d5627fb8367fac704b5feb6e378a53ffd911b63e991b862fe872",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-05-2025_h-map-9-se-ha-ampliado-el-período-de-prelanzamiento_d86fc27f2a3a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-05-2025_h-map-9-se-ha-ampliado-el-período-de-prelanzamiento_d86fc27f2a3a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-05-2025_h-map-9-se-ha-ampliado-el-período-de-prelanzamiento_d86fc27f2a3a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/af/1c/f9/08/26/af1cf908263dbdd4a099ea3ee8f59c15_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-05-2025_h-map-9-se-ha-ampliado-el-período-de-prelanzamiento_d86fc27f2a3a\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:21:39.753036-03:00",
+  "status": "downloaded"
+}

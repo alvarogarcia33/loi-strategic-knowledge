@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_b4c32c279972",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 26 de febrero de 2018.",
+  "date": "26.02.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-26-de-febrero-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-26-de-febrero-de-2018",
+  "content_hash": "710ca903d7db59684608e3775e80b97693a084921a305607a08c2c9b00a974b1",
+  "url_hash": "e57dcdc9fdb642496d344aa8b1f16ee05f9b4af335f201ad23b78d15514b5fac",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-02-2018_informe-de-la-cotización-del-oro-al-26-de-febrero-de-2018_b4c32c279972.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-02-2018_informe-de-la-cotización-del-oro-al-26-de-febrero-de-2018_b4c32c279972.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-02-2018_informe-de-la-cotización-del-oro-al-26-de-febrero-de-2018_b4c32c279972",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/86/1d/f9/ca/7b/861df9ca7b29f09a54f55740c413f095_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-02-2018_informe-de-la-cotización-del-oro-al-26-de-febrero-de-2018_b4c32c279972\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/453/29_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/453/frame-294857319201_1.png",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/453/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:27:06.231840-03:00",
+  "status": "downloaded"
+}

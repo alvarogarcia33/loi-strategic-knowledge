@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_702a371240da",
+  "platform": "gig_os",
+  "title": "La nueva era del mercado de servicios",
+  "date": "23.10.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-nueva-era-del-mercado-de-servicios",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-nueva-era-del-mercado-de-servicios",
+  "content_hash": "aeb550c46ac68f92ee4d7c602b909be8ad406767658f8fba459271fc5ec267e8",
+  "url_hash": "6c26815ffbaf28414d52b0ec18e68bbb52e12b8ebc410702c168f9d120e14a89",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-10-2024_la-nueva-era-del-mercado-de-servicios_702a371240da.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-10-2024_la-nueva-era-del-mercado-de-servicios_702a371240da.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-10-2024_la-nueva-era-del-mercado-de-servicios_702a371240da",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7e/9b/11/63/a1/7e9b1163a1017fdb48751f6ee092b485_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-10-2024_la-nueva-era-del-mercado-de-servicios_702a371240da\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:33:21.538406-03:00",
+  "status": "downloaded"
+}

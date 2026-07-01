@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_f037d84b2bb4",
+  "platform": "gig_os",
+  "title": "¡El Foro Empresarial 2026 cambia de ubicación!",
+  "date": "10.04.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-foro-empresarial-2026-cambia-de-ubicacion-0182",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-foro-empresarial-2026-cambia-de-ubicacion-0182",
+  "content_hash": "ad66ba0c540e2d1b907f04d3b6c6597dd0e4ecef55e474d0f4dcfeae0134c51e",
+  "url_hash": "09dabd97a324564caacef16c420b09f829d849950ccb68f5ac15946f62e003a5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-04-2026_el-foro-empresarial-2026-cambia-de-ubicación_f037d84b2bb4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-04-2026_el-foro-empresarial-2026-cambia-de-ubicación_f037d84b2bb4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-04-2026_el-foro-empresarial-2026-cambia-de-ubicación_f037d84b2bb4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/25/3e/95/9a/bd/253e959abd357c869e2d3356563cd22a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-04-2026_el-foro-empresarial-2026-cambia-de-ubicación_f037d84b2bb4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:14.666900-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_12a24cd18374",
+  "platform": "gig_os",
+  "title": "¡Deje de vivir de un préstamo!",
+  "date": "17.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/deje-de-vivir-de-un-prestamo-343",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/deje-de-vivir-de-un-prestamo-343",
+  "content_hash": "23d0f5f6f3e2cf6eb38ec60f8bda4be87553df050a73c050d177d79584ce6bc9",
+  "url_hash": "fe2c5bb0bbe5b0df4be1bab387f8d796da2b86983849bb97ce9d8977e5df4988",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-12-2020_deje-de-vivir-de-un-préstamo_12a24cd18374.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-12-2020_deje-de-vivir-de-un-préstamo_12a24cd18374.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-12-2020_deje-de-vivir-de-un-préstamo_12a24cd18374",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/05/d3/d1/c6/9d/05d3d1c69d0202ec2646b614ef22c442_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-12-2020_deje-de-vivir-de-un-préstamo_12a24cd18374\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1005/debt-24379-828x453_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-12-2020_deje-de-vivir-de-un-préstamo_12a24cd18374\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1005/image4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-12-2020_deje-de-vivir-de-un-préstamo_12a24cd18374\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:05:42.542748-03:00",
+  "status": "downloaded"
+}

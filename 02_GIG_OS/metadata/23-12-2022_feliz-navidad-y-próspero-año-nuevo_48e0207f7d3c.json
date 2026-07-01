@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_48e0207f7d3c",
+  "platform": "gig_os",
+  "title": "¡Feliz Navidad y próspero Año Nuevo!",
+  "date": "23.12.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/feliz-navidad-y-prospero-ano-nuevo-670",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/feliz-navidad-y-prospero-ano-nuevo-670",
+  "content_hash": "8f24fe8c9e3b562d88220e95f54892619e058396c61f3b22a3ecf9c8596ffea2",
+  "url_hash": "5e40ed6b321412dacd68de8864c8f4342ebe3b526cf54ff00d4082d1de5731e8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-12-2022_feliz-navidad-y-próspero-año-nuevo_48e0207f7d3c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-12-2022_feliz-navidad-y-próspero-año-nuevo_48e0207f7d3c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-12-2022_feliz-navidad-y-próspero-año-nuevo_48e0207f7d3c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2d/78/eb/9f/84/2d78eb9f84cfa3f25052806e4b6184cc_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-12-2022_feliz-navidad-y-próspero-año-nuevo_48e0207f7d3c\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:30.752593-03:00",
+  "status": "downloaded"
+}

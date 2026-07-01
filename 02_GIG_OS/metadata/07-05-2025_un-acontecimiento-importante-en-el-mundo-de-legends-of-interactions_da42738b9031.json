@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_da42738b9031",
+  "platform": "gig_os",
+  "title": "¡Un acontecimiento importante en el mundo de Legends of Interactions!",
+  "date": "07.05.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/un-acontecimiento-importante-en-el-mundo-de-legends-of-interactions-1072",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/un-acontecimiento-importante-en-el-mundo-de-legends-of-interactions-1072",
+  "content_hash": "c772ad69eb4b064e91156019bf6a697db20a76afee8d3d9150941499ed6f82df",
+  "url_hash": "051a98604c2a07f51aeb9e2c4db15e7f148000b77e0b87b21f4becfc65d643f2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-05-2025_un-acontecimiento-importante-en-el-mundo-de-legends-of-interactions_da42738b9031.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-05-2025_un-acontecimiento-importante-en-el-mundo-de-legends-of-interactions_da42738b9031.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-05-2025_un-acontecimiento-importante-en-el-mundo-de-legends-of-interactions_da42738b9031",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/55/ce/70/b0/cb/55ce70b0cbfa41fde071e835ac50002f_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-05-2025_un-acontecimiento-importante-en-el-mundo-de-legends-of-interactions_da42738b9031\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:22.605368-03:00",
+  "status": "downloaded"
+}

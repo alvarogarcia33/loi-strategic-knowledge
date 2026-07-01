@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_8e3230bc374d",
+  "platform": "gig_os",
+  "title": "Crisis bancaria: el oro refuerza sus posiciones",
+  "date": "10.04.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/crisis-bancaria-el-oro-refuerza-sus-posiciones-716",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/crisis-bancaria-el-oro-refuerza-sus-posiciones-716",
+  "content_hash": "24de1f09ff14ec1b5e209852d40c1fb07a5a7cb17575f3b588a52eafe63f66dc",
+  "url_hash": "39a3f9bac665f9d523a928e68953da529e66d72254b28e61246e3cc9b02698fa",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-04-2023_crisis-bancaria-el-oro-refuerza-sus-posiciones_8e3230bc374d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-04-2023_crisis-bancaria-el-oro-refuerza-sus-posiciones_8e3230bc374d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-04-2023_crisis-bancaria-el-oro-refuerza-sus-posiciones_8e3230bc374d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9d/3b/ef/8f/56/9d3bef8f568c514856b3a6033e0dc596_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-04-2023_crisis-bancaria-el-oro-refuerza-sus-posiciones_8e3230bc374d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1446/gold-banner-1-es30857_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-04-2023_crisis-bancaria-el-oro-refuerza-sus-posiciones_8e3230bc374d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:54.345615-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_db38ee56cd01",
+  "platform": "gig_os",
+  "title": "Fragmentos del discurso del Presidente en la conferencia del 6 de diciembre de 2024",
+  "date": "19.12.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/fragmentos-del-discurso-del-presidente-en-la-conferencia-del-6-de-diciembre-de-2024-1028",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/fragmentos-del-discurso-del-presidente-en-la-conferencia-del-6-de-diciembre-de-2024-1028",
+  "content_hash": "ec75e85dacdf4ebe139577465f230c55368ea400a12262e1931810ae76fa7d37",
+  "url_hash": "a08b815815bdfe35e87c17e2c7124362e59635d64d51d585ed97ef1b740d1afe",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-12-2024_fragmentos-del-discurso-del-presidente-en-la-conferencia-del-6-de-diciembre-de-2_db38ee56cd01.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-12-2024_fragmentos-del-discurso-del-presidente-en-la-conferencia-del-6-de-diciembre-de-2_db38ee56cd01.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-12-2024_fragmentos-del-discurso-del-presidente-en-la-conferencia-del-6-de-diciembre-de-2_db38ee56cd01",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b1/b5/61/3b/7b/b1b5613b7b7c821fa48a2cdd724980b4_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-12-2024_fragmentos-del-discurso-del-presidente-en-la-conferencia-del-6-de-diciembre-de-2_db38ee56cd01\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1801/pt-32-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-12-2024_fragmentos-del-discurso-del-presidente-en-la-conferencia-del-6-de-diciembre-de-2_db38ee56cd01\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1799/pt-3-5-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-12-2024_fragmentos-del-discurso-del-presidente-en-la-conferencia-del-6-de-diciembre-de-2_db38ee56cd01\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:22.384937-03:00",
+  "status": "downloaded"
+}

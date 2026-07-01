@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_0bd1296212e9",
+  "platform": "gig_os",
+  "title": "¿Qué es REEX Coin?",
+  "date": "22.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-es-reex-coin-977",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-es-reex-coin-977",
+  "content_hash": "ed7263a99e4a97eb95bef03a707baac057d28e149542d72e9d7a39ba4a0e2c95",
+  "url_hash": "b14fe271da00beb3c7c3376f7de99f6b592251afede1097b89bf45e361761b71",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-08-2024_qué-es-reex-coin_0bd1296212e9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-08-2024_qué-es-reex-coin_0bd1296212e9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-08-2024_qué-es-reex-coin_0bd1296212e9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/39/51/4f/b8/40/39514fb840be6a2710e3b04e84ba732c_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-08-2024_qué-es-reex-coin_0bd1296212e9\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1744/screen-reex-coin9642_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-08-2024_qué-es-reex-coin_0bd1296212e9\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:36.079174-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d6a6a61eab67",
+  "platform": "gig_os",
+  "title": "El oro: un activo estratégico para todos los tiempos",
+  "date": "31.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-un-activo-estrategico-para-todos-los-tiempos-526",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-un-activo-estrategico-para-todos-los-tiempos-526",
+  "content_hash": "8562047867b3cb6866b7eda519341737c46ddbec65d77e850a9c0c823252790e",
+  "url_hash": "2548b237ba7efe1b4a18a5ed92ff273a676e9c5f73dfb258db6a0d5724cb18c6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\31-01-2022_el-oro-un-activo-estratégico-para-todos-los-tiempos_d6a6a61eab67.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\31-01-2022_el-oro-un-activo-estratégico-para-todos-los-tiempos_d6a6a61eab67.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-01-2022_el-oro-un-activo-estratégico-para-todos-los-tiempos_d6a6a61eab67",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/24/d8/d6/c2/3b/24d8d6c23bf72bee147e5ddf3162b0ef_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-01-2022_el-oro-un-activo-estratégico-para-todos-los-tiempos_d6a6a61eab67\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1222/gbar-fabric_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-01-2022_el-oro-un-activo-estratégico-para-todos-los-tiempos_d6a6a61eab67\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:34.293261-03:00",
+  "status": "downloaded"
+}

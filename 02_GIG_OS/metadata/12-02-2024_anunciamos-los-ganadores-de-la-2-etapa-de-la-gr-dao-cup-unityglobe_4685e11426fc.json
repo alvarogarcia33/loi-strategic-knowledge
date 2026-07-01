@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_4685e11426fc",
+  "platform": "gig_os",
+  "title": "Anunciamos los ganadores de la 2.ª etapa de la GR DAO CUP UnityGlobe",
+  "date": "12.02.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/anunciamos-los-ganadores-de-la-2-etapa-de-la-gr-dao-cup-unityglobe-876",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/anunciamos-los-ganadores-de-la-2-etapa-de-la-gr-dao-cup-unityglobe-876",
+  "content_hash": "91027fddae35de568a9a2e0d74eea9ff824c084b6f0aec1dc5e5ef628651df03",
+  "url_hash": "0dc3465e5197cad11ef6563e7ecaaf97c6920e2a2fa0cbd94151bb9609f69cbb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-02-2024_anunciamos-los-ganadores-de-la-2-etapa-de-la-gr-dao-cup-unityglobe_4685e11426fc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-02-2024_anunciamos-los-ganadores-de-la-2-etapa-de-la-gr-dao-cup-unityglobe_4685e11426fc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-02-2024_anunciamos-los-ganadores-de-la-2-etapa-de-la-gr-dao-cup-unityglobe_4685e11426fc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6e/28/d7/56/0d/6e28d7560decbfe5086c896be628c4d8_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-02-2024_anunciamos-los-ganadores-de-la-2-etapa-de-la-gr-dao-cup-unityglobe_4685e11426fc\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1621/12-02-2024-top-names-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-02-2024_anunciamos-los-ganadores-de-la-2-etapa-de-la-gr-dao-cup-unityglobe_4685e11426fc\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1613/cupunity-time-4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-02-2024_anunciamos-los-ganadores-de-la-2-etapa-de-la-gr-dao-cup-unityglobe_4685e11426fc\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:16.506252-03:00",
+  "status": "downloaded"
+}

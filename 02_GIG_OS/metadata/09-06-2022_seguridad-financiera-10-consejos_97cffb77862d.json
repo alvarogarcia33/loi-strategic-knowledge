@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_97cffb77862d",
+  "platform": "gig_os",
+  "title": "Seguridad financiera: 10 consejos",
+  "date": "09.06.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/seguridad-financiera-10-consejos-586",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/seguridad-financiera-10-consejos-586",
+  "content_hash": "2d24ec068510e58f160be5bc7c09d490a9a4e76b4283e4915b5fcaa844868d4c",
+  "url_hash": "63cf137639d0806c58cd91de37091e0a7c74f9888b0de7b01bed25004755fb08",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-06-2022_seguridad-financiera-10-consejos_97cffb77862d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-06-2022_seguridad-financiera-10-consejos_97cffb77862d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-06-2022_seguridad-financiera-10-consejos_97cffb77862d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/39/23/88/eb/d3/392388ebd355768522a953258f649a24_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-06-2022_seguridad-financiera-10-consejos_97cffb77862d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1295/novyy-proekt-46_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-06-2022_seguridad-financiera-10-consejos_97cffb77862d\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1295/novyy-proekt-47_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-06-2022_seguridad-financiera-10-consejos_97cffb77862d\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1295/novyy-proekt-48_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-06-2022_seguridad-financiera-10-consejos_97cffb77862d\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1295/novyy-proekt-49_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-06-2022_seguridad-financiera-10-consejos_97cffb77862d\\image_05.png",
+      "filename": "image_05.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1295/novyy-proekt-50_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-06-2022_seguridad-financiera-10-consejos_97cffb77862d\\image_06.png",
+      "filename": "image_06.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:56:25.262263-03:00",
+  "status": "downloaded"
+}

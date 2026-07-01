@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_6d8acf0f1719",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 27 de noviembre",
+  "date": "28.11.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-27-de-noviembre",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-27-de-noviembre",
+  "content_hash": "5b175a051737401fc4407a1fe657d89ca24cc2b4e55f9255ed56d827b9b4ac63",
+  "url_hash": "9eafdd8fbf381cbd79d4299441169b9333b3dd2ba7bb3dd3aceeef9aa8d5c058",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-11-2017_informe-de-la-cotización-del-oro-al-27-de-noviembre_6d8acf0f1719.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-11-2017_informe-de-la-cotización-del-oro-al-27-de-noviembre_6d8acf0f1719.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-11-2017_informe-de-la-cotización-del-oro-al-27-de-noviembre_6d8acf0f1719",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c8/42/01/db/b2/c84201dbb24d4462a3e58435f6e9edd3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-11-2017_informe-de-la-cotización-del-oro-al-27-de-noviembre_6d8acf0f1719\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/422/global-intergold-gold-chart_1.PNG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:27:32.015237-03:00",
+  "status": "downloaded"
+}

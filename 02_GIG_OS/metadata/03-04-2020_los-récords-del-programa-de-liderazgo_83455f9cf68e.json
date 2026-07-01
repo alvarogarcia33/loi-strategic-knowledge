@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_83455f9cf68e",
+  "platform": "gig_os",
+  "title": "¡Los récords del programa de Liderazgo!",
+  "date": "03.04.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-records-del-programa-de-liderazgo-239",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-records-del-programa-de-liderazgo-239",
+  "content_hash": "eb14c23c4748fc6d3aa5ba88048e143cf5c73597554cb869a262360ff872e351",
+  "url_hash": "e62d7f51dca27160115f7403c3d842d2abf57f53a30ca04ab0c5c041b8e10b78",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-04-2020_los-récords-del-programa-de-liderazgo_83455f9cf68e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-04-2020_los-récords-del-programa-de-liderazgo_83455f9cf68e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2020_los-récords-del-programa-de-liderazgo_83455f9cf68e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/96/76/74/9e/3e/9676749e3e948347d56d1f5c0b7f4623_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2020_los-récords-del-programa-de-liderazgo_83455f9cf68e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:19.717512-03:00",
+  "status": "downloaded"
+}

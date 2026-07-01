@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_6c4d6e500410",
+  "platform": "gig_os",
+  "title": "La supremacía del oro en Italia",
+  "date": "26.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-supremacia-del-oro-en-italia-565",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-supremacia-del-oro-en-italia-565",
+  "content_hash": "d6f8fadcc6444d37922b2316293e94366953b1d3e1dda7cd8ab61cac32e3bb03",
+  "url_hash": "ce99613991859ff805abcf7e7f046b89355209e52c9fd70ad8fb050037ecfec9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-04-2022_la-supremacía-del-oro-en-italia_6c4d6e500410.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-04-2022_la-supremacía-del-oro-en-italia_6c4d6e500410.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2022_la-supremacía-del-oro-en-italia_6c4d6e500410",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3f/8d/c3/ef/4a/3f8dc3ef4a1d34f4b0d7c8b9956e135e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2022_la-supremacía-del-oro-en-italia_6c4d6e500410\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1268/esp_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2022_la-supremacía-del-oro-en-italia_6c4d6e500410\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1268/why-esp_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-04-2022_la-supremacía-del-oro-en-italia_6c4d6e500410\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:03.271471-03:00",
+  "status": "downloaded"
+}

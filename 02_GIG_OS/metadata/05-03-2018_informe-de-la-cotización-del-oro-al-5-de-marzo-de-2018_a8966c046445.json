@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_a8966c046445",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 5 de marzo de 2018",
+  "date": "05.03.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-5-de-marzo-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-5-de-marzo-de-2018",
+  "content_hash": "46bc42a807bea62ce738b02ea3f53db1c9af54527493dfec1a27ce53a2329867",
+  "url_hash": "a7aa0771f874dc152574d5447350df077568dbcf824fcc970d2ac2dd0fbaff8c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-03-2018_informe-de-la-cotización-del-oro-al-5-de-marzo-de-2018_a8966c046445.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-03-2018_informe-de-la-cotización-del-oro-al-5-de-marzo-de-2018_a8966c046445.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-03-2018_informe-de-la-cotización-del-oro-al-5-de-marzo-de-2018_a8966c046445",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7f/1b/c9/aa/26/7f1bc9aa26a1cb09b93f4ce262d6a58f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-03-2018_informe-de-la-cotización-del-oro-al-5-de-marzo-de-2018_a8966c046445\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/456/global-intergold-gold-report-federal-reserve-board-chairman-jerome-powell_1.jpeg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/456/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/456/global-intergold-gold-report-lukas-lundin_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:07.996610-03:00",
+  "status": "downloaded"
+}

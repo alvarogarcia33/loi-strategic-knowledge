@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_1d0777382d7f",
+  "platform": "gig_os",
+  "title": "20 de marzo: conferencia online",
+  "date": "10.03.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/20-de-marzo-conferencia-online-0171",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/20-de-marzo-conferencia-online-0171",
+  "content_hash": "84738b7451c8f78b57c4adb0fb628f99b4ac34734476bdbc323915969ae74d73",
+  "url_hash": "3d3be0c8123f1adde8a414a674fb8eeed7617e15e3ab14da0b2139e8e3a07c33",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-03-2026_20-de-marzo-conferencia-online_1d0777382d7f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-03-2026_20-de-marzo-conferencia-online_1d0777382d7f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-03-2026_20-de-marzo-conferencia-online_1d0777382d7f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cc/54/31/76/d1/cc543176d1f050029e54a5684d6f9030_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-03-2026_20-de-marzo-conferencia-online_1d0777382d7f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:55:17.437968-03:00",
+  "status": "downloaded"
+}

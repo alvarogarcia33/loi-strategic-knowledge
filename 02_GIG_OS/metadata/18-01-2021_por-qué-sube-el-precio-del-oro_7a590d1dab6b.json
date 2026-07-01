@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7a590d1dab6b",
+  "platform": "gig_os",
+  "title": "¿Por qué sube el precio del oro?",
+  "date": "18.01.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-sube-el-precio-del-oro-360",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-sube-el-precio-del-oro-360",
+  "content_hash": "470d5b88b96540cb4c2ed3f5d263f117b527b648a97c3b482e109a18a263f61d",
+  "url_hash": "2435c125ee9146f2ac7423289cda8bdc02585bb997cb7e78f72d66dcb7713ce3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-01-2021_por-qué-sube-el-precio-del-oro_7a590d1dab6b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-01-2021_por-qué-sube-el-precio-del-oro_7a590d1dab6b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-01-2021_por-qué-sube-el-precio-del-oro_7a590d1dab6b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/72/7e/97/d9/53/727e97d95377d39c076ac34d4530a06f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-01-2021_por-qué-sube-el-precio-del-oro_7a590d1dab6b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1025/image3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-01-2021_por-qué-sube-el-precio-del-oro_7a590d1dab6b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:50.989212-03:00",
+  "status": "downloaded"
+}

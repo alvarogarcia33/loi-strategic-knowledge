@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_88ff58b04d15",
+  "platform": "gig_os",
+  "title": "La reserva de oro: la última esperanza en la lucha contra las crisis",
+  "date": "16.09.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-reserva-de-oro-la-ultima-esperanza-en-la-lucha-contra-las-crisis-172",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-reserva-de-oro-la-ultima-esperanza-en-la-lucha-contra-las-crisis-172",
+  "content_hash": "ded5506978b5b4746091e04be636c5c3c124dfd0e96deb0d0a2aef53c63c4c75",
+  "url_hash": "9408cab0c92528baa80fa861af6eff254de6404bc7b9186e2d3ece7f1a07992e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-09-2019_la-reserva-de-oro-la-última-esperanza-en-la-lucha-contra-las-crisis_88ff58b04d15.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-09-2019_la-reserva-de-oro-la-última-esperanza-en-la-lucha-contra-las-crisis_88ff58b04d15.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2019_la-reserva-de-oro-la-última-esperanza-en-la-lucha-contra-las-crisis_88ff58b04d15",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/71/5d/2e/4b/a8/715d2e4ba83e6061152caa06d5a776a2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2019_la-reserva-de-oro-la-última-esperanza-en-la-lucha-contra-las-crisis_88ff58b04d15\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/775/global-intergold--gold-bar--11-kg_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2019_la-reserva-de-oro-la-última-esperanza-en-la-lucha-contra-las-crisis_88ff58b04d15\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/775/global-intergold--gold-reserve_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2019_la-reserva-de-oro-la-última-esperanza-en-la-lucha-contra-las-crisis_88ff58b04d15\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/775/global-ntergold--purchases-of-the-central-banks_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-09-2019_la-reserva-de-oro-la-última-esperanza-en-la-lucha-contra-las-crisis_88ff58b04d15\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:31.084967-03:00",
+  "status": "downloaded"
+}

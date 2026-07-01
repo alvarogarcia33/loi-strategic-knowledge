@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_03b41c5d7cdc",
+  "platform": "gig_os",
+  "title": "¿Por qué el éxito no llega?",
+  "date": "04.07.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-el-exito-no-llega",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-el-exito-no-llega",
+  "content_hash": "9be2342ad80f25a56aadb4960b4926ad1eb6ef49168baa5f610a5bd31503cdc0",
+  "url_hash": "8fe19e72fe28a4c06deccb70a64713f618d975e0511ae36997e176ac288d481d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-07-2018_por-qué-el-éxito-no-llega_03b41c5d7cdc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-07-2018_por-qué-el-éxito-no-llega_03b41c5d7cdc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-07-2018_por-qué-el-éxito-no-llega_03b41c5d7cdc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/36/11/e0/cb/1e/3611e0cb1eccc688b3d3c2811b65c2a3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-07-2018_por-qué-el-éxito-no-llega_03b41c5d7cdc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/516/global-intergold-oro-la-seguridad-financiera-3_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/516/global-intergold-oro-la-seguridad-financiera-1_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/516/frame-294857319202_1.png",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:38.283125-03:00",
+  "status": "downloaded"
+}

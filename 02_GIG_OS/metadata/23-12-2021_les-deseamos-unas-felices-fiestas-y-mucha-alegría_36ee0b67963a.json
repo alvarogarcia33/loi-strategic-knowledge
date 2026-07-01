@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_36ee0b67963a",
+  "platform": "gig_os",
+  "title": "¡Les deseamos unas felices fiestas y mucha alegría!",
+  "date": "23.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/les-deseamos-unas-felices-fiestas-y-mucha-alegria-509",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/les-deseamos-unas-felices-fiestas-y-mucha-alegria-509",
+  "content_hash": "01abb4a34ec502c4287a248a644bea11525c48017f7289175d342f15bef2f664",
+  "url_hash": "97def3cac9b194b570d681d7ccc4cfe796da9c40229a5f0955b564bb8e822baa",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-12-2021_les-deseamos-unas-felices-fiestas-y-mucha-alegría_36ee0b67963a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-12-2021_les-deseamos-unas-felices-fiestas-y-mucha-alegría_36ee0b67963a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-12-2021_les-deseamos-unas-felices-fiestas-y-mucha-alegría_36ee0b67963a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1a/aa/c8/70/72/1aaac870724583c2999beb19c219b8bf_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-12-2021_les-deseamos-unas-felices-fiestas-y-mucha-alegría_36ee0b67963a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:36:38.007678-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_532850feea89",
+  "platform": "gig_os",
+  "title": "Récord absoluto: más de 800 solicitudes",
+  "date": "22.08.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/record-absoluto-mas-de-800-solicitudes-1131",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/record-absoluto-mas-de-800-solicitudes-1131",
+  "content_hash": "0cd388cb0b92d9b46b4bc1bea7fac4558ffa9db72a5b9f25dc923f3913a2c669",
+  "url_hash": "90b04317cbbf045a4bea7fea5bc559a0c888b01f1879ecdcca0ea47a31f59fcc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-08-2025_récord-absoluto-más-de-800-solicitudes_532850feea89.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-08-2025_récord-absoluto-más-de-800-solicitudes_532850feea89.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-08-2025_récord-absoluto-más-de-800-solicitudes_532850feea89",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4c/f3/fa/93/b0/4cf3fa93b00efa4934982505b6f8c7c7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-08-2025_récord-absoluto-más-de-800-solicitudes_532850feea89\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:51:58.363425-03:00",
+  "status": "downloaded"
+}

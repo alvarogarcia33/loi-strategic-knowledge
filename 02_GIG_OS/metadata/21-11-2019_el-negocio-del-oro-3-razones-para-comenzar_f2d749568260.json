@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_f2d749568260",
+  "platform": "gig_os",
+  "title": "El negocio del oro: 3 razones para comenzar",
+  "date": "21.11.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-negocio-del-oro-3-razones-para-comenzar-200",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-negocio-del-oro-3-razones-para-comenzar-200",
+  "content_hash": "43881d9d24e4787638b1bbb7ca34ca39854bf82a075de6271208cbdd607712e5",
+  "url_hash": "a12a655d373b4de4ca50b672f1f8f08da8ed6280ffde05204386b4b9e24c413e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-11-2019_el-negocio-del-oro-3-razones-para-comenzar_f2d749568260.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-11-2019_el-negocio-del-oro-3-razones-para-comenzar_f2d749568260.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-11-2019_el-negocio-del-oro-3-razones-para-comenzar_f2d749568260",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7e/9e/dc/86/36/7e9edc8636fddcad3e5cfa014b7d4646_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-11-2019_el-negocio-del-oro-3-razones-para-comenzar_f2d749568260\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/803/global-intergold--3-reasons-to-start-a-gold-business_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-11-2019_el-negocio-del-oro-3-razones-para-comenzar_f2d749568260\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:01.502287-03:00",
+  "status": "downloaded"
+}

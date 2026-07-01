@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_034029475809",
+  "platform": "gig_os",
+  "title": "Premio del Presidente para los tres ganadores",
+  "date": "10.01.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/premio-del-presidente-para-los-tres-ganadores-676",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/premio-del-presidente-para-los-tres-ganadores-676",
+  "content_hash": "5c3d38d767556d3c2e317d40654351c7ea9800dbfa55aef987e60d34558bbacb",
+  "url_hash": "ad49c22d1c25594faa42d90b6596fdaf753268c2bbf2c88c3a175512107f97ab",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-01-2023_premio-del-presidente-para-los-tres-ganadores_034029475809.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-01-2023_premio-del-presidente-para-los-tres-ganadores_034029475809.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-01-2023_premio-del-presidente-para-los-tres-ganadores_034029475809",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/48/9e/6c/0b/93/489e6c0b93dd2480ec6155b71468fa53_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-01-2023_premio-del-presidente-para-los-tres-ganadores_034029475809\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:11.073635-03:00",
+  "status": "downloaded"
+}

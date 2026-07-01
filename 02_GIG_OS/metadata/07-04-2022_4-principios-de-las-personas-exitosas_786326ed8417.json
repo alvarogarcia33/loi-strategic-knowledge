@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_786326ed8417",
+  "platform": "gig_os",
+  "title": "4 principios de las personas exitosas",
+  "date": "07.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/4-principios-de-las-personas-exitosas-557",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/4-principios-de-las-personas-exitosas-557",
+  "content_hash": "0a95a544f1609cc1b4264f43ce536b2916949292fd298ceff8e66957b9f9fa28",
+  "url_hash": "22e3ae9a1b18c89e16917afc29c0869ba147bd23c1a335c5b025c5a031e34046",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-04-2022_4-principios-de-las-personas-exitosas_786326ed8417.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-04-2022_4-principios-de-las-personas-exitosas_786326ed8417.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_4-principios-de-las-personas-exitosas_786326ed8417",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6e/29/f5/96/6b/6e29f5966bf60269ea9f2d841551ee51_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_4-principios-de-las-personas-exitosas_786326ed8417\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1261/novyy-proekt8_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_4-principios-de-las-personas-exitosas_786326ed8417\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1261/novyy-proekt9_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_4-principios-de-las-personas-exitosas_786326ed8417\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1261/novyy-proekt10_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_4-principios-de-las-personas-exitosas_786326ed8417\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1261/novyy-proekt11_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_4-principios-de-las-personas-exitosas_786326ed8417\\image_05.png",
+      "filename": "image_05.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:56:22.182117-03:00",
+  "status": "downloaded"
+}

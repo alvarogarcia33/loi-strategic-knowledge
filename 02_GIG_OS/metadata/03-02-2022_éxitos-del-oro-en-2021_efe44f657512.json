@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_efe44f657512",
+  "platform": "gig_os",
+  "title": "Éxitos del oro en 2021",
+  "date": "03.02.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/exitos-del-oro-en-2021-529",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/exitos-del-oro-en-2021-529",
+  "content_hash": "e73740f5c010265af3e223f938fade297e3c37300f76f5ac59993a1f4d3d94be",
+  "url_hash": "b3d29a3c8d0490cb20dd6791e205fe977a93230d7c775d45f4546b635aa8c65b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-02-2022_éxitos-del-oro-en-2021_efe44f657512.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-02-2022_éxitos-del-oro-en-2021_efe44f657512.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-02-2022_éxitos-del-oro-en-2021_efe44f657512",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/68/18/5e/30/b9/68185e30b9475fb403eae7defbab48a1_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-02-2022_éxitos-del-oro-en-2021_efe44f657512\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1228/esp_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-02-2022_éxitos-del-oro-en-2021_efe44f657512\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:34.351298-03:00",
+  "status": "downloaded"
+}

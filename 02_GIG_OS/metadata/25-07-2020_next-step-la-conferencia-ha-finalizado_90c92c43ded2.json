@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_90c92c43ded2",
+  "platform": "gig_os",
+  "title": "«Next Step» — ¡la conferencia ha finalizado!",
+  "date": "25.07.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/next-step-la-conferencia-ha-finalizado-285",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/next-step-la-conferencia-ha-finalizado-285",
+  "content_hash": "497aac900ec9e43eeee2a553cd90417d050964b0bfcc7ea83fcd7b1278eb01ac",
+  "url_hash": "da0054212afd5f388e9177f578983b8410e9e15f548570c0d9a46f6bac1563be",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-07-2020_next-step-la-conferencia-ha-finalizado_90c92c43ded2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-07-2020_next-step-la-conferencia-ha-finalizado_90c92c43ded2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-07-2020_next-step-la-conferencia-ha-finalizado_90c92c43ded2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2b/57/d3/67/4e/2b57d3674e7d1de758523473e6092a1b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-07-2020_next-step-la-conferencia-ha-finalizado_90c92c43ded2\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:40:58.788049-03:00",
+  "status": "downloaded"
+}

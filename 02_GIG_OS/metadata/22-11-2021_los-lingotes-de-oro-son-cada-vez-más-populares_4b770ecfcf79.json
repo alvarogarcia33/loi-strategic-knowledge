@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_4b770ecfcf79",
+  "platform": "gig_os",
+  "title": "¡Los lingotes de oro son cada vez más populares!",
+  "date": "22.11.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-lingotes-de-oro-son-cada-vez-mas-populares-495",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-lingotes-de-oro-son-cada-vez-mas-populares-495",
+  "content_hash": "03f96b23d04bd9c2f1b68cdbb9f5dc823fccce1585eae2d3a4aeaa66dd408e7a",
+  "url_hash": "210249f48b690d96a4123edc545cfb434ef51f26808f7801c0cd49904c711199",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-11-2021_los-lingotes-de-oro-son-cada-vez-más-populares_4b770ecfcf79.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-11-2021_los-lingotes-de-oro-son-cada-vez-más-populares_4b770ecfcf79.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-11-2021_los-lingotes-de-oro-son-cada-vez-más-populares_4b770ecfcf79",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f2/72/0d/f5/9a/f2720df59aefb706aca6cfe62243bf3f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-11-2021_los-lingotes-de-oro-son-cada-vez-más-populares_4b770ecfcf79\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1192/dizayn-bez-nazvaniya_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-11-2021_los-lingotes-de-oro-son-cada-vez-más-populares_4b770ecfcf79\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:37.341538-03:00",
+  "status": "downloaded"
+}

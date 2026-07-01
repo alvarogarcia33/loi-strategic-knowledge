@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_faa163a90405",
+  "platform": "gig_os",
+  "title": "Aumento del interés por el oro en la República Checa",
+  "date": "23.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/aumento-del-interes-por-el-oro-en-la-republica-checa-578",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/aumento-del-interes-por-el-oro-en-la-republica-checa-578",
+  "content_hash": "05776fccaf14b17b8e6fd8f4abbae67c7b900290c090d15004880a7d4e4ef776",
+  "url_hash": "e7da3733f0cdb3c8a929595e486dedb36b28bbd2cf6275675532c7c9c2ede309",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-05-2022_aumento-del-interés-por-el-oro-en-la-república-checa_faa163a90405.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-05-2022_aumento-del-interés-por-el-oro-en-la-república-checa_faa163a90405.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-05-2022_aumento-del-interés-por-el-oro-en-la-república-checa_faa163a90405",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/67/b2/74/d6/1d/67b274d61d4ae4ed6d0ef54be36c89ac_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-05-2022_aumento-del-interés-por-el-oro-en-la-república-checa_faa163a90405\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1285/esp-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-05-2022_aumento-del-interés-por-el-oro-en-la-república-checa_faa163a90405\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:59:05.941886-03:00",
+  "status": "downloaded"
+}

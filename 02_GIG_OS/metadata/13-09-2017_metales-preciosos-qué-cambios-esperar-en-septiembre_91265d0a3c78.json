@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_91265d0a3c78",
+  "platform": "gig_os",
+  "title": "Metales preciosos: ¿qué cambios esperar en septiembre?",
+  "date": "13.09.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/metales-preciosos-que-cambios-esperar-en-septiembre",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/metales-preciosos-que-cambios-esperar-en-septiembre",
+  "content_hash": "e62fe1b49f4693ac84130ac3e13293266e478a4610af8519ce26a9024c067852",
+  "url_hash": "3a413c507cf2e097cdfc561796e279bb433beae65e0645a59f8e85404ad5148c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-09-2017_metales-preciosos-qué-cambios-esperar-en-septiembre_91265d0a3c78.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-09-2017_metales-preciosos-qué-cambios-esperar-en-septiembre_91265d0a3c78.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-09-2017_metales-preciosos-qué-cambios-esperar-en-septiembre_91265d0a3c78",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/38/54/3b/dd/29/38543bdd2999f0ded8173c077c57bee5_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/342/global-intergold-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:40:03.454862-03:00",
+  "status": "downloaded"
+}

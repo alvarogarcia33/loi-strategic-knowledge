@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_f495cad42669",
+  "platform": "gig_os",
+  "title": "¿Por qué los Países Bajos confían en el oro?",
+  "date": "25.11.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-los-paises-bajos-confian-en-el-oro-201",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-los-paises-bajos-confian-en-el-oro-201",
+  "content_hash": "a1ad75ee696b38dc4f9dcd7d7d1f1a0a2ffd8383fd127433f441780644d3a644",
+  "url_hash": "28b433ef601fb1d97416a1f04cc53e027ea60125b1facba188830ca8a265fee5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-11-2019_por-qué-los-países-bajos-confían-en-el-oro_f495cad42669.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-11-2019_por-qué-los-países-bajos-confían-en-el-oro_f495cad42669.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-11-2019_por-qué-los-países-bajos-confían-en-el-oro_f495cad42669",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e2/84/2d/ab/ba/e2842dabbaaf2997f5dbb01ec306cdf3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-11-2019_por-qué-los-países-bajos-confían-en-el-oro_f495cad42669\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/804/zdanie-niderlandskogo-banka-the-office-of-the-netherlands-bank-in-amsterdam-edificio-del-banco-de-los-paises-bajos-en-amsterdam-lufficio-della-banca-olandese_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-11-2019_por-qué-los-países-bajos-confían-en-el-oro_f495cad42669\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:13.019129-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_24d4b56fe87d",
+  "platform": "gig_os",
+  "title": "Hungría: ¡el oro debe comprarse regularmente!",
+  "date": "19.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/hungria-el-oro-debe-comprarse-regularmente-402",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/hungria-el-oro-debe-comprarse-regularmente-402",
+  "content_hash": "23a566af52b0e286a69a69f9c3e9eaae720e30b6eb443f30303562372ee870e1",
+  "url_hash": "1dc13ddb28a41bf08bc5437a90c7e2fd0a1ca838a240c8753563ffaa2152f316",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-04-2021_hungría-el-oro-debe-comprarse-regularmente_24d4b56fe87d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-04-2021_hungría-el-oro-debe-comprarse-regularmente_24d4b56fe87d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-04-2021_hungría-el-oro-debe-comprarse-regularmente_24d4b56fe87d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/07/26/cf/57/9a/0726cf579ad9004cee5abc53b0e040ff_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-04-2021_hungría-el-oro-debe-comprarse-regularmente_24d4b56fe87d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:07.883823-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_88e5e68e5713",
+  "platform": "gig_os",
+  "title": "PRÓXIMAMENTE: EL CONGRESO INTERNACIONAL DE GIG-OS",
+  "date": "26.11.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/proximamente-el-congreso-internacional-de-gig-os-498",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/proximamente-el-congreso-internacional-de-gig-os-498",
+  "content_hash": "54d81e2c8eb681e2638e370cb37cb83301b4b316088c2ea5e426c871946f0967",
+  "url_hash": "d3a58810def9542032a9289e2b78b31996e8181e808ffde2af02f969e4a675b1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-11-2021_próximamente-el-congreso-internacional-de-gig-os_88e5e68e5713.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-11-2021_próximamente-el-congreso-internacional-de-gig-os_88e5e68e5713.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-11-2021_próximamente-el-congreso-internacional-de-gig-os_88e5e68e5713",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f2/d5/d9/1e/10/f2d5d91e10e45d4aafb6e1cfd3db65e5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-11-2021_próximamente-el-congreso-internacional-de-gig-os_88e5e68e5713\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:45.547717-03:00",
+  "status": "downloaded"
+}

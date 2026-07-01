@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_99eb1df0a0a3",
+  "platform": "gig_os",
+  "title": "El oro es un faro de esperanza en tiempos de estanflación",
+  "date": "04.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-es-un-faro-de-esperanza-en-tiempos-de-estanflacion-555",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-es-un-faro-de-esperanza-en-tiempos-de-estanflacion-555",
+  "content_hash": "24b2651f6e1c98234cf77917f0680a5fac10cdd7b2b358bef21b0289568ea922",
+  "url_hash": "0c9a3d22fb3c42775cb5c8a92f97bde62768d54ab2cb64d29fd663954db27f02",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-04-2022_el-oro-es-un-faro-de-esperanza-en-tiempos-de-estanflación_99eb1df0a0a3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-04-2022_el-oro-es-un-faro-de-esperanza-en-tiempos-de-estanflación_99eb1df0a0a3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2022_el-oro-es-un-faro-de-esperanza-en-tiempos-de-estanflación_99eb1df0a0a3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b7/e8/6c/58/58/b7e86c5858149e2fe36a2e421d8046f3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2022_el-oro-es-un-faro-de-esperanza-en-tiempos-de-estanflación_99eb1df0a0a3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1259/dizayn-bez-nazvaniya3_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2022_el-oro-es-un-faro-de-esperanza-en-tiempos-de-estanflación_99eb1df0a0a3\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:08.719167-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_fc225120c771",
+  "platform": "olympia",
+  "title": "¡La aplicación Legends of Interactions: ¡la nueva versión ya está disponible!",
+  "date": "15.09.2025",
+  "source_url": "https://olympia-lab.com/es/news/post/la-aplicacion-legends-of-interactions-la-nueva-version-ya-esta-disponible-0114",
+  "canonical_url": "https://olympia-lab.com/es/news/post/la-aplicacion-legends-of-interactions-la-nueva-version-ya-esta-disponible-0114",
+  "content_hash": "92e6b7fdad4cccdaa24b1227bd643cfc9e8933e4e476fc65829abf16c433676b",
+  "url_hash": "72065220044e00a8a986acbc03302aab8aac8e1dfb936a3b42fb4c4cf68d0646",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/b7/2b/8e/5b/c3/b72b8e5bc36ec060e3932bc35574bf2b.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/10/0c/69/82/06/100c6982064fd10e2b78801fcff78892_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/44/31/8f/66/d7/44318f66d79ad4254ed5d527329d54a2_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/11/d5/d4/58/2211d5d458f4538fdb42487e3c600c30_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/fe/35/df/bc/58fe35dfbcd379455a92540568923011_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/64/2c/05/28/7e/642c05287ef94a8b72f6944fb8c845e7_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:19:00.987158-03:00",
+  "status": "downloaded"
+}

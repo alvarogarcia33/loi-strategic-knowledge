@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_1311c206d5fb",
+  "platform": "gig_os",
+  "title": "La etapa final terminará en una semana",
+  "date": "24.03.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-etapa-final-terminara-en-una-semana-0177",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-etapa-final-terminara-en-una-semana-0177",
+  "content_hash": "36e9339a530839a4129749fd5ce42db3c53b55f58cf821e03cb60795ca7981a9",
+  "url_hash": "072671e9b9793314302078d310004ef6b6ce73a1d192793d82bbfdb3d13400aa",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-03-2026_la-etapa-final-terminará-en-una-semana_1311c206d5fb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-03-2026_la-etapa-final-terminará-en-una-semana_1311c206d5fb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-03-2026_la-etapa-final-terminará-en-una-semana_1311c206d5fb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3d/85/1e/67/5b/3d851e675b16b08d818e6e2600abd774_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-03-2026_la-etapa-final-terminará-en-una-semana_1311c206d5fb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:15.465532-03:00",
+  "status": "downloaded"
+}

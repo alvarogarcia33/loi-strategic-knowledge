@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_fe3f03172f58",
+  "platform": "gig_os",
+  "title": "La demanda de oro a los dos lados del Atlántico",
+  "date": "15.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-demanda-de-oro-a-los-dos-lados-del-atlantico-383",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-demanda-de-oro-a-los-dos-lados-del-atlantico-383",
+  "content_hash": "d0aa53c3cdaad6f37165e87bbe5cf83c38338c859d6b4aee8b2d129c442f0492",
+  "url_hash": "eabb947f2b8417cec99db6013d5b5b4e3ad6a3ee5a430254746bec3b74127f51",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-03-2021_la-demanda-de-oro-a-los-dos-lados-del-atlántico_fe3f03172f58.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-03-2021_la-demanda-de-oro-a-los-dos-lados-del-atlántico_fe3f03172f58.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-03-2021_la-demanda-de-oro-a-los-dos-lados-del-atlántico_fe3f03172f58",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/36/25/c6/78/f5/3625c678f509570cdd9c0d35372aa671_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-03-2021_la-demanda-de-oro-a-los-dos-lados-del-atlántico_fe3f03172f58\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1055/new-project2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-03-2021_la-demanda-de-oro-a-los-dos-lados-del-atlántico_fe3f03172f58\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:30.356747-03:00",
+  "status": "downloaded"
+}

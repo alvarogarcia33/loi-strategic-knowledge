@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_8881cad3e64c",
+  "platform": "gig_os",
+  "title": "¡Todos a la conferencia del 18 de marzo!",
+  "date": "08.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/todos-a-la-conferencia-del-18-de-marzo-542",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/todos-a-la-conferencia-del-18-de-marzo-542",
+  "content_hash": "5dc7995bd4df6503a6972ade7d41df350f89e7c8dbbd2c3dccff2e96272cb0bc",
+  "url_hash": "b8106800d5ed61ccd18c1278e50dc25e74778ccdd2e757a48fca9a089643a1bb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-03-2022_todos-a-la-conferencia-del-18-de-marzo_8881cad3e64c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-03-2022_todos-a-la-conferencia-del-18-de-marzo_8881cad3e64c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-03-2022_todos-a-la-conferencia-del-18-de-marzo_8881cad3e64c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/93/fb/24/48/3d/93fb24483d93a59e65b2a9f73a514c90_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-03-2022_todos-a-la-conferencia-del-18-de-marzo_8881cad3e64c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:14.003537-03:00",
+  "status": "downloaded"
+}

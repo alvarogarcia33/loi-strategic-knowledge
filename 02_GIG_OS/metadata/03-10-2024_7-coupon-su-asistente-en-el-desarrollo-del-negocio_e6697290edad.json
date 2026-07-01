@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_e6697290edad",
+  "platform": "gig_os",
+  "title": "7РТ coupon: su asistente en el desarrollo del negocio",
+  "date": "03.10.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/7rt-coupon-su-asistente-en-el-desarrollo-del-negocio-994",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/7rt-coupon-su-asistente-en-el-desarrollo-del-negocio-994",
+  "content_hash": "51c8f46bb5c36b344965ad0ea1ac2e454a1a6da0050bbfd1dab8af70c8f01abd",
+  "url_hash": "43c84c7b45ed05485bc7c678339387cfca943af3e951d3f2792b4fd722a24f26",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-10-2024_7-coupon-su-asistente-en-el-desarrollo-del-negocio_e6697290edad.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-10-2024_7-coupon-su-asistente-en-el-desarrollo-del-negocio_e6697290edad.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-10-2024_7-coupon-su-asistente-en-el-desarrollo-del-negocio_e6697290edad",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d3/50/11/a3/d5/d35011a3d506e5dced59986f1ebbef44_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-10-2024_7-coupon-su-asistente-en-el-desarrollo-del-negocio_e6697290edad\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1763/7pt-coupon-146518_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-10-2024_7-coupon-su-asistente-en-el-desarrollo-del-negocio_e6697290edad\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:56:40.308702-03:00",
+  "status": "downloaded"
+}

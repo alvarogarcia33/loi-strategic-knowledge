@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_279e12027b98",
+  "platform": "gig_os",
+  "title": "Santiago Matías Marcelo Cian: adónde llevan el coraje y la perseverancia",
+  "date": "18.08.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/santiago-matias-marcelo-cian-adonde-llevan-el-coraje-y-la-perseverancia-296",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/santiago-matias-marcelo-cian-adonde-llevan-el-coraje-y-la-perseverancia-296",
+  "content_hash": "a110ece47338a387a4105765ab7aa281ea0ddaf01df3c1ebde395772288e4418",
+  "url_hash": "31a48a8d7eeb49c001b5c5ae8d98b541455c21d251de6e06966cab41c734816d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-08-2020_santiago-matías-marcelo-cian-adónde-llevan-el-coraje-y-la-perseverancia_279e12027b98.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-08-2020_santiago-matías-marcelo-cian-adónde-llevan-el-coraje-y-la-perseverancia_279e12027b98.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-08-2020_santiago-matías-marcelo-cian-adónde-llevan-el-coraje-y-la-perseverancia_279e12027b98",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3f/90/0b/f3/39/3f900bf3399f468158977c54e84af11c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-08-2020_santiago-matías-marcelo-cian-adónde-llevan-el-coraje-y-la-perseverancia_279e12027b98\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/931/shoes_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-08-2020_santiago-matías-marcelo-cian-adónde-llevan-el-coraje-y-la-perseverancia_279e12027b98\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/931/three_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-08-2020_santiago-matías-marcelo-cian-adónde-llevan-el-coraje-y-la-perseverancia_279e12027b98\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/931/conference_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-08-2020_santiago-matías-marcelo-cian-adónde-llevan-el-coraje-y-la-perseverancia_279e12027b98\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:54:36.453931-03:00",
+  "status": "downloaded"
+}

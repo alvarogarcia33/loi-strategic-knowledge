@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_4b47a7ddc0e7",
+  "platform": "gig_os",
+  "title": "GR DAO CUP UnityGlobe: la línea de meta está cada vez más cerca",
+  "date": "01.04.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-unityglobe-la-linea-de-meta-esta-cada-vez-mas-cerca-906",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-unityglobe-la-linea-de-meta-esta-cada-vez-mas-cerca-906",
+  "content_hash": "cc5a93c9dd8df388c3dc9430387c5e0a1211114eada6c329682d9c6f617a41a0",
+  "url_hash": "664c70561d6e7a2d8ce0ccd48bc4f8b576c272a6bc999f2046248afcfe05e65e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-04-2024_gr-dao-cup-unityglobe-la-línea-de-meta-está-cada-vez-más-cerca_4b47a7ddc0e7.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-04-2024_gr-dao-cup-unityglobe-la-línea-de-meta-está-cada-vez-más-cerca_4b47a7ddc0e7.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-04-2024_gr-dao-cup-unityglobe-la-línea-de-meta-está-cada-vez-más-cerca_4b47a7ddc0e7",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4a/77/29/98/c4/4a772998c40227ad2447312d8ba0c14c_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-04-2024_gr-dao-cup-unityglobe-la-línea-de-meta-está-cada-vez-más-cerca_4b47a7ddc0e7\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1658/table-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-04-2024_gr-dao-cup-unityglobe-la-línea-de-meta-está-cada-vez-más-cerca_4b47a7ddc0e7\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1658/call-to-action-unity-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-04-2024_gr-dao-cup-unityglobe-la-línea-de-meta-está-cada-vez-más-cerca_4b47a7ddc0e7\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:48.361077-03:00",
+  "status": "downloaded"
+}

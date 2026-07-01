@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7315016be796",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 9 de abril de 2018",
+  "date": "09.04.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-9-de-abril-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-9-de-abril-de-2018",
+  "content_hash": "06fabe57f73a4b88cafa37f287fbb8d87ede441b237e0dcd5f68a8fdfbd8c357",
+  "url_hash": "a5c554f9c8658c70886bc815d53c07b3793ebdfd4722a7c2079f1b1de70327ff",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-04-2018_informe-de-la-cotización-del-oro-al-9-de-abril-de-2018_7315016be796.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-04-2018_informe-de-la-cotización-del-oro-al-9-de-abril-de-2018_7315016be796.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2018_informe-de-la-cotización-del-oro-al-9-de-abril-de-2018_7315016be796",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/36/21/e4/ad/6e/3621e4ad6eca9b771132646da1a97278_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2018_informe-de-la-cotización-del-oro-al-9-de-abril-de-2018_7315016be796\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/468/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:27.819483-03:00",
+  "status": "downloaded"
+}

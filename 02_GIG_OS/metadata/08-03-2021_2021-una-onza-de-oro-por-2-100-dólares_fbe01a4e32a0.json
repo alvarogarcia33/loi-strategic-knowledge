@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_fbe01a4e32a0",
+  "platform": "gig_os",
+  "title": "2021: ¿una onza de oro por 2.100 dólares?",
+  "date": "08.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/2021-una-onza-de-oro-por-2100-dolares-380",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/2021-una-onza-de-oro-por-2100-dolares-380",
+  "content_hash": "c6e94b0480073d71c8851aac38daee71e8b9644ece95ea8de292c305c0963745",
+  "url_hash": "8b46ca0a5e64c340c3b3fd2f247cc5bf125cbb9aee040a39ae0f999c70b82c8e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-03-2021_2021-una-onza-de-oro-por-2-100-dólares_fbe01a4e32a0.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-03-2021_2021-una-onza-de-oro-por-2-100-dólares_fbe01a4e32a0.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-03-2021_2021-una-onza-de-oro-por-2-100-dólares_fbe01a4e32a0",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3a/8c/aa/0b/5f/3a8caa0b5f51e9645e9db0867edcc2d6_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-03-2021_2021-una-onza-de-oro-por-2-100-dólares_fbe01a4e32a0\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1048/new-project1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-03-2021_2021-una-onza-de-oro-por-2-100-dólares_fbe01a4e32a0\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:55:27.614440-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_4a7ba7d5eaf9",
+  "platform": "gig_os",
+  "title": "Dos nuevas series de NFT: dos rutas hacia la meta",
+  "date": "15.08.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/dos-nuevas-series-de-nft-dos-rutas-hacia-la-meta-1126",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/dos-nuevas-series-de-nft-dos-rutas-hacia-la-meta-1126",
+  "content_hash": "d7a5aec30ce11dd6dd95a54557b2b85072c491beb9f79311fd9aec325b74ef12",
+  "url_hash": "e2083e6b4c114fd0f2110ed5e9cc7ac572298ed98fc294fb43bb7489211f4047",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-08-2025_dos-nuevas-series-de-nft-dos-rutas-hacia-la-meta_4a7ba7d5eaf9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-08-2025_dos-nuevas-series-de-nft-dos-rutas-hacia-la-meta_4a7ba7d5eaf9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2025_dos-nuevas-series-de-nft-dos-rutas-hacia-la-meta_4a7ba7d5eaf9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f7/4d/23/e7/ad/f74d23e7ad5792e73d02909dcef91db9_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2025_dos-nuevas-series-de-nft-dos-rutas-hacia-la-meta_4a7ba7d5eaf9\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1906/gigos-828x150_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2025_dos-nuevas-series-de-nft-dos-rutas-hacia-la-meta_4a7ba7d5eaf9\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:20.392758-03:00",
+  "status": "downloaded"
+}

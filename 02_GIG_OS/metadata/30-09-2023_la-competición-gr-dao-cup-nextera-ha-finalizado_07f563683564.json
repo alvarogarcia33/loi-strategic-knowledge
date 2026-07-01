@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_07f563683564",
+  "platform": "gig_os",
+  "title": "La competición GR DAO CUP NextEra ha finalizado",
+  "date": "30.09.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-competicion-gr-dao-cup-nextera-ha-finalizado-800",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-competicion-gr-dao-cup-nextera-ha-finalizado-800",
+  "content_hash": "e23b72e596c1913de3e6c08ee7bf8b053066981f8ea37f24ae5e54ac57017a70",
+  "url_hash": "5de6fd839949f5a3879572e0841077260bb4af3146437b3b7f85a72e7404fd0e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-09-2023_la-competición-gr-dao-cup-nextera-ha-finalizado_07f563683564.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-09-2023_la-competición-gr-dao-cup-nextera-ha-finalizado_07f563683564.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-09-2023_la-competición-gr-dao-cup-nextera-ha-finalizado_07f563683564",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/90/1d/27/54/35/901d275435ca50b17a88756b8d7429ae_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-09-2023_la-competición-gr-dao-cup-nextera-ha-finalizado_07f563683564\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:30:17.877514-03:00",
+  "status": "downloaded"
+}

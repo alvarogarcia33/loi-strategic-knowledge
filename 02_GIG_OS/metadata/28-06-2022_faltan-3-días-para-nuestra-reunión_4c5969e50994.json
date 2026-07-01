@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4c5969e50994",
+  "platform": "gig_os",
+  "title": "Faltan 3 días para nuestra reunión",
+  "date": "28.06.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/faltan-3-dias-para-nuestra-reunion-594",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/faltan-3-dias-para-nuestra-reunion-594",
+  "content_hash": "78feffa6192c00172deb82c5432a7c929572132c032f12d963d8d2451dcab8b7",
+  "url_hash": "e33337a4622b0096b6bce90bbf1dbf19e24ebde9c6b865b47d7f156c635f9cd2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-06-2022_faltan-3-días-para-nuestra-reunión_4c5969e50994.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-06-2022_faltan-3-días-para-nuestra-reunión_4c5969e50994.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-06-2022_faltan-3-días-para-nuestra-reunión_4c5969e50994",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/88/51/16/d0/c0/885116d0c0ddc7aaa1c405f5277849aa_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-06-2022_faltan-3-días-para-nuestra-reunión_4c5969e50994\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:15:30.408154-03:00",
+  "status": "downloaded"
+}

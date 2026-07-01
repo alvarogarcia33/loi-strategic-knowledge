@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_fe314a879cb8",
+  "platform": "gig_os",
+  "title": "NFT Bogotá: el primer token de estatus de la nueva serie",
+  "date": "29.03.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nft-bogota-el-primer-token-de-estatus-de-la-nueva-serie-1063",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nft-bogota-el-primer-token-de-estatus-de-la-nueva-serie-1063",
+  "content_hash": "167dac6c52f2662ca1d778ea2a939abc4c1d02d6ed857358158afa89d8e9812a",
+  "url_hash": "f4a18141b530f7e6c0a1622b8a1047c9bd3e7435c19d1a080f958189fd69deec",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-03-2025_nft-bogotá-el-primer-token-de-estatus-de-la-nueva-serie_fe314a879cb8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-03-2025_nft-bogotá-el-primer-token-de-estatus-de-la-nueva-serie_fe314a879cb8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-03-2025_nft-bogotá-el-primer-token-de-estatus-de-la-nueva-serie_fe314a879cb8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/76/d6/82/a0/5d/76d682a05d890d47d47a281fb9414d66_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-03-2025_nft-bogotá-el-primer-token-de-estatus-de-la-nueva-serie_fe314a879cb8\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1835/nft-bogota-gigos_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-03-2025_nft-bogotá-el-primer-token-de-estatus-de-la-nueva-serie_fe314a879cb8\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:41:25.254253-03:00",
+  "status": "downloaded"
+}

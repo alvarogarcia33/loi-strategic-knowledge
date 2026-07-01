@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_94df251adc21",
+  "platform": "gig_os",
+  "title": "Los rusos confían más en el oro que en las divisas",
+  "date": "09.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-rusos-confian-mas-en-el-oro-que-en-las-divisas-328",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-rusos-confian-mas-en-el-oro-que-en-las-divisas-328",
+  "content_hash": "cb097a92f150c741965048a7f1f0e93d76d3d9f67a763e32cb8d652ca450cf03",
+  "url_hash": "b2111c5774787199bf29c925d70a577c0d6c6b46868aea3a79dbeedbc6593230",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-11-2020_los-rusos-confían-más-en-el-oro-que-en-las-divisas_94df251adc21.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-11-2020_los-rusos-confían-más-en-el-oro-que-en-las-divisas_94df251adc21.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-11-2020_los-rusos-confían-más-en-el-oro-que-en-las-divisas_94df251adc21",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/15/8d/29/82/a0/158d2982a0d3c6770ad1c5c3b840e5c4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-11-2020_los-rusos-confían-más-en-el-oro-que-en-las-divisas_94df251adc21\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/983/9-11-2020-24909-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-11-2020_los-rusos-confían-más-en-el-oro-que-en-las-divisas_94df251adc21\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:30.645671-03:00",
+  "status": "downloaded"
+}

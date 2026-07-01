@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_0ac22dec3948",
+  "platform": "gig_os",
+  "title": "GIG-OS: qué es una suscripción. Parte 2",
+  "date": "16.12.2019",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gig-os-que-es-una-suscripcion-parte-2-211",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gig-os-que-es-una-suscripcion-parte-2-211",
+  "content_hash": "64cf1c28e350231dfa474ef69323629e0ff69dfd8afc2190f1fd11da35ed358a",
+  "url_hash": "ad6c395b0df938799d7c4aea579c3596660ab617b463d07a8de089cfe391ec3e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-12-2019_gig-os-qué-es-una-suscripción-parte-2_0ac22dec3948.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-12-2019_gig-os-qué-es-una-suscripción-parte-2_0ac22dec3948.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2019_gig-os-qué-es-una-suscripción-parte-2_0ac22dec3948",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9f/68/b7/ce/82/9f68b7ce82abd8ca291c90ad65c2d404_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2019_gig-os-qué-es-una-suscripción-parte-2_0ac22dec3948\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/822/global-intergold--gig-os-que-es-una-suscripcion-pr-2-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2019_gig-os-qué-es-una-suscripción-parte-2_0ac22dec3948\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:53.571077-03:00",
+  "status": "downloaded"
+}

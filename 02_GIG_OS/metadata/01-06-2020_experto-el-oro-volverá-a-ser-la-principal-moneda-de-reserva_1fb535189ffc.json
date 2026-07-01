@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1fb535189ffc",
+  "platform": "gig_os",
+  "title": "Experto: el oro volverá a ser la principal moneda de reserva",
+  "date": "01.06.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/experto-el-oro-volvera-a-ser-la-principal-moneda-de-reserva-264",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/experto-el-oro-volvera-a-ser-la-principal-moneda-de-reserva-264",
+  "content_hash": "08e4f0acab8c104f651ae23451caa1e5fecd36a7d6d8c3afe38e5e407e6ba31c",
+  "url_hash": "a75321496bddbbff36d3a3b6f574320674aa3bffb29b02ea85943a2f16bf61da",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-06-2020_experto-el-oro-volverá-a-ser-la-principal-moneda-de-reserva_1fb535189ffc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-06-2020_experto-el-oro-volverá-a-ser-la-principal-moneda-de-reserva_1fb535189ffc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-06-2020_experto-el-oro-volverá-a-ser-la-principal-moneda-de-reserva_1fb535189ffc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/99/9e/37/2e/28/999e372e28ea9cc1d028af8b324b2325_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-06-2020_experto-el-oro-volverá-a-ser-la-principal-moneda-de-reserva_1fb535189ffc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/883/untitled-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-06-2020_experto-el-oro-volverá-a-ser-la-principal-moneda-de-reserva_1fb535189ffc\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:40.943066-03:00",
+  "status": "downloaded"
+}

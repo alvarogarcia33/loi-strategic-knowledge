@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_1ce4be06dd9c",
+  "platform": "gig_os",
+  "title": "La minería de oro sin fronteras: bajo tierra y por encima de las nubes",
+  "date": "22.10.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-mineria-de-oro-sin-fronteras-bajo-tierra-y-por-encima-de-las-nubes-182",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-mineria-de-oro-sin-fronteras-bajo-tierra-y-por-encima-de-las-nubes-182",
+  "content_hash": "aa4f1c358d1a792f49c855661823e894e554e595890edb329aa7d2ab0cc23b3b",
+  "url_hash": "fdf7dac52f674c408df0ba0e2567d5213ec5ad5d8fefeb8e53ec6aea8f15f18e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-10-2019_la-minería-de-oro-sin-fronteras-bajo-tierra-y-por-encima-de-las-nubes_1ce4be06dd9c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-10-2019_la-minería-de-oro-sin-fronteras-bajo-tierra-y-por-encima-de-las-nubes_1ce4be06dd9c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-10-2019_la-minería-de-oro-sin-fronteras-bajo-tierra-y-por-encima-de-las-nubes_1ce4be06dd9c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/22/c4/41/39/29/22c4413929de24c717b9695f08e8969d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-10-2019_la-minería-de-oro-sin-fronteras-bajo-tierra-y-por-encima-de-las-nubes_1ce4be06dd9c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/786/global-intergold--the-mining-complex-grasberg_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-10-2019_la-minería-de-oro-sin-fronteras-bajo-tierra-y-por-encima-de-las-nubes_1ce4be06dd9c\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/786/global-intergold--the-mponeng-mine-the-deepest-man-made-cave-in-the-world_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-10-2019_la-minería-de-oro-sin-fronteras-bajo-tierra-y-por-encima-de-las-nubes_1ce4be06dd9c\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/786/global-intergold--yanacocha-quarries-rise-above-the-clouds_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-10-2019_la-minería-de-oro-sin-fronteras-bajo-tierra-y-por-encima-de-las-nubes_1ce4be06dd9c\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:33:14.168380-03:00",
+  "status": "downloaded"
+}

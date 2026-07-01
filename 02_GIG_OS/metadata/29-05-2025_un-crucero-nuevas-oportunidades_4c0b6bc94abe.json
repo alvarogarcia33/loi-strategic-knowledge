@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4c0b6bc94abe",
+  "platform": "gig_os",
+  "title": "Un crucero: ¡nuevas oportunidades!",
+  "date": "29.05.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/un-crucero-nuevas-oportunidades-1085",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/un-crucero-nuevas-oportunidades-1085",
+  "content_hash": "e7b17019337c5f39330a7cff0e898aac0aea96029018fffa402cd6f69d773614",
+  "url_hash": "94b59bcd50949eadec3624cd0b8391d125ff99e80161b7c87e8051fdf15ce707",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-05-2025_un-crucero-nuevas-oportunidades_4c0b6bc94abe.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-05-2025_un-crucero-nuevas-oportunidades_4c0b6bc94abe.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2025_un-crucero-nuevas-oportunidades_4c0b6bc94abe",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/41/20/b9/4d/f4/4120b94df4d694031ed2ccb73cf198a9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2025_un-crucero-nuevas-oportunidades_4c0b6bc94abe\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:37.383917-03:00",
+  "status": "downloaded"
+}

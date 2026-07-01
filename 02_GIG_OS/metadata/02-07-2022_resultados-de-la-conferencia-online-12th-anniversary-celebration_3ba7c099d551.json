@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_3ba7c099d551",
+  "platform": "gig_os",
+  "title": "Resultados de la conferencia online \"12th ANNIVERSARY Celebration\"",
+  "date": "02.07.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-conferencia-online-12th-anniversary-celebration-595",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-conferencia-online-12th-anniversary-celebration-595",
+  "content_hash": "44d5102a61fb2f17d9efb90926f986a872e33436703f3a3ee332ac3caf85eae4",
+  "url_hash": "fc2a4043f3c138a8299e96818a4c540e24ff306bfd70fe94f9caa55b608dc8f5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-07-2022_resultados-de-la-conferencia-online-12th-anniversary-celebration_3ba7c099d551.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-07-2022_resultados-de-la-conferencia-online-12th-anniversary-celebration_3ba7c099d551.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-07-2022_resultados-de-la-conferencia-online-12th-anniversary-celebration_3ba7c099d551",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ac/55/94/6d/2a/ac55946d2a9cdf7e5b292cefb08d68a0_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-07-2022_resultados-de-la-conferencia-online-12th-anniversary-celebration_3ba7c099d551\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1306/gr-dao-coin-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-07-2022_resultados-de-la-conferencia-online-12th-anniversary-celebration_3ba7c099d551\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1306/nft-ma-wisdom-es-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-07-2022_resultados-de-la-conferencia-online-12th-anniversary-celebration_3ba7c099d551\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1306/gold-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-07-2022_resultados-de-la-conferencia-online-12th-anniversary-celebration_3ba7c099d551\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:23.632455-03:00",
+  "status": "downloaded"
+}

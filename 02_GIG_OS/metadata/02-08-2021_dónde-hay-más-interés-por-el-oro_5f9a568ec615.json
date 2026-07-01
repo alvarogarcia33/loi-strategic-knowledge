@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_5f9a568ec615",
+  "platform": "gig_os",
+  "title": "¿Dónde hay más interés por el oro?",
+  "date": "02.08.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/donde-hay-mas-interes-por-el-oro-447",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/donde-hay-mas-interes-por-el-oro-447",
+  "content_hash": "30cfee5c539901d43fa84e30f47c1a1b733c5f8f6beb1613fb22a2b615eeb792",
+  "url_hash": "8f132225ae3a6eee554b73074a5cccbe0d7008809cd2f544634f7a53448a1a5b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-08-2021_dónde-hay-más-interés-por-el-oro_5f9a568ec615.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-08-2021_dónde-hay-más-interés-por-el-oro_5f9a568ec615.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-08-2021_dónde-hay-más-interés-por-el-oro_5f9a568ec615",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ab/15/82/16/6d/ab1582166d342d22322e973d005abf75_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-08-2021_dónde-hay-más-interés-por-el-oro_5f9a568ec615\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1136/020821gold2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-08-2021_dónde-hay-más-interés-por-el-oro_5f9a568ec615\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:13.574336-03:00",
+  "status": "downloaded"
+}

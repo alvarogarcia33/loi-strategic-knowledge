@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_a40aa6c22769",
+  "platform": "gig_os",
+  "title": "El 18 de marzo: ¡un día que no se puede perder!",
+  "date": "15.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-18-de-marzo-un-dia-que-no-se-puede-perder-545",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-18-de-marzo-un-dia-que-no-se-puede-perder-545",
+  "content_hash": "1e6672614f4296648902285457050e333398e616082067bd3eea54d047e07d3a",
+  "url_hash": "c7432b0c58769f5ccc3f5d5ef56f5991eb5100156beab5a246d40da6d9c8cb0a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-03-2022_el-18-de-marzo-un-día-que-no-se-puede-perder_a40aa6c22769.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-03-2022_el-18-de-marzo-un-día-que-no-se-puede-perder_a40aa6c22769.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-03-2022_el-18-de-marzo-un-día-que-no-se-puede-perder_a40aa6c22769",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b8/03/41/c9/5f/b80341c95f1889ec87f792dad6fcc3e3_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-03-2022_el-18-de-marzo-un-día-que-no-se-puede-perder_a40aa6c22769\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:01.845630-03:00",
+  "status": "downloaded"
+}

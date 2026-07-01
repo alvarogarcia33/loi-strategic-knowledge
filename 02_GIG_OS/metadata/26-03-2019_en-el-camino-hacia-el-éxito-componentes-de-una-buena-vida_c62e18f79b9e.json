@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_c62e18f79b9e",
+  "platform": "gig_os",
+  "title": "En el camino hacia el éxito: componentes de una buena vida",
+  "date": "26.03.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/en-el-camino-hacia-el-exito-componentes-de-una-buena-vida",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/en-el-camino-hacia-el-exito-componentes-de-una-buena-vida",
+  "content_hash": "efabb2b21dabd7ffd4bf44dd4b66eb832480dacd6dad5e7bc62b548660675dd7",
+  "url_hash": "c9d97e3d8bc43b6931064c27fce24ac5bcdc7da6d5305e1ec11c1c18d8ce8002",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-03-2019_en-el-camino-hacia-el-éxito-componentes-de-una-buena-vida_c62e18f79b9e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-03-2019_en-el-camino-hacia-el-éxito-componentes-de-una-buena-vida_c62e18f79b9e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2019_en-el-camino-hacia-el-éxito-componentes-de-una-buena-vida_c62e18f79b9e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a4/51/45/09/07/a4514509074c3d77dd2fc64404d51665_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2019_en-el-camino-hacia-el-éxito-componentes-de-una-buena-vida_c62e18f79b9e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/678/22489_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/678/2_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/678/o6xjpi0_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:13:17.664643-03:00",
+  "status": "downloaded"
+}

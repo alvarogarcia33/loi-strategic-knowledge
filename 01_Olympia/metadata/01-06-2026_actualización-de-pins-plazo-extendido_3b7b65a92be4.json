@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_3b7b65a92be4",
+  "platform": "olympia",
+  "title": "Actualización de PINs: ¡plazo extendido!",
+  "date": "01.06.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/actualizacion-de-pins-plazo-extendido-0207",
+  "canonical_url": "https://olympia-lab.com/es/news/post/actualizacion-de-pins-plazo-extendido-0207",
+  "content_hash": "52cab3e648a9e56137aa473575cf43010d1afb5fb7dc190921c504386df931c1",
+  "url_hash": "289d9cff923832c3f52e692a21c20dfd13a070baf70ed83bd80363b66b771ec0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/b4/ac/89/0f/dc/b4ac890fdcac37b7282fcb86c7f34740.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/97/5a/78/61/d3/975a7861d31f7f583ca3b310b7f4b418_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/73/74/95/44/0b737495445a2909e41b948bd7e3ad8e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/95/c9/97/e5/a7/95c997e5a7a7923e524730988afd52ed_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/14/d5/da/67/3a/14d5da673a6acbffabbc90d4ef1d4952_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/6c/c9/46/e1/da6cc946e1ef65d70b3d486c76929e0e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:17:07.577285-03:00",
+  "status": "downloaded"
+}

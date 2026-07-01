@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_6e2840c691d7",
+  "platform": "gig_os",
+  "title": "8 de diciembre: conferencia online META 202*",
+  "date": "22.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/8-de-diciembre-conferencia-online-meta-202-826",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/8-de-diciembre-conferencia-online-meta-202-826",
+  "content_hash": "1c9dd244251b6be01f942be7bc16f923959c42c6231fd6b584406ce5e6140e85",
+  "url_hash": "5ba4da9226d1c6b69cb372573ea9de05e48540f7cd5d7fa403e815b9b797f51e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-11-2023_8-de-diciembre-conferencia-online-meta-202_6e2840c691d7.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-11-2023_8-de-diciembre-conferencia-online-meta-202_6e2840c691d7.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-11-2023_8-de-diciembre-conferencia-online-meta-202_6e2840c691d7",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/79/fa/b1/53/92/79fab1539216de1a22a155823e00301f_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-11-2023_8-de-diciembre-conferencia-online-meta-202_6e2840c691d7\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:56:43.653798-03:00",
+  "status": "downloaded"
+}

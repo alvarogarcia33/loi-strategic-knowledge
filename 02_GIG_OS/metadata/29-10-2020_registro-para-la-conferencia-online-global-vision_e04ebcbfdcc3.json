@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e04ebcbfdcc3",
+  "platform": "gig_os",
+  "title": "Registro para la conferencia online \"GLOBAL VISION\"",
+  "date": "29.10.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/registro-para-la-conferencia-online-global-vision-321",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/registro-para-la-conferencia-online-global-vision-321",
+  "content_hash": "df8dcbc6c366bf46bbcc5cda2ef7cce2e9289145381e65a61e95a74cbcde81eb",
+  "url_hash": "4726cadbc5e5d944834aafec9825fa6e97f8055b0208ad17a6a91123aaa1273f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-10-2020_registro-para-la-conferencia-online-global-vision_e04ebcbfdcc3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-10-2020_registro-para-la-conferencia-online-global-vision_e04ebcbfdcc3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-10-2020_registro-para-la-conferencia-online-global-vision_e04ebcbfdcc3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/55/a8/87/d9/4e/55a887d94ef6ae84d904bef676262891_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-10-2020_registro-para-la-conferencia-online-global-vision_e04ebcbfdcc3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:52:21.490879-03:00",
+  "status": "downloaded"
+}

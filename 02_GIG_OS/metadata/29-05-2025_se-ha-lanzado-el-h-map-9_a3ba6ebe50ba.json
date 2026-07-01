@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_a3ba6ebe50ba",
+  "platform": "gig_os",
+  "title": "Se ha lanzado el H-MAP.9",
+  "date": "29.05.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-ha-lanzado-el-h-map9-1086",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-ha-lanzado-el-h-map9-1086",
+  "content_hash": "4e790a59ba543a67d4bee7e3066d714a093a706b27a03b6f6bf095d970efdcad",
+  "url_hash": "6a441b5119df23a2754eca60ad6beafcbdf400ab330684095064deaf78069a49",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-05-2025_se-ha-lanzado-el-h-map-9_a3ba6ebe50ba.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-05-2025_se-ha-lanzado-el-h-map-9_a3ba6ebe50ba.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2025_se-ha-lanzado-el-h-map-9_a3ba6ebe50ba",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f3/35/7c/70/01/f3357c7001d0d624dc08fce8ebc36615_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2025_se-ha-lanzado-el-h-map-9_a3ba6ebe50ba\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1866/h-map9-inside_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2025_se-ha-lanzado-el-h-map-9_a3ba6ebe50ba\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1866/gig-hmap9-es75058_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2025_se-ha-lanzado-el-h-map-9_a3ba6ebe50ba\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:16.424135-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_961b30cfa367",
+  "platform": "gig_os",
+  "title": "Los alemanes han iniciado la «caza del oro»",
+  "date": "07.09.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-alemanes-han-iniciado-la-caza-del-oro-461",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-alemanes-han-iniciado-la-caza-del-oro-461",
+  "content_hash": "1bedc28e0dbba8d693eb6357d93e3c99a6ded14793b54bb5ef19bea8babb7868",
+  "url_hash": "16e177501563eff6773dc8dde53ccab24c99f99c1011718051db1de1584d1665",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-09-2021_los-alemanes-han-iniciado-la-caza-del-oro_961b30cfa367.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-09-2021_los-alemanes-han-iniciado-la-caza-del-oro_961b30cfa367.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-09-2021_los-alemanes-han-iniciado-la-caza-del-oro_961b30cfa367",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/af/38/e2/e8/75/af38e2e875404c3e66be9eda5e4281af_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-09-2021_los-alemanes-han-iniciado-la-caza-del-oro_961b30cfa367\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1155/120721gold2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-09-2021_los-alemanes-han-iniciado-la-caza-del-oro_961b30cfa367\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:22.188794-03:00",
+  "status": "downloaded"
+}

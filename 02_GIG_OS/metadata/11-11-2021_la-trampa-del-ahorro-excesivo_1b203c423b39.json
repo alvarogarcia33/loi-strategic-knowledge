@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1b203c423b39",
+  "platform": "gig_os",
+  "title": "La trampa del ahorro excesivo",
+  "date": "11.11.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-trampa-del-ahorro-excesivo-491",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-trampa-del-ahorro-excesivo-491",
+  "content_hash": "ee499b16d82503f9afdae1b4c6049436f7b133aa0bd0f1b015f5053f1a292ac6",
+  "url_hash": "2918b5b87b38d18e321bef85b7f9b4fbacfc0ee5c4565ad79a35cec52d8b6da9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-11-2021_la-trampa-del-ahorro-excesivo_1b203c423b39.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-11-2021_la-trampa-del-ahorro-excesivo_1b203c423b39.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-11-2021_la-trampa-del-ahorro-excesivo_1b203c423b39",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c5/85/09/23/ee/c5850923ee6d042eab6ba7f0c735d721_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-11-2021_la-trampa-del-ahorro-excesivo_1b203c423b39\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1167/la-trampa-del-ahorro-excesivo_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-11-2021_la-trampa-del-ahorro-excesivo_1b203c423b39\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:16.300607-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_3cd8a284896d",
+  "platform": "olympia",
+  "title": "Nueva herramienta para Creadores de Mercado",
+  "date": "10.02.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/nueva-herramienta-para-creadores-de-mercado-0159",
+  "canonical_url": "https://olympia-lab.com/es/news/post/nueva-herramienta-para-creadores-de-mercado-0159",
+  "content_hash": "93b3026dad34ceb2cf54d953d650cf0c176ec96c9c678a2b7e67e2f0f665d78f",
+  "url_hash": "7c5d5685fae1ced1c38afda5e9713aabb33a0422256b4c95afa209f81bc23645",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\10-02-2026_nueva-herramienta-para-creadores-de-mercado_3cd8a284896d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\10-02-2026_nueva-herramienta-para-creadores-de-mercado_3cd8a284896d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\10-02-2026_nueva-herramienta-para-creadores-de-mercado_3cd8a284896d",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/f2/ab/e9/9d/0e/f2abe99d0e657674cb529f23acc0e77c.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\10-02-2026_nueva-herramienta-para-creadores-de-mercado_3cd8a284896d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/1e/31/92/91/75/1e31929175f3724b2f654c5b7fb70c3b_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\10-02-2026_nueva-herramienta-para-creadores-de-mercado_3cd8a284896d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/55/0f/e0/0c/be/550fe00cbe15a5168b02a7f34b4f6594_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\10-02-2026_nueva-herramienta-para-creadores-de-mercado_3cd8a284896d\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/72/1e/7f/ff/b0/721e7fffb0cec06d55e9df957837c0ae_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\10-02-2026_nueva-herramienta-para-creadores-de-mercado_3cd8a284896d\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/db/66/c3/1d/b6/db66c31db63cd17dad1e76f639f0a982_2.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\10-02-2026_nueva-herramienta-para-creadores-de-mercado_3cd8a284896d\\image_05.png",
+      "filename": "image_05.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/19/3b/2f/5a/39/193b2f5a399e7541488f232c58399689_2.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\10-02-2026_nueva-herramienta-para-creadores-de-mercado_3cd8a284896d\\image_06.png",
+      "filename": "image_06.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:17:15.637599-03:00",
+  "status": "downloaded"
+}

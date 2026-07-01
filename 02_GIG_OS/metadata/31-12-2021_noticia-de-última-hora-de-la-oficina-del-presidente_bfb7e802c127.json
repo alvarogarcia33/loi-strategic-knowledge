@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_bfb7e802c127",
+  "platform": "gig_os",
+  "title": "¡Noticia de última hora de la Oficina del Presidente!",
+  "date": "31.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/noticia-de-ultima-hora-de-la-oficina-del-presidente-513",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/noticia-de-ultima-hora-de-la-oficina-del-presidente-513",
+  "content_hash": "a0cd1f5b9f6b98935e0c79a8647427ef24b0c7fd453b04cf09329c6af1674263",
+  "url_hash": "7ffabc62e3ffb39ab682bdd51c790f907a69bb69561053b68e3e2afc786dcf64",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\31-12-2021_noticia-de-última-hora-de-la-oficina-del-presidente_bfb7e802c127.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\31-12-2021_noticia-de-última-hora-de-la-oficina-del-presidente_bfb7e802c127.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-12-2021_noticia-de-última-hora-de-la-oficina-del-presidente_bfb7e802c127",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/85/43/0a/f6/67/85430af667680e75c309eca3c04eee0b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-12-2021_noticia-de-última-hora-de-la-oficina-del-presidente_bfb7e802c127\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:43:16.273379-03:00",
+  "status": "downloaded"
+}

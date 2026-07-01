@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_b9efaf71a48a",
+  "platform": "gig_os",
+  "title": "¡Concluye la competición Major League!",
+  "date": "20.01.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/concluyo-la-competencia-major-league-1037",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/concluyo-la-competencia-major-league-1037",
+  "content_hash": "88cac035f2e74e2deb765079e142fd02c49cddd3dc88d87728c0b6d7e3df35b8",
+  "url_hash": "dee259e39725fe148bbf8a439bb1f8924c59725814808e5acca5a8137ea7eba5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-01-2025_concluye-la-competición-major-league_b9efaf71a48a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-01-2025_concluye-la-competición-major-league_b9efaf71a48a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2025_concluye-la-competición-major-league_b9efaf71a48a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/55/81/ec/85/13/5581ec85137e8eee4df03da869a0d366_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2025_concluye-la-competición-major-league_b9efaf71a48a\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:17.164970-03:00",
+  "status": "downloaded"
+}

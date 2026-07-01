@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a94e365a63b9",
+  "platform": "gig_os",
+  "title": "Irlanda: un punto más a favor de la reputación del oro",
+  "date": "17.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/irlanda-un-punto-mas-a-favor-de-la-reputacion-del-oro-520",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/irlanda-un-punto-mas-a-favor-de-la-reputacion-del-oro-520",
+  "content_hash": "da4a2ad91e2069f397e9c549c2161206ecc8a0097254c6a49ed00b92694940d5",
+  "url_hash": "166e6223734a127e4ebd601b93b2e3ba1bc05eb7cc54eb4071b01e085329a77c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-01-2022_irlanda-un-punto-más-a-favor-de-la-reputación-del-oro_a94e365a63b9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-01-2022_irlanda-un-punto-más-a-favor-de-la-reputación-del-oro_a94e365a63b9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-01-2022_irlanda-un-punto-más-a-favor-de-la-reputación-del-oro_a94e365a63b9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d1/dc/c4/d4/81/d1dcc4d481be215b478efa123bb01b85_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-01-2022_irlanda-un-punto-más-a-favor-de-la-reputación-del-oro_a94e365a63b9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1218/dizayn-bez-nazvaniya-4_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-01-2022_irlanda-un-punto-más-a-favor-de-la-reputación-del-oro_a94e365a63b9\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:29:50.029948-03:00",
+  "status": "downloaded"
+}

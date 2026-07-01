@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_8236c2386869",
+  "platform": "gig_os",
+  "title": "El farming de la tierra virtual ahora está disponible para los propietarios de NFT CIY",
+  "date": "25.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-farming-de-la-tierra-virtual-ahora-esta-disponible-para-los-propietarios-de-nft-ciy-867",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-farming-de-la-tierra-virtual-ahora-esta-disponible-para-los-propietarios-de-nft-ciy-867",
+  "content_hash": "51bd187b649de65be8a89ba3194707753d6c382f2e95e1452c12e8a713e435f5",
+  "url_hash": "1ad8283b42f16c2a83aa85f01f891f2be1cd87c5a88f9effffd98fb5a5a2d165",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-01-2024_el-farming-de-la-tierra-virtual-ahora-está-disponible-para-los-propietarios-de-n_8236c2386869.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-01-2024_el-farming-de-la-tierra-virtual-ahora-está-disponible-para-los-propietarios-de-n_8236c2386869.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-01-2024_el-farming-de-la-tierra-virtual-ahora-está-disponible-para-los-propietarios-de-n_8236c2386869",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4a/62/e6/94/94/4a62e69494076e63b535851267c6fcd8_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-01-2024_el-farming-de-la-tierra-virtual-ahora-está-disponible-para-los-propietarios-de-n_8236c2386869\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1604/for-text-land-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-01-2024_el-farming-de-la-tierra-virtual-ahora-está-disponible-para-los-propietarios-de-n_8236c2386869\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1604/call-to-action-ciy-25-01-2024-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-01-2024_el-farming-de-la-tierra-virtual-ahora-está-disponible-para-los-propietarios-de-n_8236c2386869\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:09.032265-03:00",
+  "status": "downloaded"
+}

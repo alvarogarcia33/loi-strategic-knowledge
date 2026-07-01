@@ -1,0 +1,113 @@
+{
+  "article_uid": "gig_os_ced71595e6d1",
+  "platform": "gig_os",
+  "title": "Parte 1: Material de referencia para la preparación para la conferencia GRAND START",
+  "date": "11.12.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/material-de-referencia-para-la-preparacion-para-la-conferencia-grand-start-1020",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/material-de-referencia-para-la-preparacion-para-la-conferencia-grand-start-1020",
+  "content_hash": "82eba76c49140b69ee929f67e65f769fc9a3927fae34a0a9ed9b8021aba40677",
+  "url_hash": "fa15b23d15d57acabc46dc9bf75e9b73be4675a6b3affb7fcdd7c4e5af5142fc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7a/e2/d4/a6/74/7ae2d4a674fbd1a31836dc150ba98798_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1790/marketplace_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1790/antallagio-screen-3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1790/antallagio-screen-ru36980_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1790/antallagio-screen-280688_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1790/antallagi-coin-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1790/nft-pt1-en_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1790/game_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_08.jpg",
+      "filename": "image_08.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1790/bmi-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_09.jpg",
+      "filename": "image_09.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1790/roli-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_10.jpg",
+      "filename": "image_10.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1790/igra-screen-ru_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-12-2024_parte-1-material-de-referencia-para-la-preparación-para-la-conferencia-grand-sta_ced71595e6d1\\image_11.jpg",
+      "filename": "image_11.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:04.106273-03:00",
+  "status": "downloaded"
+}

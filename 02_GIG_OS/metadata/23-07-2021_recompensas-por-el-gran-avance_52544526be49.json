@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_52544526be49",
+  "platform": "gig_os",
+  "title": "Recompensas por el gran avance",
+  "date": "23.07.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/recompensas-por-el-gran-avance-445",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/recompensas-por-el-gran-avance-445",
+  "content_hash": "8186a37221a16e62b0f7ca402e286da09b2adfea979eabeddc177dd61d88f4ac",
+  "url_hash": "e2f082a025875059d3e5ccf74d21457f611249a43ac84c74a58eb2039341e88a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-07-2021_recompensas-por-el-gran-avance_52544526be49.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-07-2021_recompensas-por-el-gran-avance_52544526be49.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-07-2021_recompensas-por-el-gran-avance_52544526be49",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e6/7c/a8/a5/f0/e67ca8a5f0c8a8ec799d1447b545013e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-07-2021_recompensas-por-el-gran-avance_52544526be49\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1134/watches-black-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-07-2021_recompensas-por-el-gran-avance_52544526be49\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1134/badge_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-07-2021_recompensas-por-el-gran-avance_52544526be49\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1134/macbook-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-07-2021_recompensas-por-el-gran-avance_52544526be49\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1134/double_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-07-2021_recompensas-por-el-gran-avance_52544526be49\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1134/bracelets-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-07-2021_recompensas-por-el-gran-avance_52544526be49\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:51:53.895202-03:00",
+  "status": "downloaded"
+}

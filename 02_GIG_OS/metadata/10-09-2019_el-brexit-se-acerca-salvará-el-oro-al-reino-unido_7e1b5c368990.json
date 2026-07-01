@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_7e1b5c368990",
+  "platform": "gig_os",
+  "title": "El Brexit se acerca: ¿salvará el oro al Reino Unido?",
+  "date": "10.09.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-brexit-se-acerca-salvara-el-oro-al-reino-unido-170",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-brexit-se-acerca-salvara-el-oro-al-reino-unido-170",
+  "content_hash": "e6310667f929dc014ac41744c27df62df449c3f4ca3cb715d1c3fdf5f9f235e6",
+  "url_hash": "9f7d43b72c3c54a92f29128a160e7798c32c98d6f1efa926b56d68d972a503ac",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-09-2019_el-brexit-se-acerca-salvará-el-oro-al-reino-unido_7e1b5c368990.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-09-2019_el-brexit-se-acerca-salvará-el-oro-al-reino-unido_7e1b5c368990.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2019_el-brexit-se-acerca-salvará-el-oro-al-reino-unido_7e1b5c368990",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8b/d0/b5/aa/ba/8bd0b5aaba705f7e9c0c78674e92632c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2019_el-brexit-se-acerca-salvará-el-oro-al-reino-unido_7e1b5c368990\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/773/british-prime-minister-boris-johnson-premjer-ministr-velikobritanii-boris-dzhonson--el-primer-ministro-britanico-boris-johnson--il-primo-ministro-britannico-boris_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2019_el-brexit-se-acerca-salvará-el-oro-al-reino-unido_7e1b5c368990\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/773/the-surge-in-gold-prices--vzlet-stoimosti-zolota--la-subida-del-precio-del-oro--limpennata-dei-prezzi-delloro_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2019_el-brexit-se-acerca-salvará-el-oro-al-reino-unido_7e1b5c368990\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:28.930208-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_6da0d74dee60",
+  "platform": "gig_os",
+  "title": "NextEra Forum: la puerta a una nueva era de desarrollo digital",
+  "date": "25.05.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nextera-forum-la-puerta-a-una-nueva-era-de-desarrollo-digital-740",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nextera-forum-la-puerta-a-una-nueva-era-de-desarrollo-digital-740",
+  "content_hash": "720f66f2c812d0c93c6d02293625354fe12bd2ddc28c07d411711fb9a7a79fce",
+  "url_hash": "7f08a34bcec3358e8263cdbc09f63caf7f4e315ea12a827e1ee38e8bdce5665a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-05-2023_nextera-forum-la-puerta-a-una-nueva-era-de-desarrollo-digital_6da0d74dee60.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-05-2023_nextera-forum-la-puerta-a-una-nueva-era-de-desarrollo-digital_6da0d74dee60.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-05-2023_nextera-forum-la-puerta-a-una-nueva-era-de-desarrollo-digital_6da0d74dee60",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/44/cc/b8/bc/8b/44ccb8bc8b05c762656364cea7337e53_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-05-2023_nextera-forum-la-puerta-a-una-nueva-era-de-desarrollo-digital_6da0d74dee60\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1475/gr-dao-cup-nextera_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-05-2023_nextera-forum-la-puerta-a-una-nueva-era-de-desarrollo-digital_6da0d74dee60\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1475/gr-dao-cup-nextera-2-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-05-2023_nextera-forum-la-puerta-a-una-nueva-era-de-desarrollo-digital_6da0d74dee60\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1475/gr-dao-cup-nextera-3-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-05-2023_nextera-forum-la-puerta-a-una-nueva-era-de-desarrollo-digital_6da0d74dee60\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:41:05.797130-03:00",
+  "status": "downloaded"
+}

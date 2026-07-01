@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_0371feb5bc82",
+  "platform": "gig_os",
+  "title": "Los pensamientos correctos son la clave del éxito",
+  "date": "26.09.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-pensamientos-correctos-son-la-clave-del-exito",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-pensamientos-correctos-son-la-clave-del-exito",
+  "content_hash": "e4ba238aeedba4d2c360b54df14ac6551a4e581f2d0d602a360e0708800a7cdc",
+  "url_hash": "24c02aecc68f12d21d12acc2da0d40f58c15e6b04b3234c5bb25665b25aaf397",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-09-2018_los-pensamientos-correctos-son-la-clave-del-éxito_0371feb5bc82.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-09-2018_los-pensamientos-correctos-son-la-clave-del-éxito_0371feb5bc82.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-09-2018_los-pensamientos-correctos-son-la-clave-del-éxito_0371feb5bc82",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/70/40/fe/94/f0/7040fe94f07305be2c2feca9303d54f4_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/572/global-intergold-oro-la-seguridad-financiera-1_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:13.201467-03:00",
+  "status": "downloaded"
+}

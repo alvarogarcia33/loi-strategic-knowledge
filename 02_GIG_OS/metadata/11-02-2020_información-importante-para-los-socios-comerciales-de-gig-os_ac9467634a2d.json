@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_ac9467634a2d",
+  "platform": "gig_os",
+  "title": "Información importante para los Socios comerciales de GIG-OS",
+  "date": "11.02.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informacion-importante-para-los-socios-comerciales-de-gig-os-219",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informacion-importante-para-los-socios-comerciales-de-gig-os-219",
+  "content_hash": "f960eb7aa529099d62a652d2c40b2f3d3d7b9768e6dc4a98441e8c62f6783069",
+  "url_hash": "cc7209c16e0cd9dd1a7109fa4ffaff73ccaa2665a8a9436e05bae80e698d2bd7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-02-2020_información-importante-para-los-socios-comerciales-de-gig-os_ac9467634a2d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-02-2020_información-importante-para-los-socios-comerciales-de-gig-os_ac9467634a2d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2020_información-importante-para-los-socios-comerciales-de-gig-os_ac9467634a2d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/01/0c/f8/71/54/010cf871542d28dde3454ebe8348e9f7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2020_información-importante-para-los-socios-comerciales-de-gig-os_ac9467634a2d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:35.358454-03:00",
+  "status": "downloaded"
+}

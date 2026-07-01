@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_51ce03478786",
+  "platform": "gig_os",
+  "title": "Oferta especial solo para propietarios de NFT RenaSER Brazil 2023",
+  "date": "15.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oferta-especial-solo-para-propietarios-de-nft-renaser-brazil-2023-859",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oferta-especial-solo-para-propietarios-de-nft-renaser-brazil-2023-859",
+  "content_hash": "899b7408b271da2cd1f269540175606d8b18e5700255ef2ee3916515d093fd1b",
+  "url_hash": "c14704d096f8c273884086a6943aff32b339bef0cb40d4ecfdeac1e7e2160bef",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-01-2024_oferta-especial-solo-para-propietarios-de-nft-renaser-brazil-2023_51ce03478786.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-01-2024_oferta-especial-solo-para-propietarios-de-nft-renaser-brazil-2023_51ce03478786.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-01-2024_oferta-especial-solo-para-propietarios-de-nft-renaser-brazil-2023_51ce03478786",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e0/08/ea/53/b4/e008ea53b40227cf72760282ed2ecc03_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-01-2024_oferta-especial-solo-para-propietarios-de-nft-renaser-brazil-2023_51ce03478786\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1605/attention-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-01-2024_oferta-especial-solo-para-propietarios-de-nft-renaser-brazil-2023_51ce03478786\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:45.714109-03:00",
+  "status": "downloaded"
+}

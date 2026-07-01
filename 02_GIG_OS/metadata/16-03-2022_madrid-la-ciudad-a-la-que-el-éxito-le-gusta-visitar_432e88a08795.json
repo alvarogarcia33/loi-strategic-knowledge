@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_432e88a08795",
+  "platform": "gig_os",
+  "title": "Madrid: la ciudad a la que el éxito le gusta visitar",
+  "date": "16.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/madrid-la-ciudad-a-la-que-el-exito-le-gusta-visitar-547",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/madrid-la-ciudad-a-la-que-el-exito-le-gusta-visitar-547",
+  "content_hash": "7360b65ae0a4dc2c9ec75928c158df51389c65bd2c9aef9ff674710e567aba4d",
+  "url_hash": "31ae8f09d168f8c812529de1f4a43e2ed54041a1ed8d93d9a06f141ae996e12c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-03-2022_madrid-la-ciudad-a-la-que-el-éxito-le-gusta-visitar_432e88a08795.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-03-2022_madrid-la-ciudad-a-la-que-el-éxito-le-gusta-visitar_432e88a08795.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-03-2022_madrid-la-ciudad-a-la-que-el-éxito-le-gusta-visitar_432e88a08795",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1251/16-03-2022-34065-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-03-2022_madrid-la-ciudad-a-la-que-el-éxito-le-gusta-visitar_432e88a08795\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:46.040552-03:00",
+  "status": "downloaded"
+}

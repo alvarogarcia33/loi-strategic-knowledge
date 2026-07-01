@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_187f528e058d",
+  "platform": "gig_os",
+  "title": "La «caza» mundial del oro",
+  "date": "23.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-caza-mundial-del-oro-335",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-caza-mundial-del-oro-335",
+  "content_hash": "9df1423f4cd43fd5be1db6e6ce8dd954b2ed7972cf7c4f8263d4b19450063965",
+  "url_hash": "77ccf5d0727dc04596e4c54c3ac71fbe49ed2e2f169e57c16a7e43836a816f30",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-11-2020_la-caza-mundial-del-oro_187f528e058d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-11-2020_la-caza-mundial-del-oro_187f528e058d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-11-2020_la-caza-mundial-del-oro_187f528e058d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/67/de/13/b3/df/67de13b3df663c0bea1cdae87229abcd_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-11-2020_la-caza-mundial-del-oro_187f528e058d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/992/image9_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-11-2020_la-caza-mundial-del-oro_187f528e058d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:30:10.063751-03:00",
+  "status": "downloaded"
+}

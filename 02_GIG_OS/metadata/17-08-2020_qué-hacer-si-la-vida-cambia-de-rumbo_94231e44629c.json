@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_94231e44629c",
+  "platform": "gig_os",
+  "title": "Qué hacer si la vida cambia de rumbo",
+  "date": "17.08.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-hacer-si-la-vida-cambia-de-rumbo295",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-hacer-si-la-vida-cambia-de-rumbo295",
+  "content_hash": "e1ab2807181803ee44658cb7699f7bbfd0d4dbe4e4cd95367acbce422ab427da",
+  "url_hash": "201919999d609824643bbd7183b9762ecc79cc22dd74c5fe44fb0fa88adc159c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-08-2020_qué-hacer-si-la-vida-cambia-de-rumbo_94231e44629c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-08-2020_qué-hacer-si-la-vida-cambia-de-rumbo_94231e44629c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-08-2020_qué-hacer-si-la-vida-cambia-de-rumbo_94231e44629c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cc/06/d7/11/ea/cc06d711ea7818c6650644ffa12fee1e_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-08-2020_qué-hacer-si-la-vida-cambia-de-rumbo_94231e44629c\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/930/imgonline-com-ua-resize-n9kfjxgno9_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-08-2020_qué-hacer-si-la-vida-cambia-de-rumbo_94231e44629c\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/930/imgonline-com-ua-resize-dhukghvsuhuc2tb_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-08-2020_qué-hacer-si-la-vida-cambia-de-rumbo_94231e44629c\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:48.596148-03:00",
+  "status": "downloaded"
+}

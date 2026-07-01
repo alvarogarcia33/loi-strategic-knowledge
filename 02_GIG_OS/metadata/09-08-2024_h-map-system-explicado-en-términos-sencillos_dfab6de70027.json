@@ -1,0 +1,81 @@
+{
+  "article_uid": "gig_os_dfab6de70027",
+  "platform": "gig_os",
+  "title": "H-MAP System explicado en términos sencillos",
+  "date": "09.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/h-map-system-explicado-en-terminos-sencillos-971",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/h-map-system-explicado-en-terminos-sencillos-971",
+  "content_hash": "b13322027aa7e882ff4245094af1afefe9fe45ac3297eaa00cac815d0f4da39b",
+  "url_hash": "517a93c32ca28db426b439341532d70639387be14d30f1a93b9482c15dfc1b4c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-08-2024_h-map-system-explicado-en-términos-sencillos_dfab6de70027.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-08-2024_h-map-system-explicado-en-términos-sencillos_dfab6de70027.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-08-2024_h-map-system-explicado-en-términos-sencillos_dfab6de70027",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/53/0d/60/0f/d1/530d600fd1928f64ae8b83d493324b07_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-08-2024_h-map-system-explicado-en-términos-sencillos_dfab6de70027\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1737/1-09081519_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-08-2024_h-map-system-explicado-en-términos-sencillos_dfab6de70027\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1737/2-0908_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-08-2024_h-map-system-explicado-en-términos-sencillos_dfab6de70027\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1737/3-0908_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-08-2024_h-map-system-explicado-en-términos-sencillos_dfab6de70027\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1737/5-090811186_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-08-2024_h-map-system-explicado-en-términos-sencillos_dfab6de70027\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1737/6-090866999_1.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "APIRequestContext.get: read ECONNRESET\nCall log:\n  - → GET https://f01.gig-os.com/gold-news/1737/6-090866999_1.jpg\n    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\n    - accept: */*\n    - accept-encoding: gzip,deflate,br\n    - cookie: _gcl_au=1.1.1238021322.1782763481; _gid=GA1.2.1121228239.1782763482; _fbp=fb.1.1782763481907.624673765665025746; _cookie_consent=2; zln=es; NLOG=7b7c89972c2a094fa07ff44829d08a75; _gat_UA-64375358-17=1; _ga_SK69S2V8SM=GS2.1.s1782766303$o2$g1$t1782768023$j49$l0$h0; _ga=GA1.2.1122707924.1782763481\n"
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1737/7-0908_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-08-2024_h-map-system-explicado-en-términos-sencillos_dfab6de70027\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:21:09.927966-03:00",
+  "status": "downloaded"
+}

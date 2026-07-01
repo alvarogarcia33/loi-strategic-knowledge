@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_98fbbf4f5071",
+  "platform": "gig_os",
+  "title": "M*E UTT COMMODITY por combinaciones en el primer board del System Transformator",
+  "date": "15.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/me-utt-commodity-por-combinaciones-en-el-primer-board-del-system-transformator-973",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/me-utt-commodity-por-combinaciones-en-el-primer-board-del-system-transformator-973",
+  "content_hash": "bd7950ddf120c838636ff41156c90b2056fdb1e39080987503227be21ed617f5",
+  "url_hash": "0fe72e580aedab6cd7aeb6db3064de36260cc6e2918831e08cc4dbd508ff2544",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-08-2024_m-e-utt-commodity-por-combinaciones-en-el-primer-board-del-system-transformator_98fbbf4f5071.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-08-2024_m-e-utt-commodity-por-combinaciones-en-el-primer-board-del-system-transformator_98fbbf4f5071.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2024_m-e-utt-commodity-por-combinaciones-en-el-primer-board-del-system-transformator_98fbbf4f5071",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e8/36/59/a1/fa/e83659a1fa1918a4baeb24304df17df2_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2024_m-e-utt-commodity-por-combinaciones-en-el-primer-board-del-system-transformator_98fbbf4f5071\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1739/es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2024_m-e-utt-commodity-por-combinaciones-en-el-primer-board-del-system-transformator_98fbbf4f5071\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:07.206279-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_152950eb2fea",
+  "platform": "gig_os",
+  "title": "Próximamente: transmisión en vivo del Presidente",
+  "date": "20.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/proximamente-transmision-en-vivo-del-presidente-333",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/proximamente-transmision-en-vivo-del-presidente-333",
+  "content_hash": "14ca5d8508fa60e5b73b946a98443b0109844c1784795e42899782d4630f3e32",
+  "url_hash": "d3d25baf304823102693568da8690c924aafea764a8d2deb1bfc123c65f0ec6d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-11-2020_próximamente-transmisión-en-vivo-del-presidente_152950eb2fea.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-11-2020_próximamente-transmisión-en-vivo-del-presidente_152950eb2fea.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-11-2020_próximamente-transmisión-en-vivo-del-presidente_152950eb2fea",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6c/e3/e2/81/9b/6ce3e2819b9e36c78a9a688685162895_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-11-2020_próximamente-transmisión-en-vivo-del-presidente_152950eb2fea\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:02.982962-03:00",
+  "status": "downloaded"
+}

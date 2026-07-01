@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_6d815dbf576f",
+  "platform": "gig_os",
+  "title": "Seguridad financiera y personal: dos caras de una misma moneda",
+  "date": "06.06.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/seguridad-financiera-y-personal-dos-caras-de-una-misma-moneda-128",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/seguridad-financiera-y-personal-dos-caras-de-una-misma-moneda-128",
+  "content_hash": "fbe3d1489f0bffa4322a07cf280963d0ac23da10648b742b858a8f74d2e37795",
+  "url_hash": "b8e43ff84646109366044d4223e18c8433a15bf666715298044b1aac99dac783",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-06-2019_seguridad-financiera-y-personal-dos-caras-de-una-misma-moneda_6d815dbf576f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-06-2019_seguridad-financiera-y-personal-dos-caras-de-una-misma-moneda_6d815dbf576f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-06-2019_seguridad-financiera-y-personal-dos-caras-de-una-misma-moneda_6d815dbf576f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0e/9b/ba/a9/74/0e9bbaa9745609d153387ad96c887279_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-06-2019_seguridad-financiera-y-personal-dos-caras-de-una-misma-moneda_6d815dbf576f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/716/global-intergold-oro-la-seguridad-financiera-4_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/716/global-intergold-oro-la-seguridad-financiera-5_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:56:34.154164-03:00",
+  "status": "downloaded"
+}

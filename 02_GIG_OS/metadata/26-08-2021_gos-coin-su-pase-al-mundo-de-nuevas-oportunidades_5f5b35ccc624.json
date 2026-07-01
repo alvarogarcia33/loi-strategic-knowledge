@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_5f5b35ccc624",
+  "platform": "gig_os",
+  "title": "GOS coin — su pase al mundo de nuevas oportunidades",
+  "date": "26.08.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gos-coin-su-pase-al-mundo-de-nuevas-oportunidades-458",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gos-coin-su-pase-al-mundo-de-nuevas-oportunidades-458",
+  "content_hash": "620766d4519e80da8dcb5c73e86e89a92471af334141e228803970aff40c6a63",
+  "url_hash": "b61f019c78c6193f5b83db6c02c7a99701eb52c1c3bdb0da3eda8b1f387c2090",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-08-2021_gos-coin-su-pase-al-mundo-de-nuevas-oportunidades_5f5b35ccc624.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-08-2021_gos-coin-su-pase-al-mundo-de-nuevas-oportunidades_5f5b35ccc624.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-08-2021_gos-coin-su-pase-al-mundo-de-nuevas-oportunidades_5f5b35ccc624",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/76/65/e7/64/af/7665e764af358841af58347f4d5525ca_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-08-2021_gos-coin-su-pase-al-mundo-de-nuevas-oportunidades_5f5b35ccc624\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1150/26-08-2021-es-banner99259_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-08-2021_gos-coin-su-pase-al-mundo-de-nuevas-oportunidades_5f5b35ccc624\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:11.498287-03:00",
+  "status": "downloaded"
+}

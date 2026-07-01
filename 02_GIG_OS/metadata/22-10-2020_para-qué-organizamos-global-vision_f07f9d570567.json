@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_f07f9d570567",
+  "platform": "gig_os",
+  "title": "¿Para qué organizamos \"GLOBAL VISION\"?",
+  "date": "22.10.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/para-que-organizamos-global-vision-319",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/para-que-organizamos-global-vision-319",
+  "content_hash": "cbe5c0fb5283fc0c41ef6217bee85491cd6bece4db5d45ec940450b4ae489c37",
+  "url_hash": "ce99d67f7a9933fec6822f003dddcd360708ea772b8d0a1913daf49ba8ae7d2b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-10-2020_para-qué-organizamos-global-vision_f07f9d570567.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-10-2020_para-qué-organizamos-global-vision_f07f9d570567.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-10-2020_para-qué-organizamos-global-vision_f07f9d570567",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ae/8c/44/75/b7/ae8c4475b79fa5ae28a4e6e20277a989_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-10-2020_para-qué-organizamos-global-vision_f07f9d570567\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:07.908047-03:00",
+  "status": "downloaded"
+}

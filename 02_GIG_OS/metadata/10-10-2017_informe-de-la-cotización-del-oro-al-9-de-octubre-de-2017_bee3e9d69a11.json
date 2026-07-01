@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_bee3e9d69a11",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 9 de octubre de 2017",
+  "date": "10.10.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-9-de-octubre-de-2017",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-9-de-octubre-de-2017",
+  "content_hash": "22030fe6c2c0726b355cdca775b3aed888e5df56baca9edaaac396126a685dff",
+  "url_hash": "e04a52bd9dd83c13d68d9861d8fbb25923a9d889bfe4e54ed2f5a05633ac4aa9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-10-2017_informe-de-la-cotización-del-oro-al-9-de-octubre-de-2017_bee3e9d69a11.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-10-2017_informe-de-la-cotización-del-oro-al-9-de-octubre-de-2017_bee3e9d69a11.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-10-2017_informe-de-la-cotización-del-oro-al-9-de-octubre-de-2017_bee3e9d69a11",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/46/d5/bd/f8/63/46d5bdf8638f8591b76f794e2723a15b_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/383/global-intergold-informe-de-los-precios-del-oro-2_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:30.548736-03:00",
+  "status": "downloaded"
+}

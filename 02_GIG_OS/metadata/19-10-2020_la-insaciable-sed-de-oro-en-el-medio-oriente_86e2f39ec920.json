@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_86e2f39ec920",
+  "platform": "gig_os",
+  "title": "La insaciable \"sed de oro\" en el Medio Oriente",
+  "date": "19.10.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-insaciable-sed-de-oro-en-el-medio-oriente-317",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-insaciable-sed-de-oro-en-el-medio-oriente-317",
+  "content_hash": "72a0f8b799995b87967d85b90e2b91219c67da2ba0f6ff6d0e0ede902979fc7c",
+  "url_hash": "f47ccab665934e32ee43b33bffd1674b92d7779f8aa25c3fba4ce1ef39e4ba3c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-10-2020_la-insaciable-sed-de-oro-en-el-medio-oriente_86e2f39ec920.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-10-2020_la-insaciable-sed-de-oro-en-el-medio-oriente_86e2f39ec920.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-10-2020_la-insaciable-sed-de-oro-en-el-medio-oriente_86e2f39ec920",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/88/09/04/28/37/8809042837a0a45aea926b3be09ce440_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-10-2020_la-insaciable-sed-de-oro-en-el-medio-oriente_86e2f39ec920\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/968/new-project8_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-10-2020_la-insaciable-sed-de-oro-en-el-medio-oriente_86e2f39ec920\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:45.134569-03:00",
+  "status": "downloaded"
+}

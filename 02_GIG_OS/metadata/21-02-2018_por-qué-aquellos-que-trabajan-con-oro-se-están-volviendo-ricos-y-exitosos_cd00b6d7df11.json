@@ -1,0 +1,81 @@
+{
+  "article_uid": "gig_os_cd00b6d7df11",
+  "platform": "gig_os",
+  "title": "¿Por qué aquellos que trabajan con oro se están volviendo ricos y exitosos?",
+  "date": "21.02.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-aquellos-que-trabajan-con-oro-se-estan-volviendo-ricos-y-exitosos",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-aquellos-que-trabajan-con-oro-se-estan-volviendo-ricos-y-exitosos",
+  "content_hash": "791899601c85ca7630f369691e5960eb5d3fa5f4dd7d45c16541f66a5ba1408f",
+  "url_hash": "5f133a16693e358e79e0f61ec52949f910400f4f3062c185ea465871fd272f4c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-02-2018_por-qué-aquellos-que-trabajan-con-oro-se-están-volviendo-ricos-y-exitosos_cd00b6d7df11.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-02-2018_por-qué-aquellos-que-trabajan-con-oro-se-están-volviendo-ricos-y-exitosos_cd00b6d7df11.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-02-2018_por-qué-aquellos-que-trabajan-con-oro-se-están-volviendo-ricos-y-exitosos_cd00b6d7df11",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/67/2d/b0/ce/ea/672db0ceea3328d9f9886dbf779f2806_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-02-2018_por-qué-aquellos-que-trabajan-con-oro-se-están-volviendo-ricos-y-exitosos_cd00b6d7df11\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/450/2_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/450/frame-294857319201_1.png",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/450/global-intergold-precio-del-oro-horario-1_1.JPG",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/450/global-intergold-precio-del-oro-horario-2_1.JPG",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/450/global-intergold-precio-del-oro-horario-3_1.JPG",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/450/global-intergold-precio-del-oro-horario-4_1.JPG",
+      "local_path": null,
+      "filename": "image_07",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:33.953072-03:00",
+  "status": "downloaded"
+}

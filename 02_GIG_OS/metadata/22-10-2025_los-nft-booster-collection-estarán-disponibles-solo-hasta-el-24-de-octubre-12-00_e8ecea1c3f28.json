@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_e8ecea1c3f28",
+  "platform": "gig_os",
+  "title": "¡Los NFT Booster Collection estarán disponibles solo hasta el 24 de octubre, 12:00 CET!",
+  "date": "22.10.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-nft-booster-collection-estaran-disponibles-solo-hasta-el-24-de-octubre-1156",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-nft-booster-collection-estaran-disponibles-solo-hasta-el-24-de-octubre-1156",
+  "content_hash": "bfbbad96ef5e9a320fca25d1016ea22a5ee752a540505a2dcf90a18fe5a5804b",
+  "url_hash": "f076f8557b33fe348dd610f5fe3a59ed7830f73409f102561dfc9d50f02e5f9a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-10-2025_los-nft-booster-collection-estarán-disponibles-solo-hasta-el-24-de-octubre-12-00_e8ecea1c3f28.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-10-2025_los-nft-booster-collection-estarán-disponibles-solo-hasta-el-24-de-octubre-12-00_e8ecea1c3f28.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-10-2025_los-nft-booster-collection-estarán-disponibles-solo-hasta-el-24-de-octubre-12-00_e8ecea1c3f28",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/68/16/e5/b0/da/6816e5b0da77345581dde10f11b6fede_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-10-2025_los-nft-booster-collection-estarán-disponibles-solo-hasta-el-24-de-octubre-12-00_e8ecea1c3f28\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1941/1nft-bc1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-10-2025_los-nft-booster-collection-estarán-disponibles-solo-hasta-el-24-de-octubre-12-00_e8ecea1c3f28\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:52.870747-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_67a38e01a13a",
+  "platform": "gig_os",
+  "title": "12 de julio de 2024: conferencia online dedicada al blockchain",
+  "date": "10.06.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/12-de-julio-de-2024-conferencia-online-dedicada-al-blockchain-945",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/12-de-julio-de-2024-conferencia-online-dedicada-al-blockchain-945",
+  "content_hash": "e84c24da3e9a455f3e7149eac310ee46c08ac8427f2138e8a9287a18ae88611e",
+  "url_hash": "d30b8c1b0d0f531c304351995347b10cc4aa23e6c1f02b35fd8ecae6c5c46f41",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-06-2024_12-de-julio-de-2024-conferencia-online-dedicada-al-blockchain_67a38e01a13a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-06-2024_12-de-julio-de-2024-conferencia-online-dedicada-al-blockchain_67a38e01a13a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2024_12-de-julio-de-2024-conferencia-online-dedicada-al-blockchain_67a38e01a13a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/16/17/ee/2f/83/1617ee2f8384eb018fc743bf4097996f_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2024_12-de-julio-de-2024-conferencia-online-dedicada-al-blockchain_67a38e01a13a\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1708/page-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-06-2024_12-de-julio-de-2024-conferencia-online-dedicada-al-blockchain_67a38e01a13a\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:54:52.578985-03:00",
+  "status": "downloaded"
+}

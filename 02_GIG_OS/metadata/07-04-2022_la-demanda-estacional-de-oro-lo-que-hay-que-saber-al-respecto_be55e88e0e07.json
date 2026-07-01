@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_be55e88e0e07",
+  "platform": "gig_os",
+  "title": "La demanda estacional de oro: lo que hay que saber al respecto",
+  "date": "07.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-demanda-estacional-de-oro-lo-que-hay-que-saber-al-respecto-558",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-demanda-estacional-de-oro-lo-que-hay-que-saber-al-respecto-558",
+  "content_hash": "9888f2112e8dba137e92a5541bea0dc1a9b5b63add5260dbce8d7f4129e225f1",
+  "url_hash": "1c226e633b39d6d02fae011946eb9a77ad6dbfff62d6d36650dd75c3f6c4bac9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-04-2022_la-demanda-estacional-de-oro-lo-que-hay-que-saber-al-respecto_be55e88e0e07.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-04-2022_la-demanda-estacional-de-oro-lo-que-hay-que-saber-al-respecto_be55e88e0e07.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_la-demanda-estacional-de-oro-lo-que-hay-que-saber-al-respecto_be55e88e0e07",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/fa/a0/a4/44/89/faa0a4448984d5e0cf0ce768753c4447_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_la-demanda-estacional-de-oro-lo-que-hay-que-saber-al-respecto_be55e88e0e07\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1262/dizayn-bez-nazvaniya-15_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_la-demanda-estacional-de-oro-lo-que-hay-que-saber-al-respecto_be55e88e0e07\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1262/dizayn-bez-nazvaniya-17_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_la-demanda-estacional-de-oro-lo-que-hay-que-saber-al-respecto_be55e88e0e07\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1262/dizayn-bez-nazvaniya-16_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-04-2022_la-demanda-estacional-de-oro-lo-que-hay-que-saber-al-respecto_be55e88e0e07\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:43.695130-03:00",
+  "status": "downloaded"
+}

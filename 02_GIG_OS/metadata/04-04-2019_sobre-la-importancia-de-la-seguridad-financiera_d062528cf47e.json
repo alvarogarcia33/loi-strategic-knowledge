@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d062528cf47e",
+  "platform": "gig_os",
+  "title": "Sobre la importancia de la Seguridad Financiera",
+  "date": "04.04.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/sobre-la-importancia-de-la-seguridad-financiera",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/sobre-la-importancia-de-la-seguridad-financiera",
+  "content_hash": "194e66ad304f2bfa30459987ef38840ac0a87cc4c155a464b63d58f6f863dcea",
+  "url_hash": "7b539ac6463aa20ef5902585660876bc1f22bd0e6696f282a0cea8cadc2243d7",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-04-2019_sobre-la-importancia-de-la-seguridad-financiera_d062528cf47e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-04-2019_sobre-la-importancia-de-la-seguridad-financiera_d062528cf47e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2019_sobre-la-importancia-de-la-seguridad-financiera_d062528cf47e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2d/0c/38/55/70/2d0c3855700f516d8e3ea7f4da07f706_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-04-2019_sobre-la-importancia-de-la-seguridad-financiera_d062528cf47e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/683/global-intergold-oro-la-seguridad-financiera-17_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:11.602555-03:00",
+  "status": "downloaded"
+}

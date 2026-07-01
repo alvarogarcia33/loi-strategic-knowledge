@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_2545b4c964b1",
+  "platform": "gig_os",
+  "title": "Oferta especial para Creadores de Mercado",
+  "date": "06.12.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oferta-especial-para-creadores-de-mercado-1019",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oferta-especial-para-creadores-de-mercado-1019",
+  "content_hash": "1695a77df8d46fd47e118d3407948491529662bcc274aa6e883bc8b9199e2c82",
+  "url_hash": "36df56d6ccf83ac86d890df817185fb55fcc3e80161aa392f66f34e5caadf3e8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-12-2024_oferta-especial-para-creadores-de-mercado_2545b4c964b1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-12-2024_oferta-especial-para-creadores-de-mercado_2545b4c964b1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2024_oferta-especial-para-creadores-de-mercado_2545b4c964b1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b7/06/d8/ac/0b/b706d8ac0b155d9bba1552c0f9ae29c8_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2024_oferta-especial-para-creadores-de-mercado_2545b4c964b1\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1788/pack-table-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-12-2024_oferta-especial-para-creadores-de-mercado_2545b4c964b1\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:39.330079-03:00",
+  "status": "downloaded"
+}

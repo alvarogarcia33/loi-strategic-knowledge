@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_dede68ea85d6",
+  "platform": "gig_os",
+  "title": "¿Por qué necesitamos reservas de oro? Los bancos centrales responden",
+  "date": "05.07.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-necesitamos-reservas-de-oro-los-bancos-centrales-responden-435",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-necesitamos-reservas-de-oro-los-bancos-centrales-responden-435",
+  "content_hash": "3de37aabb0be42c31d237ff1ca81eafc471ad0d7356dda8e982cf72b615399aa",
+  "url_hash": "1afc82500c155dd8cef7bdad8c270a886a69cea708bfda9853905e0f0cbbae76",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-07-2021_por-qué-necesitamos-reservas-de-oro-los-bancos-centrales-responden_dede68ea85d6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-07-2021_por-qué-necesitamos-reservas-de-oro-los-bancos-centrales-responden_dede68ea85d6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-07-2021_por-qué-necesitamos-reservas-de-oro-los-bancos-centrales-responden_dede68ea85d6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e2/f7/f9/ef/4d/e2f7f9ef4deada14d83bc3ae1ed169da_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-07-2021_por-qué-necesitamos-reservas-de-oro-los-bancos-centrales-responden_dede68ea85d6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1120/sourcewwwgoldorg-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-07-2021_por-qué-necesitamos-reservas-de-oro-los-bancos-centrales-responden_dede68ea85d6\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:47:26.090524-03:00",
+  "status": "downloaded"
+}

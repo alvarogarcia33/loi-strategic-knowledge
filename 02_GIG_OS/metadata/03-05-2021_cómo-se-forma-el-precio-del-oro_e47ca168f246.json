@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_e47ca168f246",
+  "platform": "gig_os",
+  "title": "¿Cómo se forma el precio del oro?",
+  "date": "03.05.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-se-forma-el-precio-del-oro-409",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-se-forma-el-precio-del-oro-409",
+  "content_hash": "bf27109697753aad9feaf56c83471ebc2933efdc1457ed6937f04b0d36a8d08b",
+  "url_hash": "5cbe357e8e911bd5d5580ffa7051de9789069ddf71721a6852c97d81d48c13bc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-05-2021_cómo-se-forma-el-precio-del-oro_e47ca168f246.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-05-2021_cómo-se-forma-el-precio-del-oro_e47ca168f246.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-05-2021_cómo-se-forma-el-precio-del-oro_e47ca168f246",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/20/57/db/c4/2a/2057dbc42afde85b4f5731e8774e5c45_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-05-2021_cómo-se-forma-el-precio-del-oro_e47ca168f246\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1086/new-project1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-05-2021_cómo-se-forma-el-precio-del-oro_e47ca168f246\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1086/new-project_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-05-2021_cómo-se-forma-el-precio-del-oro_e47ca168f246\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:00.747196-03:00",
+  "status": "downloaded"
+}

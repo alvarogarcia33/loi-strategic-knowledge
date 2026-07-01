@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_2abca1d1ae17",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 6 de noviembre de 2017",
+  "date": "07.11.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-6-de-noviembre-de-2017",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-6-de-noviembre-de-2017",
+  "content_hash": "f78a900f12acb25ee94205b71670853a850f086fd2f4715c69cd6440e02d80ef",
+  "url_hash": "e84a4479fe9314173b00944c2c947ab17688ad8ab6f0783ecdc24c582d36deeb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-11-2017_informe-de-la-cotización-del-oro-al-6-de-noviembre-de-2017_2abca1d1ae17.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-11-2017_informe-de-la-cotización-del-oro-al-6-de-noviembre-de-2017_2abca1d1ae17.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-11-2017_informe-de-la-cotización-del-oro-al-6-de-noviembre-de-2017_2abca1d1ae17",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/46/17/d9/3e/1a/4617d93e1af2ca2b8a0a7f7b21cd7d38_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/408/global-intergold-oro-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:28:15.234457-03:00",
+  "status": "downloaded"
+}

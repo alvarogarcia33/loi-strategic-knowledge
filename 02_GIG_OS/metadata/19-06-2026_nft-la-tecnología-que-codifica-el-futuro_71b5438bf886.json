@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_71b5438bf886",
+  "platform": "gig_os",
+  "title": "NFT: la tecnología que codifica el futuro",
+  "date": "19.06.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nft-la-tecnologia-que-codifica-el-futuro-0199",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nft-la-tecnologia-que-codifica-el-futuro-0199",
+  "content_hash": "151c46c9e7234b74eb908016341070d4934defc87b0f76f8e3fe3180b6d128da",
+  "url_hash": "1587ca572cac5408f6ee9626caa1ddef371066b6f02f3f1314059c70dff7d69a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-06-2026_nft-la-tecnología-que-codifica-el-futuro_71b5438bf886.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-06-2026_nft-la-tecnología-que-codifica-el-futuro_71b5438bf886.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-06-2026_nft-la-tecnología-que-codifica-el-futuro_71b5438bf886",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3f/70/9b/4a/c1/3f709b4ac13b1c9d2163981cb6f5ba90_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-06-2026_nft-la-tecnología-que-codifica-el-futuro_71b5438bf886\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:41:51.890512-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_bb774986bf0f",
+  "platform": "gig_os",
+  "title": "El precio del oro batirá nuevos récords: previsiones de los expertos",
+  "date": "03.06.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-precio-del-oro-batira-nuevos-records-previsiones-de-los-expertos-943",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-precio-del-oro-batira-nuevos-records-previsiones-de-los-expertos-943",
+  "content_hash": "0779059e55ccf1456e749b4f2644eb34d5b0dafd5b953b8c319df4a2ecf80360",
+  "url_hash": "bf18420b23a29b25e6a36d480f17165adc288f158f1963e7f52d24481c272386",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-06-2024_el-precio-del-oro-batirá-nuevos-récords-previsiones-de-los-expertos_bb774986bf0f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-06-2024_el-precio-del-oro-batirá-nuevos-récords-previsiones-de-los-expertos_bb774986bf0f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2024_el-precio-del-oro-batirá-nuevos-récords-previsiones-de-los-expertos_bb774986bf0f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/59/17/50/ad/f7/591750adf74cc6fc13156768729c232f_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2024_el-precio-del-oro-batirá-nuevos-récords-previsiones-de-los-expertos_bb774986bf0f\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2024_el-precio-del-oro-batirá-nuevos-récords-previsiones-de-los-expertos_bb774986bf0f\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:11:07.999489-03:00",
+  "status": "downloaded"
+}

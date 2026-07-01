@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_185feddc0415",
+  "platform": "gig_os",
+  "title": "Fragilidad de las monedas y fiabilidad del oro",
+  "date": "05.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/fragilidad-de-las-monedas-y-fiabilidad-del-oro-474",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/fragilidad-de-las-monedas-y-fiabilidad-del-oro-474",
+  "content_hash": "a80ad1f552115ac5e98dd6b3bf7da5d01449df0298b9452a7410373a3c240869",
+  "url_hash": "720fee7b3066bd6ac769d29fcda8b5243892751d1bdf3a050000a781b4681c7d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-10-2021_fragilidad-de-las-monedas-y-fiabilidad-del-oro_185feddc0415.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-10-2021_fragilidad-de-las-monedas-y-fiabilidad-del-oro_185feddc0415.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-10-2021_fragilidad-de-las-monedas-y-fiabilidad-del-oro_185feddc0415",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/43/86/eb/99/37/4386eb9937e3781584b30726b310ee8b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-10-2021_fragilidad-de-las-monedas-y-fiabilidad-del-oro_185feddc0415\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1170/fragilidad-de-las-monedas-y-fiabilidad-del-oro62365_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-10-2021_fragilidad-de-las-monedas-y-fiabilidad-del-oro_185feddc0415\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:08.968064-03:00",
+  "status": "downloaded"
+}

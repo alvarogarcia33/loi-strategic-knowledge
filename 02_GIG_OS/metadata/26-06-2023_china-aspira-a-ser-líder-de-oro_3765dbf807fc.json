@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_3765dbf807fc",
+  "platform": "gig_os",
+  "title": "China aspira a ser líder de oro",
+  "date": "26.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/china-aspira-a-ser-lider-de-oro-758",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/china-aspira-a-ser-lider-de-oro-758",
+  "content_hash": "a000c6a525161e038b253347f05f73ff491abda260afdf5b08e0ba05b94350a8",
+  "url_hash": "4c09c28b1cef347b3774622bf80d2c1b518e4851e2f5ca541148c54954272029",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-06-2023_china-aspira-a-ser-líder-de-oro_3765dbf807fc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-06-2023_china-aspira-a-ser-líder-de-oro_3765dbf807fc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-06-2023_china-aspira-a-ser-líder-de-oro_3765dbf807fc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b6/4f/21/ea/ef/b64f21eaef14d35275ed216e780c3637_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-06-2023_china-aspira-a-ser-líder-de-oro_3765dbf807fc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-06-2023_china-aspira-a-ser-líder-de-oro_3765dbf807fc\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:32.014245-03:00",
+  "status": "downloaded"
+}

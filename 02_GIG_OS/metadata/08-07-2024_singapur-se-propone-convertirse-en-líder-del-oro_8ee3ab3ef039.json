@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_8ee3ab3ef039",
+  "platform": "gig_os",
+  "title": "Singapur se propone convertirse en «líder del oro»",
+  "date": "08.07.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/singapur-se-propone-convertirse-en-lider-del-oro-955",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/singapur-se-propone-convertirse-en-lider-del-oro-955",
+  "content_hash": "4bb02fbb0a3db766bdd0e394a956d334edee45a91ca3955eb952dc69a4ca8706",
+  "url_hash": "5d74370ec03cbe2ee8d2439589d24844dc5bfdb3a918c8780911e03eef7f288d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-07-2024_singapur-se-propone-convertirse-en-líder-del-oro_8ee3ab3ef039.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-07-2024_singapur-se-propone-convertirse-en-líder-del-oro_8ee3ab3ef039.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-07-2024_singapur-se-propone-convertirse-en-líder-del-oro_8ee3ab3ef039",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/94/3c/bf/32/a7/943cbf32a7cfb4ba858f7020508e7945_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-07-2024_singapur-se-propone-convertirse-en-líder-del-oro_8ee3ab3ef039\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-07-2024_singapur-se-propone-convertirse-en-líder-del-oro_8ee3ab3ef039\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:03.868037-03:00",
+  "status": "downloaded"
+}

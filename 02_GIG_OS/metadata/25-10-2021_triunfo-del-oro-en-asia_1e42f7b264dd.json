@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1e42f7b264dd",
+  "platform": "gig_os",
+  "title": "Triunfo del oro en Asia",
+  "date": "25.10.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/triunfo-del-oro-en-asia-484",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/triunfo-del-oro-en-asia-484",
+  "content_hash": "717ee896dc59247e1789393912a54cce5b2b2fa81a1ed446e4ac1fab8af593e1",
+  "url_hash": "615655e1a5b8c3d3e8906d6e7f0d4993dedef871e8c406528d85923769d1c291",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-10-2021_triunfo-del-oro-en-asia_1e42f7b264dd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-10-2021_triunfo-del-oro-en-asia_1e42f7b264dd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-10-2021_triunfo-del-oro-en-asia_1e42f7b264dd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/93/e1/88/17/e6/93e18817e6a8ad7cae557644d07b908a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-10-2021_triunfo-del-oro-en-asia_1e42f7b264dd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1183/211025gold_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-10-2021_triunfo-del-oro-en-asia_1e42f7b264dd\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:53.184432-03:00",
+  "status": "downloaded"
+}

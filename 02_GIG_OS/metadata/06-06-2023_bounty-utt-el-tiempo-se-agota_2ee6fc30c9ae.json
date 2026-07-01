@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_2ee6fc30c9ae",
+  "platform": "gig_os",
+  "title": "BOUNTY UTT: ¡el tiempo se agota!",
+  "date": "06.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/bounty-utt-el-tiempo-se-agota-745",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/bounty-utt-el-tiempo-se-agota-745",
+  "content_hash": "979d8df52288c767b44199743de2308419d8bf7848c8f87aeed3571e69829a59",
+  "url_hash": "a3c3d54196a74c2346184b628398d1a1a70256f0a30203133172fb0a45941560",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-06-2023_bounty-utt-el-tiempo-se-agota_2ee6fc30c9ae.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-06-2023_bounty-utt-el-tiempo-se-agota_2ee6fc30c9ae.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-06-2023_bounty-utt-el-tiempo-se-agota_2ee6fc30c9ae",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/42/f9/33/c1/c3/42f933c1c30863f0827dc8d5149a527c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-06-2023_bounty-utt-el-tiempo-se-agota_2ee6fc30c9ae\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:00:08.891176-03:00",
+  "status": "downloaded"
+}

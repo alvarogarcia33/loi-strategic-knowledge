@@ -1,0 +1,14 @@
+.env
+*.env
+browser_state/
+**/browser_state/
+logs/
+**/logs/
+*.sqlite
+07_IA/chroma/
+**/images/
+**/__pycache__/
+06_Extractor/data/backups/
+06_Extractor/data/screenshots/
+06_Extractor/data/*.json
+!.gitkeep

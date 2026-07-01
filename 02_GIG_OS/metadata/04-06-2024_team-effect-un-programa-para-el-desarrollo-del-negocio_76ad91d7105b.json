@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_76ad91d7105b",
+  "platform": "gig_os",
+  "title": "Team Effect: un programa para el desarrollo del negocio",
+  "date": "04.06.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/team-effect-un-programa-para-el-desarrollo-del-negocio-944",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/team-effect-un-programa-para-el-desarrollo-del-negocio-944",
+  "content_hash": "06b447ccf5871cb878f69440abb0e26fa8362f34bea41436b36f744496062387",
+  "url_hash": "9a1ce7bf1977a59cf8a8b871da1347d7c2ef144e961f7e10515c4c156a45d82e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-06-2024_team-effect-un-programa-para-el-desarrollo-del-negocio_76ad91d7105b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-06-2024_team-effect-un-programa-para-el-desarrollo-del-negocio_76ad91d7105b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-06-2024_team-effect-un-programa-para-el-desarrollo-del-negocio_76ad91d7105b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a3/a8/82/c2/3b/a3a882c23be01da1e4bf0cc1c6b1c1a8_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-06-2024_team-effect-un-programa-para-el-desarrollo-del-negocio_76ad91d7105b\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1702/team-effect-steps-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-06-2024_team-effect-un-programa-para-el-desarrollo-del-negocio_76ad91d7105b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:54.946617-03:00",
+  "status": "downloaded"
+}

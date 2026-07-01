@@ -1,0 +1,42 @@
+{
+  "article_uid": "gig_os_c98fa319a360",
+  "platform": "gig_os",
+  "title": "1 de septiembre: 8 nuevos NFT",
+  "date": "01.09.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad Noticias sobre la plataforma Materiales educativos Oro GoalSet Master",
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/1-de-septiembre-8-nuevos-nft-620",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/1-de-septiembre-8-nuevos-nft-620",
+  "content_hash": "0a421e94f2eed587f2ed60098d91f1785595813a0bdccbf4e1033b0ad571d4e5",
+  "url_hash": "424cf8845a24e62c238b2a918f7135f2497f68573981672b71ab7dd4740984a0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-09-2022_1-de-septiembre-8-nuevos-nft_c98fa319a360.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-09-2022_1-de-septiembre-8-nuevos-nft_c98fa319a360.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-09-2022_1-de-septiembre-8-nuevos-nft_c98fa319a360",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/84/b4/48/82/90/84b4488290bbc5424eef6cee9462a1ea_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-09-2022_1-de-septiembre-8-nuevos-nft_c98fa319a360\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1328/untitled-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-09-2022_1-de-septiembre-8-nuevos-nft_c98fa319a360\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:32:19.824470-03:00",
+  "status": "downloaded"
+}

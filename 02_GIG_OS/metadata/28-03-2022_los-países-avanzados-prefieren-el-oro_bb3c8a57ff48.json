@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_bb3c8a57ff48",
+  "platform": "gig_os",
+  "title": "Los países avanzados prefieren el oro",
+  "date": "28.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-paises-avanzados-prefieren-el-oro-546",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-paises-avanzados-prefieren-el-oro-546",
+  "content_hash": "66c0e0f26e8b2cefcbf0f3db2bae03d9893e50169d9d55bf3bb9041266c9f427",
+  "url_hash": "30b983f444841dd5ff94dcc17dfa7e4471ad0ad2ef59da9bc6c349adc3b3c176",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-03-2022_los-países-avanzados-prefieren-el-oro_bb3c8a57ff48.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-03-2022_los-países-avanzados-prefieren-el-oro_bb3c8a57ff48.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-03-2022_los-países-avanzados-prefieren-el-oro_bb3c8a57ff48",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b3/0b/9b/25/9f/b30b9b259fc2a62bfdde9eb4eeac4f92_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-03-2022_los-países-avanzados-prefieren-el-oro_bb3c8a57ff48\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1247/america_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-03-2022_los-países-avanzados-prefieren-el-oro_bb3c8a57ff48\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1247/dizayn-bez-nazvaniya-10_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-03-2022_los-países-avanzados-prefieren-el-oro_bb3c8a57ff48\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1247/dizayn-bez-nazvaniya-7_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-03-2022_los-países-avanzados-prefieren-el-oro_bb3c8a57ff48\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1247/dizayn-bez-nazvaniya-8_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-03-2022_los-países-avanzados-prefieren-el-oro_bb3c8a57ff48\\image_05.png",
+      "filename": "image_05.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1247/dizayn-bez-nazvaniya-9_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-03-2022_los-países-avanzados-prefieren-el-oro_bb3c8a57ff48\\image_06.png",
+      "filename": "image_06.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:07.212965-03:00",
+  "status": "downloaded"
+}

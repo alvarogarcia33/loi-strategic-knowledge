@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_0c32a1ad862a",
+  "platform": "gig_os",
+  "title": "Su patrón oro personal: ¿cuáles son los beneficios?",
+  "date": "11.11.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/su-patron-oro-personal-cuales-son-los-beneficios-187",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/su-patron-oro-personal-cuales-son-los-beneficios-187",
+  "content_hash": "1357b516896f1a800534749065e957ff180d66dbf311e4be61d850110bd8660a",
+  "url_hash": "771cf4ba5ec4e1b252e53d155fc1ef7d533cb390eeb7a645c43dcfaf4a6b8c64",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-11-2019_su-patrón-oro-personal-cuáles-son-los-beneficios_0c32a1ad862a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-11-2019_su-patrón-oro-personal-cuáles-son-los-beneficios_0c32a1ad862a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-11-2019_su-patrón-oro-personal-cuáles-son-los-beneficios_0c32a1ad862a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/05/e0/12/42/67/05e0124267e1f18b47050cbc7da216e8_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-11-2019_su-patrón-oro-personal-cuáles-son-los-beneficios_0c32a1ad862a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/800/money-supply-denezhnye-zapasy-oferta-de-dinero--fornitura-di-denaro_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-11-2019_su-patrón-oro-personal-cuáles-son-los-beneficios_0c32a1ad862a\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/800/rising-gold-prices--rost-ceny-zolota--precios-del-oro--prezzo-delloro_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-11-2019_su-patrón-oro-personal-cuáles-son-los-beneficios_0c32a1ad862a\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:43.500456-03:00",
+  "status": "downloaded"
+}

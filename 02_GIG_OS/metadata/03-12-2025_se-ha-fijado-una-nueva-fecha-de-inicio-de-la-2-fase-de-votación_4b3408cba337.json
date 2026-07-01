@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_4b3408cba337",
+  "platform": "gig_os",
+  "title": "Se ha fijado una nueva fecha de inicio de la 2ª fase de votación",
+  "date": "03.12.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-ha-fijado-una-nueva-fecha-de-inicio-de-la-2-fase-de-votacion-1139",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-ha-fijado-una-nueva-fecha-de-inicio-de-la-2-fase-de-votacion-1139",
+  "content_hash": "7ece4dafe53444ebf96414d1093a3bf3b12e33407decfd212e1ee7f90269bfc6",
+  "url_hash": "ff75a25163c6be9a1f470d28cf68aa09664f61cf0bb0b9bc292be9d919bdd5de",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-12-2025_se-ha-fijado-una-nueva-fecha-de-inicio-de-la-2-fase-de-votación_4b3408cba337.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-12-2025_se-ha-fijado-una-nueva-fecha-de-inicio-de-la-2-fase-de-votación_4b3408cba337.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-12-2025_se-ha-fijado-una-nueva-fecha-de-inicio-de-la-2-fase-de-votación_4b3408cba337",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/31/7e/56/c0/e3/317e56c0e3779c33136d1cb42d8a6cfe_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-12-2025_se-ha-fijado-una-nueva-fecha-de-inicio-de-la-2-fase-de-votación_4b3408cba337\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1963/1-it_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-12-2025_se-ha-fijado-una-nueva-fecha-de-inicio-de-la-2-fase-de-votación_4b3408cba337\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:11.569627-03:00",
+  "status": "downloaded"
+}

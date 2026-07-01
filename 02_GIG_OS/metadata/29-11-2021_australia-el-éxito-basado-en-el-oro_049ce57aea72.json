@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_049ce57aea72",
+  "platform": "gig_os",
+  "title": "Australia: el éxito basado en el oro",
+  "date": "29.11.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/australia-el-exito-basado-en-el-oro-499",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/australia-el-exito-basado-en-el-oro-499",
+  "content_hash": "c13025d9ae54364fcd1e16b015e7742b80e91ae1e616e6b60ba323fab27775d2",
+  "url_hash": "f75dad513afdf31b13f3f44211845655fa82389d95b19aeb4092d5ca0eb7d260",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-11-2021_australia-el-éxito-basado-en-el-oro_049ce57aea72.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-11-2021_australia-el-éxito-basado-en-el-oro_049ce57aea72.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2021_australia-el-éxito-basado-en-el-oro_049ce57aea72",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/cf/58/1b/7a/a4/cf581b7aa4d9740a3ec40de1c429a717_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2021_australia-el-éxito-basado-en-el-oro_049ce57aea72\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1197/dizayn-bez-nazvaniya-5_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-11-2021_australia-el-éxito-basado-en-el-oro_049ce57aea72\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:59:19.365444-03:00",
+  "status": "downloaded"
+}

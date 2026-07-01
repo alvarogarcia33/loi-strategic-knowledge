@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_6f99816cf226",
+  "platform": "gig_os",
+  "title": "A pesar de todas las crisis: cómo el oro salva el dinero.",
+  "date": "06.08.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/a-pesar-de-todas-las-crisis-como-el-oro-salva-el-dinero-290",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/a-pesar-de-todas-las-crisis-como-el-oro-salva-el-dinero-290",
+  "content_hash": "a4e4c4918ff7465886375fa919126ae36edf6362892e8f0dd3874ce58b5a8609",
+  "url_hash": "870da11aa44782de758deb8803af9a554b4465062f8eaeb8d1010300bd5b2995",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-08-2020_a-pesar-de-todas-las-crisis-cómo-el-oro-salva-el-dinero_6f99816cf226.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-08-2020_a-pesar-de-todas-las-crisis-cómo-el-oro-salva-el-dinero_6f99816cf226.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-08-2020_a-pesar-de-todas-las-crisis-cómo-el-oro-salva-el-dinero_6f99816cf226",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/12/b2/c4/4a/eb/12b2c44aebfa5bb703fc621b8a28fa8e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-08-2020_a-pesar-de-todas-las-crisis-cómo-el-oro-salva-el-dinero_6f99816cf226\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/915/new-project3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-08-2020_a-pesar-de-todas-las-crisis-cómo-el-oro-salva-el-dinero_6f99816cf226\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/915/new-project4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-08-2020_a-pesar-de-todas-las-crisis-cómo-el-oro-salva-el-dinero_6f99816cf226\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:56:53.139694-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_d2c72c0df648",
+  "platform": "gig_os",
+  "title": "La trampa económica: los iraníes confían en el oro",
+  "date": "23.09.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-trampa-economica-los-iranies-confian-en-el-oro-175",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-trampa-economica-los-iranies-confian-en-el-oro-175",
+  "content_hash": "4780d0d13230e5081e1422a7f8768c5ce1aeff55767b925e5006a6200b900bbc",
+  "url_hash": "d30012adeda8a0e7d1e11f935511cf59d192db05c600be6acc1660e09b687ac6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-09-2019_la-trampa-económica-los-iraníes-confían-en-el-oro_d2c72c0df648.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-09-2019_la-trampa-económica-los-iraníes-confían-en-el-oro_d2c72c0df648.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2019_la-trampa-económica-los-iraníes-confían-en-el-oro_d2c72c0df648",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/50/57/d0/a1/6a/5057d0a16ad3f4a3d1cb91424c6c11c3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2019_la-trampa-económica-los-iraníes-confían-en-el-oro_d2c72c0df648\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/778/1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2019_la-trampa-económica-los-iraníes-confían-en-el-oro_d2c72c0df648\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/778/2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2019_la-trampa-económica-los-iraníes-confían-en-el-oro_d2c72c0df648\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/778/4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-09-2019_la-trampa-económica-los-iraníes-confían-en-el-oro_d2c72c0df648\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:21.206011-03:00",
+  "status": "downloaded"
+}

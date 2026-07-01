@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_4679217b9f7d",
+  "platform": "gig_os",
+  "title": "¿Qué le espera al oro en 2022?",
+  "date": "20.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-le-espera-al-oro-en-2022-508",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-le-espera-al-oro-en-2022-508",
+  "content_hash": "b114da80a8ed0b7c7bf471bf95ab44252329a63e6ae56c2219145500a790d47d",
+  "url_hash": "69de3997a72148cdf67907c11b8db212906564ca152433aebfc67c1a924e5885",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-12-2021_qué-le-espera-al-oro-en-2022_4679217b9f7d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-12-2021_qué-le-espera-al-oro-en-2022_4679217b9f7d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-12-2021_qué-le-espera-al-oro-en-2022_4679217b9f7d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3c/d6/45/95/24/3cd6459524bfa4058b2a4266b9c967cc_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-12-2021_qué-le-espera-al-oro-en-2022_4679217b9f7d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1206/120721gold2-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-12-2021_qué-le-espera-al-oro-en-2022_4679217b9f7d\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:55.520974-03:00",
+  "status": "downloaded"
+}

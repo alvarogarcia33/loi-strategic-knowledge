@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_9a52805c32f6",
+  "platform": "gig_os",
+  "title": "Mensaje especial del Presidente",
+  "date": "24.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/mensaje-especial-del-presidente-551",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/mensaje-especial-del-presidente-551",
+  "content_hash": "88f95becb0aefd9515bb2066cb5d749496c11f6f89ade0be8c25500525984794",
+  "url_hash": "73ace8761407cfc623bbf6b5a4e3e1bcce25803091b9dbff2afb2093716d13c4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-03-2022_mensaje-especial-del-presidente_9a52805c32f6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-03-2022_mensaje-especial-del-presidente_9a52805c32f6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-03-2022_mensaje-especial-del-presidente_9a52805c32f6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/93/af/6b/05/0b/93af6b050b57a4210c1192c1f000f9f8_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-03-2022_mensaje-especial-del-presidente_9a52805c32f6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:22.724199-03:00",
+  "status": "downloaded"
+}

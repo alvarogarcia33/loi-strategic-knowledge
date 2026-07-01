@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_8fe2b624abea",
+  "platform": "gig_os",
+  "title": "¡Obtengan dos cupones COMMODITY a la vez!",
+  "date": "29.05.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/obtengan-dos-cupones-commodity-a-la-vez-941",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/obtengan-dos-cupones-commodity-a-la-vez-941",
+  "content_hash": "e1b6e741d577b099c680b1b8423450823290566ff62b0744ab02e89f069a6122",
+  "url_hash": "d6dd9a79c80d9e883c9d5d72cb2279bf27a001c4a03e8074777e519e0ed8170d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-05-2024_obtengan-dos-cupones-commodity-a-la-vez_8fe2b624abea.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-05-2024_obtengan-dos-cupones-commodity-a-la-vez_8fe2b624abea.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2024_obtengan-dos-cupones-commodity-a-la-vez_8fe2b624abea",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0e/ad/e9/f6/96/0eade9f696bfd8b12622f41ec96a249b_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2024_obtengan-dos-cupones-commodity-a-la-vez_8fe2b624abea\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1700/bracelet-ciy2-transformator769_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2024_obtengan-dos-cupones-commodity-a-la-vez_8fe2b624abea\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1700/number-1_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2024_obtengan-dos-cupones-commodity-a-la-vez_8fe2b624abea\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1700/number-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-05-2024_obtengan-dos-cupones-commodity-a-la-vez_8fe2b624abea\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:44:17.933842-03:00",
+  "status": "downloaded"
+}

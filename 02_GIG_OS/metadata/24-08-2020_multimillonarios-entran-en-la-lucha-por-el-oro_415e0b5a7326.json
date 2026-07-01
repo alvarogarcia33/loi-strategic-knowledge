@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_415e0b5a7326",
+  "platform": "gig_os",
+  "title": "Multimillonarios entran en la lucha por el oro",
+  "date": "24.08.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/multimillonarios-entran-en-la-lucha-por-el-oro-297",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/multimillonarios-entran-en-la-lucha-por-el-oro-297",
+  "content_hash": "0098a78d9ef24b97b4471715184a2cc8bfb4fb35844813dcc9f13d568d7c2c72",
+  "url_hash": "77684b2b44e19c8b0b8fe54f39552bc8397d2660cc368c12c69539b884acdf90",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-08-2020_multimillonarios-entran-en-la-lucha-por-el-oro_415e0b5a7326.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-08-2020_multimillonarios-entran-en-la-lucha-por-el-oro_415e0b5a7326.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-08-2020_multimillonarios-entran-en-la-lucha-por-el-oro_415e0b5a7326",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1c/9c/c9/cd/81/1c9cc9cd81c84a4d1227784910e7b83f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-08-2020_multimillonarios-entran-en-la-lucha-por-el-oro_415e0b5a7326\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/933/warren_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-08-2020_multimillonarios-entran-en-la-lucha-por-el-oro_415e0b5a7326\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/933/price_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-08-2020_multimillonarios-entran-en-la-lucha-por-el-oro_415e0b5a7326\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:40:40.488165-03:00",
+  "status": "downloaded"
+}

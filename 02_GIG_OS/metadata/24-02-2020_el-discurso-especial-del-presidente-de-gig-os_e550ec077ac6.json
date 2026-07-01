@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e550ec077ac6",
+  "platform": "gig_os",
+  "title": "El discurso especial del Presidente de GIG-OS",
+  "date": "24.02.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-discurso-especial-del-presidente-de-gig-os-224",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-discurso-especial-del-presidente-de-gig-os-224",
+  "content_hash": "0ff4f8285cb8da32e46f9f6c27e7c4c090f23d35d1c54de3ebb3a65b6dcae5b1",
+  "url_hash": "b4f24bc51f5771fe7433fd01a2da622b6174f94bc3fd5b1852118802a8085d11",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-02-2020_el-discurso-especial-del-presidente-de-gig-os_e550ec077ac6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-02-2020_el-discurso-especial-del-presidente-de-gig-os_e550ec077ac6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-02-2020_el-discurso-especial-del-presidente-de-gig-os_e550ec077ac6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4d/41/98/af/a0/4d4198afa020f3bfa7d1f08990afab5c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-02-2020_el-discurso-especial-del-presidente-de-gig-os_e550ec077ac6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:49.568879-03:00",
+  "status": "downloaded"
+}

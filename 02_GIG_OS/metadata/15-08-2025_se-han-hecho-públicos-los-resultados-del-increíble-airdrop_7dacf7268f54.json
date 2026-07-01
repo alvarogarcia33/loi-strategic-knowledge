@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7dacf7268f54",
+  "platform": "gig_os",
+  "title": "¡Se han hecho públicos los resultados del Increíble Airdrop!",
+  "date": "15.08.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-han-hecho-publicos-los-resultados-del-increible-airdrop-1125",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-han-hecho-publicos-los-resultados-del-increible-airdrop-1125",
+  "content_hash": "446e3fd1fc109e6bc39f2b228b10d4fce2fdcdf193b2045e2a8bf5ca95341171",
+  "url_hash": "32473b85c990f41c9126c961479a2b08e593bf102df42430cc90620593ea1787",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-08-2025_se-han-hecho-públicos-los-resultados-del-increíble-airdrop_7dacf7268f54.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-08-2025_se-han-hecho-públicos-los-resultados-del-increíble-airdrop_7dacf7268f54.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2025_se-han-hecho-públicos-los-resultados-del-increíble-airdrop_7dacf7268f54",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/79/44/20/b0/3b/794420b03b57e1eb5883343aeb0de3fb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2025_se-han-hecho-públicos-los-resultados-del-increíble-airdrop_7dacf7268f54\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1905/14-08-2025-inside-airdrop89497_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2025_se-han-hecho-públicos-los-resultados-del-increíble-airdrop_7dacf7268f54\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:56:00.233814-03:00",
+  "status": "downloaded"
+}

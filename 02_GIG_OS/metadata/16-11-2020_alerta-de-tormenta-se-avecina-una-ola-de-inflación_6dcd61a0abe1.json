@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_6dcd61a0abe1",
+  "platform": "gig_os",
+  "title": "Alerta de tormenta: se avecina una ola de inflación",
+  "date": "16.11.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/alerta-de-tormenta-se-avecina-una-ola-de-inflacion-331",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/alerta-de-tormenta-se-avecina-una-ola-de-inflacion-331",
+  "content_hash": "b4a68a0e4bfbe0fa74cdeddd612491671e8f91aff9e5aa53bbc8da2f04e7ab59",
+  "url_hash": "31c4e5296ce930687cf4a16e4f94eea418d4da7658de1af134582e372c79ce08",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-11-2020_alerta-de-tormenta-se-avecina-una-ola-de-inflación_6dcd61a0abe1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-11-2020_alerta-de-tormenta-se-avecina-una-ola-de-inflación_6dcd61a0abe1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-11-2020_alerta-de-tormenta-se-avecina-una-ola-de-inflación_6dcd61a0abe1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6c/15/88/e9/0c/6c1588e90cea426a1352cb5c3113f7a9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-11-2020_alerta-de-tormenta-se-avecina-una-ola-de-inflación_6dcd61a0abe1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/986/imgonline-com-ua-resize-vqdvbylgynzey_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-11-2020_alerta-de-tormenta-se-avecina-una-ola-de-inflación_6dcd61a0abe1\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:57:57.518197-03:00",
+  "status": "downloaded"
+}

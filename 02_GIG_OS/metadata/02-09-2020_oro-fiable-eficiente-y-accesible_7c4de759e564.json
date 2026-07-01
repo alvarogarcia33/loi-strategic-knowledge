@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_7c4de759e564",
+  "platform": "gig_os",
+  "title": "Oro: fiable, eficiente y... ¡accesible!",
+  "date": "02.09.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-fiable-eficiente-y-accesible-301",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-fiable-eficiente-y-accesible-301",
+  "content_hash": "5b9b423de469cdbc5a73a7f4f1eebd0e252236d152d37719825a56262f9c5e36",
+  "url_hash": "591c5d5685555d9a470fb10c4029d0221844cd521d900e84c739831f7463eb90",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-09-2020_oro-fiable-eficiente-y-accesible_7c4de759e564.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-09-2020_oro-fiable-eficiente-y-accesible_7c4de759e564.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2020_oro-fiable-eficiente-y-accesible_7c4de759e564",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/3a/f4/18/88/18/3af4188818569db5f145cb36b1d04538_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2020_oro-fiable-eficiente-y-accesible_7c4de759e564\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:35.442147-03:00",
+  "status": "downloaded"
+}

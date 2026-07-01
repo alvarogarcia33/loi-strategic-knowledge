@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_19b2259c4acb",
+  "platform": "gig_os",
+  "title": "GR DAO CUP UnityGlobe: ¡el camino hacia nuevas victorias!",
+  "date": "08.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-unityglobe-el-camino-hacia-nuevas-victorias-837",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-unityglobe-el-camino-hacia-nuevas-victorias-837",
+  "content_hash": "0ccc11da02b212efc24f44ba34032d26969d780b90a4d15f1f82f76df0bd65ca",
+  "url_hash": "6710f37cb0ebad9897399f283af3dc27227d11242de19372336427ca0da0a46d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-12-2023_gr-dao-cup-unityglobe-el-camino-hacia-nuevas-victorias_19b2259c4acb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-12-2023_gr-dao-cup-unityglobe-el-camino-hacia-nuevas-victorias_19b2259c4acb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2023_gr-dao-cup-unityglobe-el-camino-hacia-nuevas-victorias_19b2259c4acb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d9/c5/e1/c6/10/d9c5e1c610294b089b0e1e49b135677a_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2023_gr-dao-cup-unityglobe-el-camino-hacia-nuevas-victorias_19b2259c4acb\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1581/cup-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2023_gr-dao-cup-unityglobe-el-camino-hacia-nuevas-victorias_19b2259c4acb\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1581/makeitreal-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2023_gr-dao-cup-unityglobe-el-camino-hacia-nuevas-victorias_19b2259c4acb\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:33.347892-03:00",
+  "status": "downloaded"
+}

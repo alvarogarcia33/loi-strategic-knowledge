@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_e6262cb6e08b",
+  "platform": "gig_os",
+  "title": "Construir la Seguridad Financiera y ayudar a otras personas",
+  "date": "12.09.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/construir-la-seguridad-financiera-y-ayudar-a-otras-personas",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/construir-la-seguridad-financiera-y-ayudar-a-otras-personas",
+  "content_hash": "2899df84aaf919722f8a06b69ba86c97ffd0c2827b1313e2bffcd6c3d3572869",
+  "url_hash": "b3a0139ff7802a313cc23a437083e366628aef94b95565bea8407d2f79592954",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-09-2018_construir-la-seguridad-financiera-y-ayudar-a-otras-personas_e6262cb6e08b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-09-2018_construir-la-seguridad-financiera-y-ayudar-a-otras-personas_e6262cb6e08b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-09-2018_construir-la-seguridad-financiera-y-ayudar-a-otras-personas_e6262cb6e08b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ed/ee/e4/68/3d/edeee4683dc80b86538b4b304a493d1e_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/556/global-intergold-oro-la-seguridad-financiera-10_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:29.741666-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e998a9a03752",
+  "platform": "gig_os",
+  "title": "La recepción de solicitudes ha finalizado. ¡Se viene la votación!",
+  "date": "15.09.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-recepcion-de-solicitudes-ha-finalizado-se-viene-la-votacion-1140",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-recepcion-de-solicitudes-ha-finalizado-se-viene-la-votacion-1140",
+  "content_hash": "f31a48d65bd9d933fd410572a9927ffb9945dcb073d06ccc1a7b65e560402b80",
+  "url_hash": "2b7e3671a74929dbd14d188fc6eeb8e86fa3b377beed99d24e814ff29fe1fe41",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-09-2025_la-recepción-de-solicitudes-ha-finalizado-se-viene-la-votación_e998a9a03752.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-09-2025_la-recepción-de-solicitudes-ha-finalizado-se-viene-la-votación_e998a9a03752.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-09-2025_la-recepción-de-solicitudes-ha-finalizado-se-viene-la-votación_e998a9a03752",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/14/03/15/b5/30/140315b5308db01952b57cb00e47c1a8_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-09-2025_la-recepción-de-solicitudes-ha-finalizado-se-viene-la-votación_e998a9a03752\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:17.306428-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_70c49ce12957",
+  "platform": "gig_os",
+  "title": "¡System Transformator ha adquirido un nuevo poder!",
+  "date": "11.07.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/system-transformator-ha-adquirido-un-nuevo-poder-1111",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/system-transformator-ha-adquirido-un-nuevo-poder-1111",
+  "content_hash": "6eeed2a53b0a7823d9eaee4e82a998ce6e4aa73caf7031bf8f3865d66b60db0d",
+  "url_hash": "5829a7943c7926abe6a10cbf5944b1e88e2811d079fca7d23e732a20ca02b4bb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-07-2025_system-transformator-ha-adquirido-un-nuevo-poder_70c49ce12957.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-07-2025_system-transformator-ha-adquirido-un-nuevo-poder_70c49ce12957.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2025_system-transformator-ha-adquirido-un-nuevo-poder_70c49ce12957",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/57/11/51/b1/8f/571151b18feb8fb6afd2db334643ca14_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2025_system-transformator-ha-adquirido-un-nuevo-poder_70c49ce12957\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1891/828x300-gvam-bvvm_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2025_system-transformator-ha-adquirido-un-nuevo-poder_70c49ce12957\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:51.485737-03:00",
+  "status": "downloaded"
+}

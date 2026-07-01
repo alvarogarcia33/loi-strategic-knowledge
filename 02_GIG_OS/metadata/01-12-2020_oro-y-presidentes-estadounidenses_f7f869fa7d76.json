@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_f7f869fa7d76",
+  "platform": "gig_os",
+  "title": "Oro y Presidentes estadounidenses",
+  "date": "01.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-y-presidentes-estadounidenses-338",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-y-presidentes-estadounidenses-338",
+  "content_hash": "96cc24d20ea3353895cc28b8e6156e7b8383858835b25374e1d1947861926db4",
+  "url_hash": "e99e86a3322630d902fc2fd373e927b8f989c3d21346897f1827b9bf85061187",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-12-2020_oro-y-presidentes-estadounidenses_f7f869fa7d76.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-12-2020_oro-y-presidentes-estadounidenses_f7f869fa7d76.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-12-2020_oro-y-presidentes-estadounidenses_f7f869fa7d76",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b7/1d/c4/1c/20/b71dc41c201f857009bb9d40d5dabd93_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-12-2020_oro-y-presidentes-estadounidenses_f7f869fa7d76\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/997/image13_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-12-2020_oro-y-presidentes-estadounidenses_f7f869fa7d76\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/997/image15_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-12-2020_oro-y-presidentes-estadounidenses_f7f869fa7d76\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:57.304407-03:00",
+  "status": "downloaded"
+}

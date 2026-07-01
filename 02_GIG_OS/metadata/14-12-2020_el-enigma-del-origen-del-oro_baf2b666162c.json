@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_baf2b666162c",
+  "platform": "gig_os",
+  "title": "El enigma del origen del oro",
+  "date": "14.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-enigma-del-origen-del-oro-342",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-enigma-del-origen-del-oro-342",
+  "content_hash": "3cfafa33b4d9171f6830bdffe69fe8b13e8318e00edef97f192e10e5d8701e2b",
+  "url_hash": "ac825f88b4d024670f7afeb55b7aebd409ffd78be260dde3fe7924f21a9fdc5d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-12-2020_el-enigma-del-origen-del-oro_baf2b666162c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-12-2020_el-enigma-del-origen-del-oro_baf2b666162c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-12-2020_el-enigma-del-origen-del-oro_baf2b666162c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/83/62/ec/1f/d2/8362ec1fd263e895fb69e0c64a52a288_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-12-2020_el-enigma-del-origen-del-oro_baf2b666162c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1002/image181_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-12-2020_el-enigma-del-origen-del-oro_baf2b666162c\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1002/image191_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-12-2020_el-enigma-del-origen-del-oro_baf2b666162c\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:56.561993-03:00",
+  "status": "downloaded"
+}

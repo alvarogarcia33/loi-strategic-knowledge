@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c29bf3388fd6",
+  "platform": "gig_os",
+  "title": "¡El TOP de la Liga Mayor!",
+  "date": "10.09.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-top-de-la-liga-mayor-986",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-top-de-la-liga-mayor-986",
+  "content_hash": "167268ddeb3c8cd4fe99d71082cfabee5f19adfe4cef5fe354f4df5bd0d3192f",
+  "url_hash": "efa0bd299fcd6a80bc288b166fdbcc88897af12213e822c9e6ab1a4ceb55faf5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-09-2024_el-top-de-la-liga-mayor_c29bf3388fd6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-09-2024_el-top-de-la-liga-mayor_c29bf3388fd6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2024_el-top-de-la-liga-mayor_c29bf3388fd6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c5/f7/a2/e5/8f/c5f7a2e58f4173927b713b3b5d46d00a_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2024_el-top-de-la-liga-mayor_c29bf3388fd6\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:35.684788-03:00",
+  "status": "downloaded"
+}

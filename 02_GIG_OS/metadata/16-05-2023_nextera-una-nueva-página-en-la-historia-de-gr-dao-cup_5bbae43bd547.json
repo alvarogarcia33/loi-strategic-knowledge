@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_5bbae43bd547",
+  "platform": "gig_os",
+  "title": "NextEra, una nueva página en la historia de GR DAO CUP",
+  "date": "16.05.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nextera-una-nueva-pagina-en-la-historia-de-gr-dao-cup-733",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nextera-una-nueva-pagina-en-la-historia-de-gr-dao-cup-733",
+  "content_hash": "a6a7e6d071d57dafa095ff32617f620a7b6b02f0fd43ddf5f097cf9764d48de3",
+  "url_hash": "136b4429c3d40894832af0619a94c186555f514c00048e4c62e1b96ee6ba1f9d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-05-2023_nextera-una-nueva-página-en-la-historia-de-gr-dao-cup_5bbae43bd547.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-05-2023_nextera-una-nueva-página-en-la-historia-de-gr-dao-cup_5bbae43bd547.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2023_nextera-una-nueva-página-en-la-historia-de-gr-dao-cup_5bbae43bd547",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/91/91/bc/f7/78/9191bcf7780191c63fac1d8ec87ad6a3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2023_nextera-una-nueva-página-en-la-historia-de-gr-dao-cup_5bbae43bd547\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1466/nextera-forum_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2023_nextera-una-nueva-página-en-la-historia-de-gr-dao-cup_5bbae43bd547\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1466/winner_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2023_nextera-una-nueva-página-en-la-historia-de-gr-dao-cup_5bbae43bd547\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:41:18.623636-03:00",
+  "status": "downloaded"
+}

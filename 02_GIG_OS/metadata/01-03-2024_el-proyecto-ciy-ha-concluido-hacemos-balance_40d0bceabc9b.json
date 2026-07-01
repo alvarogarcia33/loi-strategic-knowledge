@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_40d0bceabc9b",
+  "platform": "gig_os",
+  "title": "El proyecto CIY ha concluido: hacemos balance",
+  "date": "01.03.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-proyecto-ciy-ha-concluido-hacemos-balance-888",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-proyecto-ciy-ha-concluido-hacemos-balance-888",
+  "content_hash": "e5a90e95b3c3b108d11696acc7889ed03b0a8b4f495012c6aee81d12b693f410",
+  "url_hash": "1ffd8c2474e1c866b633aff08b8d04cd22ec8847aa84de24079f1270ef00ed18",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-03-2024_el-proyecto-ciy-ha-concluido-hacemos-balance_40d0bceabc9b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-03-2024_el-proyecto-ciy-ha-concluido-hacemos-balance_40d0bceabc9b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2024_el-proyecto-ciy-ha-concluido-hacemos-balance_40d0bceabc9b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/41/04/6d/3f/5a/41046d3f5a0574f9d9b806a8ca9edc58_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2024_el-proyecto-ciy-ha-concluido-hacemos-balance_40d0bceabc9b\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1639/hand79965_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2024_el-proyecto-ciy-ha-concluido-hacemos-balance_40d0bceabc9b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1639/element-for-text-conference_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2024_el-proyecto-ciy-ha-concluido-hacemos-balance_40d0bceabc9b\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:04.320240-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_d5253bd42b66",
+  "platform": "gig_os",
+  "title": "8 ideas equivocadas acerca del oro en las que creen millones",
+  "date": "13.05.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/8-ideas-equivocadas-acerca-del-oro-en-las-que-creen-millones",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/8-ideas-equivocadas-acerca-del-oro-en-las-que-creen-millones",
+  "content_hash": "568764ecbdcf63a14a97a0ae4b1c975686f898ac5d3e321ffd5a2b906f61971d",
+  "url_hash": "d8abda49ceb910e109bd911b24887be04403b4356c70f241e58ae6b36c213a0b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-05-2019_8-ideas-equivocadas-acerca-del-oro-en-las-que-creen-millones_d5253bd42b66.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-05-2019_8-ideas-equivocadas-acerca-del-oro-en-las-que-creen-millones_d5253bd42b66.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-05-2019_8-ideas-equivocadas-acerca-del-oro-en-las-que-creen-millones_d5253bd42b66",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/82/cd/6e/86/d0/82cd6e86d01599bb84c4f84df440926f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-05-2019_8-ideas-equivocadas-acerca-del-oro-en-las-que-creen-millones_d5253bd42b66\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/701/global-intergold-gold-informe-de-la-cotizacion-del-oro-22_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/701/global-intergold-gold-informe-de-la-cotizacion-del-oro-23_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T17:56:47.909021-03:00",
+  "status": "downloaded"
+}

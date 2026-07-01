@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_2c582895f53b",
+  "platform": "gig_os",
+  "title": "Menos palabras, más oro",
+  "date": "18.07.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/menos-palabras-mas-oro-146",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/menos-palabras-mas-oro-146",
+  "content_hash": "b91edbd6a42236856aafb59bbfb0f702e3d9c5e1508dad0c2e37ee6298a1ab53",
+  "url_hash": "354d20d595d685632d093acc43fe1e8fc36a0dc66fee11fa9317ff3d1cc244fb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-07-2019_menos-palabras-más-oro_2c582895f53b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-07-2019_menos-palabras-más-oro_2c582895f53b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-07-2019_menos-palabras-más-oro_2c582895f53b",
+  "images": [
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/746/global-intergold-oro20_1.jpg",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:17.036044-03:00",
+  "status": "downloaded"
+}

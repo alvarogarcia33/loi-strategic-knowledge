@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9560c9184f5d",
+  "platform": "gig_os",
+  "title": "Oro de los bancos centrales: estadísticas de mayo",
+  "date": "19.07.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-de-los-bancos-centrales-estadisticas-de-mayo-600",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-de-los-bancos-centrales-estadisticas-de-mayo-600",
+  "content_hash": "3be7a70d124891da17f41b3aa108d7c6c0b77b3a694300b22867ce4a905dc8a0",
+  "url_hash": "cc038e6ab856410e1c93a3f1abdfc552f6449fefdf91bdae68675349a5e088f6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-07-2022_oro-de-los-bancos-centrales-estadísticas-de-mayo_9560c9184f5d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-07-2022_oro-de-los-bancos-centrales-estadísticas-de-mayo_9560c9184f5d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2022_oro-de-los-bancos-centrales-estadísticas-de-mayo_9560c9184f5d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d6/50/df/63/f8/d650df63f8c33fa4ee153609359a8563_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2022_oro-de-los-bancos-centrales-estadísticas-de-mayo_9560c9184f5d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1311/largest-companies-of-2019-by-revenue-bar-graph-8_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2022_oro-de-los-bancos-centrales-estadísticas-de-mayo_9560c9184f5d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:06.489638-03:00",
+  "status": "downloaded"
+}

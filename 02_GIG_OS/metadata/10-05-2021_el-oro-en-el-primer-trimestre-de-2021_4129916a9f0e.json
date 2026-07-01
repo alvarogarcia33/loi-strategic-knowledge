@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4129916a9f0e",
+  "platform": "gig_os",
+  "title": "El oro en el primer trimestre de 2021",
+  "date": "10.05.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-en-el-primer-trimestre-de-2021-411",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-en-el-primer-trimestre-de-2021-411",
+  "content_hash": "86be054df0d26f9ef3bf37f1ec4a9ea2417015a25273d0b3ecc06024f8c95dc7",
+  "url_hash": "ae7fc5b7ae657dcd049ed06a8d3feb4c05ce688ce76fe314f12b4b80ad2340b2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-05-2021_el-oro-en-el-primer-trimestre-de-2021_4129916a9f0e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-05-2021_el-oro-en-el-primer-trimestre-de-2021_4129916a9f0e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2021_el-oro-en-el-primer-trimestre-de-2021_4129916a9f0e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/22/13/61/c6/d8/221361c6d8134c24c18e6f12ff3649ba_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2021_el-oro-en-el-primer-trimestre-de-2021_4129916a9f0e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:31.258244-03:00",
+  "status": "downloaded"
+}

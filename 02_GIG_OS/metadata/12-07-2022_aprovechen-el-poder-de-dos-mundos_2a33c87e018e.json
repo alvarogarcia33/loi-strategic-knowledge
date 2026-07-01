@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_2a33c87e018e",
+  "platform": "gig_os",
+  "title": "¡Aprovechen el poder de dos mundos!",
+  "date": "12.07.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/aprovechen-el-poder-de-dos-mundos-598",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/aprovechen-el-poder-de-dos-mundos-598",
+  "content_hash": "bacda982ddd35dd945c4aba7ec5e2dbc66548b4d0b2a880a68aefc976d8096df",
+  "url_hash": "d678257067ee0315c20f6734bb50ac43f6266e5efa89455605f3ff667cfb8d12",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-07-2022_aprovechen-el-poder-de-dos-mundos_2a33c87e018e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-07-2022_aprovechen-el-poder-de-dos-mundos_2a33c87e018e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2022_aprovechen-el-poder-de-dos-mundos_2a33c87e018e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a9/7e/30/1d/33/a97e301d339164c40f73a0847d26449c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2022_aprovechen-el-poder-de-dos-mundos_2a33c87e018e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1310/golden-guideline-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2022_aprovechen-el-poder-de-dos-mundos_2a33c87e018e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1310/ma-wisdom-plus-w-book-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2022_aprovechen-el-poder-de-dos-mundos_2a33c87e018e\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:25.398877-03:00",
+  "status": "downloaded"
+}

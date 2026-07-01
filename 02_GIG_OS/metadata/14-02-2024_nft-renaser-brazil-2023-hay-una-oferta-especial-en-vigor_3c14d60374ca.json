@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_3c14d60374ca",
+  "platform": "gig_os",
+  "title": "NFT RenaSER Brazil 2023: ¡hay una oferta especial en vigor!",
+  "date": "14.02.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nft-renaser-brazil-2023-hay-una-oferta-especial-en-vigor-879",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nft-renaser-brazil-2023-hay-una-oferta-especial-en-vigor-879",
+  "content_hash": "28bef920165419771601b087e763a142c6ef5b6cc4d05da3442d2d291d188e4d",
+  "url_hash": "4a06643e07d21d60a6780ac52d3011568883e7c24c8ca1caa31605a25389b74c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-02-2024_nft-renaser-brazil-2023-hay-una-oferta-especial-en-vigor_3c14d60374ca.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-02-2024_nft-renaser-brazil-2023-hay-una-oferta-especial-en-vigor_3c14d60374ca.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2024_nft-renaser-brazil-2023-hay-una-oferta-especial-en-vigor_3c14d60374ca",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/71/1c/a2/5e/80/711ca25e80142efa915325580e046ba7_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2024_nft-renaser-brazil-2023-hay-una-oferta-especial-en-vigor_3c14d60374ca\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1624/attention-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2024_nft-renaser-brazil-2023-hay-una-oferta-especial-en-vigor_3c14d60374ca\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:17.935404-03:00",
+  "status": "downloaded"
+}

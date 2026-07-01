@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_22753c43dde3",
+  "platform": "gig_os",
+  "title": "LongDeal Project: ¡es hora de avanzar!",
+  "date": "26.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/longdeal-project-es-hora-de-avanzar-388",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/longdeal-project-es-hora-de-avanzar-388",
+  "content_hash": "093a80b25d5710c7bf8c1814bb56c63d1bf9a7403ba920c156acd3bbee61e5a4",
+  "url_hash": "35ab281abbd43b01cd2a00975e964afbe9bb26d85db5563047d5e034afb6893b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-03-2021_longdeal-project-es-hora-de-avanzar_22753c43dde3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-03-2021_longdeal-project-es-hora-de-avanzar_22753c43dde3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2021_longdeal-project-es-hora-de-avanzar_22753c43dde3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/46/65/8e/ce/9a/46658ece9a8489a1d59a144d83249db4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-03-2021_longdeal-project-es-hora-de-avanzar_22753c43dde3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:11.815507-03:00",
+  "status": "downloaded"
+}

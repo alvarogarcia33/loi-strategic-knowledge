@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_cd1363c81791",
+  "platform": "gig_os",
+  "title": "Utilicen TRANSFORMATOR BOX para obtener MetaSentry Token",
+  "date": "24.08.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/utilicen-transformator-box-para-obtener-metasentry-token-784",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/utilicen-transformator-box-para-obtener-metasentry-token-784",
+  "content_hash": "78d8f6a01fcfaf0d6945fdd88a67cc1ef36543bcdf58c288adf9eed2286eec80",
+  "url_hash": "582225be3295c982623e08c839ca536222b34fecb790bbf8a0a37a03680c8d66",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-08-2023_utilicen-transformator-box-para-obtener-metasentry-token_cd1363c81791.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-08-2023_utilicen-transformator-box-para-obtener-metasentry-token_cd1363c81791.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-08-2023_utilicen-transformator-box-para-obtener-metasentry-token_cd1363c81791",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/29/c9/4e/fd/66/29c94efd669234cc4dfdccd23cda33ee_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-08-2023_utilicen-transformator-box-para-obtener-metasentry-token_cd1363c81791\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1520/nft-metasentry-token_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-08-2023_utilicen-transformator-box-para-obtener-metasentry-token_cd1363c81791\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:01:13.630162-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_76095eab94c4",
+  "platform": "gig_os",
+  "title": "¡La reunión online se acerca!",
+  "date": "25.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-reunion-online-se-acerca-524",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-reunion-online-se-acerca-524",
+  "content_hash": "ae06daba66d669b18672f203428f7d2643e7e1681ed61a180d641c011c1ea446",
+  "url_hash": "015122f6e9ef3741f95ebe0249d99a5761aac82e4df4c484f7939dfe60397e34",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-01-2022_la-reunión-online-se-acerca_76095eab94c4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-01-2022_la-reunión-online-se-acerca_76095eab94c4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-01-2022_la-reunión-online-se-acerca_76095eab94c4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b3/9c/0e/c3/4b/b39c0ec34bdaf0eed93b1537fc7fe7ff_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-01-2022_la-reunión-online-se-acerca_76095eab94c4\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:49.712009-03:00",
+  "status": "downloaded"
+}

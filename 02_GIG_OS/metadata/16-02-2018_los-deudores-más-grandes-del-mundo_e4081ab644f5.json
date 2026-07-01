@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_e4081ab644f5",
+  "platform": "gig_os",
+  "title": "Los deudores más grandes del mundo",
+  "date": "16.02.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-deudores-mas-grandes-del-mundo",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-deudores-mas-grandes-del-mundo",
+  "content_hash": "17b5bd9ff9c84a214c986e9c73ab64793fe6c5ad716d4bd4a4c13c2cbe2c6c61",
+  "url_hash": "09235134e8b212c67e803cc6a658bc38cb13e1f5712d765b0b6797700ad17b8c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-02-2018_los-deudores-más-grandes-del-mundo_e4081ab644f5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-02-2018_los-deudores-más-grandes-del-mundo_e4081ab644f5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-02-2018_los-deudores-más-grandes-del-mundo_e4081ab644f5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ef/42/d9/4b/c3/ef42d94bc340ad15aa7dd42fe22448a3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-02-2018_los-deudores-más-grandes-del-mundo_e4081ab644f5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/447/global-intergold-gold-external-debt_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/447/frame-294857319201_1.png",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:33.381658-03:00",
+  "status": "downloaded"
+}

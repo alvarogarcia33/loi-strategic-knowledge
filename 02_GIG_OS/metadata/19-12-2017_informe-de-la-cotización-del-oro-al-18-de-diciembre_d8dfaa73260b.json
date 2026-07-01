@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d8dfaa73260b",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 18 de diciembre",
+  "date": "19.12.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-18-de-diciembre",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-18-de-diciembre",
+  "content_hash": "9d92fe2900d0b29bb39190b9255d1f9152445a0f9e22bdf3376d3a38d0e5f820",
+  "url_hash": "8fdbecd2e2a916731fe4a807a61eee2f035bb1f6591b0303097eff6f9303c9f3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-12-2017_informe-de-la-cotización-del-oro-al-18-de-diciembre_d8dfaa73260b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-12-2017_informe-de-la-cotización-del-oro-al-18-de-diciembre_d8dfaa73260b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-12-2017_informe-de-la-cotización-del-oro-al-18-de-diciembre_d8dfaa73260b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f3/9f/2e/a0/8f/f39f2ea08f221f957c37ec09c81e38de_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-12-2017_informe-de-la-cotización-del-oro-al-18-de-diciembre_d8dfaa73260b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/434/global-intergold-zoloto-otchet-o-zolote_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:25:57.741951-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d5987862d8b9",
+  "platform": "gig_os",
+  "title": "Cada vez más compradores y menos oro",
+  "date": "19.09.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/cada-vez-mas-compradores-y-menos-oro-624",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/cada-vez-mas-compradores-y-menos-oro-624",
+  "content_hash": "e38c53fd7fe829acd0ad5341bc9d0e5c6a02bfeab77c1e3374dd550b9a788acd",
+  "url_hash": "f806b6b7a686a2c69a125f78f6d20b73c855976ef3da901d5ba6452a3f597c79",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-09-2022_cada-vez-más-compradores-y-menos-oro_d5987862d8b9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-09-2022_cada-vez-más-compradores-y-menos-oro_d5987862d8b9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-09-2022_cada-vez-más-compradores-y-menos-oro_d5987862d8b9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/16/07/76/70/b5/16077670b53321b1ce08480ea792b2aa_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-09-2022_cada-vez-más-compradores-y-menos-oro_d5987862d8b9\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1336/dizayn-bez-nazvaniya-45_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-09-2022_cada-vez-más-compradores-y-menos-oro_d5987862d8b9\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:00:25.589883-03:00",
+  "status": "downloaded"
+}

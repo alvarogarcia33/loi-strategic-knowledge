@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_1ef274d64012",
+  "platform": "gig_os",
+  "title": "¡La conferencia online es dentro de 2 días!",
+  "date": "17.07.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-ya-es-este-viernes-958",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-ya-es-este-viernes-958",
+  "content_hash": "7f2ae07eb8d1cfc2d8f67439e574d1f270ad939e372e8ac6e214e20138e2a510",
+  "url_hash": "8255084501cb8135c3a24a85dfe890df6be4444fa037c647ee2217dbd14eab8b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-07-2024_la-conferencia-online-es-dentro-de-2-días_1ef274d64012.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-07-2024_la-conferencia-online-es-dentro-de-2-días_1ef274d64012.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-07-2024_la-conferencia-online-es-dentro-de-2-días_1ef274d64012",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/72/7e/85/33/25/727e8533251ae773d9885169e9b2d0f2_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-07-2024_la-conferencia-online-es-dentro-de-2-días_1ef274d64012\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:07.059162-03:00",
+  "status": "downloaded"
+}

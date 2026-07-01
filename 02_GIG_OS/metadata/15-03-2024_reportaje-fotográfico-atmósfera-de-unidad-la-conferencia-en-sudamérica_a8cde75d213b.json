@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_a8cde75d213b",
+  "platform": "gig_os",
+  "title": "[REPORTAJE FOTOGRÁFICO] Atmósfera de unidad: la conferencia en Sudamérica",
+  "date": "15.03.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/reportaje-fotografico-atmosfera-de-unidad-la-conferencia-en-sudamerica-897",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/reportaje-fotografico-atmosfera-de-unidad-la-conferencia-en-sudamerica-897",
+  "content_hash": "05b5c0244c2b4edb1f1579f60b76fdc1389292a55fbd084d648dd26372348ce2",
+  "url_hash": "7b61555f312d1d4668210e93e2e75c8c5e04b48aeca24fb4dbf749ca32a16680",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-03-2024_reportaje-fotográfico-atmósfera-de-unidad-la-conferencia-en-sudamérica_a8cde75d213b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-03-2024_reportaje-fotográfico-atmósfera-de-unidad-la-conferencia-en-sudamérica_a8cde75d213b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-03-2024_reportaje-fotográfico-atmósfera-de-unidad-la-conferencia-en-sudamérica_a8cde75d213b",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1648/15-03-2024-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-03-2024_reportaje-fotográfico-atmósfera-de-unidad-la-conferencia-en-sudamérica_a8cde75d213b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:52:39.836494-03:00",
+  "status": "downloaded"
+}

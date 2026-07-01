@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_b54d2b29ad20",
+  "platform": "gig_os",
+  "title": "¿Qué es el oro de inversión?",
+  "date": "11.07.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-es-el-oro-de-inversion-139",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-es-el-oro-de-inversion-139",
+  "content_hash": "bd35fa1ff4c357acc16061ee01f8082c1d4e7a96d5c6acd306a85f341c554e17",
+  "url_hash": "a876ab09011389e19211b6cda228d7e66569a3a8be0d19a6feb6591704da976e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-07-2019_qué-es-el-oro-de-inversión_b54d2b29ad20.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-07-2019_qué-es-el-oro-de-inversión_b54d2b29ad20.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2019_qué-es-el-oro-de-inversión_b54d2b29ad20",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/04/74/1f/95/33/04741f95337647072574246e5a0df895_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2019_qué-es-el-oro-de-inversión_b54d2b29ad20\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/729/2_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:21.588882-03:00",
+  "status": "downloaded"
+}

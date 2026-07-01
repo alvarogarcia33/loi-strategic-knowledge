@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_bde54352d4b2",
+  "platform": "gig_os",
+  "title": "Los 8 datos más importantes sobre la minería de oro moderna",
+  "date": "13.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-8-datos-mas-importantes-sobre-la-mineria-de-oro-moderna-505",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-8-datos-mas-importantes-sobre-la-mineria-de-oro-moderna-505",
+  "content_hash": "7b9cbc7acc41d683b82575b76bbf06439a60a760f5ae8a1aa49bfbcb0e38fc60",
+  "url_hash": "955707d1eff17b0e716207ea04d44400cd6816f63442114a45fdf63d0909f659",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-12-2021_los-8-datos-más-importantes-sobre-la-minería-de-oro-moderna_bde54352d4b2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-12-2021_los-8-datos-más-importantes-sobre-la-minería-de-oro-moderna_bde54352d4b2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-12-2021_los-8-datos-más-importantes-sobre-la-minería-de-oro-moderna_bde54352d4b2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/87/1c/72/fe/85/871c72fe85a4c7a2befed6c8d011e3c3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-12-2021_los-8-datos-más-importantes-sobre-la-minería-de-oro-moderna_bde54352d4b2\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1202/131221gold2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-12-2021_los-8-datos-más-importantes-sobre-la-minería-de-oro-moderna_bde54352d4b2\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:19.218694-03:00",
+  "status": "downloaded"
+}

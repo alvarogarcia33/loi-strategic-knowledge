@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_b14ef65ea749",
+  "platform": "gig_os",
+  "title": "El valor del oro ayer y hoy.",
+  "date": "03.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-valor-del-oro-ayer-y-hoy-332",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-valor-del-oro-ayer-y-hoy-332",
+  "content_hash": "dde53edbd5621d3f86296cb7497fabee8f27741eeec40712d7c7da444700eb89",
+  "url_hash": "53ede1cdebe905506840b3633704893fbef8126bbd917734e92c5c0b2e146c73",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-12-2020_el-valor-del-oro-ayer-y-hoy_b14ef65ea749.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-12-2020_el-valor-del-oro-ayer-y-hoy_b14ef65ea749.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-12-2020_el-valor-del-oro-ayer-y-hoy_b14ef65ea749",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/988/asdadadasd_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-12-2020_el-valor-del-oro-ayer-y-hoy_b14ef65ea749\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/988/image6_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-12-2020_el-valor-del-oro-ayer-y-hoy_b14ef65ea749\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/988/image71_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-12-2020_el-valor-del-oro-ayer-y-hoy_b14ef65ea749\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:48.920983-03:00",
+  "status": "downloaded"
+}

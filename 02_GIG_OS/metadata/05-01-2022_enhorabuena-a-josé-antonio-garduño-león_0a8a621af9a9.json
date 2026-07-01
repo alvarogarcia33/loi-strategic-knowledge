@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_0a8a621af9a9",
+  "platform": "gig_os",
+  "title": "¡Enhorabuena a José Antonio Garduño León!",
+  "date": "05.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/enhorabuena-a-jose-antonio-garduno-leon-516",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/enhorabuena-a-jose-antonio-garduno-leon-516",
+  "content_hash": "b0040e7fbdda602c0a20b0ecc9163edd9f9a2580b9edb93be659d203c36b1a81",
+  "url_hash": "fc9b597d350860a6d58f67010974e799957df480ff69a8f0b0d23107a9bee453",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-01-2022_enhorabuena-a-josé-antonio-garduño-león_0a8a621af9a9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-01-2022_enhorabuena-a-josé-antonio-garduño-león_0a8a621af9a9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-01-2022_enhorabuena-a-josé-antonio-garduño-león_0a8a621af9a9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b6/45/47/c9/0f/b64547c90feceff4b6fd262aaa6ea2cf_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-01-2022_enhorabuena-a-josé-antonio-garduño-león_0a8a621af9a9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:13:36.001092-03:00",
+  "status": "downloaded"
+}

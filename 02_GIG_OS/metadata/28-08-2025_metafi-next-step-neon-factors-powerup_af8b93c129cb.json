@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_af8b93c129cb",
+  "platform": "gig_os",
+  "title": "MetaFi Next Step — Neon Factors PowerUP",
+  "date": "28.08.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/metafi-next-step-neon-factors-powerup-1133",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/metafi-next-step-neon-factors-powerup-1133",
+  "content_hash": "6326b1461d2aaa2393b9295789f793fbaf4d64b8d621a79da3c278cdb13a24fc",
+  "url_hash": "639e8417efc6d21938f7db1c262204dc376fa09ebe0406b9ac0e48b69bcd4c72",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-08-2025_metafi-next-step-neon-factors-powerup_af8b93c129cb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-08-2025_metafi-next-step-neon-factors-powerup_af8b93c129cb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-08-2025_metafi-next-step-neon-factors-powerup_af8b93c129cb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7e/f4/b0/69/9e/7ef4b0699e22746579b296cd2e198468_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-08-2025_metafi-next-step-neon-factors-powerup_af8b93c129cb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:56.991518-03:00",
+  "status": "downloaded"
+}

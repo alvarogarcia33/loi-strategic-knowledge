@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_5ada85e7e1cb",
+  "platform": "gig_os",
+  "title": "¿Volverá el patrón oro?",
+  "date": "01.07.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-vuelto-el-patron-de-oro-143",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-vuelto-el-patron-de-oro-143",
+  "content_hash": "60971640abb8b2269300f147c340d5859057532e38ce5be4c4569f7f8ed3dd72",
+  "url_hash": "e0ba7e1c83b3dd58eeb81a836ac57568cecedceed448d7ab76631bbaa275b33b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-07-2019_volverá-el-patrón-oro_5ada85e7e1cb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-07-2019_volverá-el-patrón-oro_5ada85e7e1cb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-07-2019_volverá-el-patrón-oro_5ada85e7e1cb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5a/39/79/89/e8/5a397989e8b474d58e14a74189742c5b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-07-2019_volverá-el-patrón-oro_5ada85e7e1cb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/735/global-intergold-gold-informe-de-la-cotizacion-del-oro-2_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/735/global-intergold-gold-informe-de-la-cotizacion-del-oro-1_1.png",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:23:07.496665-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_027313fc52dd",
+  "platform": "gig_os",
+  "title": "¿Qué país extrae más oro?",
+  "date": "07.10.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-pais-extrae-mas-oro-178",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-pais-extrae-mas-oro-178",
+  "content_hash": "13ec55bd80c6583132e4aaaf68bf66bb2ef3c4240ed885094e52e663394844d1",
+  "url_hash": "815e7e7ee977e2bebaa20e51e82fef1dc2f1c288cb22b9564d2ac5e8e4780358",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-10-2019_qué-país-extrae-más-oro_027313fc52dd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-10-2019_qué-país-extrae-más-oro_027313fc52dd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-10-2019_qué-país-extrae-más-oro_027313fc52dd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/20/6f/29/85/29/206f2985292e09c4fa97c926c956b6af_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-10-2019_qué-país-extrae-más-oro_027313fc52dd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/781/global-intergold--global-gold-production-increased-by-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-10-2019_qué-país-extrae-más-oro_027313fc52dd\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/781/glboal-intergold--russian-gold-mining-in-the-ural-region_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-10-2019_qué-país-extrae-más-oro_027313fc52dd\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/781/global-intergold--south-african-miners-face-greater-challenges-in-mining-the-precious-metal_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-10-2019_qué-país-extrae-más-oro_027313fc52dd\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/781/global-intergold--a-solid-214-meters-wide-gold-cube-can-be-cast-from-all-gold-mined-in-the-entire-history-of-mankind_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-10-2019_qué-país-extrae-más-oro_027313fc52dd\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:51:04.363458-03:00",
+  "status": "downloaded"
+}

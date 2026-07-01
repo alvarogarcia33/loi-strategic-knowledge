@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_e91db0e593cf",
+  "platform": "gig_os",
+  "title": "El bienestar basado en el oro: el caso de Suiza",
+  "date": "15.07.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-bienestar-basado-en-el-oro-el-caso-de-suiza-145",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-bienestar-basado-en-el-oro-el-caso-de-suiza-145",
+  "content_hash": "2f68f114ffaa28d8c480cb1ffdf8c3fcd53d79f5a24fee7158089df9b9fa1ebf",
+  "url_hash": "eb3c1d632998f5795eb07dcf08948f624ac7527703d287ddf2c0125885df01a1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-07-2019_el-bienestar-basado-en-el-oro-el-caso-de-suiza_e91db0e593cf.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-07-2019_el-bienestar-basado-en-el-oro-el-caso-de-suiza_e91db0e593cf.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-07-2019_el-bienestar-basado-en-el-oro-el-caso-de-suiza_e91db0e593cf",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/06/83/2c/81/d0/06832c81d01854de987055debdfb74b7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-07-2019_el-bienestar-basado-en-el-oro-el-caso-de-suiza_e91db0e593cf\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/744/global-intergold-gold-informe-de-la-cotizacion-del-oro-2_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/744/global-intergold-gold-informe-de-la-cotizacion-del-oro-1_1.png",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/744/global-intergold-gold-informe-de-la-cotizacion-del-oro-3_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:23.979469-03:00",
+  "status": "downloaded"
+}

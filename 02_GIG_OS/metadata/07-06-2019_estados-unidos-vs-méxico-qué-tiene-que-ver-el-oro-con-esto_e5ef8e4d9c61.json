@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_e5ef8e4d9c61",
+  "platform": "gig_os",
+  "title": "Estados Unidos vs México, ¿qué tiene que ver el oro con esto?",
+  "date": "07.06.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/estados-unidos-vs-mexico-que-tiene-que-ver-el-oro-con-esto-129",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/estados-unidos-vs-mexico-que-tiene-que-ver-el-oro-con-esto-129",
+  "content_hash": "e2081918e670db914e6772e08d98ff66a03e37143d88e42a2aab6e5c0895eac2",
+  "url_hash": "287bdcc284941d1864e9f9137bd0d4992c24abb01664b61a1bf6cba0f9b985cb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-06-2019_estados-unidos-vs-méxico-qué-tiene-que-ver-el-oro-con-esto_e5ef8e4d9c61.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-06-2019_estados-unidos-vs-méxico-qué-tiene-que-ver-el-oro-con-esto_e5ef8e4d9c61.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-06-2019_estados-unidos-vs-méxico-qué-tiene-que-ver-el-oro-con-esto_e5ef8e4d9c61",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/11/15/18/0b/82/1115180b828f166d8cdec04e3b891d7b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-06-2019_estados-unidos-vs-méxico-qué-tiene-que-ver-el-oro-con-esto_e5ef8e4d9c61\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/717/global-intergold-gold-informe-de-la-cotizacion-del-oro-22_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/717/global-intergold-gold-informe-de-la-cotizacion-del-oro-22_1.png",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:12.118777-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_b7f579b28dbe",
+  "platform": "gig_os",
+  "title": "Asesores del Presidente: ¡Su voz es decisiva!",
+  "date": "16.02.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/asesores-del-presidente-su-voz-es-decisiva-0165",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/asesores-del-presidente-su-voz-es-decisiva-0165",
+  "content_hash": "a9d3acf439fadc4ca82c09c6371d4536399f1b9335da185a48c17b0837019978",
+  "url_hash": "2750801b50c50ae2d4f2a7a49df08d622bfd30368702ce3252878009f3052433",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-02-2026_asesores-del-presidente-su-voz-es-decisiva_b7f579b28dbe.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-02-2026_asesores-del-presidente-su-voz-es-decisiva_b7f579b28dbe.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-02-2026_asesores-del-presidente-su-voz-es-decisiva_b7f579b28dbe",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0e/5e/1d/ac/b6/0e5e1dacb6b3540bcde2ea2ddc816600_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-02-2026_asesores-del-presidente-su-voz-es-decisiva_b7f579b28dbe\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:54.723729-03:00",
+  "status": "downloaded"
+}

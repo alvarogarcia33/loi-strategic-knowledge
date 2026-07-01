@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d11263d71b59",
+  "platform": "gig_os",
+  "title": "Aniversario del negocio: la inscripción ha comenzado",
+  "date": "20.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/aniversario-del-negocio-la-inscripcion-ha-comenzado-577",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/aniversario-del-negocio-la-inscripcion-ha-comenzado-577",
+  "content_hash": "e91417e3264f0099bfec5e17fcf953f008c3b0ad80c8fb7e930d95717e8c2796",
+  "url_hash": "df0b7f60741b1bb099d27b3fbc4b736549238784991facccad394d7a12b1822a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-05-2022_aniversario-del-negocio-la-inscripción-ha-comenzado_d11263d71b59.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-05-2022_aniversario-del-negocio-la-inscripción-ha-comenzado_d11263d71b59.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2022_aniversario-del-negocio-la-inscripción-ha-comenzado_d11263d71b59",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ef/d9/d9/b6/d7/efd9d9b6d71f04862572c0517217b7af_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-05-2022_aniversario-del-negocio-la-inscripción-ha-comenzado_d11263d71b59\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:01.390191-03:00",
+  "status": "downloaded"
+}

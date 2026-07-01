@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_7d32e39b5ffe",
+  "platform": "gig_os",
+  "title": "El oro en los tiempos de crisis",
+  "date": "20.12.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-en-los-tiempos-de-crisis",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-en-los-tiempos-de-crisis",
+  "content_hash": "f8876c0b51048f826c0c34138dcd1c5e002b8b1073f43112452b3d3103878efd",
+  "url_hash": "daea08c0c5b3f00578e5411d054237aa31295d6496d2ff9cf1ff5e52573180e4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-12-2019_el-oro-en-los-tiempos-de-crisis_7d32e39b5ffe.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-12-2019_el-oro-en-los-tiempos-de-crisis_7d32e39b5ffe.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-12-2019_el-oro-en-los-tiempos-de-crisis_7d32e39b5ffe",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/93/8b/43/eb/4b/938b43eb4b80607e878ecb2c8e399ef7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-12-2019_el-oro-en-los-tiempos-de-crisis_7d32e39b5ffe\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/680/global-intergold-gold-informe-de-la-cotizacion-del-oro-19_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/680/global-intergold-gold-informe-de-la-cotizacion-del-oro-20_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/680/global-intergold-gold-informe-de-la-cotizacion-del-oro-21_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:50.751912-03:00",
+  "status": "downloaded"
+}

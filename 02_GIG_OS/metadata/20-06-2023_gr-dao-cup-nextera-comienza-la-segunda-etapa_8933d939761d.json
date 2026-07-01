@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_8933d939761d",
+  "platform": "gig_os",
+  "title": "GR DAO CUP NextEra: ¡comienza la segunda etapa!",
+  "date": "20.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-nextera-comienza-la-segunda-etapa-754",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-nextera-comienza-la-segunda-etapa-754",
+  "content_hash": "acc60487fde7ceed51ba90dbdc565d5d1ce1c4b0227a9f482147c19f2237508e",
+  "url_hash": "2bf1134c4b91ce4310bbc9b20faa1ddbae7c38d0c3980f89ae5a7f6f4979f319",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-06-2023_gr-dao-cup-nextera-comienza-la-segunda-etapa_8933d939761d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-06-2023_gr-dao-cup-nextera-comienza-la-segunda-etapa_8933d939761d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-06-2023_gr-dao-cup-nextera-comienza-la-segunda-etapa_8933d939761d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/16/aa/fc/8c/ba/16aafc8cbab8c2163ac72411613f3e64_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-06-2023_gr-dao-cup-nextera-comienza-la-segunda-etapa_8933d939761d\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1492/nextera-bg1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-06-2023_gr-dao-cup-nextera-comienza-la-segunda-etapa_8933d939761d\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:28.902905-03:00",
+  "status": "downloaded"
+}

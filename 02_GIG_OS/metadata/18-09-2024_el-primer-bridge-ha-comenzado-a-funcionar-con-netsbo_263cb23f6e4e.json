@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_263cb23f6e4e",
+  "platform": "gig_os",
+  "title": "¡El primer bridge ha comenzado a funcionar con NETSBO!",
+  "date": "18.09.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-primer-bridge-ha-comenzado-a-funcionar-con-netsbo-987",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-primer-bridge-ha-comenzado-a-funcionar-con-netsbo-987",
+  "content_hash": "d8b143288af7fe1f7b13a8db616206f1b195199154bf999e4f7787376c54edf9",
+  "url_hash": "7f1e4cdd76be79b544b1e9be8bbd8cd4b234d18581d0b0425c07b1c0de055514",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-09-2024_el-primer-bridge-ha-comenzado-a-funcionar-con-netsbo_263cb23f6e4e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-09-2024_el-primer-bridge-ha-comenzado-a-funcionar-con-netsbo_263cb23f6e4e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2024_el-primer-bridge-ha-comenzado-a-funcionar-con-netsbo_263cb23f6e4e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e3/bf/af/67/ed/e3bfaf67ede2f5981a8ca1021dbd1e31_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2024_el-primer-bridge-ha-comenzado-a-funcionar-con-netsbo_263cb23f6e4e\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1755/screen-br-16715_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2024_el-primer-bridge-ha-comenzado-a-funcionar-con-netsbo_263cb23f6e4e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1755/screen-br-250383_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2024_el-primer-bridge-ha-comenzado-a-funcionar-con-netsbo_263cb23f6e4e\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1755/screen-br-318523_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2024_el-primer-bridge-ha-comenzado-a-funcionar-con-netsbo_263cb23f6e4e\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1755/screen-br-498832_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2024_el-primer-bridge-ha-comenzado-a-funcionar-con-netsbo_263cb23f6e4e\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:11:33.471684-03:00",
+  "status": "downloaded"
+}

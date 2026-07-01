@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_6f82f9013872",
+  "platform": "gig_os",
+  "title": "El precio del oro: un pronóstico autorizado",
+  "date": "27.09.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-precio-del-oro-un-pronostico-autorizado-470",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-precio-del-oro-un-pronostico-autorizado-470",
+  "content_hash": "6c82ecc9b354157be6c76b017ca1b478ee2a2211196a3f129379d1773bd259ea",
+  "url_hash": "6e4ee6325aa117f660b2e3dce163d21653317eaa18e837b02881c863e556a1b2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-09-2021_el-precio-del-oro-un-pronóstico-autorizado_6f82f9013872.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-09-2021_el-precio-del-oro-un-pronóstico-autorizado_6f82f9013872.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-09-2021_el-precio-del-oro-un-pronóstico-autorizado_6f82f9013872",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4d/be/8d/45/37/4dbe8d4537bac1d962aff1acf8ec831a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-09-2021_el-precio-del-oro-un-pronóstico-autorizado_6f82f9013872\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1166/el-precio-del-oro-un-pronostico-autorizado_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-09-2021_el-precio-del-oro-un-pronóstico-autorizado_6f82f9013872\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:11:14.951488-03:00",
+  "status": "downloaded"
+}

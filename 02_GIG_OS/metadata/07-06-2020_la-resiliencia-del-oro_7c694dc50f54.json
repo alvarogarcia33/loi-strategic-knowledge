@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7c694dc50f54",
+  "platform": "gig_os",
+  "title": "La resiliencia del oro",
+  "date": "07.06.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-resiliencia-del-oro-268",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-resiliencia-del-oro-268",
+  "content_hash": "5ed02305311b2aa1dad6273d975e84e8c987cf5eeb42e61a194d4c251f9a1763",
+  "url_hash": "e601fbf2204556dd1462637bf89a3f41f9b25430fbc0c74927e99220cc827f0b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-06-2020_la-resiliencia-del-oro_7c694dc50f54.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-06-2020_la-resiliencia-del-oro_7c694dc50f54.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-06-2020_la-resiliencia-del-oro_7c694dc50f54",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c6/56/9d/4e/75/c6569d4e7552df6bd30c9f09046fa3cf_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-06-2020_la-resiliencia-del-oro_7c694dc50f54\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/887/annotation-2020-06-08-101009_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-06-2020_la-resiliencia-del-oro_7c694dc50f54\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:33.569698-03:00",
+  "status": "downloaded"
+}

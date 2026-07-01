@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_4c428268ba4f",
+  "platform": "gig_os",
+  "title": "La tendencia global: el progreso deja a las personas sin trabajo",
+  "date": "18.04.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-tendencia-global-el-progreso-deja-a-las-personas-sin-trabajo",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-tendencia-global-el-progreso-deja-a-las-personas-sin-trabajo",
+  "content_hash": "a2aa40f0a65f4a8d3e8c0fa77080a53b2fc59e03f29a21d178daef70561695c4",
+  "url_hash": "24b9585de66e45c533012fd86354d130d70275b05ffcfb15b8f9b25644827a3e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-04-2019_la-tendencia-global-el-progreso-deja-a-las-personas-sin-trabajo_4c428268ba4f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-04-2019_la-tendencia-global-el-progreso-deja-a-las-personas-sin-trabajo_4c428268ba4f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-04-2019_la-tendencia-global-el-progreso-deja-a-las-personas-sin-trabajo_4c428268ba4f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2c/cf/4a/b2/c6/2ccf4ab2c62a021b9c991c737ad595b4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-04-2019_la-tendencia-global-el-progreso-deja-a-las-personas-sin-trabajo_4c428268ba4f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/691/global-intergold-oronew_1.png",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/691/global-intergold-oro20_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:12.151604-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_9350d480e8aa",
+  "platform": "gig_os",
+  "title": "Vincenzo Russo: una historia extraordinaria",
+  "date": "03.06.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/vincenzo-russo-una-historia-extraordinaria-266",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/vincenzo-russo-una-historia-extraordinaria-266",
+  "content_hash": "637bd60674464e19cbcea906c79582515fcba16fb88eeac50339414a7088645f",
+  "url_hash": "d1a648485c5cc18e0244d4cbe94aaa252a5625e194030e2c56dd30c3ad4a3627",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-06-2020_vincenzo-russo-una-historia-extraordinaria_9350d480e8aa.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-06-2020_vincenzo-russo-una-historia-extraordinaria_9350d480e8aa.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2020_vincenzo-russo-una-historia-extraordinaria_9350d480e8aa",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d5/aa/d6/ae/a0/d5aad6aea0956771eb6a1d81388972e7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2020_vincenzo-russo-una-historia-extraordinaria_9350d480e8aa\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/885/map75251_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2020_vincenzo-russo-una-historia-extraordinaria_9350d480e8aa\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/885/1189915_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2020_vincenzo-russo-una-historia-extraordinaria_9350d480e8aa\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/885/dd_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-06-2020_vincenzo-russo-una-historia-extraordinaria_9350d480e8aa\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:05:12.438658-03:00",
+  "status": "downloaded"
+}

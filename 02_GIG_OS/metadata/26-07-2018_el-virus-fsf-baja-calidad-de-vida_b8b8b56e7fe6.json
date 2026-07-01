@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_b8b8b56e7fe6",
+  "platform": "gig_os",
+  "title": "El virus FSF = baja calidad de vida",
+  "date": "26.07.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-virus-fsf-baja-calidad-de-vida",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-virus-fsf-baja-calidad-de-vida",
+  "content_hash": "f8a9141c6447b706f79d38fbe8db63da722b32024f35d20df212cc1c699bdbe2",
+  "url_hash": "805565d1d6dba69401c9a7efd95addea5f6de38a497c6fdc8caaa0b87c178ecd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-07-2018_el-virus-fsf-baja-calidad-de-vida_b8b8b56e7fe6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-07-2018_el-virus-fsf-baja-calidad-de-vida_b8b8b56e7fe6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-07-2018_el-virus-fsf-baja-calidad-de-vida_b8b8b56e7fe6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ea/ba/ef/9e/31/eabaef9e3100f8044c834d3f2111f4db_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-07-2018_el-virus-fsf-baja-calidad-de-vida_b8b8b56e7fe6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/530/global-intergold-oro-la-seguridad-financiera-9_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/530/global-intergold-oro-la-seguridad-financiera-2_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:53.096066-03:00",
+  "status": "downloaded"
+}

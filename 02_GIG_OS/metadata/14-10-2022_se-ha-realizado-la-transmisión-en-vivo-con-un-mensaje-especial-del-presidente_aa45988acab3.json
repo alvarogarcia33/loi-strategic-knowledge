@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_aa45988acab3",
+  "platform": "gig_os",
+  "title": "Se ha realizado la transmisión en vivo con un mensaje especial del Presidente",
+  "date": "14.10.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-ha-realizado-la-transmision-en-vivo-con-un-mensaje-especial-del-presidente-636",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-ha-realizado-la-transmision-en-vivo-con-un-mensaje-especial-del-presidente-636",
+  "content_hash": "2699f7a09d46dfac787bbab9b8f3b75f608c470050a4a9ae1253979236ce38f5",
+  "url_hash": "f86c4454879b9bca14808b1a35835248a33ac6ab0cbfea13418222c87a26d0f5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-10-2022_se-ha-realizado-la-transmisión-en-vivo-con-un-mensaje-especial-del-presidente_aa45988acab3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-10-2022_se-ha-realizado-la-transmisión-en-vivo-con-un-mensaje-especial-del-presidente_aa45988acab3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-10-2022_se-ha-realizado-la-transmisión-en-vivo-con-un-mensaje-especial-del-presidente_aa45988acab3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b0/a5/57/6c/54/b0a5576c54fd9349ec394e63aabb4e0c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-10-2022_se-ha-realizado-la-transmisión-en-vivo-con-un-mensaje-especial-del-presidente_aa45988acab3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:33.781586-03:00",
+  "status": "downloaded"
+}

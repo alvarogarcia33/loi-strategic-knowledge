@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_3e57e8bda0e5",
+  "platform": "gig_os",
+  "title": "FractureFusion: obtenga una parte del territorio virtual del negocio",
+  "date": "16.05.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/fracturefusion-obtenga-una-parte-del-territorio-virtual-del-negocio-735",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/fracturefusion-obtenga-una-parte-del-territorio-virtual-del-negocio-735",
+  "content_hash": "67168dd5a5ba6456187f60cdda0430be6f9241b8f619d9c915fac1e216e8f1a1",
+  "url_hash": "6d23d47e369164208c60c682f28c6a8c3e3c5f472faa96d97bbaef56bc18d61b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-05-2023_fracturefusion-obtenga-una-parte-del-territorio-virtual-del-negocio_3e57e8bda0e5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-05-2023_fracturefusion-obtenga-una-parte-del-territorio-virtual-del-negocio_3e57e8bda0e5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2023_fracturefusion-obtenga-una-parte-del-territorio-virtual-del-negocio_3e57e8bda0e5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/24/3d/76/f1/62/243d76f1627a62ae408eaf8591526df5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2023_fracturefusion-obtenga-una-parte-del-territorio-virtual-del-negocio_3e57e8bda0e5\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1468/img-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2023_fracturefusion-obtenga-una-parte-del-territorio-virtual-del-negocio_3e57e8bda0e5\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1468/img-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2023_fracturefusion-obtenga-una-parte-del-territorio-virtual-del-negocio_3e57e8bda0e5\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1468/img-3_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2023_fracturefusion-obtenga-una-parte-del-territorio-virtual-del-negocio_3e57e8bda0e5\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:05.175299-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d7c6ad7c2101",
+  "platform": "gig_os",
+  "title": "NFT Gallery: punto de acceso a la economía digital",
+  "date": "23.02.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nft-gallery-punto-de-acceso-a-la-economia-digital-0167",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nft-gallery-punto-de-acceso-a-la-economia-digital-0167",
+  "content_hash": "040f532a8f09ca73a5d45cd00c3ea2509a557c91af255a5c6964308b24e7e642",
+  "url_hash": "17cc582c4030237e1ad74e43ba0909a08b42bd9124596f967cd9bab932f83659",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-02-2026_nft-gallery-punto-de-acceso-a-la-economía-digital_d7c6ad7c2101.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-02-2026_nft-gallery-punto-de-acceso-a-la-economía-digital_d7c6ad7c2101.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-02-2026_nft-gallery-punto-de-acceso-a-la-economía-digital_d7c6ad7c2101",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/24/0f/94/68/3f/240f94683f856557d6fb16da0027e0ef_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-02-2026_nft-gallery-punto-de-acceso-a-la-economía-digital_d7c6ad7c2101\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1991/untitled-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-02-2026_nft-gallery-punto-de-acceso-a-la-economía-digital_d7c6ad7c2101\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:41:48.836919-03:00",
+  "status": "downloaded"
+}

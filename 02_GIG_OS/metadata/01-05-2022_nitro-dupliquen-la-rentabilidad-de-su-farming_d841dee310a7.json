@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d841dee310a7",
+  "platform": "gig_os",
+  "title": "NITRO: ¡dupliquen la rentabilidad de su farming!",
+  "date": "01.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nitro-dupliquen-la-rentabilidad-de-su-farming-568",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nitro-dupliquen-la-rentabilidad-de-su-farming-568",
+  "content_hash": "9ee744081e44c86979941c59b8c4ed79056e23c86ab6eba7639aee6a259ed941",
+  "url_hash": "c1933db40309d8e103546b3d89a73ac03fc35c32f594afe7f297fecc1087b61b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-05-2022_nitro-dupliquen-la-rentabilidad-de-su-farming_d841dee310a7.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-05-2022_nitro-dupliquen-la-rentabilidad-de-su-farming_d841dee310a7.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-05-2022_nitro-dupliquen-la-rentabilidad-de-su-farming_d841dee310a7",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/72/a9/fb/6f/4b/72a9fb6f4b554d1b08feab045b6f067e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-05-2022_nitro-dupliquen-la-rentabilidad-de-su-farming_d841dee310a7\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1272/novyy-proekt-35_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-05-2022_nitro-dupliquen-la-rentabilidad-de-su-farming_d841dee310a7\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:34.489178-03:00",
+  "status": "downloaded"
+}

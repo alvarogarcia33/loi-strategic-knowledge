@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d2b61a05399d",
+  "platform": "gig_os",
+  "title": "Lo que el oro ha logrado en 2020",
+  "date": "29.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/lo-que-el-oro-ha-logrado-en-2020-349",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/lo-que-el-oro-ha-logrado-en-2020-349",
+  "content_hash": "b90acd49bf2f6616bd38d1846af4626a8651dcf840ab6582faae7599b9732eef",
+  "url_hash": "fb77f17a97176f81e00cc45e11ac0e2d20206945215aabd6f1a8ec8345304eed",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-12-2020_lo-que-el-oro-ha-logrado-en-2020_d2b61a05399d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-12-2020_lo-que-el-oro-ha-logrado-en-2020_d2b61a05399d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-12-2020_lo-que-el-oro-ha-logrado-en-2020_d2b61a05399d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/31/6d/c8/64/8c/316dc8648c0b350c2d7e7625d5532edb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-12-2020_lo-que-el-oro-ha-logrado-en-2020_d2b61a05399d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1011/image22_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-12-2020_lo-que-el-oro-ha-logrado-en-2020_d2b61a05399d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:36:54.133153-03:00",
+  "status": "downloaded"
+}

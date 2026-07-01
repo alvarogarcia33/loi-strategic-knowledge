@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_e4ba5c6c5555",
+  "platform": "gig_os",
+  "title": "Paracaídas de oro: ¿cómo salir de la zona de riesgo?",
+  "date": "12.11.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/paracaidas-de-oro-como-salir-de-la-zona-de-riesgo",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/paracaidas-de-oro-como-salir-de-la-zona-de-riesgo",
+  "content_hash": "ce05940733267bcf7916c141402dae5ea47ad45857219b4bf4bd885ea73e1a53",
+  "url_hash": "e9704b8d4c2668db70ece7ea183c794bdce16ddf1a94a7dbecf62e30604ac394",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-11-2018_paracaídas-de-oro-cómo-salir-de-la-zona-de-riesgo_e4ba5c6c5555.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-11-2018_paracaídas-de-oro-cómo-salir-de-la-zona-de-riesgo_e4ba5c6c5555.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-11-2018_paracaídas-de-oro-cómo-salir-de-la-zona-de-riesgo_e4ba5c6c5555",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/34/54/96/9d/5e/3454969d5e56f6eb723f4ea324b5b6ec_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/599/global-intergold-oro-la-seguridad-financiera-12_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:13.863625-03:00",
+  "status": "downloaded"
+}

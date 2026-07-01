@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_ee5352121238",
+  "platform": "gig_os",
+  "title": "¡Airdrop de orbes publicitarios!",
+  "date": "13.05.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/airdrop-de-orbes-publicitarios-1076",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/airdrop-de-orbes-publicitarios-1076",
+  "content_hash": "4879434e3340ef0a39abcaa032ac46fa5d4782d473365fe06b87778e98941af3",
+  "url_hash": "a258700bb0bead7b73965d1b5df269023ae34fa0324c0910da8684d472c349e3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-05-2025_airdrop-de-orbes-publicitarios_ee5352121238.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-05-2025_airdrop-de-orbes-publicitarios_ee5352121238.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-05-2025_airdrop-de-orbes-publicitarios_ee5352121238",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/aa/de/27/2c/99/aade272c9920e73f7dbf198ecec80af4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-05-2025_airdrop-de-orbes-publicitarios_ee5352121238\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:57:41.209942-03:00",
+  "status": "downloaded"
+}

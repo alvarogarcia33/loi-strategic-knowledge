@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_64bc5f044a01",
+  "platform": "gig_os",
+  "title": "META TRUST: ¡su poderoso comienzo en el M*E Board!",
+  "date": "08.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/meta-trust-su-poderoso-comienzo-en-el-me-board-836",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/meta-trust-su-poderoso-comienzo-en-el-me-board-836",
+  "content_hash": "ae89c8516557afaeb98f6b69a2cf959340ce062beb3226ab14b72bf7016f703d",
+  "url_hash": "ef8f427b7ca5ed3b79bb1115c6ef4a193eb55da51a2135c5e26e78abb3998fba",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-12-2023_meta-trust-su-poderoso-comienzo-en-el-m-e-board_64bc5f044a01.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-12-2023_meta-trust-su-poderoso-comienzo-en-el-m-e-board_64bc5f044a01.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2023_meta-trust-su-poderoso-comienzo-en-el-m-e-board_64bc5f044a01",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/01/d5/08/a3/be/01d508a3bed5c0988627c05384cbb338_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2023_meta-trust-su-poderoso-comienzo-en-el-m-e-board_64bc5f044a01\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1580/for-text-meta-trust-attention-es46597_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-12-2023_meta-trust-su-poderoso-comienzo-en-el-m-e-board_64bc5f044a01\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:39:37.225234-03:00",
+  "status": "downloaded"
+}

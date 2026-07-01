@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_780782d3843d",
+  "platform": "gig_os",
+  "title": "El envío de certificados electrónicos ha comenzado",
+  "date": "05.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-envio-de-certificados-electronicos-ha-comenzado-379",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-envio-de-certificados-electronicos-ha-comenzado-379",
+  "content_hash": "2cd3bd349dfc82dbc6e5d6e220b8f0178b2833797cbd6634446999ec1d3f3c9f",
+  "url_hash": "afe7ee5b8bc03882ba10f2c6f3976cbbff19bb9f05b8ba12b35fe6452eac4cc9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-03-2021_el-envío-de-certificados-electrónicos-ha-comenzado_780782d3843d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-03-2021_el-envío-de-certificados-electrónicos-ha-comenzado_780782d3843d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-03-2021_el-envío-de-certificados-electrónicos-ha-comenzado_780782d3843d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/39/59/44/bb/12/395944bb1295019b22f2c12be6c1b44b_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-03-2021_el-envío-de-certificados-electrónicos-ha-comenzado_780782d3843d\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:07:58.697443-03:00",
+  "status": "downloaded"
+}

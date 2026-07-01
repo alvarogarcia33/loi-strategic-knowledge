@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_abc20d357158",
+  "platform": "gig_os",
+  "title": "TRANSFORMATOR BOX: un nuevo algoritmo para el éxito en el metaverso",
+  "date": "04.08.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/transformator-box-un-nuevo-algoritmo-para-el-exito-en-el-metaverso-776",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/transformator-box-un-nuevo-algoritmo-para-el-exito-en-el-metaverso-776",
+  "content_hash": "b79caf67163ad6125ecdbb483b777a4a8950f46ea96b72e6c0b4994b16e1a0bf",
+  "url_hash": "e5418cdce3ef9023bb70c40147d978285f096a65f5caded872d2646b624fe3c6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-08-2023_transformator-box-un-nuevo-algoritmo-para-el-éxito-en-el-metaverso_abc20d357158.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-08-2023_transformator-box-un-nuevo-algoritmo-para-el-éxito-en-el-metaverso_abc20d357158.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-08-2023_transformator-box-un-nuevo-algoritmo-para-el-éxito-en-el-metaverso_abc20d357158",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/50/e9/9d/08/24/50e99d0824ef2dcc74d7991f9f20835c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-08-2023_transformator-box-un-nuevo-algoritmo-para-el-éxito-en-el-metaverso_abc20d357158\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1512/371287_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-08-2023_transformator-box-un-nuevo-algoritmo-para-el-éxito-en-el-metaverso_abc20d357158\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1512/748459_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-08-2023_transformator-box-un-nuevo-algoritmo-para-el-éxito-en-el-metaverso_abc20d357158\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:33.611833-03:00",
+  "status": "downloaded"
+}

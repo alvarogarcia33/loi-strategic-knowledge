@@ -1,0 +1,97 @@
+{
+  "article_uid": "gig_os_dc5acb8a18da",
+  "platform": "gig_os",
+  "title": "Argentina, Brasil, México y Chile están cubiertos por el virus de FSF",
+  "date": "28.11.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/argentina-brasil-mexico-y-chile-estan-cubiertos-por-el-virus-de-fsf",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/argentina-brasil-mexico-y-chile-estan-cubiertos-por-el-virus-de-fsf",
+  "content_hash": "eb89427ac2daf27d96a9de06492fb0e06d9958f004db33b444a9b278322bbdba",
+  "url_hash": "8e6768f1fe3b287b8bb142147b541641fb236fe96dffe9ee7353bb3b990b6c15",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-11-2018_argentina-brasil-méxico-y-chile-están-cubiertos-por-el-virus-de-fsf_dc5acb8a18da.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-11-2018_argentina-brasil-méxico-y-chile-están-cubiertos-por-el-virus-de-fsf_dc5acb8a18da.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-11-2018_argentina-brasil-méxico-y-chile-están-cubiertos-por-el-virus-de-fsf_dc5acb8a18da",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/36/20/d2/39/1d/3620d2391da49e8a210f1370ec929ada_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/611/global-intergold-oro-la-seguridad-financiera-11_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/611/global-intergold-oro-la-seguridad-financiera-15_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/611/global-intergold-oro-la-seguridad-financiera-12_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/611/global-intergold-oro-la-seguridad-financiera-18_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/611/global-intergold-oro-la-seguridad-financiera-13_1.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/611/global-intergold-oro-la-seguridad-financiera-16_1.jpg",
+      "local_path": null,
+      "filename": "image_07",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/611/global-intergold-oro-la-seguridad-financiera-14_1.jpg",
+      "local_path": null,
+      "filename": "image_08",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/611/global-intergold-oro-la-seguridad-financiera-17_1.jpg",
+      "local_path": null,
+      "filename": "image_09",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T17:58:35.126140-03:00",
+  "status": "downloaded"
+}

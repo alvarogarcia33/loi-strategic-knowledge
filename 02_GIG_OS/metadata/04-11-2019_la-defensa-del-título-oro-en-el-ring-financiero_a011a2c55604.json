@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_a011a2c55604",
+  "platform": "gig_os",
+  "title": "La defensa del título: oro en el ring financiero",
+  "date": "04.11.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-defensa-del-titulo-oro-en-el-ring-financiero-185",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-defensa-del-titulo-oro-en-el-ring-financiero-185",
+  "content_hash": "b82f302220881bbd0ce022aa2c1e7bc46b591f98529a6cefddaf45af2ee4d92c",
+  "url_hash": "fc81aded0cc50536026b1d576dc43a0a65a1ca15d60f5146a5b2b340374bfdbc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-11-2019_la-defensa-del-título-oro-en-el-ring-financiero_a011a2c55604.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-11-2019_la-defensa-del-título-oro-en-el-ring-financiero_a011a2c55604.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-11-2019_la-defensa-del-título-oro-en-el-ring-financiero_a011a2c55604",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/a6/63/88/fc/b7/a66388fcb717d4b1bfee2ba84133827d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-11-2019_la-defensa-del-título-oro-en-el-ring-financiero_a011a2c55604\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/797/global-intergold--1oz-gold-bar-is-equivalent-to-3-500-liters-of-crude-oil22310_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-11-2019_la-defensa-del-título-oro-en-el-ring-financiero_a011a2c55604\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/797/los-precios-de-las-viviendas-en-los-estados-unidos_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-11-2019_la-defensa-del-título-oro-en-el-ring-financiero_a011a2c55604\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/797/stoimostj-zolota_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-11-2019_la-defensa-del-título-oro-en-el-ring-financiero_a011a2c55604\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:22.411890-03:00",
+  "status": "downloaded"
+}

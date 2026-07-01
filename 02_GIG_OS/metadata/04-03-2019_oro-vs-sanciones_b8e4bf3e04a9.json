@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_b8e4bf3e04a9",
+  "platform": "gig_os",
+  "title": "Oro vs Sanciones",
+  "date": "04.03.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-vs-sanciones",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-vs-sanciones",
+  "content_hash": "66a17f388d997e96fc3be740fca4af984561336456971ab701f4453c3c0cb880",
+  "url_hash": "3f7e729be09998ce80a2240fe106d532cd2f5e2a36ad069739a945ed5dc9b55f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-03-2019_oro-vs-sanciones_b8e4bf3e04a9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-03-2019_oro-vs-sanciones_b8e4bf3e04a9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-03-2019_oro-vs-sanciones_b8e4bf3e04a9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/68/2b/18/38/e6/682b1838e689da2e1a25d247c6de45ae_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/663/global-intergold-gold-informe-de-la-cotizacion-del-oro-19_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:52.639401-03:00",
+  "status": "downloaded"
+}

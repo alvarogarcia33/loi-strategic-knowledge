@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_718e253b1578",
+  "platform": "gig_os",
+  "title": "Oro: «toros» vs. «osos»",
+  "date": "04.01.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-toros-vs-osos-353",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-toros-vs-osos-353",
+  "content_hash": "b9680cfb85bba359d23b6c91d3ce92a8340535340472fc73fe91e1929337bda2",
+  "url_hash": "d246d08f3413854d895f81f3c34d3d18dd3445fc261a19e150f7c309003b597e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-01-2021_oro-toros-vs-osos_718e253b1578.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-01-2021_oro-toros-vs-osos_718e253b1578.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-01-2021_oro-toros-vs-osos_718e253b1578",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7f/68/a8/a9/43/7f68a8a9435de5f8f777541f2953fd13_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-01-2021_oro-toros-vs-osos_718e253b1578\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1017/image2321_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-01-2021_oro-toros-vs-osos_718e253b1578\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1017/new-project2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-01-2021_oro-toros-vs-osos_718e253b1578\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:45.444914-03:00",
+  "status": "downloaded"
+}

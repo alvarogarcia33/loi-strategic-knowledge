@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_8eba347f685a",
+  "platform": "gig_os",
+  "title": "El oro es la base de la supervivencia económica",
+  "date": "19.07.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-es-la-base-de-la-supervivencia-economica-443",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-es-la-base-de-la-supervivencia-economica-443",
+  "content_hash": "b8fdc4e393728023859a8cc558fd3acd615791d674c02f8d5d5c23026206d5c2",
+  "url_hash": "797871093670e340af27de5729f0efe2d0e730f59f1e2008d850d29ab1f82366",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-07-2021_el-oro-es-la-base-de-la-supervivencia-económica_8eba347f685a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-07-2021_el-oro-es-la-base-de-la-supervivencia-económica_8eba347f685a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2021_el-oro-es-la-base-de-la-supervivencia-económica_8eba347f685a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ea/a8/21/ad/70/eaa821ad70d4c6a1c1ddc9af0cdc7bde_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2021_el-oro-es-la-base-de-la-supervivencia-económica_8eba347f685a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1131/120721gold2-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2021_el-oro-es-la-base-de-la-supervivencia-económica_8eba347f685a\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1131/120721gold2-3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-07-2021_el-oro-es-la-base-de-la-supervivencia-económica_8eba347f685a\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:04.574458-03:00",
+  "status": "downloaded"
+}

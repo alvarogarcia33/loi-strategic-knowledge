@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_20777f366436",
+  "platform": "gig_os",
+  "title": "INTERA SWAP: concluimos la serie de premios",
+  "date": "14.05.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/intera-swap-concluimos-la-serie-de-premios-0192",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/intera-swap-concluimos-la-serie-de-premios-0192",
+  "content_hash": "28be743a139be8b1f2d6b1848ee59314fb0d842dc1826f16d6d0129772426495",
+  "url_hash": "a201783d1eb246e1160034b69a92d83e907289574ca4d1f88347ed79b8fddfac",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-05-2026_intera-swap-concluimos-la-serie-de-premios_20777f366436.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-05-2026_intera-swap-concluimos-la-serie-de-premios_20777f366436.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-05-2026_intera-swap-concluimos-la-serie-de-premios_20777f366436",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/11/65/5d/31/ec/11655d31ec0bb8d8780b36eeaa365ec4_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-05-2026_intera-swap-concluimos-la-serie-de-premios_20777f366436\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:29:24.350931-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_6adbfcdb1ef3",
+  "platform": "gig_os",
+  "title": "Una nueva colección de NFT — CODEX 2023",
+  "date": "03.02.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/una-nueva-coleccion-de-nft-codex-2023-683",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/una-nueva-coleccion-de-nft-codex-2023-683",
+  "content_hash": "d1d3b05282b43515e413c975fa146947558865d8be82755a61d9cffddcfb415c",
+  "url_hash": "2e80366c09fc540bcc2a119fa5fd2e4eeb3cb4252cc03e748584a8e2a9adb587",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-02-2023_una-nueva-colección-de-nft-codex-2023_6adbfcdb1ef3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-02-2023_una-nueva-colección-de-nft-codex-2023_6adbfcdb1ef3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-02-2023_una-nueva-colección-de-nft-codex-2023_6adbfcdb1ef3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bd/0d/a4/44/a5/bd0da444a5e83bc340e3228846b67c51_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-02-2023_una-nueva-colección-de-nft-codex-2023_6adbfcdb1ef3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1406/1a_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-02-2023_una-nueva-colección-de-nft-codex-2023_6adbfcdb1ef3\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1406/2a_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-02-2023_una-nueva-colección-de-nft-codex-2023_6adbfcdb1ef3\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:00:16.047951-03:00",
+  "status": "downloaded"
+}

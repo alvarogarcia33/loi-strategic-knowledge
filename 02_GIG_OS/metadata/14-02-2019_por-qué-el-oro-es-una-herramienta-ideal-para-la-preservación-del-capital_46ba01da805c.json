@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_46ba01da805c",
+  "platform": "gig_os",
+  "title": "¿Por qué el oro es una herramienta ideal para la preservación del capital?",
+  "date": "14.02.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-el-oro-es-una-herramienta-ideal-para-la-preservacion-del-capital",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-el-oro-es-una-herramienta-ideal-para-la-preservacion-del-capital",
+  "content_hash": "6bde169a811e3e034881fb7b65451720f5f5d65167b3241efc1cdfe17b986d36",
+  "url_hash": "39836bb863b6f663799d9a4fe50175bfec741b7c62b5af1773ee46f5d0405ddf",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-02-2019_por-qué-el-oro-es-una-herramienta-ideal-para-la-preservación-del-capital_46ba01da805c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-02-2019_por-qué-el-oro-es-una-herramienta-ideal-para-la-preservación-del-capital_46ba01da805c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2019_por-qué-el-oro-es-una-herramienta-ideal-para-la-preservación-del-capital_46ba01da805c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d8/27/e5/01/a7/d827e501a7e1c3f3db83c4d5a29af0da_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2019_por-qué-el-oro-es-una-herramienta-ideal-para-la-preservación-del-capital_46ba01da805c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/653/global-intergold-oro-la-seguridad-financiera-18_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:49.371614-03:00",
+  "status": "downloaded"
+}

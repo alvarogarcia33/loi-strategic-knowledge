@@ -1,0 +1,83 @@
+{
+  "article_uid": "olympia_fcd93e66aeb9",
+  "platform": "olympia",
+  "title": "De camino a la nueva oficina interna de los Maestros del Juego. Parte 4: orbes y drones",
+  "date": "08.05.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-drones-0196",
+  "canonical_url": "https://olympia-lab.com/es/news/post/de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-drones-0196",
+  "content_hash": "e2e03d6d2b6e2ca0b240fb254d5f29d32aca869677bf66ede26ff3e41639257a",
+  "url_hash": "541bca527ad35fc10ca37bcc3488f1830b1a0a14c108267d510a8d68f7ce1c80",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/64/2c/05/28/7e/642c05287ef94a8b72f6944fb8c845e7.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/99/44/5f/56/9c/99445f569c2fbe433361ab86cbdab14c.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/9d/8a/c3/dc/23/9d8ac3dc23485502d68167030a31ed29.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/11/d5/d4/58/2211d5d458f4538fdb42487e3c600c30_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/fe/35/df/bc/58fe35dfbcd379455a92540568923011_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ec/46/ee/96/31/ec46ee9631734e5f6d692fd716b44b29_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/ec/91/27/16/0bec9127168ecac283ce1dd649df5fe9_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/63/bd/da/21/90/63bdda21904e0930996a96bf1dfc45b6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9\\image_08.jpg",
+      "filename": "image_08.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-23T14:57:04.729349-03:00",
+  "status": "downloaded",
+  "legacy_origin_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_Olympia\\metadata\\08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9.json",
+  "normalized_at": "2026-06-29T15:59:23.572358-03:00"
+}

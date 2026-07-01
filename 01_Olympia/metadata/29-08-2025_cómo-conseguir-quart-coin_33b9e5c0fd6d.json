@@ -1,0 +1,257 @@
+{
+  "article_uid": "olympia_33b9e5c0fd6d",
+  "platform": "olympia",
+  "title": "¿Cómo conseguir QUART Coin?",
+  "date": "29.08.2025",
+  "source_url": "https://olympia-lab.com/es/news/post/como-conseguir-quart-coin-0108",
+  "canonical_url": "https://olympia-lab.com/es/news/post/como-conseguir-quart-coin-0108",
+  "content_hash": "5d04d7dea82b0b015b5056892339d76289cc64c969871e4fc1df3f2b1b614257",
+  "url_hash": "7abeec8bb2259fb303c965defc87308c8ec480c0e0398d490e4014bc9a8919ef",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/c1/75/28/b3/e1/c17528b3e1555e0708a28cc945a63c97.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/28/5a/b4/a9/4b/285ab4a94b97f7e1971137fa6b7e6116.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ca/e9/7f/c8/96/cae97fc8968bb4a8111387ef5bc698b2.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/c4/7b/ae/87/e2/c47bae87e279e8acf7dd21f31cbf7600.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/65/97/7b/fa/d3/65977bfad3ea4842c78139f8c260dec5.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_05.png",
+      "filename": "image_05.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ae/98/1d/27/7f/ae981d277fe160ec726b9715fda88d3a.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_06.png",
+      "filename": "image_06.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/7f/9d/80/70/b9/7f9d8070b9d487099d085e07673b2f5d.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_07.png",
+      "filename": "image_07.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/34/cb/32/a7/f7/34cb32a7f7ef81e9814424983af56248.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_08.png",
+      "filename": "image_08.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/81/16/cb/8a/86/8116cb8a86b1746436cbac4a6784f2e0.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_09.png",
+      "filename": "image_09.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/f9/b9/75/0b/9e/f9b9750b9edd699614acf3aa7644941f.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_10.png",
+      "filename": "image_10.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/56/d9/fe/e9/47/56d9fee947ed26eef0adc53935638e16.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_11.png",
+      "filename": "image_11.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/a2/8e/de/c2/0f/a28edec20fb9025a5a9777e0ff939cc4.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_12.png",
+      "filename": "image_12.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/76/28/a7/56/f4/7628a756f4a15b752e5ba51b529fea29.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_13.png",
+      "filename": "image_13.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/43/12/62/c6/b9/431262c6b98777c92e9b921f1e46fcdf.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_14.png",
+      "filename": "image_14.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/3a/f9/69/61/34/3af9696134ec653c1327e77e64a51019.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_15.png",
+      "filename": "image_15.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ef/fa/7e/03/ba/effa7e03ba4f0cf7755e3ca044ea9519.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_16.png",
+      "filename": "image_16.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/c8/68/87/69/12/c86887691274bf86d31c1df5e1c432eb.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_17.png",
+      "filename": "image_17.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/9d/2f/c1/8f/c7/9d2fc18fc7dcc4a40518f0c6a7fdbaa0.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_18.png",
+      "filename": "image_18.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/fd/1e/6a/26/ae/fd1e6a26ae8455826530691ed9582b6d.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_19.png",
+      "filename": "image_19.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/a0/41/36/88/eb/a0413688eb8dd175add41376e903581b.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_20.png",
+      "filename": "image_20.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/99/11/77/f4/6b/991177f46bcb022eb23fd9be9f156060.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_21.png",
+      "filename": "image_21.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/2a/47/0a/a1/71/2a470aa17168bcbe5f3a1d5037c2aabf.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_22.png",
+      "filename": "image_22.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/06/e0/81/cf/5c/06e081cf5cfbc00f057adcf9dc013c82.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_23.png",
+      "filename": "image_23.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/49/03/22/8f/0e/4903228f0e36e4c8e1f51cea4b29353c.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_24.png",
+      "filename": "image_24.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/36/ef/84/fa/34/36ef84fa34f62b6330c6d9041dd24faf.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_25.png",
+      "filename": "image_25.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/f2/ab/e9/9d/0e/f2abe99d0e657674cb529f23acc0e77c_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_26.jpg",
+      "filename": "image_26.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/1e/31/92/91/75/1e31929175f3724b2f654c5b7fb70c3b_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_27.jpg",
+      "filename": "image_27.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/55/0f/e0/0c/be/550fe00cbe15a5168b02a7f34b4f6594_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_28.jpg",
+      "filename": "image_28.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/72/1e/7f/ff/b0/721e7fffb0cec06d55e9df957837c0ae_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_29.jpg",
+      "filename": "image_29.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/db/66/c3/1d/b6/db66c31db63cd17dad1e76f639f0a982_2.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-08-2025_cómo-conseguir-quart-coin_33b9e5c0fd6d\\image_30.png",
+      "filename": "image_30.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:18:05.267868-03:00",
+  "status": "downloaded"
+}

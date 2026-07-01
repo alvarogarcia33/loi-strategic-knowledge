@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e692bcd42d2a",
+  "platform": "gig_os",
+  "title": "¡El valor de GOS Coin está aumentando!",
+  "date": "02.09.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-valor-de-gos-coin-esta-aumentando-1135",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-valor-de-gos-coin-esta-aumentando-1135",
+  "content_hash": "73129bdcde4cd779e318d773e0a64feabab7f657d82a949baa6abeea075b3cc3",
+  "url_hash": "0e6100e383e63efa15f3ab8856d8a1ebc37ff5a3404ccdef2f85273fc24f3bd4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-09-2025_el-valor-de-gos-coin-está-aumentando_e692bcd42d2a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-09-2025_el-valor-de-gos-coin-está-aumentando_e692bcd42d2a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2025_el-valor-de-gos-coin-está-aumentando_e692bcd42d2a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/78/96/93/25/23/789693252329f39e8cac681710ce948c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-09-2025_el-valor-de-gos-coin-está-aumentando_e692bcd42d2a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:44.702977-03:00",
+  "status": "downloaded"
+}

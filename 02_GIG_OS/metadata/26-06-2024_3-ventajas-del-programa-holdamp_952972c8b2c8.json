@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_952972c8b2c8",
+  "platform": "gig_os",
+  "title": "3 ventajas del programa HoldAmp",
+  "date": "26.06.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/3-ventajas-del-programa-holdamp-949",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/3-ventajas-del-programa-holdamp-949",
+  "content_hash": "c71b18a36dc8795f6f763e6d7681f5b0385e7b7b0c50492c207f0c8f7793a1c6",
+  "url_hash": "acb3f5779367bcb6ad395c0d86e89613ebcdd9c72601102416110c363b00a082",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-06-2024_3-ventajas-del-programa-holdamp_952972c8b2c8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-06-2024_3-ventajas-del-programa-holdamp_952972c8b2c8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-06-2024_3-ventajas-del-programa-holdamp_952972c8b2c8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8a/c5/bd/38/32/8ac5bd38329e9b6afc2d34fbee3ae4be_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-06-2024_3-ventajas-del-programa-holdamp_952972c8b2c8\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1709/boards-19-06-2024_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-06-2024_3-ventajas-del-programa-holdamp_952972c8b2c8\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1709/2-commodity-coupons-19-06-2024_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-06-2024_3-ventajas-del-programa-holdamp_952972c8b2c8\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1709/gos-coin-19-06-2024_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-06-2024_3-ventajas-del-programa-holdamp_952972c8b2c8\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:55:55.566012-03:00",
+  "status": "downloaded"
+}

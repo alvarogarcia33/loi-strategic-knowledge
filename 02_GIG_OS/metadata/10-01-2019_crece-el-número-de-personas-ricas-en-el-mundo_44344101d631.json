@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_44344101d631",
+  "platform": "gig_os",
+  "title": "Crece el número de personas ricas en el mundo",
+  "date": "10.01.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/crece-el-numero-de-personas-ricas-en-el-mundo",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/crece-el-numero-de-personas-ricas-en-el-mundo",
+  "content_hash": "9240961afd2a917e90251fb4dcb5c1d5fbb36aa5095e9987394e571e45fe9837",
+  "url_hash": "a331477b2d9aa17f8e25eb0b7c07bd7b6c44660d22d74297a4a01ce26ef810d1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-01-2019_crece-el-número-de-personas-ricas-en-el-mundo_44344101d631.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-01-2019_crece-el-número-de-personas-ricas-en-el-mundo_44344101d631.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-01-2019_crece-el-número-de-personas-ricas-en-el-mundo_44344101d631",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f0/6d/82/c3/ed/f06d82c3edecae3286cc4ab4beed5463_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/628/global-intergold-oro-la-seguridad-financiera-18.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/628/global-intergold-oro-la-seguridad-financiera-19.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:50.650390-03:00",
+  "status": "downloaded"
+}

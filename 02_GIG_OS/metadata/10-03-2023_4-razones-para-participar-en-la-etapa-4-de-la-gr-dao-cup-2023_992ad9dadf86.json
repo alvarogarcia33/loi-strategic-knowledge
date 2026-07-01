@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_992ad9dadf86",
+  "platform": "gig_os",
+  "title": "4 razones para participar en la etapa 4 de la GR DAO CUP 2023",
+  "date": "10.03.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/4-razones-para-participar-en-la-etapa-4-de-la-gr-dao-cup-2023-701",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/4-razones-para-participar-en-la-etapa-4-de-la-gr-dao-cup-2023-701",
+  "content_hash": "c2f51d076806333e7b552fdfe24b30c95ec1b99bdc104a518b7067a60c8237fe",
+  "url_hash": "318359a07af57c9a167d9fa63ecbe3eebbf9f515e42146eab00560d026ec2219",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-03-2023_4-razones-para-participar-en-la-etapa-4-de-la-gr-dao-cup-2023_992ad9dadf86.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-03-2023_4-razones-para-participar-en-la-etapa-4-de-la-gr-dao-cup-2023_992ad9dadf86.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-03-2023_4-razones-para-participar-en-la-etapa-4-de-la-gr-dao-cup-2023_992ad9dadf86",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e3/31/37/fa/d5/e33137fad53d9d5890c449b095a4c013_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-03-2023_4-razones-para-participar-en-la-etapa-4-de-la-gr-dao-cup-2023_992ad9dadf86\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1430/4-etapos-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-03-2023_4-razones-para-participar-en-la-etapa-4-de-la-gr-dao-cup-2023_992ad9dadf86\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:56:24.858231-03:00",
+  "status": "downloaded"
+}

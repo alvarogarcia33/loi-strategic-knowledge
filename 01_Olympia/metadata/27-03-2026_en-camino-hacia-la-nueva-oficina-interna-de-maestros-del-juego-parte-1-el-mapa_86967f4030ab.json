@@ -1,0 +1,105 @@
+{
+  "article_uid": "olympia_86967f4030ab",
+  "platform": "olympia",
+  "title": "En camino hacia la nueva oficina interna de Maestros del Juego. Parte 1: el mapa",
+  "date": "27.03.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa-0179",
+  "canonical_url": "https://olympia-lab.com/es/news/post/en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa-0179",
+  "content_hash": "b7a09169ec9a22e7679ca4286989ab83353f93793e6bf99171f68aeb7a3db460",
+  "url_hash": "5fb7c1102c6672b4ffcf01af3d76a30a27e5ca8e1a26a9e0209247bb9dc60098",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/a1/b6/dd/0e/4c/a1b6dd0e4c88e89bd03879470e2f32d5.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ef/32/de/53/fe/ef32de53fe81aaf1d8045903adf54f74.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/e5/fc/ae/e8/cd/e5fcaee8cd1614d717beee50f5332703.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/02/ae/2f/d1/e0/02ae2fd1e0c365359538af88bc76ef50.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/55/15/b8/54/78/5515b854787eaa802f4531e16b1c9009.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/53/85/86/3a/37/5385863a37cb9f3c982d3b5e69db7b76.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/10/0c/69/82/06/100c6982064fd10e2b78801fcff78892_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/44/31/8f/66/d7/44318f66d79ad4254ed5d527329d54a2_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_08.jpg",
+      "filename": "image_08.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/11/d5/d4/58/2211d5d458f4538fdb42487e3c600c30_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_09.jpg",
+      "filename": "image_09.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/fe/35/df/bc/58fe35dfbcd379455a92540568923011_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_10.jpg",
+      "filename": "image_10.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/64/2c/05/28/7e/642c05287ef94a8b72f6944fb8c845e7_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab\\image_11.jpg",
+      "filename": "image_11.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:18:56.817621-03:00",
+  "status": "downloaded"
+}

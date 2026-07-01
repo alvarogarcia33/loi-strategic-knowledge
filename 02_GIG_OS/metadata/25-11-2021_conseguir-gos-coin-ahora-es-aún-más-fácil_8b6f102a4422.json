@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_8b6f102a4422",
+  "platform": "gig_os",
+  "title": "¡Conseguir GOS Coin ahora es aún más fácil!",
+  "date": "25.11.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/conseguir-gos-coin-ahora-es-aun-mas-facil-497",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/conseguir-gos-coin-ahora-es-aun-mas-facil-497",
+  "content_hash": "a6cd46f77c2cfabc80b588ce9de7869d0a0340eaed1e1f603063fe9af7994d8b",
+  "url_hash": "1b632b1b02fd6475d59f3369c841a1f3292cd4861c34ea8c067aeab72ce70056",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-11-2021_conseguir-gos-coin-ahora-es-aún-más-fácil_8b6f102a4422.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-11-2021_conseguir-gos-coin-ahora-es-aún-más-fácil_8b6f102a4422.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-11-2021_conseguir-gos-coin-ahora-es-aún-más-fácil_8b6f102a4422",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/14/75/8f/5f/7a/14758f5f7a9ced89bf7b907642ff803d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-11-2021_conseguir-gos-coin-ahora-es-aún-más-fácil_8b6f102a4422\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1195/dizayn-bez-nazvaniya-3_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-11-2021_conseguir-gos-coin-ahora-es-aún-más-fácil_8b6f102a4422\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:27.195351-03:00",
+  "status": "downloaded"
+}

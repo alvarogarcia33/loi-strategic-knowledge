@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_e4cbbec58f43",
+  "platform": "gig_os",
+  "title": "La imagen del oro: qué dicen los bancos centrales",
+  "date": "24.03.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-imagen-del-oro-que-dicen-los-bancos-centrales-234",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-imagen-del-oro-que-dicen-los-bancos-centrales-234",
+  "content_hash": "dcc180e73a0a20f373f8736290fd155c40ab70648d5e1084d51387bb51fef6b3",
+  "url_hash": "b2e990ca221848191c2cd1a9288227a8f01524dfa9a4252abbe9a0c61ff01730",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-03-2020_la-imagen-del-oro-qué-dicen-los-bancos-centrales_e4cbbec58f43.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-03-2020_la-imagen-del-oro-qué-dicen-los-bancos-centrales_e4cbbec58f43.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-03-2020_la-imagen-del-oro-qué-dicen-los-bancos-centrales_e4cbbec58f43",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e1/69/e8/a7/29/e169e8a7291dad8f888bcbf6a5ee3fd5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-03-2020_la-imagen-del-oro-qué-dicen-los-bancos-centrales_e4cbbec58f43\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/849/20032401_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-03-2020_la-imagen-del-oro-qué-dicen-los-bancos-centrales_e4cbbec58f43\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/849/20032402_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-03-2020_la-imagen-del-oro-qué-dicen-los-bancos-centrales_e4cbbec58f43\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/849/20032404_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-03-2020_la-imagen-del-oro-qué-dicen-los-bancos-centrales_e4cbbec58f43\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/849/20032403_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-03-2020_la-imagen-del-oro-qué-dicen-los-bancos-centrales_e4cbbec58f43\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:29.906397-03:00",
+  "status": "downloaded"
+}

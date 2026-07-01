@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_6851bdb9e92f",
+  "platform": "gig_os",
+  "title": "¡En la batalla de las monedas gana el oro!",
+  "date": "15.04.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/en-la-batalla-de-las-monedas-gana-el-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/en-la-batalla-de-las-monedas-gana-el-oro",
+  "content_hash": "b58c2466b3052c404774b4921044f34025e39716e5641b3e76ef20abcbccbf83",
+  "url_hash": "ee68c930afc10ccb8e5bee95a9981d0d1370b8ca9e4546e760b9bfc3e10d7fc0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-04-2019_en-la-batalla-de-las-monedas-gana-el-oro_6851bdb9e92f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-04-2019_en-la-batalla-de-las-monedas-gana-el-oro_6851bdb9e92f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-04-2019_en-la-batalla-de-las-monedas-gana-el-oro_6851bdb9e92f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e7/05/5b/df/ab/e7055bdfab211f148dab79f2167e43a7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-04-2019_en-la-batalla-de-las-monedas-gana-el-oro_6851bdb9e92f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/689/global-intergold-gold-informe-de-la-cotizacion-del-oro-20_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/689/global-intergold-gold-informe-de-la-cotizacion-del-oro-21_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/689/global-intergold-gold-informe-de-la-cotizacion-del-oro-22_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/689/global-intergold-gold-informe-de-la-cotizacion-del-oro-24_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:13:28.949175-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_662a8df142d1",
+  "platform": "gig_os",
+  "title": "GR DAO CUP UnityGlobe: la 2.ª etapa está a punto de concluir",
+  "date": "05.02.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-unityglobe-la-2-etapa-esta-a-punto-de-concluir-872",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/gr-dao-cup-unityglobe-la-2-etapa-esta-a-punto-de-concluir-872",
+  "content_hash": "007801855b197ff6a50a7c3ce9c457e2de8c12f08d4e97a4f6ca4671f62951d0",
+  "url_hash": "e5c2fadfefab0480e668841005f6877a1d2f9371fdd1a7a848f0faeb03250f8e",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-02-2024_gr-dao-cup-unityglobe-la-2-etapa-está-a-punto-de-concluir_662a8df142d1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-02-2024_gr-dao-cup-unityglobe-la-2-etapa-está-a-punto-de-concluir_662a8df142d1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-02-2024_gr-dao-cup-unityglobe-la-2-etapa-está-a-punto-de-concluir_662a8df142d1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d3/2a/24/54/fa/d32a2454fa55e8e6c45a307667191ee1_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-02-2024_gr-dao-cup-unityglobe-la-2-etapa-está-a-punto-de-concluir_662a8df142d1\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1617/time_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-02-2024_gr-dao-cup-unityglobe-la-2-etapa-está-a-punto-de-concluir_662a8df142d1\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1613/cupunity-time-4_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-02-2024_gr-dao-cup-unityglobe-la-2-etapa-está-a-punto-de-concluir_662a8df142d1\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:19:45.048613-03:00",
+  "status": "downloaded"
+}

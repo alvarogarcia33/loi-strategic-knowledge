@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_784b46497397",
+  "platform": "gig_os",
+  "title": "El 10 de enero finaliza la primera etapa de la GR DAO CUP UnityGlobe",
+  "date": "04.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-10-de-enero-finaliza-la-primera-etapa-de-la-gr-dao-cup-unityglobe-852",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-10-de-enero-finaliza-la-primera-etapa-de-la-gr-dao-cup-unityglobe-852",
+  "content_hash": "3e8b9b71348addf2ffc8b058970e60b2f1fa0f47b15c80a8aaf16691dc0575b5",
+  "url_hash": "4758d058853da043beefc7d9542eb0334c8dbbe4401bfba60084d9501aebe32c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-01-2024_el-10-de-enero-finaliza-la-primera-etapa-de-la-gr-dao-cup-unityglobe_784b46497397.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-01-2024_el-10-de-enero-finaliza-la-primera-etapa-de-la-gr-dao-cup-unityglobe_784b46497397.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-01-2024_el-10-de-enero-finaliza-la-primera-etapa-de-la-gr-dao-cup-unityglobe_784b46497397",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c7/da/cb/70/14/c7dacb70148fee4b39c793cebc9090f1_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-01-2024_el-10-de-enero-finaliza-la-primera-etapa-de-la-gr-dao-cup-unityglobe_784b46497397\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1588/unity-globe-text-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-01-2024_el-10-de-enero-finaliza-la-primera-etapa-de-la-gr-dao-cup-unityglobe_784b46497397\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:54.731078-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_a2994e41802e",
+  "platform": "gig_os",
+  "title": "Oro: entrando con confianza en 2021",
+  "date": "01.03.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-entrando-con-confianza-en-2021-375",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-entrando-con-confianza-en-2021-375",
+  "content_hash": "4c92690b04fd908ffdb75da72a85e73a1013527411e11fbd0161c8aa0fad7c4d",
+  "url_hash": "23610242e43d53c5767498088d44e9ef191fd31e88b39fa680882ecee5dfaf3a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-03-2021_oro-entrando-con-confianza-en-2021_a2994e41802e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-03-2021_oro-entrando-con-confianza-en-2021_a2994e41802e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2021_oro-entrando-con-confianza-en-2021_a2994e41802e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0e/9a/e5/3c/00/0e9ae53c0045d28adbf5dddab44ff1cb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2021_oro-entrando-con-confianza-en-2021_a2994e41802e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1041/new-project86746_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2021_oro-entrando-con-confianza-en-2021_a2994e41802e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1041/gold-prices11_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-03-2021_oro-entrando-con-confianza-en-2021_a2994e41802e\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:31.650674-03:00",
+  "status": "downloaded"
+}

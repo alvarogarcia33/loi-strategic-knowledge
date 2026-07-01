@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_9963a51f5ed3",
+  "platform": "gig_os",
+  "title": "¡La transmisión online del Presidente ha tenido lugar!",
+  "date": "16.12.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-transmision-online-del-presidente-ha-tenido-lugar-666",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-transmision-online-del-presidente-ha-tenido-lugar-666",
+  "content_hash": "8e9469df6deeae44ce5277331c7cfa4dd6963f31d06426f86f344c8aac3f7606",
+  "url_hash": "cc8d80862fbad3e5e2dcb561b9bcfc08dd96a3877dc622d7f947af89c838e3d3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-12-2022_la-transmisión-online-del-presidente-ha-tenido-lugar_9963a51f5ed3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-12-2022_la-transmisión-online-del-presidente-ha-tenido-lugar_9963a51f5ed3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2022_la-transmisión-online-del-presidente-ha-tenido-lugar_9963a51f5ed3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ac/d2/93/34/d8/acd29334d82078b56ccda0b424b8bf8c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2022_la-transmisión-online-del-presidente-ha-tenido-lugar_9963a51f5ed3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:23.815382-03:00",
+  "status": "downloaded"
+}

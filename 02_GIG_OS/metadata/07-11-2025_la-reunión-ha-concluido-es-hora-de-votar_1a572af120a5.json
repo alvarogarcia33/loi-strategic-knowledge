@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_1a572af120a5",
+  "platform": "gig_os",
+  "title": "La reunión ha concluido. ¡Es hora de votar!",
+  "date": "07.11.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-reunion-ha-concluido-es-hora-de-votar-1165",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-reunion-ha-concluido-es-hora-de-votar-1165",
+  "content_hash": "510eda23b05b5a39b460ab2de803c712f92ec8f7551ed36dc86f6b41a145014f",
+  "url_hash": "46b6177bbcc326d89e975b8a8e7ae207180be41a97c886166a0cfb0fce431a50",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-11-2025_la-reunión-ha-concluido-es-hora-de-votar_1a572af120a5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-11-2025_la-reunión-ha-concluido-es-hora-de-votar_1a572af120a5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-11-2025_la-reunión-ha-concluido-es-hora-de-votar_1a572af120a5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f7/7c/10/6b/9c/f77c106b9c17c8cb49efc1c4f852839b_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-11-2025_la-reunión-ha-concluido-es-hora-de-votar_1a572af120a5\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:46.321988-03:00",
+  "status": "downloaded"
+}

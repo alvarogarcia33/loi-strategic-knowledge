@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_a7f7924427dd",
+  "platform": "gig_os",
+  "title": "First Milestone 2024: ¡es hora de tomar grandes decisiones!",
+  "date": "23.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/first-milestone-2024-es-hora-de-tomar-grandes-decisiones-866",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/first-milestone-2024-es-hora-de-tomar-grandes-decisiones-866",
+  "content_hash": "e8bdaaad01cf76476f2588f8aa049d1658d115d282dffbd204e8892506e42ddb",
+  "url_hash": "52bc3ddefda8373601be30a0b46a1d07250c89c8d60e43bd97fc7697f8b4a351",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-01-2024_first-milestone-2024-es-hora-de-tomar-grandes-decisiones_a7f7924427dd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-01-2024_first-milestone-2024-es-hora-de-tomar-grandes-decisiones_a7f7924427dd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2024_first-milestone-2024-es-hora-de-tomar-grandes-decisiones_a7f7924427dd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c8/01/58/c0/e9/c80158c0e95b522b180cb6b082994abc_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2024_first-milestone-2024-es-hora-de-tomar-grandes-decisiones_a7f7924427dd\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1611/element-for-text-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2024_first-milestone-2024-es-hora-de-tomar-grandes-decisiones_a7f7924427dd\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1611/call-to-action-first-milestone-23-01-2024-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-01-2024_first-milestone-2024-es-hora-de-tomar-grandes-decisiones_a7f7924427dd\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:47.433931-03:00",
+  "status": "downloaded"
+}

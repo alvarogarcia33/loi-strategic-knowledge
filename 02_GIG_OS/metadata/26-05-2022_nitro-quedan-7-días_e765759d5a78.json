@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e765759d5a78",
+  "platform": "gig_os",
+  "title": "NITRO: ¡quedan 7 días!",
+  "date": "26.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nitro-quedan-7-dias-579",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nitro-quedan-7-dias-579",
+  "content_hash": "9dc05db13b73b9b761514c93038ff96e2ae8495c7a6d96f6930c54004371e64c",
+  "url_hash": "89e6f670a9e79f2ddcb3b7fa32b7b29874cd916d95548e82ce860bd763a0abc4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-05-2022_nitro-quedan-7-días_e765759d5a78.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-05-2022_nitro-quedan-7-días_e765759d5a78.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-05-2022_nitro-quedan-7-días_e765759d5a78",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/28/eb/8d/b7/74/28eb8db774f61399d45c7c4e3f8c9ca2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-05-2022_nitro-quedan-7-días_e765759d5a78\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:37.247959-03:00",
+  "status": "downloaded"
+}

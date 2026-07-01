@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_6f0733c75f17",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 2 de mayo de 2018",
+  "date": "02.05.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-2-de-mayo-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-2-de-mayo-de-2018",
+  "content_hash": "f4e76be36a00f414c5ac211a9a5aacdc312c02830364950f05fe2be74b9ff8b0",
+  "url_hash": "46372e95caa5d7f1572b0b71d91fdf89078da7872421430eb0cc84e3e812a1e9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-05-2018_informe-de-la-cotización-del-oro-al-2-de-mayo-de-2018_6f0733c75f17.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-05-2018_informe-de-la-cotización-del-oro-al-2-de-mayo-de-2018_6f0733c75f17.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-05-2018_informe-de-la-cotización-del-oro-al-2-de-mayo-de-2018_6f0733c75f17",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e8/4a/bb/eb/35/e84abbeb3576fb0d203ac1b059f4bf29_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/478/global-intergold-informe-de-la-cotizacion-del-oro_1.JPG",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/478/global-intergold-informe-de-la-cotizacion-del-oro-barnabas-gan_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/478/global-intergold-informe-de-la-cotizacion-del-oro-mario-draghi_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:26:18.505621-03:00",
+  "status": "downloaded"
+}

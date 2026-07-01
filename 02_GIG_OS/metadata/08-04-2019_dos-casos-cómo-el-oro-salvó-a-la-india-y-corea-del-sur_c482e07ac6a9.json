@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_c482e07ac6a9",
+  "platform": "gig_os",
+  "title": "Dos casos: cómo el oro salvó a la India y Corea del Sur",
+  "date": "08.04.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/dos-casos-como-el-oro-salvo-a-la-india-y-corea-del-sur",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/dos-casos-como-el-oro-salvo-a-la-india-y-corea-del-sur",
+  "content_hash": "96469eca29c8c295bd16f8464f3f1902e8d2b7140f489fe5d228b315ea5a8285",
+  "url_hash": "b543a9fb36b28fa3748237e046c8936e3945e73532a0060629fac5a22633feb1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-04-2019_dos-casos-cómo-el-oro-salvó-a-la-india-y-corea-del-sur_c482e07ac6a9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-04-2019_dos-casos-cómo-el-oro-salvó-a-la-india-y-corea-del-sur_c482e07ac6a9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-04-2019_dos-casos-cómo-el-oro-salvó-a-la-india-y-corea-del-sur_c482e07ac6a9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/79/eb/31/f1/6a/79eb31f16a2b6e73ce6c951ea63cb712_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-04-2019_dos-casos-cómo-el-oro-salvó-a-la-india-y-corea-del-sur_c482e07ac6a9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/686/globalintergold-graph_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/686/korea_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:16.909879-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_66b17ac1b321",
+  "platform": "gig_os",
+  "title": "La etapa final de la GR DAO CUP NextEra ha comenzado",
+  "date": "21.08.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-etapa-final-de-la-gr-dao-cup-nextera-ha-comenzado-781",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-etapa-final-de-la-gr-dao-cup-nextera-ha-comenzado-781",
+  "content_hash": "654d90695ee20ebcf85297f4897d1d2204e1bd91456f51474a34038dbb44376e",
+  "url_hash": "5365734872f0f109fedc0963b8838a2e48310d8677200976ed25d4a7889e905c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-08-2023_la-etapa-final-de-la-gr-dao-cup-nextera-ha-comenzado_66b17ac1b321.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-08-2023_la-etapa-final-de-la-gr-dao-cup-nextera-ha-comenzado_66b17ac1b321.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-08-2023_la-etapa-final-de-la-gr-dao-cup-nextera-ha-comenzado_66b17ac1b321",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/44/87/04/98/0e/448704980e5668b24e9c2e2aef20fb19_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-08-2023_la-etapa-final-de-la-gr-dao-cup-nextera-ha-comenzado_66b17ac1b321\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1492/nextera-bg1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-08-2023_la-etapa-final-de-la-gr-dao-cup-nextera-ha-comenzado_66b17ac1b321\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:32:12.375508-03:00",
+  "status": "downloaded"
+}

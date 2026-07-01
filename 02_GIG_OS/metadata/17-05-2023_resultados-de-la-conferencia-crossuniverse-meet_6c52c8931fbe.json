@@ -1,0 +1,81 @@
+{
+  "article_uid": "gig_os_6c52c8931fbe",
+  "platform": "gig_os",
+  "title": "Resultados de la conferencia CROSSUNIVERSE MEET",
+  "date": "17.05.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-conferencia-crossuniverse-meet-736",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/resultados-de-la-conferencia-crossuniverse-meet-736",
+  "content_hash": "24adbe9cc04c6917c19a6a2101a4c4c6785385cfe64dae96a489b28130cb405f",
+  "url_hash": "0b6e4dff70334c78bf5f3fb34da015a688ad91067f8702f558474cb779998688",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-05-2023_resultados-de-la-conferencia-crossuniverse-meet_6c52c8931fbe.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-05-2023_resultados-de-la-conferencia-crossuniverse-meet_6c52c8931fbe.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_resultados-de-la-conferencia-crossuniverse-meet_6c52c8931fbe",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/08/62/5a/a0/63/08625aa0635247c052f517291e393ae3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_resultados-de-la-conferencia-crossuniverse-meet_6c52c8931fbe\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1470/metasentry-logo35308_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_resultados-de-la-conferencia-crossuniverse-meet_6c52c8931fbe\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1470/fracturefusion_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_resultados-de-la-conferencia-crossuniverse-meet_6c52c8931fbe\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1470/gr-dao-cup-nextera_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_resultados-de-la-conferencia-crossuniverse-meet_6c52c8931fbe\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1470/gos-hold_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_resultados-de-la-conferencia-crossuniverse-meet_6c52c8931fbe\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1470/system-transformator_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_resultados-de-la-conferencia-crossuniverse-meet_6c52c8931fbe\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1470/aristippia_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_resultados-de-la-conferencia-crossuniverse-meet_6c52c8931fbe\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:53:19.678008-03:00",
+  "status": "downloaded"
+}

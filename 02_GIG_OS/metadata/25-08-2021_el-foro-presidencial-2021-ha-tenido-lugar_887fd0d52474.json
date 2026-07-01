@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_887fd0d52474",
+  "platform": "gig_os",
+  "title": "¡El Foro Presidencial 2021 ha tenido lugar!",
+  "date": "25.08.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-foro-presidencial-2021-ha-tenido-lugar-456",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-foro-presidencial-2021-ha-tenido-lugar-456",
+  "content_hash": "36faf38046b5d2dbd0e153a9c4e20d45f09f483b3c56146af37caef5784847c9",
+  "url_hash": "3f2f1339999f8b44759780f75ea065ebe19b16f917c824096122d53fa448fa59",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-08-2021_el-foro-presidencial-2021-ha-tenido-lugar_887fd0d52474.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-08-2021_el-foro-presidencial-2021-ha-tenido-lugar_887fd0d52474.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-08-2021_el-foro-presidencial-2021-ha-tenido-lugar_887fd0d52474",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9f/75/ee/a0/e1/9f75eea0e1b2e6aa9b7cead8f1f1561d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-08-2021_el-foro-presidencial-2021-ha-tenido-lugar_887fd0d52474\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:17.554088-03:00",
+  "status": "downloaded"
+}

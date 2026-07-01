@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_371af50b0d4d",
+  "platform": "gig_os",
+  "title": "¿Quiénes son los validadores?",
+  "date": "18.12.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/quienes-son-los-validadores-1026",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/quienes-son-los-validadores-1026",
+  "content_hash": "2f0eab1f02b7e0dccd69c968fc4926351476aa0d2f417752221bba66ad05f702",
+  "url_hash": "46859c30bd6bd186c0005fdb502d3526c9ac0bb1bd63620754e2976e296b1ec9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-12-2024_quiénes-son-los-validadores_371af50b0d4d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-12-2024_quiénes-son-los-validadores_371af50b0d4d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-12-2024_quiénes-son-los-validadores_371af50b0d4d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/20/8c/5f/d4/b3/208c5fd4b35c2f39c8c50a1222a45adc_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-12-2024_quiénes-son-los-validadores_371af50b0d4d\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:51:47.518047-03:00",
+  "status": "downloaded"
+}

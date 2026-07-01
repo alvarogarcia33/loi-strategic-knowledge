@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_680bc76c8e7c",
+  "platform": "gig_os",
+  "title": "Cómo GoalSet Master ayuda a alcanzar los objetivos establecidos",
+  "date": "08.04.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-goalset-master-ayuda-a-alcanzar-los-objetivos-establecidos-241",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-goalset-master-ayuda-a-alcanzar-los-objetivos-establecidos-241",
+  "content_hash": "441961ec1db3beaf0a5674abb1d5cb14d8b5b9603204d7dca050314d629e3e59",
+  "url_hash": "da52aef51254da87cc84c322a4180bd2d3d3c11702222f057b5aea942da23c75",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-04-2020_cómo-goalset-master-ayuda-a-alcanzar-los-objetivos-establecidos_680bc76c8e7c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-04-2020_cómo-goalset-master-ayuda-a-alcanzar-los-objetivos-establecidos_680bc76c8e7c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-04-2020_cómo-goalset-master-ayuda-a-alcanzar-los-objetivos-establecidos_680bc76c8e7c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d5/ff/e9/0a/b8/d5ffe90ab8412f1c9bfc79bd3970e654_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-04-2020_cómo-goalset-master-ayuda-a-alcanzar-los-objetivos-establecidos_680bc76c8e7c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/856/buttones_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-04-2020_cómo-goalset-master-ayuda-a-alcanzar-los-objetivos-establecidos_680bc76c8e7c\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:03:32.525136-03:00",
+  "status": "downloaded"
+}

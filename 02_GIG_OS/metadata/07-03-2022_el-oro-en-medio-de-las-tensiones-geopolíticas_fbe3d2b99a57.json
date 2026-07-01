@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_fbe3d2b99a57",
+  "platform": "gig_os",
+  "title": "El oro en medio de las tensiones geopolíticas",
+  "date": "07.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-en-medio-de-las-tensiones-geopoliticas-541",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-en-medio-de-las-tensiones-geopoliticas-541",
+  "content_hash": "6ab6e6ceca9779c974c5939dcd46ce0285b7f4dcf125d018b39f8011c090bf47",
+  "url_hash": "227488ab004e98e2e395ad07e2988b19f842d5f06dbb3271db0aa14c2b20f3a2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-03-2022_el-oro-en-medio-de-las-tensiones-geopolíticas_fbe3d2b99a57.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-03-2022_el-oro-en-medio-de-las-tensiones-geopolíticas_fbe3d2b99a57.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-03-2022_el-oro-en-medio-de-las-tensiones-geopolíticas_fbe3d2b99a57",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/12/2d/23/ae/cb/122d23aecbea1697690099963e3e5532_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-03-2022_el-oro-en-medio-de-las-tensiones-geopolíticas_fbe3d2b99a57\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1245/novyy-proekt49_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-03-2022_el-oro-en-medio-de-las-tensiones-geopolíticas_fbe3d2b99a57\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:55.142459-03:00",
+  "status": "downloaded"
+}

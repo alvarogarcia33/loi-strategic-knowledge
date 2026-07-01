@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_ff08238b787c",
+  "platform": "gig_os",
+  "title": "Oro o bienes inmuebles: ¿qué elegir?",
+  "date": "29.07.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-o-bienes-inmuebles-que-elegir-440",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-o-bienes-inmuebles-que-elegir-440",
+  "content_hash": "2d8aa3409700688f3a1a97db25e0e8e0046650aa5255e75a4e651a9e1e14ce06",
+  "url_hash": "5ea9cd7848feeb330fa1dadbff2c405beb85e52776f7ee520fb830b829bef506",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\29-07-2021_oro-o-bienes-inmuebles-qué-elegir_ff08238b787c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\29-07-2021_oro-o-bienes-inmuebles-qué-elegir_ff08238b787c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-07-2021_oro-o-bienes-inmuebles-qué-elegir_ff08238b787c",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9d/fa/64/ab/e6/9dfa64abe6ed3314df4e41e848aa2f10_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\29-07-2021_oro-o-bienes-inmuebles-qué-elegir_ff08238b787c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:41.357094-03:00",
+  "status": "downloaded"
+}

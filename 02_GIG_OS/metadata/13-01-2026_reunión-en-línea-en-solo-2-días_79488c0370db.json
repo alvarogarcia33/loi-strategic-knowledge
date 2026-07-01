@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_79488c0370db",
+  "platform": "gig_os",
+  "title": "Reunión en línea en solo 2 días",
+  "date": "13.01.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/reunion-en-linea-en-solo-2-dias-1153",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/reunion-en-linea-en-solo-2-dias-1153",
+  "content_hash": "bf2d0d9ca440c67214383dc5b54d649c225a17419d7c4fce81dc27b137c75ee5",
+  "url_hash": "c04bd6ebbd6221d59cb6f9479b00ece8e8e1e54a7b0aab496ea62196f87ea36d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-01-2026_reunión-en-línea-en-solo-2-días_79488c0370db.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-01-2026_reunión-en-línea-en-solo-2-días_79488c0370db.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-01-2026_reunión-en-línea-en-solo-2-días_79488c0370db",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f3/67/58/b2/c7/f36758b2c725211e6e62ac9467fd6aca_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-01-2026_reunión-en-línea-en-solo-2-días_79488c0370db\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:54:12.874721-03:00",
+  "status": "downloaded"
+}

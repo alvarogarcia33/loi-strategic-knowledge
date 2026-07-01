@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_80ec6933fd05",
+  "platform": "gig_os",
+  "title": "HOY: TRANSMISIÓN EN VIVO DEL PRESIDENTE",
+  "date": "14.09.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/hoy-transmision-en-vivo-del-presidente-305",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/hoy-transmision-en-vivo-del-presidente-305",
+  "content_hash": "4cfd3c58e35796a8d0ea4898b197f142e62a43427102d7bfe1c0eeff9cdf1521",
+  "url_hash": "2abd4d0b9a358dbe24a75e928b84dd1f578204ae910cca8207cc9483dea870c2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-09-2020_hoy-transmisión-en-vivo-del-presidente_80ec6933fd05.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-09-2020_hoy-transmisión-en-vivo-del-presidente_80ec6933fd05.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-09-2020_hoy-transmisión-en-vivo-del-presidente_80ec6933fd05",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ba/42/b3/6d/ea/ba42b36dea1167012c784a370c0ba428_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-09-2020_hoy-transmisión-en-vivo-del-presidente_80ec6933fd05\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:04.740776-03:00",
+  "status": "downloaded"
+}

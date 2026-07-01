@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_192bfc9d76c5",
+  "platform": "gig_os",
+  "title": "¡Remuneraciones para los mejores participantes del programa «Millar de Oro»!",
+  "date": "27.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/remuneraciones-para-los-mejores-participantes-del-programa-millar-de-oro-830",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/remuneraciones-para-los-mejores-participantes-del-programa-millar-de-oro-830",
+  "content_hash": "189af0cd9d830a6905ff37c108bfbd8fbdf5bc0727b1bb29046834e5045a51b4",
+  "url_hash": "9e0d41fbc8268ca7cb2ab3d24cd64928dc7260718bc6bc9b6b4e237fe13a6073",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-11-2023_remuneraciones-para-los-mejores-participantes-del-programa-millar-de-oro_192bfc9d76c5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-11-2023_remuneraciones-para-los-mejores-participantes-del-programa-millar-de-oro_192bfc9d76c5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-11-2023_remuneraciones-para-los-mejores-participantes-del-programa-millar-de-oro_192bfc9d76c5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/99/14/41/79/fb/99144179fb96f967adfd23bb9c3cafba_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-11-2023_remuneraciones-para-los-mejores-participantes-del-programa-millar-de-oro_192bfc9d76c5\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1572/table-27-11-2023-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-11-2023_remuneraciones-para-los-mejores-participantes-del-programa-millar-de-oro_192bfc9d76c5\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:52:27.240257-03:00",
+  "status": "downloaded"
+}

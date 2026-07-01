@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_44b7d26944fb",
+  "platform": "gig_os",
+  "title": "[VÍDEO] ¿Vale la pena comprar oro en un banco?",
+  "date": "03.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/video-vale-la-pena-comprar-oro-en-un-banco-570",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/video-vale-la-pena-comprar-oro-en-un-banco-570",
+  "content_hash": "4faf12bd6108d7cd74984ed57ddc33f24402993c159f38a2ebcdc013ac6c1c36",
+  "url_hash": "736223f5a8daf140b98a51b7244bb75bee36b6a57ca6b7dfcd57b1a9c79dee7c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-05-2022_vídeo-vale-la-pena-comprar-oro-en-un-banco_44b7d26944fb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-05-2022_vídeo-vale-la-pena-comprar-oro-en-un-banco_44b7d26944fb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-05-2022_vídeo-vale-la-pena-comprar-oro-en-un-banco_44b7d26944fb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1276/dizayn-bez-nazvaniya35_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-05-2022_vídeo-vale-la-pena-comprar-oro-en-un-banco_44b7d26944fb\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:05:01.387429-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_cbacc712eca4",
+  "platform": "gig_os",
+  "title": "Han sido anunciados los nombres de los participantes más fuertes de la 3.ª etapa de la GR DAO CUP",
+  "date": "11.03.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/han-sido-anunciados-los-nombres-de-los-participantes-mas-fuertes-de-la-3-etapa-de-la-gr-dao-cup-702",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/han-sido-anunciados-los-nombres-de-los-participantes-mas-fuertes-de-la-3-etapa-de-la-gr-dao-cup-702",
+  "content_hash": "cecc1e3c585a95c46f281d5a277f7a598ae04a967b3e68d22176e6583748db70",
+  "url_hash": "297d44bf09f6f8e3aca5ab7061219468495baf61f628d15e20199ee2a74e8b41",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-03-2023_han-sido-anunciados-los-nombres-de-los-participantes-más-fuertes-de-la-3-etapa-d_cbacc712eca4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-03-2023_han-sido-anunciados-los-nombres-de-los-participantes-más-fuertes-de-la-3-etapa-d_cbacc712eca4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2023_han-sido-anunciados-los-nombres-de-los-participantes-más-fuertes-de-la-3-etapa-d_cbacc712eca4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/aa/62/a4/a1/77/aa62a4a177e41422f8f87b276bdc68de_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2023_han-sido-anunciados-los-nombres-de-los-participantes-más-fuertes-de-la-3-etapa-d_cbacc712eca4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1431/10-02-2023-38962-x-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-03-2023_han-sido-anunciados-los-nombres-de-los-participantes-más-fuertes-de-la-3-etapa-d_cbacc712eca4\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:23:41.833450-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_3ad4f5ed204e",
+  "platform": "gig_os",
+  "title": "[VIDEO] Evento inolvidable en México",
+  "date": "10.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/video-evento-inolvidable-en-mexico-573",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/video-evento-inolvidable-en-mexico-573",
+  "content_hash": "f0094612b2a021c6b892c296c1eab11e82b036969da71037f919ddc105053b9a",
+  "url_hash": "b00dfb50d10ff02bac62a23813a26dd1b81b2d73b4965674cb979429b657c4fa",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-05-2022_video-evento-inolvidable-en-méxico_3ad4f5ed204e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-05-2022_video-evento-inolvidable-en-méxico_3ad4f5ed204e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2022_video-evento-inolvidable-en-méxico_3ad4f5ed204e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1278/10-05-2022-34621-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2022_video-evento-inolvidable-en-méxico_3ad4f5ed204e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1278/dizayn-bez-nazvaniya36_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2022_video-evento-inolvidable-en-méxico_3ad4f5ed204e\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1278/dizayn-bez-nazvaniya37_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2022_video-evento-inolvidable-en-méxico_3ad4f5ed204e\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1278/dizayn-bez-nazvaniya40_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2022_video-evento-inolvidable-en-méxico_3ad4f5ed204e\\image_04.png",
+      "filename": "image_04.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1278/dizayn-bez-nazvaniya-32_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2022_video-evento-inolvidable-en-méxico_3ad4f5ed204e\\image_05.png",
+      "filename": "image_05.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:03:09.350942-03:00",
+  "status": "downloaded"
+}

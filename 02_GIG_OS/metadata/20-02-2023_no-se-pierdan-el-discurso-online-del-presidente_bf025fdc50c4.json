@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_bf025fdc50c4",
+  "platform": "gig_os",
+  "title": "No se pierdan el discurso online del Presidente",
+  "date": "20.02.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/no-se-pierdan-el-discurso-online-del-presidente-692",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/no-se-pierdan-el-discurso-online-del-presidente-692",
+  "content_hash": "aaefb5c59d0453fef1f7a60e1971f88165f068e5f2e95be09a247721e954946d",
+  "url_hash": "b4fbc860f93bd8b4e0245ce4acd0a0a1d3cd817653f34280f6658c6e199902d6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-02-2023_no-se-pierdan-el-discurso-online-del-presidente_bf025fdc50c4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-02-2023_no-se-pierdan-el-discurso-online-del-presidente_bf025fdc50c4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-02-2023_no-se-pierdan-el-discurso-online-del-presidente_bf025fdc50c4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7d/79/43/cd/6a/7d7943cd6a6884d8173f26032fabc2e0_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-02-2023_no-se-pierdan-el-discurso-online-del-presidente_bf025fdc50c4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:42:59.699313-03:00",
+  "status": "downloaded"
+}

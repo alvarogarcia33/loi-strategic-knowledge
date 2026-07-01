@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_5681fab75c77",
+  "platform": "gig_os",
+  "title": "El oro en la cúspide de la gloria en Rusia",
+  "date": "27.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-en-la-cuspide-de-la-gloria-en-rusia-511",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-en-la-cuspide-de-la-gloria-en-rusia-511",
+  "content_hash": "1086d279da2b9985a265e70b83cd60dce272fd15abce885d0012c4879ae8eb98",
+  "url_hash": "201105bde170337c640e4452ce4991fa2c8a2aad931c504000e2191e09feff73",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-12-2021_el-oro-en-la-cúspide-de-la-gloria-en-rusia_5681fab75c77.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-12-2021_el-oro-en-la-cúspide-de-la-gloria-en-rusia_5681fab75c77.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-12-2021_el-oro-en-la-cúspide-de-la-gloria-en-rusia_5681fab75c77",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5d/a1/48/01/c7/5da14801c795ee9fe5cdade973b655b2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-12-2021_el-oro-en-la-cúspide-de-la-gloria-en-rusia_5681fab75c77\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1208/dizayn-bez-nazvaniya-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-12-2021_el-oro-en-la-cúspide-de-la-gloria-en-rusia_5681fab75c77\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:47.524409-03:00",
+  "status": "downloaded"
+}

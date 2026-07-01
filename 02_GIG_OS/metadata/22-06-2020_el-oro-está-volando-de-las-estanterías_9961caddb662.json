@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9961caddb662",
+  "platform": "gig_os",
+  "title": "El oro \"está volando de las estanterías\"",
+  "date": "22.06.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-esta-volando-de-las-estanterias-275",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-esta-volando-de-las-estanterias-275",
+  "content_hash": "9354675247414189b560900004c134491af0866ee8489298aa43a44cdb8108e5",
+  "url_hash": "c6509074de8990267be8b805989ca3ab1536d48d233d36515ec0daa189967cf6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-06-2020_el-oro-está-volando-de-las-estanterías_9961caddb662.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-06-2020_el-oro-está-volando-de-las-estanterías_9961caddb662.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-06-2020_el-oro-está-volando-de-las-estanterías_9961caddb662",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2b/14/83/e0/8c/2b1483e08ccd5029ef267d5305d01822_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-06-2020_el-oro-está-volando-de-las-estanterías_9961caddb662\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/896/new-project_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-06-2020_el-oro-está-volando-de-las-estanterías_9961caddb662\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:14.191602-03:00",
+  "status": "downloaded"
+}

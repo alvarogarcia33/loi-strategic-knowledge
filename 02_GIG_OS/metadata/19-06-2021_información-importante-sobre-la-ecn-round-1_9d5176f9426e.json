@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_9d5176f9426e",
+  "platform": "gig_os",
+  "title": "Información importante sobre la ECN Round 1",
+  "date": "19.06.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informacion-importante-sobre-la-ecn-round-1-434",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informacion-importante-sobre-la-ecn-round-1-434",
+  "content_hash": "8bbae954a8dcebdbd40e254ea43e284b049d648f2503459e30f46e1275bc0585",
+  "url_hash": "675ced3f486e4be8483139124122d6e06ed0dcb0ddf0cb539cfa55b15672df4a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-06-2021_información-importante-sobre-la-ecn-round-1_9d5176f9426e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-06-2021_información-importante-sobre-la-ecn-round-1_9d5176f9426e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-06-2021_información-importante-sobre-la-ecn-round-1_9d5176f9426e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/72/26/e8/ea/aa/7226e8eaaae93acb741e2e600380f61b_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-06-2021_información-importante-sobre-la-ecn-round-1_9d5176f9426e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:24:37.524341-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e2bd83c4ef5f",
+  "platform": "gig_os",
+  "title": "¡Feliz Año Nuevo!",
+  "date": "30.12.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/feliz-ano-nuevo-1148",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/feliz-ano-nuevo-1148",
+  "content_hash": "24c69fba9944e516596ec76e1065f90d8a0ade41ef02bac8f9c17fd81bcaa39f",
+  "url_hash": "4e5f7b5ae93df82f5ebbbf581091f07119d97d4384093ed8b97226ab403b39eb",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-12-2025_feliz-año-nuevo_e2bd83c4ef5f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-12-2025_feliz-año-nuevo_e2bd83c4ef5f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-12-2025_feliz-año-nuevo_e2bd83c4ef5f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/e6/48/25/7e/ff/e648257eff3479cac55e524cfa4e0e5a_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-12-2025_feliz-año-nuevo_e2bd83c4ef5f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:15.125621-03:00",
+  "status": "downloaded"
+}

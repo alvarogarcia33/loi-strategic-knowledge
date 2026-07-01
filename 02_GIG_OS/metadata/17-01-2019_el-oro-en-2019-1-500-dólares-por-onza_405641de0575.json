@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_405641de0575",
+  "platform": "gig_os",
+  "title": "¡El oro en 2019: 1.500 dólares por onza!",
+  "date": "17.01.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-en-2019-1500-dolares-por-onza",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-en-2019-1500-dolares-por-onza",
+  "content_hash": "b217c42184034627287a1469ffcb7090d5add10cb274f08983f84dc425247c30",
+  "url_hash": "7554b118c04568f3591a41fbbfffbf182cf07372944c46d698c1ca68990145c3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-01-2019_el-oro-en-2019-1-500-dólares-por-onza_405641de0575.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-01-2019_el-oro-en-2019-1-500-dólares-por-onza_405641de0575.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-01-2019_el-oro-en-2019-1-500-dólares-por-onza_405641de0575",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/87/68/b8/09/50/8768b809505bd8f1411c0da01534f514_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/632/global-intergold-oro-la-seguridad-financiera-20.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/632/global-intergold-oro-la-seguridad-financiera-21.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/632/global-intergold-gold-financial-security-4161.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:25.257733-03:00",
+  "status": "downloaded"
+}

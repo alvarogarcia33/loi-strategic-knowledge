@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d6b2db598a52",
+  "platform": "gig_os",
+  "title": "La costumbre de ser rico",
+  "date": "16.12.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-costumbre-de-ser-rico-506",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-costumbre-de-ser-rico-506",
+  "content_hash": "5429eddabc4e7ec7af8a0a00a39aaa7b60e27e1ef74d85b2195e0fd0e5695f56",
+  "url_hash": "3faae582ecf52d5418c53732c1b3098c6fa8e7401848b3ba63c173eef9ebb456",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-12-2021_la-costumbre-de-ser-rico_d6b2db598a52.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-12-2021_la-costumbre-de-ser-rico_d6b2db598a52.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2021_la-costumbre-de-ser-rico_d6b2db598a52",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9e/f5/4d/7e/84/9ef54d7e8436a5941789715d554198b1_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2021_la-costumbre-de-ser-rico_d6b2db598a52\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1161/la-costumbre-de-ser-rico_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-12-2021_la-costumbre-de-ser-rico_d6b2db598a52\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:10.706302-03:00",
+  "status": "downloaded"
+}

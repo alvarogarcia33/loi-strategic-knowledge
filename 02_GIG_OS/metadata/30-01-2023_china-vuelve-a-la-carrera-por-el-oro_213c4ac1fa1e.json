@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_213c4ac1fa1e",
+  "platform": "gig_os",
+  "title": "China vuelve a la carrera por el oro",
+  "date": "30.01.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/china-vuelve-a-la-carrera-por-el-oro-681",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/china-vuelve-a-la-carrera-por-el-oro-681",
+  "content_hash": "f4472886e4498d3ded2582a89e13f2fd8d0d013ad0e1d79c961d1289a7c03e43",
+  "url_hash": "a37c452920136640cb7b28c5aae00660cb1d7d3c7545558c627d0824a9470934",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-01-2023_china-vuelve-a-la-carrera-por-el-oro_213c4ac1fa1e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-01-2023_china-vuelve-a-la-carrera-por-el-oro_213c4ac1fa1e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-01-2023_china-vuelve-a-la-carrera-por-el-oro_213c4ac1fa1e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d1/a3/af/b7/11/d1a3afb711064fbdef8b645dcfaffc2f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-01-2023_china-vuelve-a-la-carrera-por-el-oro_213c4ac1fa1e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1399/chinese-gold_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-01-2023_china-vuelve-a-la-carrera-por-el-oro_213c4ac1fa1e\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:44.148262-03:00",
+  "status": "downloaded"
+}

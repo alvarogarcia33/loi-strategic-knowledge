@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_7f7d0cdcec25",
+  "platform": "gig_os",
+  "title": "¡Su IMPULSE a la acción!",
+  "date": "06.01.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/su-impulse-a-la-accion-674",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/su-impulse-a-la-accion-674",
+  "content_hash": "e55c5a236303e2454af0b3fe56148a8259d2e661ba701962c766f06699bf2708",
+  "url_hash": "a66b8d99a3521f9b6d5f26934c335a17c49441fd7e7b6bd714afedaf89b9eea9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-01-2023_su-impulse-a-la-acción_7f7d0cdcec25.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-01-2023_su-impulse-a-la-acción_7f7d0cdcec25.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-01-2023_su-impulse-a-la-acción_7f7d0cdcec25",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bc/63/99/97/69/bc63999769de61f4d8e5b7830fce4043_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-01-2023_su-impulse-a-la-acción_7f7d0cdcec25\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:38.821237-03:00",
+  "status": "downloaded"
+}

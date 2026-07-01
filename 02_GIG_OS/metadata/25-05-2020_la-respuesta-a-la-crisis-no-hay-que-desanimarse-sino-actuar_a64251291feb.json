@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_a64251291feb",
+  "platform": "gig_os",
+  "title": "La respuesta a la crisis: no hay que desanimarse, sino actuar",
+  "date": "25.05.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-respuesta-a-la-crisis-no-hay-que-desanimarse-sino-actuar-262",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-respuesta-a-la-crisis-no-hay-que-desanimarse-sino-actuar-262",
+  "content_hash": "9c3b07ae11aabb3038de54f0fc6ec35e8e05ec5297f81aaf5bb19e75742f38e5",
+  "url_hash": "cfd825765c5c5f04bd8a21ab28efc3f0718a08eaf4a4545a41fcbf9ced7e260a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-05-2020_la-respuesta-a-la-crisis-no-hay-que-desanimarse-sino-actuar_a64251291feb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-05-2020_la-respuesta-a-la-crisis-no-hay-que-desanimarse-sino-actuar_a64251291feb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-05-2020_la-respuesta-a-la-crisis-no-hay-que-desanimarse-sino-actuar_a64251291feb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/6c/f7/c7/c0/92/6cf7c7c092ca0b6662e3c58072485f28_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-05-2020_la-respuesta-a-la-crisis-no-hay-que-desanimarse-sino-actuar_a64251291feb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:35.870854-03:00",
+  "status": "downloaded"
+}

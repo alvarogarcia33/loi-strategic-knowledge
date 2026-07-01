@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ff0f751971dc",
+  "platform": "gig_os",
+  "title": "La demanda de oro alcanza niveles colosales",
+  "date": "22.03.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-demanda-de-oro-alcanza-niveles-colosales-550",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-demanda-de-oro-alcanza-niveles-colosales-550",
+  "content_hash": "7ea04d2500b2c8404a20113aeb6033e2a9ce047fffe90e9b562371cc30fe629d",
+  "url_hash": "dc58c5c8868aecce3c8b6962229d0bd168c3386c2f7335480b12e236a5b7f2b0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-03-2022_la-demanda-de-oro-alcanza-niveles-colosales_ff0f751971dc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-03-2022_la-demanda-de-oro-alcanza-niveles-colosales_ff0f751971dc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2022_la-demanda-de-oro-alcanza-niveles-colosales_ff0f751971dc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bb/39/3f/3d/3d/bb393f3d3d2e0aca4a5c92d9b1eb5e7c_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2022_la-demanda-de-oro-alcanza-niveles-colosales_ff0f751971dc\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1254/new-project-13_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-03-2022_la-demanda-de-oro-alcanza-niveles-colosales_ff0f751971dc\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:31:34.165268-03:00",
+  "status": "downloaded"
+}

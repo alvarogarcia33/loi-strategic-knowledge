@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_a4c0f303534d",
+  "platform": "gig_os",
+  "title": "¡Participe en la prueba del Juego!",
+  "date": "16.05.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/participe-en-la-prueba-del-juego-1078",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/participe-en-la-prueba-del-juego-1078",
+  "content_hash": "c1d8f358cff185d191cad8f101392fa3f768d4336ac5eeab42ddeb2ebc997e3c",
+  "url_hash": "a7d2402d545e09f4e12e451bdc0eec67e89efd6d30b75c7ceda64f8bd58c85a0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-05-2025_participe-en-la-prueba-del-juego_a4c0f303534d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-05-2025_participe-en-la-prueba-del-juego_a4c0f303534d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2025_participe-en-la-prueba-del-juego_a4c0f303534d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/05/56/94/6e/7a/0556946e7a9c73b50dc1024f401661f6_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-05-2025_participe-en-la-prueba-del-juego_a4c0f303534d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:17.088963-03:00",
+  "status": "downloaded"
+}

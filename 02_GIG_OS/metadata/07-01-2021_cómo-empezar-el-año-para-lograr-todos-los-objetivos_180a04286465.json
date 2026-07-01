@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_180a04286465",
+  "platform": "gig_os",
+  "title": "Cómo empezar el año para lograr todos los objetivos",
+  "date": "07.01.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/como-empezar-el-ano-para-lograr-todos-los-objetivos-354",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/como-empezar-el-ano-para-lograr-todos-los-objetivos-354",
+  "content_hash": "517a8b1064e7d92a6bb4b707bd6f299abf696e73e438f9bc45ceb45af0729ff0",
+  "url_hash": "1733aa24cb296784da3a1e36eca6cb4229d178bdb36f68d85a5b3896f72450a0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-01-2021_cómo-empezar-el-año-para-lograr-todos-los-objetivos_180a04286465.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-01-2021_cómo-empezar-el-año-para-lograr-todos-los-objetivos_180a04286465.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-01-2021_cómo-empezar-el-año-para-lograr-todos-los-objetivos_180a04286465",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0b/2a/46/2d/45/0b2a462d459e7d85db42901f94547cf9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-01-2021_cómo-empezar-el-año-para-lograr-todos-los-objetivos_180a04286465\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1018/image27_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-01-2021_cómo-empezar-el-año-para-lograr-todos-los-objetivos_180a04286465\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:03:25.760853-03:00",
+  "status": "downloaded"
+}

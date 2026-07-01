@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_5046ef424448",
+  "platform": "gig_os",
+  "title": "El valor de GOS Coin aumentó un 20%",
+  "date": "09.01.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-valor-de-gos-coin-aumento-un-20-1151",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-valor-de-gos-coin-aumento-un-20-1151",
+  "content_hash": "93db4409ec79e953184aa176a4e6451b8479effee5e3732a1fef06ea6e4d45ee",
+  "url_hash": "1022c1818dd5c0f206d38f644fcaaa05c4a19e5c8ea0f0b1305c5f8e418341a3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-01-2026_el-valor-de-gos-coin-aumentó-un-20_5046ef424448.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-01-2026_el-valor-de-gos-coin-aumentó-un-20_5046ef424448.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-01-2026_el-valor-de-gos-coin-aumentó-un-20_5046ef424448",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/46/ff/71/f7/e4/46ff71f7e4f16f550916b6ccbc5d362c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-01-2026_el-valor-de-gos-coin-aumentó-un-20_5046ef424448\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:41.632335-03:00",
+  "status": "downloaded"
+}

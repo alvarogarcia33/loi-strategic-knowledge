@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_c9457f2f73d5",
+  "platform": "gig_os",
+  "title": "¡Prepárense con antelación para el lanzamiento del marketplace!",
+  "date": "20.02.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/preparense-con-antelacion-para-el-lanzamiento-del-marketplace-884",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/preparense-con-antelacion-para-el-lanzamiento-del-marketplace-884",
+  "content_hash": "1dae8e3c7eaea96a3154c97b0d17b4ea6bdac457f91dd9436db9e2007ce6f718",
+  "url_hash": "1dbd9675ca949470bf64bd32fae5e29cd56fd3cc90c87ba37e39016c2396e450",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-02-2024_prepárense-con-antelación-para-el-lanzamiento-del-marketplace_c9457f2f73d5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-02-2024_prepárense-con-antelación-para-el-lanzamiento-del-marketplace_c9457f2f73d5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-02-2024_prepárense-con-antelación-para-el-lanzamiento-del-marketplace_c9457f2f73d5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/01/3c/3f/33/9c/013c3f339cb5a7d55718378702551eb4_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-02-2024_prepárense-con-antelación-para-el-lanzamiento-del-marketplace_c9457f2f73d5\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1632/gigosdk-mpa-01-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-02-2024_prepárense-con-antelación-para-el-lanzamiento-del-marketplace_c9457f2f73d5\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1632/call-to-action-mpa-20-02-2024-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-02-2024_prepárense-con-antelación-para-el-lanzamiento-del-marketplace_c9457f2f73d5\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:38.256524-03:00",
+  "status": "downloaded"
+}

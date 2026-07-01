@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_70418106a807",
+  "platform": "gig_os",
+  "title": "El virus LFS: ¿Por qué crece la cantidad de migrantes?",
+  "date": "11.07.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-virus-lfs-por-que-crece-la-cantidad-de-migrantes",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-virus-lfs-por-que-crece-la-cantidad-de-migrantes",
+  "content_hash": "0b07516230b0bf97a76625c23e5ce718318d5261559d0cbe9e16f77fd3f74211",
+  "url_hash": "51592ed512f204615ba7005633b34d5f2ee87c78a430bbb7c12dc285c2305949",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-07-2018_el-virus-lfs-por-qué-crece-la-cantidad-de-migrantes_70418106a807.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-07-2018_el-virus-lfs-por-qué-crece-la-cantidad-de-migrantes_70418106a807.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2018_el-virus-lfs-por-qué-crece-la-cantidad-de-migrantes_70418106a807",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/f5/fb/fe/ba/85/f5fbfeba85969c7c8edda6fe961964ae_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2018_el-virus-lfs-por-qué-crece-la-cantidad-de-migrantes_70418106a807\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/521/global-intergold-oro-la-seguridad-financiera-3_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/521/global-intergold-oro-la-seguridad-financiera-5_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/521/global-intergold-oro-la-seguridad-financiera-6_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:13:05.132474-03:00",
+  "status": "downloaded"
+}

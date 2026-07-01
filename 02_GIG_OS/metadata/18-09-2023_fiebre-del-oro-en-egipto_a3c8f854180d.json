@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_a3c8f854180d",
+  "platform": "gig_os",
+  "title": "«Fiebre del oro» en Egipto",
+  "date": "18.09.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/fiebre-del-oro-en-egipto-790",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/fiebre-del-oro-en-egipto-790",
+  "content_hash": "f21425e78c326a9085577df5f54c5bbed6d81026af8d356ce92b8657cd20159d",
+  "url_hash": "61fa99db52b3c08ec752640076086b0539dca8c44a4e8be69cdca944d20e598a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\18-09-2023_fiebre-del-oro-en-egipto_a3c8f854180d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\18-09-2023_fiebre-del-oro-en-egipto_a3c8f854180d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2023_fiebre-del-oro-en-egipto_a3c8f854180d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/69/4d/44/c5/2a/694d44c52a9613d7ce939aa8fc8d9665_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2023_fiebre-del-oro-en-egipto_a3c8f854180d\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1528/gold3_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\18-09-2023_fiebre-del-oro-en-egipto_a3c8f854180d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:34.248477-03:00",
+  "status": "downloaded"
+}

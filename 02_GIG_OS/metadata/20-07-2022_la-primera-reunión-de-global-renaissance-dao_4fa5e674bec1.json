@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4fa5e674bec1",
+  "platform": "gig_os",
+  "title": "¡La primera reunión de GLOBAL RENAISSANCE DAO!",
+  "date": "20.07.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-primera-reunion-de-global-renaissance-dao-602",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-primera-reunion-de-global-renaissance-dao-602",
+  "content_hash": "f56b706cc334f1f65aaa86e13f6fbc1c31488f00504e6a3b004bbad837239b2d",
+  "url_hash": "86a911c29e93e7e8b7cd028b5e799d314d940b90b30a0d5ee95be8f444ae006f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-07-2022_la-primera-reunión-de-global-renaissance-dao_4fa5e674bec1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-07-2022_la-primera-reunión-de-global-renaissance-dao_4fa5e674bec1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-07-2022_la-primera-reunión-de-global-renaissance-dao_4fa5e674bec1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/70/b9/e4/a7/c5/70b9e4a7c5a94798fb595cd3bdf00025_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-07-2022_la-primera-reunión-de-global-renaissance-dao_4fa5e674bec1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:34:07.250659-03:00",
+  "status": "downloaded"
+}

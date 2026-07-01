@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_59c1b3ebb450",
+  "platform": "gig_os",
+  "title": "Pronto tendrá lugar la conferencia online First Milestone 2024. ¡No se la pierdan!",
+  "date": "31.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/pronto-tendra-lugar-la-conferencia-online-first-milestone-2024-no-se-la-pierdan-870",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/pronto-tendra-lugar-la-conferencia-online-first-milestone-2024-no-se-la-pierdan-870",
+  "content_hash": "573c681ffe1d34886bf0544b3e072e453c6b0243d7598e01d9fa11e2eaa9ec3d",
+  "url_hash": "a477f8991ecce0edb32dd50c84c18ed147a96d7b6a373d074cf20ecdee909d53",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\31-01-2024_pronto-tendrá-lugar-la-conferencia-online-first-milestone-2024-no-se-la-pierdan_59c1b3ebb450.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\31-01-2024_pronto-tendrá-lugar-la-conferencia-online-first-milestone-2024-no-se-la-pierdan_59c1b3ebb450.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-01-2024_pronto-tendrá-lugar-la-conferencia-online-first-milestone-2024-no-se-la-pierdan_59c1b3ebb450",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5f/fd/7a/e6/9b/5ffd7ae69b6d16ea0ec6efb442ccb58e_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-01-2024_pronto-tendrá-lugar-la-conferencia-online-first-milestone-2024-no-se-la-pierdan_59c1b3ebb450\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1611/element-for-text-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-01-2024_pronto-tendrá-lugar-la-conferencia-online-first-milestone-2024-no-se-la-pierdan_59c1b3ebb450\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1616/call-to-action-first-milestone-30-01-2024-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-01-2024_pronto-tendrá-lugar-la-conferencia-online-first-milestone-2024-no-se-la-pierdan_59c1b3ebb450\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:49:29.178560-03:00",
+  "status": "downloaded"
+}

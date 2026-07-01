@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_f20516cccd82",
+  "platform": "gig_os",
+  "title": "El oro ha dejado atrás al euro",
+  "date": "24.06.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-ha-dejado-atras-al-euro-950",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-ha-dejado-atras-al-euro-950",
+  "content_hash": "b559e8990cf8f8e6cbf3d1e581826e66cba6d84ae222c2255f739fd5e2899446",
+  "url_hash": "1b93657ab1bd64a13499a07c3b663642e225e06065c3413a497e97eb9613d160",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-06-2024_el-oro-ha-dejado-atrás-al-euro_f20516cccd82.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-06-2024_el-oro-ha-dejado-atrás-al-euro_f20516cccd82.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-06-2024_el-oro-ha-dejado-atrás-al-euro_f20516cccd82",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b4/32/ec/76/f6/b432ec76f60f4cedc96a7100eb91e1af_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-06-2024_el-oro-ha-dejado-atrás-al-euro_f20516cccd82\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1712/global-internationalreserves_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-06-2024_el-oro-ha-dejado-atrás-al-euro_f20516cccd82\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-06-2024_el-oro-ha-dejado-atrás-al-euro_f20516cccd82\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:17.479544-03:00",
+  "status": "downloaded"
+}

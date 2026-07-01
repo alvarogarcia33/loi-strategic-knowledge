@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ea71922a00a9",
+  "platform": "gig_os",
+  "title": "¿Quién extrajo más oro en 2021?",
+  "date": "14.02.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/quien-extrajo-mas-oro-en-2021-532",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/quien-extrajo-mas-oro-en-2021-532",
+  "content_hash": "ee525b43b2bb73b08cf517a64bb2a2814778dd838f2071ecb3ac1b83c5a914d0",
+  "url_hash": "afbdbc916e8ef20dea369caeabe7a8e7e70087e5555c2f1782a985c2cd35b70f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-02-2022_quién-extrajo-más-oro-en-2021_ea71922a00a9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-02-2022_quién-extrajo-más-oro-en-2021_ea71922a00a9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2022_quién-extrajo-más-oro-en-2021_ea71922a00a9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d3/98/cf/7d/a9/d398cf7da93046c25f5b5414357cd9e8_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2022_quién-extrajo-más-oro-en-2021_ea71922a00a9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1231/es-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-02-2022_quién-extrajo-más-oro-en-2021_ea71922a00a9\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:51:37.322961-03:00",
+  "status": "downloaded"
+}

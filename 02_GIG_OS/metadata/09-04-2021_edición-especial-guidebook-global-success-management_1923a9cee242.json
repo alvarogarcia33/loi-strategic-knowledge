@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1923a9cee242",
+  "platform": "gig_os",
+  "title": "Edición especial: GUIDEBOOK Global Success Management",
+  "date": "09.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/edicion-especial-guidebook-global-success-management-397",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/edicion-especial-guidebook-global-success-management-397",
+  "content_hash": "c5c20e4e7781b86e1a89ef09e6d494473a121d948eb9ae8533607c5c7f3daf28",
+  "url_hash": "551b6ef050703e535e35e578c067d81f226f73d7859965732b63ae63230cfc8c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-04-2021_edición-especial-guidebook-global-success-management_1923a9cee242.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-04-2021_edición-especial-guidebook-global-success-management_1923a9cee242.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2021_edición-especial-guidebook-global-success-management_1923a9cee242",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5a/9a/a5/81/29/5a9aa581294adc78b544d8c2f70a2a45_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2021_edición-especial-guidebook-global-success-management_1923a9cee242\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1073/pic-02-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2021_edición-especial-guidebook-global-success-management_1923a9cee242\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:06:35.425918-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_063d71f43fe2",
+  "platform": "gig_os",
+  "title": "Informe de la cotización del oro al 20 de noviembre de 2018",
+  "date": "20.11.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-20-de-noviembre-de-2018",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/informe-de-la-cotizacion-del-oro-al-20-de-noviembre-de-2018",
+  "content_hash": "eb95ee71cd85ba5d588f88193c3864dbbc3290bf5f1bd93a73735f1a2c68141b",
+  "url_hash": "50e4f96588501719a8858590d2d976313fa003815fa7bb830ac5664fb45a16cc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-11-2018_informe-de-la-cotización-del-oro-al-20-de-noviembre-de-2018_063d71f43fe2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-11-2018_informe-de-la-cotización-del-oro-al-20-de-noviembre-de-2018_063d71f43fe2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-11-2018_informe-de-la-cotización-del-oro-al-20-de-noviembre-de-2018_063d71f43fe2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9a/42/e0/2a/3b/9a42e02a3b3b42a637c13340ec615a95_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/603/global-intergold-gold-informe-de-la-cotizacion-del-oro-10_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/603/global-intergold-gold-informe-de-la-cotizacion-del-oro-11_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/603/global-intergold-gold-informe-de-la-cotizacion-del-oro-9_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:26:29.970035-03:00",
+  "status": "downloaded"
+}

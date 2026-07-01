@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_8735f0f1cd55",
+  "platform": "gig_os",
+  "title": "Mañana: mensaje especial del Presidente",
+  "date": "13.10.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/manana-mensaje-especial-del-presidente-635",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/manana-mensaje-especial-del-presidente-635",
+  "content_hash": "b6ed7d7c7a4d3b2c999be47e5e921fb2c8ebc81a1143ff2f0583b6db922ce1a0",
+  "url_hash": "c29f08156753d5bc007a20b2126ab04dca51edc1ae1e7321864e9c52b9ae6393",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-10-2022_mañana-mensaje-especial-del-presidente_8735f0f1cd55.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-10-2022_mañana-mensaje-especial-del-presidente_8735f0f1cd55.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-10-2022_mañana-mensaje-especial-del-presidente_8735f0f1cd55",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/51/15/9a/3e/ad/51159a3ead22efceefc0c87b495b2ed3_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-10-2022_mañana-mensaje-especial-del-presidente_8735f0f1cd55\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:38:49.104569-03:00",
+  "status": "downloaded"
+}

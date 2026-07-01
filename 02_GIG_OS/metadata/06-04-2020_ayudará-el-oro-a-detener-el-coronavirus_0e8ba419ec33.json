@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_0e8ba419ec33",
+  "platform": "gig_os",
+  "title": "¿Ayudará el oro a detener el coronavirus?",
+  "date": "06.04.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ayudara-el-oro-a-detener-el-coronavirus-240",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ayudara-el-oro-a-detener-el-coronavirus-240",
+  "content_hash": "66b4642095937a531dfba1e3c69ba8c098c1cad503db9fabf281c06a1baebaba",
+  "url_hash": "32ed5599d49cd4e75ce56aad4a46f6c9eb801be23791f3a55d30c2674d61c768",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-04-2020_ayudará-el-oro-a-detener-el-coronavirus_0e8ba419ec33.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-04-2020_ayudará-el-oro-a-detener-el-coronavirus_0e8ba419ec33.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-04-2020_ayudará-el-oro-a-detener-el-coronavirus_0e8ba419ec33",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/60/b0/13/7f/4f/60b0137f4ff961035c5f5ca8a098bf7d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-04-2020_ayudará-el-oro-a-detener-el-coronavirus_0e8ba419ec33\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/855/global-intergold--malaria-test_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-04-2020_ayudará-el-oro-a-detener-el-coronavirus_0e8ba419ec33\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/855/es1_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-04-2020_ayudará-el-oro-a-detener-el-coronavirus_0e8ba419ec33\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:59:29.966997-03:00",
+  "status": "downloaded"
+}

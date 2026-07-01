@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c6a9d971c9d8",
+  "platform": "gig_os",
+  "title": "Etapa final: cuando la perseverancia y la rapidez lo deciden todo",
+  "date": "04.02.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/etapa-final-cuando-la-perseverancia-y-la-rapidez-lo-deciden-todo-0162",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/etapa-final-cuando-la-perseverancia-y-la-rapidez-lo-deciden-todo-0162",
+  "content_hash": "0f6096547e5c6d447182132d78ab5c46e3f13061528a1d2f2e57aa42db00da6f",
+  "url_hash": "ab0032f3669c79ab907e7dbb4cf704f6c5b74300aa2eabd5da088f8f9ec46c3b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-02-2026_etapa-final-cuando-la-perseverancia-y-la-rapidez-lo-deciden-todo_c6a9d971c9d8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-02-2026_etapa-final-cuando-la-perseverancia-y-la-rapidez-lo-deciden-todo_c6a9d971c9d8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-02-2026_etapa-final-cuando-la-perseverancia-y-la-rapidez-lo-deciden-todo_c6a9d971c9d8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/66/b6/22/73/9e/66b622739e86d2c2d4a3f800e600d4b0_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-02-2026_etapa-final-cuando-la-perseverancia-y-la-rapidez-lo-deciden-todo_c6a9d971c9d8\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:21.334703-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_5056918e530a",
+  "platform": "gig_os",
+  "title": "Ahorrar fondos: una tendencia creciente",
+  "date": "02.06.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ahorrar-fondos-una-tendencia-creciente-582",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ahorrar-fondos-una-tendencia-creciente-582",
+  "content_hash": "f8e03e33461019047fb27e2f0d73b40850a0e17f096233b6fb0467d6a6bc76de",
+  "url_hash": "a3623490ca3a59aa1b6d3d64314c794e92f8f8915db37c436d9cd6891a16fc4f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-06-2022_ahorrar-fondos-una-tendencia-creciente_5056918e530a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-06-2022_ahorrar-fondos-una-tendencia-creciente_5056918e530a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-06-2022_ahorrar-fondos-una-tendencia-creciente_5056918e530a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ab/7d/12/5e/97/ab7d125e977607820bc929a4aeb166c0_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-06-2022_ahorrar-fondos-una-tendencia-creciente_5056918e530a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1288/novyy-proekt14_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-06-2022_ahorrar-fondos-una-tendencia-creciente_5056918e530a\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1288/novyy-proekt3-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-06-2022_ahorrar-fondos-una-tendencia-creciente_5056918e530a\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:57:22.447726-03:00",
+  "status": "downloaded"
+}

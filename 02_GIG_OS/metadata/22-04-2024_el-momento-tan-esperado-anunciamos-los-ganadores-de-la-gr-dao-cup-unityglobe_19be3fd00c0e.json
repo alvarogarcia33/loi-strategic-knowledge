@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_19be3fd00c0e",
+  "platform": "gig_os",
+  "title": "El momento tan esperado: ¡anunciamos los ganadores de la GR DAO CUP UnityGlobe!",
+  "date": "22.04.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-momento-tan-esperado-anunciamos-los-ganadores-de-la-gr-dao-cup-unityglobe-917",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-momento-tan-esperado-anunciamos-los-ganadores-de-la-gr-dao-cup-unityglobe-917",
+  "content_hash": "c2bddde9e19f82df5a8c4a30eef5de1467056b086f774a047a32a8ed64e9c40f",
+  "url_hash": "42d46dec94f2a16e2e6512180959cbb26585d25abf2efd833b564eb68d2d561b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-04-2024_el-momento-tan-esperado-anunciamos-los-ganadores-de-la-gr-dao-cup-unityglobe_19be3fd00c0e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-04-2024_el-momento-tan-esperado-anunciamos-los-ganadores-de-la-gr-dao-cup-unityglobe_19be3fd00c0e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-04-2024_el-momento-tan-esperado-anunciamos-los-ganadores-de-la-gr-dao-cup-unityglobe_19be3fd00c0e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d9/d7/7c/10/10/d9d77c10101dede7654de3375abca73a_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-04-2024_el-momento-tan-esperado-anunciamos-los-ganadores-de-la-gr-dao-cup-unityglobe_19be3fd00c0e\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1670/unity-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-04-2024_el-momento-tan-esperado-anunciamos-los-ganadores-de-la-gr-dao-cup-unityglobe_19be3fd00c0e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:08:49.051428-03:00",
+  "status": "downloaded"
+}

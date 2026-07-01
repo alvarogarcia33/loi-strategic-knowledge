@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_ba99a34f0846",
+  "platform": "gig_os",
+  "title": "¡Faltan 5 días para el NextEra Forum!",
+  "date": "13.11.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/faltan-5-dias-para-el-nextera-forum-820",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/faltan-5-dias-para-el-nextera-forum-820",
+  "content_hash": "7bd737effa6c2de94dce8bb003e5540d7f1b12aa094a45fd1dbb39e4b8a229ae",
+  "url_hash": "a382360d3d3f26bb1c7a0743b4598d1ecede21f5db2ea2c4ea79d30b30f2181f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-11-2023_faltan-5-días-para-el-nextera-forum_ba99a34f0846.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-11-2023_faltan-5-días-para-el-nextera-forum_ba99a34f0846.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-11-2023_faltan-5-días-para-el-nextera-forum_ba99a34f0846",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d1/93/5e/7e/b4/d1935e7eb48f0df4e9be4ec940e69bba_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-11-2023_faltan-5-días-para-el-nextera-forum_ba99a34f0846\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:15:32.583814-03:00",
+  "status": "downloaded"
+}

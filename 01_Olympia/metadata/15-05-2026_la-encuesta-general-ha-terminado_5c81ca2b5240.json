@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_5c81ca2b5240",
+  "platform": "olympia",
+  "title": "La encuesta general ha terminado",
+  "date": "15.05.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/la-encuesta-general-ha-terminado-0200",
+  "canonical_url": "https://olympia-lab.com/es/news/post/la-encuesta-general-ha-terminado-0200",
+  "content_hash": "cdc2d8e4256de6192b69f1664fde2db5beda31712b323ce350278b1096325d5d",
+  "url_hash": "9b8e0bf2972f4add4c4b748519e071a8715232eda3a9c8031f9562978b9b0c31",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\15-05-2026_la-encuesta-general-ha-terminado_5c81ca2b5240.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\15-05-2026_la-encuesta-general-ha-terminado_5c81ca2b5240.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-05-2026_la-encuesta-general-ha-terminado_5c81ca2b5240",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/93/48/9b/49/37/93489b4937d0b15709806a0c89437358.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-05-2026_la-encuesta-general-ha-terminado_5c81ca2b5240\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/97/5a/78/61/d3/975a7861d31f7f583ca3b310b7f4b418_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-05-2026_la-encuesta-general-ha-terminado_5c81ca2b5240\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0b/73/74/95/44/0b737495445a2909e41b948bd7e3ad8e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-05-2026_la-encuesta-general-ha-terminado_5c81ca2b5240\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/95/c9/97/e5/a7/95c997e5a7a7923e524730988afd52ed_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-05-2026_la-encuesta-general-ha-terminado_5c81ca2b5240\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/14/d5/da/67/3a/14d5da673a6acbffabbc90d4ef1d4952_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-05-2026_la-encuesta-general-ha-terminado_5c81ca2b5240\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/6c/c9/46/e1/da6cc946e1ef65d70b3d486c76929e0e_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\15-05-2026_la-encuesta-general-ha-terminado_5c81ca2b5240\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T16:20:01.557973-03:00",
+  "status": "downloaded"
+}

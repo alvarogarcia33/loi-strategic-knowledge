@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_6bb55d54ebc6",
+  "platform": "gig_os",
+  "title": "Prepárense para un importante discurso del Presidente",
+  "date": "28.02.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/preparense-para-un-importante-discurso-del-presidente-696",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/preparense-para-un-importante-discurso-del-presidente-696",
+  "content_hash": "0ce728673f92582a43992c1f4ea23c07ae7caac83a4326f1b5d68129a92bdad4",
+  "url_hash": "ebd20d592bc9a9b0d528f8dcde13675b0ccaae4d2e39d660d799e32df0dae173",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-02-2023_prepárense-para-un-importante-discurso-del-presidente_6bb55d54ebc6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-02-2023_prepárense-para-un-importante-discurso-del-presidente_6bb55d54ebc6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-02-2023_prepárense-para-un-importante-discurso-del-presidente_6bb55d54ebc6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/29/a6/0e/e0/f9/29a60ee0f9dfc1efcfd78d2312051705_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-02-2023_prepárense-para-un-importante-discurso-del-presidente_6bb55d54ebc6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:44.306667-03:00",
+  "status": "downloaded"
+}

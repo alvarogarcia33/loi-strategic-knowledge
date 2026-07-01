@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_e7ce5566b39f",
+  "platform": "gig_os",
+  "title": "¡Feliz Navidad!",
+  "date": "25.12.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/feliz-navidad-847",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/feliz-navidad-847",
+  "content_hash": "b7cbbd7cc93d2e16f7e90bf272747bdaa01c2c490f906b4337ff8ed337f8585b",
+  "url_hash": "8e3258068dde6d9edbe3224df9b810cfbfc5b3cb76187c5bf680d966ed510972",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-12-2023_feliz-navidad_e7ce5566b39f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-12-2023_feliz-navidad_e7ce5566b39f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-12-2023_feliz-navidad_e7ce5566b39f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/01/c3/51/32/75/01c35132759cdf4c9db4ba7606e18cdf_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-12-2023_feliz-navidad_e7ce5566b39f\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:16:26.704476-03:00",
+  "status": "downloaded"
+}

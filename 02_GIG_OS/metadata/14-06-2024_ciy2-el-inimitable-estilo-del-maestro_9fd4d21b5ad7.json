@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_9fd4d21b5ad7",
+  "platform": "gig_os",
+  "title": "CIY2: el inimitable estilo del maestro",
+  "date": "14.06.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ciy2-el-inimitable-estilo-del-maestro-947",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ciy2-el-inimitable-estilo-del-maestro-947",
+  "content_hash": "549fce09b1f3694dd60a3db46580b77f12707748bfd550838aa507c390b890d3",
+  "url_hash": "c775b9ea4e3cd462cffce550ca7d3483d840ac64e9252318d83b8a0177b49926",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\14-06-2024_ciy2-el-inimitable-estilo-del-maestro_9fd4d21b5ad7.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\14-06-2024_ciy2-el-inimitable-estilo-del-maestro_9fd4d21b5ad7.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-06-2024_ciy2-el-inimitable-estilo-del-maestro_9fd4d21b5ad7",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ff/6c/69/a5/b1/ff6c69a5b1e5dc4548dc7d3737c9dcad_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-06-2024_ciy2-el-inimitable-estilo-del-maestro_9fd4d21b5ad7\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1707/bracelet-red-ciy-2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-06-2024_ciy2-el-inimitable-estilo-del-maestro_9fd4d21b5ad7\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1707/commodity-board-ciy2_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\14-06-2024_ciy2-el-inimitable-estilo-del-maestro_9fd4d21b5ad7\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:02:00.579029-03:00",
+  "status": "downloaded"
+}

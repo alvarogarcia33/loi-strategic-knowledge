@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_d9b57bb90b56",
+  "platform": "gig_os",
+  "title": "¿Qué hay que saber sobre las frases mnemotécnicas para monederos digitales?",
+  "date": "01.08.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-hay-que-saber-sobre-las-frases-mnemotecnicas-para-monederos-digitales-968",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-hay-que-saber-sobre-las-frases-mnemotecnicas-para-monederos-digitales-968",
+  "content_hash": "7ae3769bf4c8719ad9dc9d8dfc2f7dd7a3915af0bf83cb0cbb69859fcad2d235",
+  "url_hash": "30d302410d6430ffe2a8643f671415291b46d72dd6374d4bf3d36df21ac5d77d",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-08-2024_qué-hay-que-saber-sobre-las-frases-mnemotécnicas-para-monederos-digitales_d9b57bb90b56.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-08-2024_qué-hay-que-saber-sobre-las-frases-mnemotécnicas-para-monederos-digitales_d9b57bb90b56.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-08-2024_qué-hay-que-saber-sobre-las-frases-mnemotécnicas-para-monederos-digitales_d9b57bb90b56",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b4/7f/9b/3a/4e/b47f9b3a4e28e4f7260b321111452427_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-08-2024_qué-hay-que-saber-sobre-las-frases-mnemotécnicas-para-monederos-digitales_d9b57bb90b56\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1733/image2024-08-0118-38-24_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-08-2024_qué-hay-que-saber-sobre-las-frases-mnemotécnicas-para-monederos-digitales_d9b57bb90b56\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:51.321859-03:00",
+  "status": "downloaded"
+}

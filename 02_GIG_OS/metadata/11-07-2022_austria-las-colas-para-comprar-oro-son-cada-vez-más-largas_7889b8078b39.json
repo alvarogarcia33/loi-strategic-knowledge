@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_7889b8078b39",
+  "platform": "gig_os",
+  "title": "Austria: las colas para comprar oro son cada vez más largas",
+  "date": "11.07.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/austria-las-colas-para-comprar-oro-son-cada-vez-mas-largas-597",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/austria-las-colas-para-comprar-oro-son-cada-vez-mas-largas-597",
+  "content_hash": "d542303728bd47f644705b352efcda319ef0eed1283fae89172ab9f34bf690bb",
+  "url_hash": "9bc85ed5024f3a2562e69deabc4d0c2887e7771256467e96880787d06d618250",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-07-2022_austria-las-colas-para-comprar-oro-son-cada-vez-más-largas_7889b8078b39.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-07-2022_austria-las-colas-para-comprar-oro-son-cada-vez-más-largas_7889b8078b39.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2022_austria-las-colas-para-comprar-oro-son-cada-vez-más-largas_7889b8078b39",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ab/9c/b1/a9/45/ab9cb1a9455e999f0e6c667a02044ea5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2022_austria-las-colas-para-comprar-oro-son-cada-vez-más-largas_7889b8078b39\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1309/gold-report-es-2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2022_austria-las-colas-para-comprar-oro-son-cada-vez-más-largas_7889b8078b39\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:59:23.274033-03:00",
+  "status": "downloaded"
+}

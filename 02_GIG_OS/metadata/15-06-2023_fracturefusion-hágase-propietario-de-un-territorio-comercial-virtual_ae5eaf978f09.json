@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_ae5eaf978f09",
+  "platform": "gig_os",
+  "title": "FractureFusion: hágase propietario de un territorio comercial virtual",
+  "date": "15.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/fracturefusion-hagase-propietario-de-un-territorio-comercial-virtual-750",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/fracturefusion-hagase-propietario-de-un-territorio-comercial-virtual-750",
+  "content_hash": "5aa093c87e76e424965199f319402bf0e3044622fa9ac2fb6da648d1f2342c07",
+  "url_hash": "62be9643b382452f92f8a7cc6a6829d3291a105794d94355ab4f4a3ba35299fd",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-06-2023_fracturefusion-hágase-propietario-de-un-territorio-comercial-virtual_ae5eaf978f09.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-06-2023_fracturefusion-hágase-propietario-de-un-territorio-comercial-virtual_ae5eaf978f09.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-06-2023_fracturefusion-hágase-propietario-de-un-territorio-comercial-virtual_ae5eaf978f09",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/dd/ab/ee/0e/09/ddabee0e0907e1a3198ff42c774ef66d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-06-2023_fracturefusion-hágase-propietario-de-un-territorio-comercial-virtual_ae5eaf978f09\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1486/15-06-2023-fracturefusion-2x-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-06-2023_fracturefusion-hágase-propietario-de-un-territorio-comercial-virtual_ae5eaf978f09\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:17:00.037155-03:00",
+  "status": "downloaded"
+}

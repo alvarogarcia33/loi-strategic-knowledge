@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_18198f06b8ce",
+  "platform": "gig_os",
+  "title": "¿Ayuda el oro a aguantar la inflación?",
+  "date": "31.07.2017",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ayuda-el-oro-a-aguantar-la-inflacion",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ayuda-el-oro-a-aguantar-la-inflacion",
+  "content_hash": "987f1f050cbd5308cf593e699d074390090441f507fc8d1fdb676d944304e3a0",
+  "url_hash": "55dab21f51b699ecd56b16e7d0f66a4c9f5fb3df55a1695e6ce2f11ba54e1d34",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\31-07-2017_ayuda-el-oro-a-aguantar-la-inflación_18198f06b8ce.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\31-07-2017_ayuda-el-oro-a-aguantar-la-inflación_18198f06b8ce.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-07-2017_ayuda-el-oro-a-aguantar-la-inflación_18198f06b8ce",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/36/61/60/06/42/36616006421b93e1f44d337204866ad0_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-07-2017_ayuda-el-oro-a-aguantar-la-inflación_18198f06b8ce\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://www.globalintergold.info/_files/91/e4/eb/79/62/91e4eb79624b85d6b8a97bb7d958b64e.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-07-2017_ayuda-el-oro-a-aguantar-la-inflación_18198f06b8ce\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "text/html",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://www.globalintergold.info/_files/a7/75/0d/93/1f/a7750d931faec98f88414955e5024793.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-07-2017_ayuda-el-oro-a-aguantar-la-inflación_18198f06b8ce\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "text/html",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://www.globalintergold.info/_files/55/5b/58/b1/98/555b58b19899df9a0d6fe6fbd89112e1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-07-2017_ayuda-el-oro-a-aguantar-la-inflación_18198f06b8ce\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "text/html",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:59:26.698479-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,34 @@
+{
+  "article_uid": "gig_os_0d916b8e55df",
+  "platform": "gig_os",
+  "title": "El poder del oro: 53 récords en un año",
+  "date": "19.01.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad Noticias sobre la plataforma Materiales educativos Oro GoalSet Master",
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-poder-del-oro-53-records-en-un-ano-1155",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-poder-del-oro-53-records-en-un-ano-1155",
+  "content_hash": "538d36cd9f6d4bc551f95c3710e496a99b47ee5fef46d4b85ed40386ffa0946b",
+  "url_hash": "5ed8b059acef7d28e8330b749fc435d59ed5895638d336aa85891f7cc69374b3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-01-2026_el-poder-del-oro-53-récords-en-un-año_0d916b8e55df.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-01-2026_el-poder-del-oro-53-récords-en-un-año_0d916b8e55df.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-01-2026_el-poder-del-oro-53-récords-en-un-año_0d916b8e55df",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/08/af/f1/9d/8d/08aff19d8d2b14241616853349a922ea_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-01-2026_el-poder-del-oro-53-récords-en-un-año_0d916b8e55df\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:37:41.067720-03:00",
+  "status": "downloaded"
+}

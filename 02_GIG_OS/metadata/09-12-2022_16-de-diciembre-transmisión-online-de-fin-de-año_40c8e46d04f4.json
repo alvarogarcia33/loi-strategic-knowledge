@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_40c8e46d04f4",
+  "platform": "gig_os",
+  "title": "16 de diciembre — transmisión online de fin de año",
+  "date": "09.12.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/16-de-diciembre-transmision-online-de-fin-de-ano-654",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/16-de-diciembre-transmision-online-de-fin-de-ano-654",
+  "content_hash": "fd1c54b7663b29272844daf21a568aeecd0b3f5fc0120e784a2ff2fb38d6c364",
+  "url_hash": "e7fde57d258750e6d2bb84586247900d48b6820625c4e4d766614ae5a8d03d52",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-12-2022_16-de-diciembre-transmisión-online-de-fin-de-año_40c8e46d04f4.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-12-2022_16-de-diciembre-transmisión-online-de-fin-de-año_40c8e46d04f4.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-12-2022_16-de-diciembre-transmisión-online-de-fin-de-año_40c8e46d04f4",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/db/08/b4/75/65/db08b47565476fd970eb712b4f541a3e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-12-2022_16-de-diciembre-transmisión-online-de-fin-de-año_40c8e46d04f4\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T17:55:01.260199-03:00",
+  "status": "downloaded"
+}

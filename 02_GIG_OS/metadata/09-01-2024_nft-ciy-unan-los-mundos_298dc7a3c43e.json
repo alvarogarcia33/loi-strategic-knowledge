@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_298dc7a3c43e",
+  "platform": "gig_os",
+  "title": "NFT CIY: ¡unan los mundos!",
+  "date": "09.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/nft-ciy-unan-los-mundos-855",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/nft-ciy-unan-los-mundos-855",
+  "content_hash": "168666f647bdcfd246da17c6d05180d56ba208d4f855cddaf6575a68f3ce26d0",
+  "url_hash": "dbe29f71e1846e22fe059e5f70fc6d37e07b7e609847cccc1b7eb34aabdeb1b3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-01-2024_nft-ciy-unan-los-mundos_298dc7a3c43e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-01-2024_nft-ciy-unan-los-mundos_298dc7a3c43e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-01-2024_nft-ciy-unan-los-mundos_298dc7a3c43e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/04/6b/11/6e/7a/046b116e7a47d3a5da173594c3e97109_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-01-2024_nft-ciy-unan-los-mundos_298dc7a3c43e\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1600/ciy09-01-2024-bracelet_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-01-2024_nft-ciy-unan-los-mundos_298dc7a3c43e\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1600/call-to-action-ciy-es5376_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-01-2024_nft-ciy-unan-los-mundos_298dc7a3c43e\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:41:33.369517-03:00",
+  "status": "downloaded"
+}

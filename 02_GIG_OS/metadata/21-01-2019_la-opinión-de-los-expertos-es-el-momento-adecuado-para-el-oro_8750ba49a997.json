@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_8750ba49a997",
+  "platform": "gig_os",
+  "title": "La opinión de los expertos: ¡es el momento adecuado para el oro!",
+  "date": "21.01.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-opinion-de-los-expertos-es-el-momento-adecuado-para-el-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-opinion-de-los-expertos-es-el-momento-adecuado-para-el-oro",
+  "content_hash": "0c7c6c25044e5ddd35500712493c343162e37cd7e886aa24fa3b8cc2361a56d9",
+  "url_hash": "334a8ae4a9e9d329a2568345f7f076b70cd137aeb45f36106ea0f2cd6a475500",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\21-01-2019_la-opinión-de-los-expertos-es-el-momento-adecuado-para-el-oro_8750ba49a997.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\21-01-2019_la-opinión-de-los-expertos-es-el-momento-adecuado-para-el-oro_8750ba49a997.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-01-2019_la-opinión-de-los-expertos-es-el-momento-adecuado-para-el-oro_8750ba49a997",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4e/58/cf/fc/b7/4e58cffcb72f2619c223f60995605295_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\21-01-2019_la-opinión-de-los-expertos-es-el-momento-adecuado-para-el-oro_8750ba49a997\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/635/global-intergold-gold-informe-de-la-cotizacion-del-oro-18.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/635/global-intergold-gold-informe-de-la-cotizacion-del-oro-20.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/635/global-intergold-gold-informe-de-la-cotizacion-del-oro-19.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:33:47.956921-03:00",
+  "status": "downloaded"
+}

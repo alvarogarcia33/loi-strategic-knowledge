@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_9bab179aed54",
+  "platform": "gig_os",
+  "title": "UTT Bridge: ¡obtengan aún más UTT!",
+  "date": "22.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/utt-bridge-obtengan-aun-mas-utt-757",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/utt-bridge-obtengan-aun-mas-utt-757",
+  "content_hash": "1de5a8ed6821ac89777b42400f90e70d3eade8994a818cfd10b85e03232a14c5",
+  "url_hash": "12babad78aec8ebd3856673e184583912509c00fa77c805db8135c50a8db41d3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-06-2023_utt-bridge-obtengan-aún-más-utt_9bab179aed54.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-06-2023_utt-bridge-obtengan-aún-más-utt_9bab179aed54.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-06-2023_utt-bridge-obtengan-aún-más-utt_9bab179aed54",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/59/cf/19/92/ac/59cf1992ac9ac4e978b8786ef19a0ec7_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-06-2023_utt-bridge-obtengan-aún-más-utt_9bab179aed54\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1490/utt-bridge-x3_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-06-2023_utt-bridge-obtengan-aún-más-utt_9bab179aed54\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1490/utt-1-es_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-06-2023_utt-bridge-obtengan-aún-más-utt_9bab179aed54\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:01:17.804932-03:00",
+  "status": "downloaded"
+}

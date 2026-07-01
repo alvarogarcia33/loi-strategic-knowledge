@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_1ac49f882a25",
+  "platform": "gig_os",
+  "title": "Premios para el TOP 3 de la etapa final de GR DAO CUP NextEra",
+  "date": "02.10.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/premios-para-el-top-3-de-la-etapa-final-de-gr-dao-cup-nextera-798",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/premios-para-el-top-3-de-la-etapa-final-de-gr-dao-cup-nextera-798",
+  "content_hash": "979f607da4c31890c1238761038fce950909e80afa146e8e52d62ff3a5629d1a",
+  "url_hash": "ea52064fe321051282b4a62852fbb3bb63b49c1951f8b1dc53dc2faee9df15ad",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\02-10-2023_premios-para-el-top-3-de-la-etapa-final-de-gr-dao-cup-nextera_1ac49f882a25.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\02-10-2023_premios-para-el-top-3-de-la-etapa-final-de-gr-dao-cup-nextera_1ac49f882a25.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2023_premios-para-el-top-3-de-la-etapa-final-de-gr-dao-cup-nextera_1ac49f882a25",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9d/b2/89/99/96/9db289999693a38793ac4c8b21a38b14_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2023_premios-para-el-top-3-de-la-etapa-final-de-gr-dao-cup-nextera_1ac49f882a25\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1536/2-10-2023-42597-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\02-10-2023_premios-para-el-top-3-de-la-etapa-final-de-gr-dao-cup-nextera_1ac49f882a25\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:17.747718-03:00",
+  "status": "downloaded"
+}

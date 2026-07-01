@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_99407c662847",
+  "platform": "gig_os",
+  "title": "Japón: ¿cómo salir de la «trampa económica»?",
+  "date": "11.01.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/japon-como-salir-de-la-trampa-economica-358",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/japon-como-salir-de-la-trampa-economica-358",
+  "content_hash": "73ff5a17742de11ad8199f4bfc8b61bc22b01526095bba4d6e2e3e23f4426d05",
+  "url_hash": "174fe0b4f32cbdfc7ff78a94d8d44be7ff145c4ef3f7a6c0836baf958b5703b8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-01-2021_japón-cómo-salir-de-la-trampa-económica_99407c662847.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-01-2021_japón-cómo-salir-de-la-trampa-económica_99407c662847.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-01-2021_japón-cómo-salir-de-la-trampa-económica_99407c662847",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d5/56/ce/91/23/d556ce91233df67b46e52cb9213742c7_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-01-2021_japón-cómo-salir-de-la-trampa-económica_99407c662847\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1022/goldreport11_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-01-2021_japón-cómo-salir-de-la-trampa-económica_99407c662847\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:29:53.369398-03:00",
+  "status": "downloaded"
+}

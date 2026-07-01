@@ -1,0 +1,57 @@
+{
+  "article_uid": "gig_os_698106bcd35a",
+  "platform": "gig_os",
+  "title": "El nuevo proyecto DAC2BONUS",
+  "date": "03.04.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-nuevo-proyecto-dac2bonus-238",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-nuevo-proyecto-dac2bonus-238",
+  "content_hash": "efa0d6933e177dfef2e5a0ab986efd7db3c9eed872b558223d92e49794e8215d",
+  "url_hash": "ad0f7208a77bf4c791217c7432283d68f031007d58b495b4d149f1a885525fa3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-04-2020_el-nuevo-proyecto-dac2bonus_698106bcd35a.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-04-2020_el-nuevo-proyecto-dac2bonus_698106bcd35a.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2020_el-nuevo-proyecto-dac2bonus_698106bcd35a",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b4/49/2e/e5/58/b4492ee55806fc08be49fa5fbb04550f_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2020_el-nuevo-proyecto-dac2bonus_698106bcd35a\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/853/tabes_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2020_el-nuevo-proyecto-dac2bonus_698106bcd35a\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/853/go_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2020_el-nuevo-proyecto-dac2bonus_698106bcd35a\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/853/button_1.JPG",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-04-2020_el-nuevo-proyecto-dac2bonus_698106bcd35a\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:08.701997-03:00",
+  "status": "downloaded"
+}

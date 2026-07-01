@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_157e40747c88",
+  "platform": "gig_os",
+  "title": "Oro en el 3.er trimestre: los bancos centrales establecen un récord",
+  "date": "12.12.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/oro-en-el-3er-trimestre-los-bancos-centrales-establecen-un-record-660",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/oro-en-el-3er-trimestre-los-bancos-centrales-establecen-un-record-660",
+  "content_hash": "d622ecb17ca31d753de0f61d25c711c26b51cb5988ccdaad66163f4eac060d32",
+  "url_hash": "4fe4ba6283b771cd870d1539e9f1423ec45ead6ea9cf1eff26add47c2cc761c6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-12-2022_oro-en-el-3-er-trimestre-los-bancos-centrales-establecen-un-récord_157e40747c88.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-12-2022_oro-en-el-3-er-trimestre-los-bancos-centrales-establecen-un-récord_157e40747c88.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2022_oro-en-el-3-er-trimestre-los-bancos-centrales-establecen-un-récord_157e40747c88",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/c9/84/1b/75/13/c9841b751346da510715b033d520ebb2_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2022_oro-en-el-3-er-trimestre-los-bancos-centrales-establecen-un-récord_157e40747c88\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1372/una-encuesta-realizada-a-inversores_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2022_oro-en-el-3-er-trimestre-los-bancos-centrales-establecen-un-récord_157e40747c88\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1372/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-12-2022_oro-en-el-3-er-trimestre-los-bancos-centrales-establecen-un-récord_157e40747c88\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:45:20.817868-03:00",
+  "status": "downloaded"
+}

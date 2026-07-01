@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9e37c51266e3",
+  "platform": "gig_os",
+  "title": "GUIDEBOOK Part III: una edición única para el aniversario del negocio",
+  "date": "17.05.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/guidebook-part-iii-una-edicion-unica-para-el-aniversario-del-negocio-415",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/guidebook-part-iii-una-edicion-unica-para-el-aniversario-del-negocio-415",
+  "content_hash": "a7e5d76567e8afad8d24e78e514c90e7637e4a68ea1da70e51020a414a3dc1b7",
+  "url_hash": "a24bb20d69d221a6d6cd93149d1551f873b8b8ec534322188ef603c7ccaf02ad",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-05-2021_guidebook-part-iii-una-edición-única-para-el-aniversario-del-negocio_9e37c51266e3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-05-2021_guidebook-part-iii-una-edición-única-para-el-aniversario-del-negocio_9e37c51266e3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2021_guidebook-part-iii-una-edición-única-para-el-aniversario-del-negocio_9e37c51266e3",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ed/55/ee/45/54/ed55ee45549181344dd8db7fcd02a401_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2021_guidebook-part-iii-una-edición-única-para-el-aniversario-del-negocio_9e37c51266e3\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1093/pic-02-en_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2021_guidebook-part-iii-una-edición-única-para-el-aniversario-del-negocio_9e37c51266e3\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:20:16.498180-03:00",
+  "status": "downloaded"
+}

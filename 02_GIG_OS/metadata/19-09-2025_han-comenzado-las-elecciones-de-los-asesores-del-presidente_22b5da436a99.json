@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_22b5da436a99",
+  "platform": "gig_os",
+  "title": "¡Han comenzado las elecciones de los Asesores del Presidente!",
+  "date": "19.09.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/han-comenzado-las-elecciones-de-los-asesores-del-presidente-1144",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/han-comenzado-las-elecciones-de-los-asesores-del-presidente-1144",
+  "content_hash": "b9637a2889e5db998d728d69ed6f549710dfd11bd47f5a2eedd09bdd1e8a9793",
+  "url_hash": "0ee33fc0b28ab829d97e3ce9a56de94ebafe003c8b75b509761869c25579fd63",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-09-2025_han-comenzado-las-elecciones-de-los-asesores-del-presidente_22b5da436a99.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-09-2025_han-comenzado-las-elecciones-de-los-asesores-del-presidente_22b5da436a99.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-09-2025_han-comenzado-las-elecciones-de-los-asesores-del-presidente_22b5da436a99",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/06/83/4b/92/b7/06834b92b7e447dc4172b13a04ce491f_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-09-2025_han-comenzado-las-elecciones-de-los-asesores-del-presidente_22b5da436a99\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:23:34.068010-03:00",
+  "status": "downloaded"
+}

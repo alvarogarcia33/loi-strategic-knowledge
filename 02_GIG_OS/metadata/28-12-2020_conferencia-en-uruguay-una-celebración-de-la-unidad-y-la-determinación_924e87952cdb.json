@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_924e87952cdb",
+  "platform": "gig_os",
+  "title": "Conferencia en Uruguay: una celebración de la unidad y la determinación",
+  "date": "28.12.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/conferencia-en-uruguay-una-celebracion-de-la-unidad-y-la-determinacion-350",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/conferencia-en-uruguay-una-celebracion-de-la-unidad-y-la-determinacion-350",
+  "content_hash": "30b2f19770a680c661bcce4c9cf4c749d39bdb0ef587c8dcb08bf52f55a9a1cb",
+  "url_hash": "72fffe79197504099d3d84e26f5d63f7ea7bcb5eb42ca28c96b923a9ed064776",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-12-2020_conferencia-en-uruguay-una-celebración-de-la-unidad-y-la-determinación_924e87952cdb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-12-2020_conferencia-en-uruguay-una-celebración-de-la-unidad-y-la-determinación_924e87952cdb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-12-2020_conferencia-en-uruguay-una-celebración-de-la-unidad-y-la-determinación_924e87952cdb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1012/28-12-2020-25784_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-12-2020_conferencia-en-uruguay-una-celebración-de-la-unidad-y-la-determinación_924e87952cdb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:04:23.846442-03:00",
+  "status": "downloaded"
+}

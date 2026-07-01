@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_1a81ecfe33dd",
+  "platform": "gig_os",
+  "title": "Las finanzas personales: ¿cómo actuar?",
+  "date": "19.03.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/las-finanzas-personales-como-actuar",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/las-finanzas-personales-como-actuar",
+  "content_hash": "e0a07283459885be76bbdbfc7fdb1a09789c93913d1ceb5a1d403dab187f5cf7",
+  "url_hash": "568a68e17b76e525f76fb992bf84978d30f4c671498102f0c5b28a073c32c08c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-03-2019_las-finanzas-personales-cómo-actuar_1a81ecfe33dd.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-03-2019_las-finanzas-personales-cómo-actuar_1a81ecfe33dd.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-03-2019_las-finanzas-personales-cómo-actuar_1a81ecfe33dd",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/87/04/7b/57/a1/87047b57a19809516df14de6f5822a8e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-03-2019_las-finanzas-personales-cómo-actuar_1a81ecfe33dd\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/674/global-intergold-oro19_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/674/global-intergold-oro20_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:36:06.497865-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_85f2e6cdc8c1",
+  "platform": "gig_os",
+  "title": "¡El primer evento del año se celebra esta semana!",
+  "date": "07.02.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-primer-evento-del-ano-se-celebra-esta-semana-685",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-primer-evento-del-ano-se-celebra-esta-semana-685",
+  "content_hash": "9dce8bccafe0dfdfb5751d299d080318db3460c257d42dedc6ecf4fc9fcb4799",
+  "url_hash": "a7995916a4b982333937d5db18eef3beeb3e873364bbad5a855c9cde75966092",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-02-2023_el-primer-evento-del-año-se-celebra-esta-semana_85f2e6cdc8c1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-02-2023_el-primer-evento-del-año-se-celebra-esta-semana_85f2e6cdc8c1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-02-2023_el-primer-evento-del-año-se-celebra-esta-semana_85f2e6cdc8c1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/00/cc/b7/00/7f/00ccb7007f58db05dec0039708fbbc6c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-02-2023_el-primer-evento-del-año-se-celebra-esta-semana_85f2e6cdc8c1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:11:42.996402-03:00",
+  "status": "downloaded"
+}

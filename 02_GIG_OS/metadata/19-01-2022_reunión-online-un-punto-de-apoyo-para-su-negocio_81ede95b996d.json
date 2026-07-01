@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_81ede95b996d",
+  "platform": "gig_os",
+  "title": "Reunión online: un punto de apoyo para su negocio",
+  "date": "19.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/reunion-online-un-punto-de-apoyo-para-su-negocio-521",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/reunion-online-un-punto-de-apoyo-para-su-negocio-521",
+  "content_hash": "4669604e6f32754b7295058b09e4d429f329b2025c4e039c78d3e02c82e4a86f",
+  "url_hash": "154e411b3d5387fa6064d2591cef983d32c2cdd77c683e2e301b3c1dffdf2e51",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\19-01-2022_reunión-online-un-punto-de-apoyo-para-su-negocio_81ede95b996d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\19-01-2022_reunión-online-un-punto-de-apoyo-para-su-negocio_81ede95b996d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-01-2022_reunión-online-un-punto-de-apoyo-para-su-negocio_81ede95b996d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b8/ad/81/c5/b6/b8ad81c5b6aaa79d503085bf1e03e2fa_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\19-01-2022_reunión-online-un-punto-de-apoyo-para-su-negocio_81ede95b996d\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:54:23.389966-03:00",
+  "status": "downloaded"
+}

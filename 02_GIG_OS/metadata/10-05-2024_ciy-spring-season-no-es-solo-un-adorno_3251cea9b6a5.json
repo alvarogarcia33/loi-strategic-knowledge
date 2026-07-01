@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_3251cea9b6a5",
+  "platform": "gig_os",
+  "title": "CIY Spring Season: no es solo un adorno",
+  "date": "10.05.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ciy-spring-season-no-es-solo-un-adorno-933",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ciy-spring-season-no-es-solo-un-adorno-933",
+  "content_hash": "49d2c22369860d501348d9aa0aa269a9ef61836ce0e9b9b41fb03c24de2b2464",
+  "url_hash": "df9252e3dc6f77d950b93f23e7da087b38729c29934d2ef8294d2b6d0b4bd568",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-05-2024_ciy-spring-season-no-es-solo-un-adorno_3251cea9b6a5.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-05-2024_ciy-spring-season-no-es-solo-un-adorno_3251cea9b6a5.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2024_ciy-spring-season-no-es-solo-un-adorno_3251cea9b6a5",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b1/45/0f/ba/2a/b1450fba2a1bf56a89de8d448008abe3_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2024_ciy-spring-season-no-es-solo-un-adorno_3251cea9b6a5\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1690/ciy-bracelet-12109_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-05-2024_ciy-spring-season-no-es-solo-un-adorno_3251cea9b6a5\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:56.893692-03:00",
+  "status": "downloaded"
+}

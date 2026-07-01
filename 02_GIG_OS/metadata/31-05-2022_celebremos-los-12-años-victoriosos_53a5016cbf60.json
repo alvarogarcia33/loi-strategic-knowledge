@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_53a5016cbf60",
+  "platform": "gig_os",
+  "title": "¡Celebremos los 12 años victoriosos!",
+  "date": "31.05.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/celebremos-los-12-anos-victoriosos-581",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/celebremos-los-12-anos-victoriosos-581",
+  "content_hash": "814d35e7d9d47f523c4fe671647687a7d8bd89d0f563cf7267771a076d395d07",
+  "url_hash": "9f7abc754983999807f50f23a602d3402fd5382f27f795e455494d2fa13e47c6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\31-05-2022_celebremos-los-12-años-victoriosos_53a5016cbf60.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\31-05-2022_celebremos-los-12-años-victoriosos_53a5016cbf60.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-05-2022_celebremos-los-12-años-victoriosos_53a5016cbf60",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5d/5c/4a/01/32/5d5c4a01328ada92f4b0baffd6880f76_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\31-05-2022_celebremos-los-12-años-victoriosos_53a5016cbf60\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:00:56.690617-03:00",
+  "status": "downloaded"
+}

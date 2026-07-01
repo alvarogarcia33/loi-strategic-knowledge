@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_ad9b374cf9ad",
+  "platform": "gig_os",
+  "title": "Experto: ¡todo acaba de comenzar para el oro!",
+  "date": "23.08.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/experto-todo-acaba-de-comenzar-para-el-oro-454",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/experto-todo-acaba-de-comenzar-para-el-oro-454",
+  "content_hash": "4e1c2ccd5d8d05d29f65dd715f72cb73c9be255287774b164df7cb3ccee79049",
+  "url_hash": "875e8b25f8ddd37419c9e0a9901f8a5979aa70b8d64f7ad4b7a3cb04a929b5a6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\23-08-2021_experto-todo-acaba-de-comenzar-para-el-oro_ad9b374cf9ad.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\23-08-2021_experto-todo-acaba-de-comenzar-para-el-oro_ad9b374cf9ad.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-08-2021_experto-todo-acaba-de-comenzar-para-el-oro_ad9b374cf9ad",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/68/37/68/61/ce/68376861ceb3cf66833dacb373f1d199_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-08-2021_experto-todo-acaba-de-comenzar-para-el-oro_ad9b374cf9ad\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1145/230821gold1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-08-2021_experto-todo-acaba-de-comenzar-para-el-oro_ad9b374cf9ad\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1145/230821gold2_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\23-08-2021_experto-todo-acaba-de-comenzar-para-el-oro_ad9b374cf9ad\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:45.079437-03:00",
+  "status": "downloaded"
+}

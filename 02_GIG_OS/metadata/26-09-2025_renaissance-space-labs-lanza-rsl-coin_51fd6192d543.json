@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_51fd6192d543",
+  "platform": "gig_os",
+  "title": "¡Renaissance Space Labs lanza RSL Coin!",
+  "date": "26.09.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/renaissance-space-labs-lanza-rsl-coin-1148",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/renaissance-space-labs-lanza-rsl-coin-1148",
+  "content_hash": "1dd0fed487a45074239c64c81fb06d87331ba2cf3f12baaf885d031c64c5c786",
+  "url_hash": "43c117c73b76bccb5c15e564dacc802029f9d5ca12360bd66064accd8011c170",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\26-09-2025_renaissance-space-labs-lanza-rsl-coin_51fd6192d543.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\26-09-2025_renaissance-space-labs-lanza-rsl-coin_51fd6192d543.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-09-2025_renaissance-space-labs-lanza-rsl-coin_51fd6192d543",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/69/73/f6/c4/c6/6973f6c4c61038fa375aee0f367d1e14_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-09-2025_renaissance-space-labs-lanza-rsl-coin_51fd6192d543\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1930/untitled-1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\26-09-2025_renaissance-space-labs-lanza-rsl-coin_51fd6192d543\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:52:32.456969-03:00",
+  "status": "downloaded"
+}

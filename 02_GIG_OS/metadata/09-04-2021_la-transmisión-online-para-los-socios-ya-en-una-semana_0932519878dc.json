@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_0932519878dc",
+  "platform": "gig_os",
+  "title": "La transmisión online para los Socios — ¡ya en una semana!",
+  "date": "09.04.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-transmision-online-para-los-socios-ya-en-una-semana-396",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-transmision-online-para-los-socios-ya-en-una-semana-396",
+  "content_hash": "e1acee54debcd9d937913d1a99b59ec123dfe13187303bed2bbe97584cf554f2",
+  "url_hash": "a993493e0492371432bab56e3b7e77d8c91975bc196b2a85cf531f06e05755d8",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\09-04-2021_la-transmisión-online-para-los-socios-ya-en-una-semana_0932519878dc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\09-04-2021_la-transmisión-online-para-los-socios-ya-en-una-semana_0932519878dc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2021_la-transmisión-online-para-los-socios-ya-en-una-semana_0932519878dc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/db/74/81/5c/d8/db74815cd88d26339e9a8dcd834cbea1_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\09-04-2021_la-transmisión-online-para-los-socios-ya-en-una-semana_0932519878dc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:35:27.301786-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_f7a7dd7dd6c0",
+  "platform": "gig_os",
+  "title": "BOUNTY UTT: ¡quedan 4 días!",
+  "date": "27.06.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/bounty-utt-quedan-4-dias-759",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/bounty-utt-quedan-4-dias-759",
+  "content_hash": "a50b52ace6351d204c8daafb3b23abeba649b61e8f3a83f55f444f8d42dfd842",
+  "url_hash": "2c0bd03d85035e8e8c2d41bf609db2f7dfa9afe88d0f0ad53dc99cecc47f6073",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-06-2023_bounty-utt-quedan-4-días_f7a7dd7dd6c0.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-06-2023_bounty-utt-quedan-4-días_f7a7dd7dd6c0.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-06-2023_bounty-utt-quedan-4-días_f7a7dd7dd6c0",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/8f/2c/76/31/78/8f2c763178265b5132ca66af1efc9732_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-06-2023_bounty-utt-quedan-4-días_f7a7dd7dd6c0\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:00:11.651428-03:00",
+  "status": "downloaded"
+}

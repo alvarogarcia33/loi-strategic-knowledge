@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_fef91e9cbcd9",
+  "platform": "gig_os",
+  "title": "¡Prepárase para la encuesta general!",
+  "date": "15.04.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/preparase-para-la-encuesta-general-0184",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/preparase-para-la-encuesta-general-0184",
+  "content_hash": "7541f94d126c5351829451961dbda8ecdec5e95c029144b4e2afdf1d2c269fcd",
+  "url_hash": "56a6c352e6ca9fca83ed3a7e44982022eaf6f99e946f55439eec14f8d640e1f3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-04-2026_prepárase-para-la-encuesta-general_fef91e9cbcd9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-04-2026_prepárase-para-la-encuesta-general_fef91e9cbcd9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-04-2026_prepárase-para-la-encuesta-general_fef91e9cbcd9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/07/43/b1/89/48/0743b18948043004aa30eeefebfb2ea5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-04-2026_prepárase-para-la-encuesta-general_fef91e9cbcd9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:48:31.122823-03:00",
+  "status": "downloaded"
+}

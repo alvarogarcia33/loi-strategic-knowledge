@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_8acd58ab265f",
+  "platform": "gig_os",
+  "title": "El precio de GICO Coin aumenta: ¡no pierdan la oportunidad!",
+  "date": "11.02.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-precio-de-gico-coin-aumenta-no-pierdan-la-oportunidad-531",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-precio-de-gico-coin-aumenta-no-pierdan-la-oportunidad-531",
+  "content_hash": "e7d99c9000b2c42873e9cd84ef905df5fe19a668b2104ddcbe3a85254770251f",
+  "url_hash": "0bd6e9ae9f626f984f2d2355ff412eadd713cefdab7e8f468cac555c133795cf",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-02-2022_el-precio-de-gico-coin-aumenta-no-pierdan-la-oportunidad_8acd58ab265f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-02-2022_el-precio-de-gico-coin-aumenta-no-pierdan-la-oportunidad_8acd58ab265f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2022_el-precio-de-gico-coin-aumenta-no-pierdan-la-oportunidad_8acd58ab265f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/56/c6/01/93/42/56c60193426764f0966cf0858ee638bc_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2022_el-precio-de-gico-coin-aumenta-no-pierdan-la-oportunidad_8acd58ab265f\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1232/priceesp_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2022_el-precio-de-gico-coin-aumenta-no-pierdan-la-oportunidad_8acd58ab265f\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:11:04.951797-03:00",
+  "status": "downloaded"
+}

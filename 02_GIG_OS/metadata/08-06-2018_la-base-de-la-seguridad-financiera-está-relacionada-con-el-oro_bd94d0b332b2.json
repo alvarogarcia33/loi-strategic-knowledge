@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_bd94d0b332b2",
+  "platform": "gig_os",
+  "title": "LA BASE DE LA SEGURIDAD FINANCIERA ESTÁ RELACIONADA CON EL ORO",
+  "date": "08.06.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-base-de-la-seguridad-financiera-esta-relacionada-con-el-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-base-de-la-seguridad-financiera-esta-relacionada-con-el-oro",
+  "content_hash": "261c18bb26ac55503068e5a69fe1b183b11d5af6913c472a08c83efb5e72b69b",
+  "url_hash": "df73a8cb7508209c9f8a96f2b9ee4aee62b9e2f4c0aa1d02ff4d26222a70f0f9",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\08-06-2018_la-base-de-la-seguridad-financiera-está-relacionada-con-el-oro_bd94d0b332b2.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\08-06-2018_la-base-de-la-seguridad-financiera-está-relacionada-con-el-oro_bd94d0b332b2.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-06-2018_la-base-de-la-seguridad-financiera-está-relacionada-con-el-oro_bd94d0b332b2",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bb/e3/05/03/30/bbe3050330e59ce9f9a66e28215e36c1_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\08-06-2018_la-base-de-la-seguridad-financiera-está-relacionada-con-el-oro_bd94d0b332b2\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/500/global-intergold-oro-la-seguridad-financiera-1_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/500/global-intergold-oro-la-seguridad-financiera-2_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/500/global-intergold-oro-la-seguridad-financiera-3_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/500/frame-294857319202_1.png",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:30:02.808488-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_66042986a553",
+  "platform": "gig_os",
+  "title": "México: las claves del éxito en la era digital",
+  "date": "05.11.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/mexico-las-claves-del-exito-en-la-era-digital-489",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/mexico-las-claves-del-exito-en-la-era-digital-489",
+  "content_hash": "9844e9d5aaa8668be3810c3b5731169417b405e5838104f0aebd6b7994625241",
+  "url_hash": "737788282e8232a309bbb249986c0bb33a5171c2ce113ab3b776a83c58c59877",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\05-11-2021_méxico-las-claves-del-éxito-en-la-era-digital_66042986a553.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\05-11-2021_méxico-las-claves-del-éxito-en-la-era-digital_66042986a553.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-11-2021_méxico-las-claves-del-éxito-en-la-era-digital_66042986a553",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1187/5-11-2021-1-es81559_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\05-11-2021_méxico-las-claves-del-éxito-en-la-era-digital_66042986a553\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:40:20.391358-03:00",
+  "status": "downloaded"
+}

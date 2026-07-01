@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_27c68c85b853",
+  "platform": "gig_os",
+  "title": "El que no espere, ¡ganará!",
+  "date": "17.02.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-que-no-espere-ganara-535",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-que-no-espere-ganara-535",
+  "content_hash": "246308edbb49bb0bb2b2eae74cf69745ed3478d8aafc773530d2764305a7fdb8",
+  "url_hash": "2401de80b24fbc2743b154e486fa050cf03f53c66de746094379b761c9b91444",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-02-2022_el-que-no-espere-ganará_27c68c85b853.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-02-2022_el-que-no-espere-ganará_27c68c85b853.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-02-2022_el-que-no-espere-ganará_27c68c85b853",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/2e/ae/ce/79/5a/2eaece795ae03afee99718cc63095dc6_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-02-2022_el-que-no-espere-ganará_27c68c85b853\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:12:17.219890-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_49283a595960",
+  "platform": "gig_os",
+  "title": "¿Quién ganará en la carrera por el oro espacial?",
+  "date": "22.07.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/quien-ganara-en-la-carrera-por-el-oro-espacial-147",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/quien-ganara-en-la-carrera-por-el-oro-espacial-147",
+  "content_hash": "306c246bfc0eca6b239a6e8c69e0e196c3e58fcbcdd52f2f1974d4a7f9fb84d9",
+  "url_hash": "d2551f83e333daa45254252cda5cfa563ac44b88bd40a3f1e3b106b2ec065c9a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\22-07-2019_quién-ganará-en-la-carrera-por-el-oro-espacial_49283a595960.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\22-07-2019_quién-ganará-en-la-carrera-por-el-oro-espacial_49283a595960.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-07-2019_quién-ganará-en-la-carrera-por-el-oro-espacial_49283a595960",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/96/4c/bd/a0/66/964cbda0664aa77dc2decb56bd1b0a98_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\22-07-2019_quién-ganará-en-la-carrera-por-el-oro-espacial_49283a595960\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/747/global-intergold-gold-informe-de-la-cotizacion-del-oro-2_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/747/global-intergold-gold-informe-de-la-cotizacion-del-oro-3_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:51:44.098642-03:00",
+  "status": "downloaded"
+}

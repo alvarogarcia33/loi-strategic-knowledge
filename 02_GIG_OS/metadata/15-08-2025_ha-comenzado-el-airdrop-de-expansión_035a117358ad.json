@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_035a117358ad",
+  "platform": "gig_os",
+  "title": "¡Ha comenzado el Airdrop de expansión!",
+  "date": "15.08.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-airdrop-de-expansion-1123",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/ha-comenzado-el-airdrop-de-expansion-1123",
+  "content_hash": "ae6c91892abc89ca2147636669ead78c9b586ba73cccca630af11fc46bad15b2",
+  "url_hash": "689fc6f9cef43a8513c8454dad4f6e330a87fd295cd7e9e5b5755c0c748a88dc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\15-08-2025_ha-comenzado-el-airdrop-de-expansión_035a117358ad.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\15-08-2025_ha-comenzado-el-airdrop-de-expansión_035a117358ad.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2025_ha-comenzado-el-airdrop-de-expansión_035a117358ad",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4c/74/2f/76/64/4c742f766410e4cc8a74a776c34fba24_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\15-08-2025_ha-comenzado-el-airdrop-de-expansión_035a117358ad\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:21:42.275875-03:00",
+  "status": "downloaded"
+}

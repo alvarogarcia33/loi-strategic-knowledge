@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_14064f2ab9e6",
+  "platform": "gig_os",
+  "title": "El oro bate el récord de precios de seis años",
+  "date": "25.06.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-bate-el-record-de-precios-de-seis-anos-137",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-bate-el-record-de-precios-de-seis-anos-137",
+  "content_hash": "6dd90ad7b753d1b67521438883c58cd1a11bbab6f44b25536aee91b5784881d3",
+  "url_hash": "1eb0714cbe86da8396afb9dc29c33b386a0798be2a85597ba1610701aea85a4a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-06-2019_el-oro-bate-el-récord-de-precios-de-seis-años_14064f2ab9e6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-06-2019_el-oro-bate-el-récord-de-precios-de-seis-años_14064f2ab9e6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-06-2019_el-oro-bate-el-récord-de-precios-de-seis-años_14064f2ab9e6",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1f/17/c0/c6/6b/1f17c0c66b57b39af38263e85b828299_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-06-2019_el-oro-bate-el-récord-de-precios-de-seis-años_14064f2ab9e6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/727/global-intergold-gold-informe-de-la-cotizacion-del-oro-5_1.png",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/727/global-intergold-gold-informe-de-la-cotizacion-del-oro-5_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:18.791359-03:00",
+  "status": "downloaded"
+}

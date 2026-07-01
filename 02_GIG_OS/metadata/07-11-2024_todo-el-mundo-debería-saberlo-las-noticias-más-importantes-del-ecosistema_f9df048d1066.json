@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_f9df048d1066",
+  "platform": "gig_os",
+  "title": "Todo el mundo debería saberlo: ¡las noticias más importantes del ecosistema!",
+  "date": "07.11.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/todo-el-mundo-deberia-saberlo-las-noticias-mas-importantes-del-ecosistema-1007",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/todo-el-mundo-deberia-saberlo-las-noticias-mas-importantes-del-ecosistema-1007",
+  "content_hash": "32f1ae4d7cf575e602f59db37cbbec70a8188c81b225ef8c824c612255a440b8",
+  "url_hash": "3c67cbf257bfaf0fbfd22bf77a38c12feb13563904a22a36774d653397cf282b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\07-11-2024_todo-el-mundo-debería-saberlo-las-noticias-más-importantes-del-ecosistema_f9df048d1066.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\07-11-2024_todo-el-mundo-debería-saberlo-las-noticias-más-importantes-del-ecosistema_f9df048d1066.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-11-2024_todo-el-mundo-debería-saberlo-las-noticias-más-importantes-del-ecosistema_f9df048d1066",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/5c/b8/4e/85/c6/5cb84e85c68b3291ad4434524e6dd812_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\07-11-2024_todo-el-mundo-debería-saberlo-las-noticias-más-importantes-del-ecosistema_f9df048d1066\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:58:04.147090-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_9d5be2c0476d",
+  "platform": "gig_os",
+  "title": "¡Faltan 7 días para el final de la 2.ª etapa de GR DAO CUP NextEra!",
+  "date": "12.07.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/faltan-7-dias-para-el-final-de-la-2-etapa-de-gr-dao-cup-nextera-766",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/faltan-7-dias-para-el-final-de-la-2-etapa-de-gr-dao-cup-nextera-766",
+  "content_hash": "bc7e5c075761c4d5a9ad6a992fb37f88b46397d2b379716f1d8c811149daae5a",
+  "url_hash": "efc2504a158721fab647a24a7825db1ee9650649c6d4aa230caf356e4e8d42d0",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\12-07-2023_faltan-7-días-para-el-final-de-la-2-etapa-de-gr-dao-cup-nextera_9d5be2c0476d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\12-07-2023_faltan-7-días-para-el-final-de-la-2-etapa-de-gr-dao-cup-nextera_9d5be2c0476d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2023_faltan-7-días-para-el-final-de-la-2-etapa-de-gr-dao-cup-nextera_9d5be2c0476d",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/07/62/e0/8a/7b/0762e08a7b55240bbfacd53544d95bf5_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2023_faltan-7-días-para-el-final-de-la-2-etapa-de-gr-dao-cup-nextera_9d5be2c0476d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1483/gr-dao-cup-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\12-07-2023_faltan-7-días-para-el-final-de-la-2-etapa-de-gr-dao-cup-nextera_9d5be2c0476d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:15:35.845616-03:00",
+  "status": "downloaded"
+}

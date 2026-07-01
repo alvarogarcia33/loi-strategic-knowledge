@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_5595b1308d01",
+  "platform": "gig_os",
+  "title": "Cambios en el programa System Transformator",
+  "date": "17.05.2023",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/cambios-en-el-programa-system-transformator-737",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/cambios-en-el-programa-system-transformator-737",
+  "content_hash": "66ec4a611d067677a476cd1bcc031ee1aa812ffcde5e16564fef0cf95515c9d9",
+  "url_hash": "b218e169f92ccf910ebca7d3ead8344390f541a6c2b249a89e69f0f7413fce24",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-05-2023_cambios-en-el-programa-system-transformator_5595b1308d01.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-05-2023_cambios-en-el-programa-system-transformator_5595b1308d01.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_cambios-en-el-programa-system-transformator_5595b1308d01",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/eb/d3/b2/c5/cf/ebd3b2c5cfe1972404a6073a21c3522e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_cambios-en-el-programa-system-transformator_5595b1308d01\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1471/tablees_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-05-2023_cambios-en-el-programa-system-transformator_5595b1308d01\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:00:41.023466-03:00",
+  "status": "downloaded"
+}

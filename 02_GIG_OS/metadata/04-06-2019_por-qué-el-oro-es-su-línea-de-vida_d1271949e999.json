@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_d1271949e999",
+  "platform": "gig_os",
+  "title": "¿Por qué el oro es su línea de vida?",
+  "date": "04.06.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-el-oro-es-su-linea-de-vida-126",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-el-oro-es-su-linea-de-vida-126",
+  "content_hash": "abee939a6fa754d6d801d0fce5684f7f5b0dff83c61b7abe8b5d1688c24e41c3",
+  "url_hash": "eddcc1ee930bc09bfb6ac065079677db87be52c62e59049de6634cf3d56b81a6",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-06-2019_por-qué-el-oro-es-su-línea-de-vida_d1271949e999.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-06-2019_por-qué-el-oro-es-su-línea-de-vida_d1271949e999.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-06-2019_por-qué-el-oro-es-su-línea-de-vida_d1271949e999",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/0b/95/09/4c/95/0b95094c955fe82f189766093a5c5d43_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-06-2019_por-qué-el-oro-es-su-línea-de-vida_d1271949e999\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/714/global-intergold-oro19_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/714/global-intergold-oro21_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:46:45.946169-03:00",
+  "status": "downloaded"
+}

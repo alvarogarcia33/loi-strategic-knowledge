@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_c56e59fda1f1",
+  "platform": "gig_os",
+  "title": "SMB: ¡la elección está hecha, la decisión está tomada!",
+  "date": "30.04.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/smb-la-eleccion-esta-hecha-la-decision-esta-tomada-567",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/smb-la-eleccion-esta-hecha-la-decision-esta-tomada-567",
+  "content_hash": "4ddc8baeca97ccadeb10c9bffdf1fe4d2cc4772049ae79fbd460ee607835ef20",
+  "url_hash": "2274372e110fed69e9729b10868f41325978c5d39542587d7a87a7466eae5b1c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-04-2022_smb-la-elección-está-hecha-la-decisión-está-tomada_c56e59fda1f1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-04-2022_smb-la-elección-está-hecha-la-decisión-está-tomada_c56e59fda1f1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-04-2022_smb-la-elección-está-hecha-la-decisión-está-tomada_c56e59fda1f1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/d7/38/dc/f3/3f/d738dcf33fa815ebe968f0d9f9f5cff5_1.png?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-04-2022_smb-la-elección-está-hecha-la-decisión-está-tomada_c56e59fda1f1\\image_01.png",
+      "filename": "image_01.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:57:07.719458-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_e137a6a04aee",
+  "platform": "gig_os",
+  "title": "Pulsera de Expansión: símbolo de estatus, fuente de oportunidades",
+  "date": "11.07.2025",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/pulsera-de-expansion-simbolo-de-estatus-fuente-de-oportunidades-1109",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/pulsera-de-expansion-simbolo-de-estatus-fuente-de-oportunidades-1109",
+  "content_hash": "3df8ad149c2cdc9972810f19bf92d9a402d9a092988e6d396e8c4114a8cf939b",
+  "url_hash": "4023c85982f28ea8d0bafcc0fce42ac2309d7fa933f3c6bc233c7f8d5b0f2d4a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-07-2025_pulsera-de-expansión-símbolo-de-estatus-fuente-de-oportunidades_e137a6a04aee.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-07-2025_pulsera-de-expansión-símbolo-de-estatus-fuente-de-oportunidades_e137a6a04aee.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2025_pulsera-de-expansión-símbolo-de-estatus-fuente-de-oportunidades_e137a6a04aee",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/72/c5/69/73/f2/72c56973f2ba97ed61d151533c31f657_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2025_pulsera-de-expansión-símbolo-de-estatus-fuente-de-oportunidades_e137a6a04aee\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1889/gigos-828x453-dlya-statji_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-07-2025_pulsera-de-expansión-símbolo-de-estatus-fuente-de-oportunidades_e137a6a04aee\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:50:12.256466-03:00",
+  "status": "downloaded"
+}

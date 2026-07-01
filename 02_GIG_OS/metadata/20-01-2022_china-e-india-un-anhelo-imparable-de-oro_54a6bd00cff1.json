@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_54a6bd00cff1",
+  "platform": "gig_os",
+  "title": "China e India: un anhelo imparable de oro",
+  "date": "20.01.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/china-e-india-un-anhelo-imparable-de-oro-523",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/china-e-india-un-anhelo-imparable-de-oro-523",
+  "content_hash": "4bd9ee4af5ba896019128846ba0708da39a36836f4ade391b1e15d732d32a9d0",
+  "url_hash": "d6229d06ac5b27a9fff6e08905c0a0a8a2594fbb9de856fd6648db9088b07a61",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\20-01-2022_china-e-india-un-anhelo-imparable-de-oro_54a6bd00cff1.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\20-01-2022_china-e-india-un-anhelo-imparable-de-oro_54a6bd00cff1.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2022_china-e-india-un-anhelo-imparable-de-oro_54a6bd00cff1",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bf/ce/05/52/7f/bfce05527fcfe128e8117a75c2807c90_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2022_china-e-india-un-anhelo-imparable-de-oro_54a6bd00cff1\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1220/dizayn-bez-nazvaniya-5_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\20-01-2022_china-e-india-un-anhelo-imparable-de-oro_54a6bd00cff1\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:01:36.066394-03:00",
+  "status": "downloaded"
+}

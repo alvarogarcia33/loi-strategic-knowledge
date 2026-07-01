@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_c6e1cec61d1f",
+  "platform": "gig_os",
+  "title": "Turquía: el oro no ha dejado chance a los competidores",
+  "date": "06.06.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/turquia-el-oro-no-ha-dejado-chance-a-los-competidores-585",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/turquia-el-oro-no-ha-dejado-chance-a-los-competidores-585",
+  "content_hash": "5d97c3ac17cf47fe712beab8b71f595b8a259f9c03ec71f5608a34af57d8031f",
+  "url_hash": "1cb5890a1f62ff0b26c72b96e7c59a25bef15a10533d23e3a56fe6ca5bc5272b",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\06-06-2022_turquía-el-oro-no-ha-dejado-chance-a-los-competidores_c6e1cec61d1f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\06-06-2022_turquía-el-oro-no-ha-dejado-chance-a-los-competidores_c6e1cec61d1f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-06-2022_turquía-el-oro-no-ha-dejado-chance-a-los-competidores_c6e1cec61d1f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1d/fa/80/93/d7/1dfa8093d78227cb59f191b12dd825fd_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-06-2022_turquía-el-oro-no-ha-dejado-chance-a-los-competidores_c6e1cec61d1f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1293/dizayn-bez-nazvaniya-20_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-06-2022_turquía-el-oro-no-ha-dejado-chance-a-los-competidores_c6e1cec61d1f\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1293/dizayn-bez-nazvaniya1_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\06-06-2022_turquía-el-oro-no-ha-dejado-chance-a-los-competidores_c6e1cec61d1f\\image_03.png",
+      "filename": "image_03.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:59:04.635802-03:00",
+  "status": "downloaded"
+}

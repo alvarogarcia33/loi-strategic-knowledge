@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_111be8c3a227",
+  "platform": "gig_os",
+  "title": "¡INSIDE METAVERSE 2022 es mañana!",
+  "date": "24.11.2022",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/inside-metaverse-2022-es-manana-655",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/inside-metaverse-2022-es-manana-655",
+  "content_hash": "568e58fb0037ae4c60d9b8ac2775127a3118b976c3de402a2b6a069f6cf9a384",
+  "url_hash": "c6a7cacf6a281b17c1f12db15ab0d00f52c26aa14ce9ac97c8e1743a6fca7c3c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\24-11-2022_inside-metaverse-2022-es-mañana_111be8c3a227.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\24-11-2022_inside-metaverse-2022-es-mañana_111be8c3a227.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-11-2022_inside-metaverse-2022-es-mañana_111be8c3a227",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/7a/8b/85/d5/bb/7a8b85d5bb1c7ee97828daf6298fc145_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\24-11-2022_inside-metaverse-2022-es-mañana_111be8c3a227\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:29:18.007912-03:00",
+  "status": "downloaded"
+}

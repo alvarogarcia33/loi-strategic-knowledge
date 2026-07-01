@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_7f61b9856a93",
+  "platform": "gig_os",
+  "title": "El papel del oro en China: Yuan vs Dollar",
+  "date": "27.05.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-papel-del-oro-en-china-yuan-vs-dollar-122",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-papel-del-oro-en-china-yuan-vs-dollar-122",
+  "content_hash": "577c6aaa7d48b8689e2745d9207b6033a412a5b5af7fafedfc5178eeac9bdabc",
+  "url_hash": "506a960392a26365e320900f847c6c320e55a7fc12788c3f5563d32aecb16640",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\27-05-2019_el-papel-del-oro-en-china-yuan-vs-dollar_7f61b9856a93.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\27-05-2019_el-papel-del-oro-en-china-yuan-vs-dollar_7f61b9856a93.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-05-2019_el-papel-del-oro-en-china-yuan-vs-dollar_7f61b9856a93",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/b0/2f/fe/d2/fb/b02ffed2fb2d1fa416d9c2925b0c51cb_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\27-05-2019_el-papel-del-oro-en-china-yuan-vs-dollar_7f61b9856a93\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/710/global-intergold-gold-informe-de-la-cotizacion-del-oro-22_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/710/global-intergold-gold-informe-de-la-cotizacion-del-oro-23_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/710/global-intergold-gold-informe-de-la-cotizacion-del-oro-24_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/710/global-intergold-gold-informe-de-la-cotizacion-del-oro-25_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:10:46.755761-03:00",
+  "status": "downloaded"
+}

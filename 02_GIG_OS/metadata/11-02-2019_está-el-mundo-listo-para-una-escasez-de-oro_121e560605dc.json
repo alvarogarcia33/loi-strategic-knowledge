@@ -1,0 +1,73 @@
+{
+  "article_uid": "gig_os_121e560605dc",
+  "platform": "gig_os",
+  "title": "¿Está el mundo listo para una escasez de oro?",
+  "date": "11.02.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/esta-el-mundo-listo-para-una-escasez-de-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/esta-el-mundo-listo-para-una-escasez-de-oro",
+  "content_hash": "aab079110bf93f49083446fa490470424ebe4325953add080abcce0ab8fa7e79",
+  "url_hash": "044c94e1bd9f70938ed85c277c64c3a55a47ec9f95cdcebc61d94f73b9d8bae2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\11-02-2019_está-el-mundo-listo-para-una-escasez-de-oro_121e560605dc.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\11-02-2019_está-el-mundo-listo-para-una-escasez-de-oro_121e560605dc.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2019_está-el-mundo-listo-para-una-escasez-de-oro_121e560605dc",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/1a/46/13/a4/e0/1a4613a4e036686e4e766f2a327b63a9_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\11-02-2019_está-el-mundo-listo-para-una-escasez-de-oro_121e560605dc\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/650/global-intergold-oro-la-seguridad-financiera-18.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/650/global-intergold-oro-la-seguridad-financiera-19.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/650/global-intergold-oro-la-seguridad-financiera-20.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/650/global-intergold-oro-la-seguridad-financiera-21.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/650/global-intergold-oro-la-seguridad-financiera-22.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:14:05.991954-03:00",
+  "status": "downloaded"
+}

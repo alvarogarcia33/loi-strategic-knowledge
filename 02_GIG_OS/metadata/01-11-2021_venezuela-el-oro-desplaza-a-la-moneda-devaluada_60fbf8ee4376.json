@@ -1,0 +1,41 @@
+{
+  "article_uid": "gig_os_60fbf8ee4376",
+  "platform": "gig_os",
+  "title": "Venezuela: el oro desplaza a la moneda devaluada",
+  "date": "01.11.2021",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/venezuela-el-oro-desplaza-a-la-moneda-devaluada-487",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/venezuela-el-oro-desplaza-a-la-moneda-devaluada-487",
+  "content_hash": "03f0d6183693a551bff3a856297b963dd7e420e268b5e461687aa85d826bf667",
+  "url_hash": "456d53c95b65e65cfeded5ea83f5c72ac9a1a75d41e891472ec6203fd83d6600",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\01-11-2021_venezuela-el-oro-desplaza-a-la-moneda-devaluada_60fbf8ee4376.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\01-11-2021_venezuela-el-oro-desplaza-a-la-moneda-devaluada_60fbf8ee4376.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-11-2021_venezuela-el-oro-desplaza-a-la-moneda-devaluada_60fbf8ee4376",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/4e/53/0d/69/71/4e530d6971706ebd416837319bcd3686_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-11-2021_venezuela-el-oro-desplaza-a-la-moneda-devaluada_60fbf8ee4376\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1186/120721gold2-9_1.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\01-11-2021_venezuela-el-oro-desplaza-a-la-moneda-devaluada_60fbf8ee4376\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T19:01:23.906621-03:00",
+  "status": "downloaded"
+}

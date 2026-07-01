@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_859a00bb2a30",
+  "platform": "gig_os",
+  "title": "Se ha cambiado la fecha de la transmisión en vivo del Presidente",
+  "date": "10.09.2020",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/se-ha-cambiado-la-fecha-de-la-transmision-en-vivo-del-presidente-304",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/se-ha-cambiado-la-fecha-de-la-transmision-en-vivo-del-presidente-304",
+  "content_hash": "f7fea2e5ce08f3251109b639f59ca283ae6d7867410952208ee31bddae2d24ec",
+  "url_hash": "d254adae9d756c3a23509ca59dce6ef4813bfb9192cf421b5024a6daaad983c1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-09-2020_se-ha-cambiado-la-fecha-de-la-transmisión-en-vivo-del-presidente_859a00bb2a30.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-09-2020_se-ha-cambiado-la-fecha-de-la-transmisión-en-vivo-del-presidente_859a00bb2a30.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2020_se-ha-cambiado-la-fecha-de-la-transmisión-en-vivo-del-presidente_859a00bb2a30",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/19/50/69/3d/f1/1950693df17f0eabd058f63836bf325c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2020_se-ha-cambiado-la-fecha-de-la-transmisión-en-vivo-del-presidente_859a00bb2a30\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:55:08.517862-03:00",
+  "status": "downloaded"
+}

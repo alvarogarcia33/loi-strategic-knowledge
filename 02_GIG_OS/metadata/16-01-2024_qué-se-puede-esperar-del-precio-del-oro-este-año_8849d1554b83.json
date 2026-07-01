@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_8849d1554b83",
+  "platform": "gig_os",
+  "title": "¿Qué se puede esperar del precio del oro este año?",
+  "date": "16.01.2024",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/que-se-puede-esperar-del-precio-del-oro-este-ano-861",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/que-se-puede-esperar-del-precio-del-oro-este-ano-861",
+  "content_hash": "9399edfc6b2fc1f9f0cdec160b8a8425cc0dec25671829af6028286cef32e9ee",
+  "url_hash": "479e360270d773e8332a1364880ae0d8f4768127d295a4ec731fc152bd6b604f",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\16-01-2024_qué-se-puede-esperar-del-precio-del-oro-este-año_8849d1554b83.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\16-01-2024_qué-se-puede-esperar-del-precio-del-oro-este-año_8849d1554b83.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-01-2024_qué-se-puede-esperar-del-precio-del-oro-este-año_8849d1554b83",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/ec/a5/35/fb/80/eca535fb80e11c0d9867a2e286f216c5_1.webp?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-01-2024_qué-se-puede-esperar-del-precio-del-oro-este-año_8849d1554b83\\image_01.webp",
+      "filename": "image_01.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1607/gold-price-for-the-past-10-years-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-01-2024_qué-se-puede-esperar-del-precio-del-oro-este-año_8849d1554b83\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.gig-os.com/gold-news/1454/gold-banner-1-es_1.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\16-01-2024_qué-se-puede-esperar-del-precio-del-oro-este-año_8849d1554b83\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-06-29T18:51:10.746657-03:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,89 @@
+{
+  "article_uid": "gig_os_2dcdde8396a9",
+  "platform": "gig_os",
+  "title": "Los multimillonarios eligen el oro",
+  "date": "28.02.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/los-multimillonarios-eligen-el-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/los-multimillonarios-eligen-el-oro",
+  "content_hash": "1f6e10b690ba79b4f32db41f8b3eed12264fa25c7737aeb71a3051395f96ffb1",
+  "url_hash": "ef5cb76558ed31ad5b51b1ee798a98b7c535dc240f038333cb5561a348da4b73",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-02-2019_los-multimillonarios-eligen-el-oro_2dcdde8396a9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-02-2019_los-multimillonarios-eligen-el-oro_2dcdde8396a9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-02-2019_los-multimillonarios-eligen-el-oro_2dcdde8396a9",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/20/16/45/18/de/20164518de2cade4be6a9da1f8f5a844_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-02-2019_los-multimillonarios-eligen-el-oro_2dcdde8396a9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/661/global-intergold-oro19_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/661/global-intergold-oro20_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/661/global-intergold-oro21_1.jpg",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/661/global-intergold-oro22_1.jpg",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/661/global-intergold-oro23_1.jpg",
+      "local_path": null,
+      "filename": "image_06",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/661/global-intergold-oro24_1.jpg",
+      "local_path": null,
+      "filename": "image_07",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/661/global-intergold-oro18_1.jpg",
+      "local_path": null,
+      "filename": "image_08",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:37:48.757213-03:00",
+  "status": "downloaded"
+}

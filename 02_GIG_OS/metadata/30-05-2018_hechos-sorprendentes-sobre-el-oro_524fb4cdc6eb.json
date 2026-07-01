@@ -1,0 +1,49 @@
+{
+  "article_uid": "gig_os_524fb4cdc6eb",
+  "platform": "gig_os",
+  "title": "Hechos sorprendentes sobre el oro",
+  "date": "30.05.2018",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/hechos-sorprendentes-sobre-el-oro",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/hechos-sorprendentes-sobre-el-oro",
+  "content_hash": "67eaa8d6b66ab75c4bd455c63effbe59a614ccffc21e76c8b9b244defa8b9882",
+  "url_hash": "e16f939a45f227c693b3e517c7cdf5bfaa1a345d4910eb2e3c12147b48083502",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\30-05-2018_hechos-sorprendentes-sobre-el-oro_524fb4cdc6eb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\30-05-2018_hechos-sorprendentes-sobre-el-oro_524fb4cdc6eb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\30-05-2018_hechos-sorprendentes-sobre-el-oro_524fb4cdc6eb",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/65/e6/79/47/57/65e679475702b92bb69cecd1aaa938d9_1.jpg?1",
+      "local_path": null,
+      "filename": "image_01",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/492/global-intergold-oro-1_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/492/global-intergold-oro-2_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:23:49.834602-03:00",
+  "status": "downloaded"
+}

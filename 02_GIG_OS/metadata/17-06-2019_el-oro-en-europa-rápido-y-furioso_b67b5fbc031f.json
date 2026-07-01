@@ -1,0 +1,65 @@
+{
+  "article_uid": "gig_os_b67b5fbc031f",
+  "platform": "gig_os",
+  "title": "El oro en Europa: rápido y furioso",
+  "date": "17.06.2019",
+  "author": "Redacción de Global InterGold",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/el-oro-en-europa-rapido-y-furioso-133",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/el-oro-en-europa-rapido-y-furioso-133",
+  "content_hash": "985ada1ac2bd55b79a856ee05f2285a8f31aeb8f9986107bd830bbe8467897a4",
+  "url_hash": "6cd9a2703fb9b39d4e4769663e689bd9d8d7149cc200078debf9fa63ebcaac9c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\17-06-2019_el-oro-en-europa-rápido-y-furioso_b67b5fbc031f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\17-06-2019_el-oro-en-europa-rápido-y-furioso_b67b5fbc031f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-06-2019_el-oro-en-europa-rápido-y-furioso_b67b5fbc031f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/54/55/cd/d8/e3/5455cdd8e31366ceb39a1c18a77afd5c_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\17-06-2019_el-oro-en-europa-rápido-y-furioso_b67b5fbc031f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/721/global-intergold-gold-informe-de-la-cotizacion-del-oro-5_1.jpg",
+      "local_path": null,
+      "filename": "image_02",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/721/global-intergold-gold-informe-de-la-cotizacion-del-oro-6_1.jpg",
+      "local_path": null,
+      "filename": "image_03",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/721/global-intergold-gold-informe-de-la-cotizacion-del-oro-5_1.png",
+      "local_path": null,
+      "filename": "image_04",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    },
+    {
+      "source_url": "https://f01.globalintergold.com/gold-news/721/global-intergold-gold-informe-de-la-cotizacion-del-oro-6_1.png",
+      "local_path": null,
+      "filename": "image_05",
+      "content_type": null,
+      "download_status": "failed",
+      "error_message": "HTTP 404"
+    }
+  ],
+  "extracted_at": "2026-06-29T18:09:35.743175-03:00",
+  "status": "downloaded"
+}
