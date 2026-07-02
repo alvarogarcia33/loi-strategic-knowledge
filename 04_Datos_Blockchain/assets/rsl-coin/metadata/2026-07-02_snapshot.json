@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "asset_id": "rsl-coin",
+  "asset_name": "RSL Coin - acciones tokenizadas de Renaissance Space Labs",
+  "observation_date": "2026-07-02",
+  "imported_at": "2026-07-02T19:17:02.7186054Z",
+  "source_file": "2026-07-02_rsl-coin.xlsx",
+  "source_sha256": "0CF7566D07E52A78FC51717C73A4D81127681819E985CB52218E1D6D27ADA35C",
+  "source_sheet": "Wallets RSL",
+  "network": "NETSBO.IO",
+  "contract_address": "pendiente",
+  "block_number": "pendiente",
+  "explorer_url": "pendiente",
+  "expected_supply": 11000000000.0,
+  "observed_supply": 11000000000.0,
+  "supply_reconciled": true,
+  "summary_rows_excluded": 1,
+  "holder_wallets_total": 13845,
+  "company_wallet": null,
+  "company_wallet_status": "pendiente_de_confirmacion",
+  "company_balance": 0,
+  "company_share_pct": 0.0,
+  "external_wallets_unclassified": 13845,
+  "external_balance": 11000000000.0,
+  "external_share_pct": 100.0,
+  "duplicate_wallets": 0,
+  "concentration": {
+    "largest_wallet_balance": 942157299,
+    "largest_wallet_share_pct": 8.5651,
+    "top_10_share_pct": 51.9835,
+    "top_100_share_pct": 67.0615,
+    "median_balance": 38664,
+    "wallets_balance_ge_1000000": 1010,
+    "wallets_balance_ge_10000000": 67,
+    "wallets_balance_lt_1000": 5
+  },
+  "documentary_context": {
+    "issuer": "Renaissance Space Labs",
+    "token_representation": "1 RSL Coin = 1 accion de la compania",
+    "published_standard": "NSB20 (ERC20)",
+    "published_network": "NETSBO.IO",
+    "source_url": "https://gig-os.com/es/gold-news/read/renaissance-space-labs-lanza-rsl-coin-1148"
+  },
+  "methodology": "Fila por wallet; se excluyen filas TOTAL; ninguna wallet se excluye porque la wallet corporativa no esta confirmada.",
+  "caveats": [
+    "Una wallet no equivale necesariamente a una persona.",
+    "La wallet corporativa, las wallets custodiales y las wallets tecnicas de RSL aun no estan identificadas.",
+    "El numero de wallets no equivale al numero de accionistas registrados.",
+    "Balance fuera de la empresa no demuestra por si solo compra, mint o creacion.",
+    "Red, contrato, bloque y URL deben completarse para comparaciones tecnicamente reproducibles."
+  ]
+}
