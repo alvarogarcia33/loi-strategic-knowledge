@@ -33,6 +33,127 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Inicialmente se explica cómo operar; más adelante se explica por qué el sistema tendría sentido económico dentro del ecosistema.
 - Aparece una profesionalización del lenguaje: de token/farming a licencia, producción, mercado, comprador y control.
 
+<!-- AUTO:ACTUALIZACION_DOCUMENTAL:START -->
+## Actualización documental automática
+
+> Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
+
+- Corte documental disponible: **30.06.2026**.
+- Fuentes relevantes pendientes: **58**.
+- Fuentes mostradas: **12**.
+
+### 30.06.2026 — La comunidad crece: ¡gane premios junto con sus nuevos miembros!
+
+- Señal documental: **crecimiento o adopción**.
+- Relevancia automática: **4**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros).
+- Archivos locales: [01_Olympia/markdown/30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b.md](../01_Olympia/markdown/30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b.md).
+- Extracto relevante: Si activan dos PIN en cualquier sistema H-MAP durante este período, el Creador de Mercado que los invitó recibirá 3 GAMEGOS Coin por cada participante. Su actividad le reportará beneficios inmediatos. GAMEGOS Coin que recibe como premio, son nuevos orbes, nuevas HEXA Coin y nuevas fábricas de drones premium. ¡Gestiona sus monedas como mejor le convenga!
+
+### 26.06.2026 — Siempre un paso adelante: configure el equilibrio perfecto de sus activos
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **6**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/siempre-un-paso-adelante-configure-el-equilibrio-perfecto-de-sus-activos).
+- Archivos locales: [02_GIG_OS/markdown/26-06-2026_siempre-un-paso-adelante-configure-el-equilibrio-perfecto-de-sus-activos_310e874e9674.md](../02_GIG_OS/markdown/26-06-2026_siempre-un-paso-adelante-configure-el-equilibrio-perfecto-de-sus-activos_310e874e9674.md).
+- Extracto relevante: Con ella, puede intercambiar fácilmente sus INT Coin por DOMINION Coin y viceversa. De esta forma, aumenta la cantidad de monedas que más necesita para alcanzar sus objetivos actuales. Les recordamos que el farming de DOMINION Coin en la plataforma en línea de nuestro socio OLYMPIA-LAB finalizará el 15 de julio.
+
+### 20.06.2026 — Las oportunidades entran en tiempo extra: es momento de lograr nuevos resultados
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **11**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados).
+- Archivos locales: [01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md](../01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md).
+- Extracto relevante: Fifteen Force fortalece su negocio en dos direcciones al mismo tiempo: 20 PIN ya activados aumentan la eficiencia en H-MAP System y, además, proporcionan cupones preFactoryDX necesarios para la producción de fábricas de drones premium. El nuevo participante activa al menos 2 PIN en cualquiera de los sistemas H-MAP (la activación debe realizarse antes del 20 de agosto a las 12:00 CET).
+
+### 08.06.2026 — Se ha realizado un Airdrop de 7PT COUPON
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/se-ha-realizado-un-airdrop-de-7pt-coupon-0210).
+- Archivos locales: [01_Olympia/markdown/08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.md](../01_Olympia/markdown/08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.md).
+- Extracto relevante: Para apoyar a la comunidad de Creadores de Mercado en el fortalecimiento de su negocio, la semana pasada realizamos un Airdrop de 7PT COUPON. Los cupones fueron distribuidos aleatoriamente entre los Creadores de Mercado seleccionados por el sistema.
+
+### 05.06.2026 — Fifteen Force: quedan 10 días
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **19**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/fifteen-force-quedan-10-dias-0209).
+- Archivos locales: [01_Olympia/markdown/05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.md](../01_Olympia/markdown/05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.md).
+- Extracto relevante: La oferta especial Fifteen Force vence el 15 de junio a las 23:59:59 CET. Cada paquete Fifteen Force (independientemente del tipo de token) contiene 20 PIN preactivados. Esto significa que aumentarán instantáneamente su actividad en el H-MAP System y ampliarán sus oportunidades para farmear las REEX Coin.
+
+### 01.06.2026 — Actualización de PINs: ¡plazo extendido!
+
+- Señal documental: **cambio de calendario o plazo**.
+- Relevancia automática: **17**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/actualizacion-de-pins-plazo-extendido-0207).
+- Archivos locales: [01_Olympia/markdown/01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4.md](../01_Olympia/markdown/01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4.md).
+- Extracto relevante: Para habilitar esta función para todos sus PINs, debe activar 16 PINs nuevos cualesquiera. Los PINs actualizados funcionarán en H-MAP System según las nuevas reglas y le otorgarán más REEX Coin por las combinaciones exitosas.
+
+### 30.05.2026 — Factory.DroneX: fábrica de los drones premium
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **20**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/factorydronex-fabrica-de-los-drones-premium-0206).
+- Archivos locales: [01_Olympia/markdown/30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323.md](../01_Olympia/markdown/30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323.md).
+- Extracto relevante: Etapa 1 - por cada PIN activado en H-MAP 7PT y H-MAP.9 el Creador de Mercado recibe un cupón especial preFactoryDX, que da derecho a crear Factory.DroneX. Cada PIN activado en H-MAP.7PRO da 3 cupones preFactoryDX. creación dentro de las primeras 1000 Factory.DroneX, es decir, entre 1 y 1000 Factory.DroneX, requerirá 1 cupón de preFactoryDX,1 GAMEGOS Coin y 1 HMAP Coin como comisión;
+
+### 22.05.2026 — Fifteen Force: nuevo nivel
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **30**.
+- Plataformas: GIG-OS, Olympia.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/fifteen-force-nuevo-nivel-0194), [Olympia](https://olympia-lab.com/es/news/post/fifteen-force-nuevo-nivel-0203).
+- Archivos locales: [02_GIG_OS/markdown/22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d.md](../02_GIG_OS/markdown/22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d.md), [01_Olympia/markdown/22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4.md](../01_Olympia/markdown/22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4.md).
+- Extracto relevante: El farming efectivo es la piedra angular de su éxito. En un ecosistema en constante crecimiento, la escala de acción lo decide todo. Cuantos más PIN hay, más productivo es el farming. Cuantos más activos se farmean en diferentes segmentos del sistema H-MAP, más amplio será la oportunidad. 20 PIN activados, que se puede colocar inmediatamente en H-MAP 7PT;
+
+### 20.05.2026 — Reciba GAMEGOS Coin por activación de los PINs antes del 20 junio
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **27**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/reciba-gamegos-coin-por-activacion-de-los-pins-antes-del-20-junio-0202).
+- Archivos locales: [01_Olympia/markdown/20-05-2026_reciba-gamegos-coin-por-activación-de-los-pins-antes-del-20-junio_9085484b18d9.md](../01_Olympia/markdown/20-05-2026_reciba-gamegos-coin-por-activación-de-los-pins-antes-del-20-junio_9085484b18d9.md).
+- Extracto relevante: La oportunidad de recibir GAMEGOS Coin por transacciones de activación de PINs se ha extendido hasta el 20 de junio. ¡Active los PIN y observe cómo crece su reserva de GAMEGOS Coin!
+
+### 18.05.2026 — REEX.MINER: ¡solo quedan 2 días!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/reexminer-solo-quedan-2-dias-0201).
+- Archivos locales: [01_Olympia/markdown/18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1.md](../01_Olympia/markdown/18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1.md).
+- Extracto relevante: El plazo para obtener REEX.MINER al activar PINs está a punto de expirar. Tiene dos días más para acumular la mayor cantidad posible de REEX.MINER y prepararse para monetizar su terreno en el juego.
+
+### 14.05.2026 — INTERA SWAP: concluimos la serie de premios
+
+- Señal documental: **cierre o finalización**.
+- Relevancia automática: **4**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-concluimos-la-serie-de-premios-0192).
+- Archivos locales: [02_GIG_OS/markdown/14-05-2026_intera-swap-concluimos-la-serie-de-premios_20777f366436.md](../02_GIG_OS/markdown/14-05-2026_intera-swap-concluimos-la-serie-de-premios_20777f366436.md).
+- Extracto relevante: ¡Enhorabuena! El premio en forma de HMAP Coin, INT Coin y DOMINION Coin será un sólido apoyo para el desarrollo de su negocio y la consecución de los objetivos establecidos. Intercambie sus INT Coin y DOMINION Coin y utilice el mecanismo de CashBack para recuperar hasta el 20 % de las comisiones pagadas.
+
+### 29.04.2026 — INTERA SWAP: ¡premiamos al siguiente participante!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-premiamos-al-siguiente-participante-0189).
+- Archivos locales: [02_GIG_OS/markdown/29-04-2026_intera-swap-premiamos-al-siguiente-participante_6b233f651b21.md](../02_GIG_OS/markdown/29-04-2026_intera-swap-premiamos-al-siguiente-participante_6b233f651b21.md).
+- Extracto relevante: ¡Seguimos premiando a los usuarios más activos de la herramienta DeFi INTERA SWAP! El premio en forma de HMAP Coin, INT Coin y DOMINION Coin ya se ha acreditado en la cartera digital del participante. ¡Enhorabuena y le deseamos mucho éxito en el desarrollo de su negocio y en la acumulación de activos!
+
+Se omitieron **46** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+
+<!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
+
 <!-- AUTO:REUNIONES_PRESIDENCIA:START -->
 ## Evidencia privada de reuniones
 

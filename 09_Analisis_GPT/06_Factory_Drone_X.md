@@ -37,6 +37,44 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Muy rápido la narrativa se amplía: ya no solo produce drones, también produce acceso a una futura red de Maestros del Juego personales.
 - Esto sugiere un corrimiento desde `economía de objeto` hacia `economía de relación y distribución`.
 
+<!-- AUTO:ACTUALIZACION_DOCUMENTAL:START -->
+## Actualización documental automática
+
+> Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
+
+- Corte documental disponible: **30.06.2026**.
+- Fuentes relevantes pendientes: **3**.
+- Fuentes mostradas: **3**.
+
+### 20.06.2026 — Las oportunidades entran en tiempo extra: es momento de lograr nuevos resultados
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **5**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados).
+- Archivos locales: [01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md](../01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md).
+- Extracto relevante: Fifteen Force fortalece su negocio en dos direcciones al mismo tiempo: 20 PIN ya activados aumentan la eficiencia en H-MAP System y, además, proporcionan cupones preFactoryDX necesarios para la producción de fábricas de drones premium. Debido al creciente interés en la creación de fábricas de drones premium, se ha decidido ampliar el período de obtención de cupones preFactoryDX.
+
+### 08.06.2026 — Se ha realizado un Airdrop de 7PT COUPON
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/se-ha-realizado-un-airdrop-de-7pt-coupon-0210).
+- Archivos locales: [01_Olympia/markdown/08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.md](../01_Olympia/markdown/08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.md).
+- Extracto relevante: Reciba cupones especiales de preFactoryDX que le otorgan el derecho a crear un Factory.DroneX. Utilice el 7PT COUPON para obtener la mayor cantidad posible de fábricas que produzcan drones de juego y participe en el Airdrop para los propietarios de Factory.DroneX.
+
+### 05.06.2026 — Fifteen Force: quedan 10 días
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **6**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/fifteen-force-quedan-10-dias-0209).
+- Archivos locales: [01_Olympia/markdown/05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.md](../01_Olympia/markdown/05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.md).
+- Extracto relevante: Le recordamos: por cada PIN activado, recibirá además cupones preFactoryDX necesarios para crear Factory.DroneX. De este modo, Fifteen Force se convierte en una de las formas más eficientes de obtener ventajosamente los cupones preFactoryDX necesarios para crear sus propias fábricas.
+
+<!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
+
 <!-- AUTO:REUNIONES_PRESIDENCIA:START -->
 ## Evidencia privada de reuniones
 

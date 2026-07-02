@@ -36,6 +36,127 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - De `proyecto autónomo` a `segundo centro` dentro de una arquitectura mayor de tres proyectos.
 - Más adelante, LOI también se narra como infraestructura de captación de usuarios y como revolución AR/blockchain, no solo como juego.
 
+<!-- AUTO:ACTUALIZACION_DOCUMENTAL:START -->
+## Actualización documental automática
+
+> Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
+
+- Corte documental disponible: **30.06.2026**.
+- Fuentes relevantes pendientes: **64**.
+- Fuentes mostradas: **12**.
+
+### 25.06.2026 — Maestros del Juego personales: socios que trabajan para su éxito
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/maestros-del-juego-personales-socios-que-trabajan-para-su-exito).
+- Archivos locales: [01_Olympia/markdown/25-06-2026_maestros-del-juego-personales-socios-que-trabajan-para-su-éxito_9b4200ca96ed.md](../01_Olympia/markdown/25-06-2026_maestros-del-juego-personales-socios-que-trabajan-para-su-éxito_9b4200ca96ed.md).
+- Extracto relevante: En los negocios tradicionales, la relación entre el vendedor y el comprador dura tanto como un trato. Así es como se ve su ecosistema de socios personales dentro del espacio Legends of Interactions. Un ecosistema que funciona para usted, incluso cuando está descansando. Al fin y al cabo, si las cosas de los Maestros del Juego vayan bien, mañana comprarán más objetos suyos.
+
+### 12.06.2026 — ¡Prepare su negocio para una expansión global!
+
+- Señal documental: **crecimiento o adopción**.
+- Relevancia automática: **3**.
+- Plataformas: GIG-OS, Olympia.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/prepare-su-negocio-para-una-expansion-global-0198), [Olympia](https://olympia-lab.com/es/news/post/prepare-su-negocio-para-una-expansion-global-0212).
+- Archivos locales: [02_GIG_OS/markdown/12-06-2026_prepare-su-negocio-para-una-expansión-global_baf800690d17.md](../02_GIG_OS/markdown/12-06-2026_prepare-su-negocio-para-una-expansión-global_baf800690d17.md), [01_Olympia/markdown/12-06-2026_prepare-su-negocio-para-una-expansión-global_6a95fc4c0669.md](../01_Olympia/markdown/12-06-2026_prepare-su-negocio-para-una-expansión-global_6a95fc4c0669.md).
+- Extracto relevante: Y aquí su papel es fundamental. Ustedes son quienes están en el origen del futuro éxito del ecosistema y de sus principales centros de desarrollo: INTERATUM, Legends of Interactions y TerritoryX. Ya han entrado en este universo y han podido apreciar todas sus ventajas. Y pueden compartir esta experiencia con otras personas, atrayendo a la comunidad a individuos cada vez más decididos, activos y motivados por el descubrimiento. nuevos Creadores de Mercado capaces de impulsar la economía de Legends of Interactions;
+
+### 03.06.2026 — Funcionalidad de creación de Factory.DroneX ha sido lanzada
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/funcionalidad-de-creacion-de-factorydronex-ha-sido-lanzada-0208).
+- Archivos locales: [01_Olympia/markdown/03-06-2026_funcionalidad-de-creación-de-factory-dronex-ha-sido-lanzada_820b7ed78e7a.md](../01_Olympia/markdown/03-06-2026_funcionalidad-de-creación-de-factory-dronex-ha-sido-lanzada_820b7ed78e7a.md).
+- Extracto relevante: Factory.DroneX es el primer objeto industrial de la nueva línea Factory.MASTER, con un precio de venta recomendado de 18 REEX Coin. La fábrica producirá drones de nivel premium para los jugadores de Legends of Interactions. A partir de mayo de 2026, junto con los TOP Creadores de Mercado, estamos creando un mercado global de Maestros del Juego que se convertirá en la base para el desarrollo de negocios en los territorios de Legends of Interactions y TerritoryX.
+
+### 03.06.2026 — Factory.DroneX: fábrica de drones premium
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/factorydronex-fabrica-de-drones-premium-0196).
+- Archivos locales: [02_GIG_OS/markdown/03-06-2026_factory-dronex-fábrica-de-drones-premium_389bd86dd85c.md](../02_GIG_OS/markdown/03-06-2026_factory-dronex-fábrica-de-drones-premium_389bd86dd85c.md).
+- Extracto relevante: Factory.DroneX — es un objeto especial diseñado para crear drones premium para los jugadores de Legends of Interactions. Los drones son una parte fundamental de la experiencia de juego. En el futuro, prácticamente toda la interacción dentro de Legends of Interactions se llevará a cabo a través de drones.
+
+### 17.04.2026 — ¿Cómo conseguir 381 REEX Coin de su Asesor en la nueva oficina interna de Maestros de Juego?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **5**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestros-de-juego-0187).
+- Archivos locales: [01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md](../01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md).
+- Extracto relevante: Las innovaciones en la nueva arquitectura de la oficina interna de los Maestros del Juego incluirán no solo visualizaciones que presenten la parte más importante de Legends of Interactions a través de ojos 3D, sino también aspectos importantes del ecosistema LOI, como tecnologías para el sector financiero, interacciones de comercio y comunicaciones. ¡Y eso no es todo! Cuando el mundo de Legends of Interactions comience a llenar con los jugadores, verá el «segundo nacimiento» de REEX.MINER. Por cada interacción del…
+
+### 16.04.2026 — INTERA SWAP: pool de intercambio de INT Coin y DOMINION Coin
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **6**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin-0185).
+- Archivos locales: [02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md](../02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md).
+- Extracto relevante: Dos monedas: INT Coin y DOMINION Coin. Los dos principales activos dentro de los tres proyectos clave del ecosistema Global Metaverse: el Marketplace de servicios INTERATUM, el ecosistema de juegos Legends of Interactions y TerritoryX, una plataforma que transforma la tierra en un recurso. La tercera: mediante el desarrollo y la promoción de una herramienta DeFi-DEX estable, INTERA SWAP, comenzaremos a dar a conocer al público externo los principales activos del ecosistema Global Metaverse. El primer par ya ha…
+
+### 20.03.2026 — H-MAP System como franquicia
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: GIG-OS, Olympia.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/h-map-system-como-franquicia-0176), [Olympia](https://olympia-lab.com/es/news/post/h-map-system-como-franquicia-0171).
+- Archivos locales: [02_GIG_OS/markdown/20-03-2026_h-map-system-como-franquicia_9840ab55f5f6.md](../02_GIG_OS/markdown/20-03-2026_h-map-system-como-franquicia_9840ab55f5f6.md), [01_Olympia/markdown/20-03-2026_h-map-system-como-franquicia_14e4aea0bdec.md](../01_Olympia/markdown/20-03-2026_h-map-system-como-franquicia_14e4aea0bdec.md).
+- Extracto relevante: Produce → comercializa → vende a los Maestros a través de Legends of Interactions, Marketplace y TerritoryX → genera facturación y ganancias. En resumen: H-MAP es una franquicia de producción de recursos para los ecosistemas de Legends of Interactions y TerritoryX.
+
+### 16.01.2026 — Resultados de la reunión en línea
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/resultados-de-la-reunion-en-linea-1154).
+- Archivos locales: [02_GIG_OS/markdown/16-01-2026_resultados-de-la-reunión-en-línea_fe4078e681b2.md](../02_GIG_OS/markdown/16-01-2026_resultados-de-la-reunión-en-línea_fe4078e681b2.md).
+- Extracto relevante: Asimismo, el Presidente subrayó que la mejor opción para la comunidad es salir a la IPO con la ecosistema del Juego Legends of Interactions. La ecosistema, con todos sus elementos interconectados, será valorada más alto que solo el juego en sí. Ha comenzado la siguiente etapa de la competición por la participación en el crucero «LEGENDS OF INTERACTIONS — CONQUISTA DE NUEVOS TERRITORIOS».
+
+### 16.09.2025 — ¿Cómo jugar a Legends of Interactions?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **16**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-jugar-a-legends-of-interactions-0115).
+- Archivos locales: [01_Olympia/markdown/16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049.md](../01_Olympia/markdown/16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049.md).
+- Extracto relevante: Algunos elementos del Juego podrían verse o funcionar de manera distinta a como se describe aquí. Esto es normal, ya que un gran equipo trabaja constantemente en Legends of Interactions. Los programadores se esfuerzan por mejorar el Juego incorporando ideas propias. La aplicación móvil Legends of Interactions puede actualizarse con regularidad.
+
+### 16.09.2025 — Información importante para los Maestros del Juego
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **4**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/informacion-importante-para-los-maestros-del-juego-0116).
+- Archivos locales: [01_Olympia/markdown/16-09-2025_información-importante-para-los-maestros-del-juego_fdbf8f205e45.md](../01_Olympia/markdown/16-09-2025_información-importante-para-los-maestros-del-juego_fdbf8f205e45.md).
+- Extracto relevante: 1. Cómo invitar a nuevos jugadores a Legends of Interactions. Si en la pestaña LOI Referral no aparecen códigos, significa que usted no forma parte del grupo focal. Para unirse al grupo, necesita recibir una invitación de otro Creador de Mercado.
+
+### 15.09.2025 — ¡La aplicación Legends of Interactions: ¡la nueva versión ya está disponible!
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **14**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-aplicacion-legends-of-interactions-la-nueva-version-ya-esta-disponible-0114).
+- Archivos locales: [01_Olympia/markdown/15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771.md](../01_Olympia/markdown/15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771.md).
+- Extracto relevante: y todos aquellos que ayudan a crear el increíble mundo de Legends of Interactions! Próximamente podrá descubrir más detalles sobre las nuevas mecánicas de juego en Legends of Interactions en OLYMPIA-LAB.COM. ¡No deje de seguir las noticias!
+
+### 28.08.2025 — MetaFi Next Step — Neon Factors PowerUP
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **4**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/metafi-next-step-neon-factors-powerup-1133).
+- Archivos locales: [02_GIG_OS/markdown/28-08-2025_metafi-next-step-neon-factors-powerup_af8b93c129cb.md](../02_GIG_OS/markdown/28-08-2025_metafi-next-step-neon-factors-powerup_af8b93c129cb.md).
+- Extracto relevante: El plan estratégico de la compañía incluye una serie de pasos en diversas áreas del GLOBAL METAVERSE. INTERATUM es un marketplace de servicios de nueva generación, uno de los proyectos fundamentales del Metaverso GLOBAL METAVERSE. Es un proyecto extraordinario, sin análogos en el mundo de los negocios. Puede compartir ciertas similitudes con otros proyectos, pero en esencia es único. Único no solo por su idea y concepto, sino también por su forma de promoción y por su método de creación de una comunidad gestora.
+
+Se omitieron **52** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+
+<!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
+
 <!-- AUTO:REUNIONES_PRESIDENCIA:START -->
 ## Evidencia privada de reuniones
 

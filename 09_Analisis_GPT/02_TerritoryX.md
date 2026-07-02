@@ -33,6 +33,80 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Cambia el foco desde `publicidad gamificada` a `economía territorial`.
 - A partir de marzo de 2026, la tierra deja de verse solo como activo del juego y se reinterpreta como infraestructura comercial y publicitaria.
 
+<!-- AUTO:ACTUALIZACION_DOCUMENTAL:START -->
+## Actualización documental automática
+
+> Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
+
+- Corte documental disponible: **30.06.2026**.
+- Fuentes relevantes pendientes: **7**.
+- Fuentes mostradas: **7**.
+
+### 17.04.2026 — ¿Cómo conseguir 381 REEX Coin de su Asesor en la nueva oficina interna de Maestros de Juego?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **4**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestros-de-juego-0187).
+- Archivos locales: [01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md](../01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md).
+- Extracto relevante: Si tiene terrenos dentro del Juego, reserva de GICO Coin y Asesores conectados a TerritoryX, esta innovación será especialmente interesante. REEX.MINER se instala en áreas bajo control de Asesores con una suscripción a TerritoryX activada. Después de esto, el objeto comienza a minar en el tereno las REEX Coin.
+
+### 16.04.2026 — INTERA SWAP: pool de intercambio de INT Coin y DOMINION Coin
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin-0185).
+- Archivos locales: [02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md](../02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md).
+- Extracto relevante: Dos monedas: INT Coin y DOMINION Coin. Los dos principales activos dentro de los tres proyectos clave del ecosistema Global Metaverse: el Marketplace de servicios INTERATUM, el ecosistema de juegos Legends of Interactions y TerritoryX, una plataforma que transforma la tierra en un recurso. Y, por supuesto, DOMINION Coin es la única forma de convertirse en socio del negocio publicitario de TerritoryX.
+
+### 20.03.2026 — H-MAP System como franquicia
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: GIG-OS, Olympia.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/h-map-system-como-franquicia-0176), [Olympia](https://olympia-lab.com/es/news/post/h-map-system-como-franquicia-0171).
+- Archivos locales: [02_GIG_OS/markdown/20-03-2026_h-map-system-como-franquicia_9840ab55f5f6.md](../02_GIG_OS/markdown/20-03-2026_h-map-system-como-franquicia_9840ab55f5f6.md), [01_Olympia/markdown/20-03-2026_h-map-system-como-franquicia_14e4aea0bdec.md](../01_Olympia/markdown/20-03-2026_h-map-system-como-franquicia_14e4aea0bdec.md).
+- Extracto relevante: En nuestro caso, el mercado está integrado en la arquitectura. Tres canales: Antallagi como marketplace, Legends of Interaction como fuente de demanda por parte de los Maestros del Juego, TerritoryX como espacio donde los recursos se transforman en escenarios. Un Creador de Mercado no necesita buscar compradores. Los compradores —los Maestros— ya están dentro del sistema y necesitan recursos para operar. Produce → comercializa → vende a los Maestros a través de Legends of Interactions, Marketplace y TerritoryX →…
+
+### 10.03.2026 — El mundo de Legends of Interactions: ¡evolución infinita!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/el-mundo-de-legends-of-interactions-evolucion-infinita-0166).
+- Archivos locales: [01_Olympia/markdown/10-03-2026_el-mundo-de-legends-of-interactions-evolución-infinita_6f663326ec42.md](../01_Olympia/markdown/10-03-2026_el-mundo-de-legends-of-interactions-evolución-infinita_6f663326ec42.md).
+- Extracto relevante: Episodio 4: Inicio de la plataforma de publicidad digital TerritoryX. Los Creadores de Mercado activos están directamente interesados en el crecimiento y desarrollo del ecosistema de juegos, porque, además de los dos factores que ya mencioné —el interés y el beneficio del Creador de Mercado—, al inicio del Episodio 4, con la apertura de la capa comercial de Legends of Interactions, la plataforma de publicidad digital de nueva generación TerritoryX ofrecerá a los Creadores de Mercado una nueva oportunidad de…
+
+### 12.05.2025 — Un modelo eficaz para trabajar con H-MAP.9 durante el prelanzamiento
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **2**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/un-modelo-eficaz-para-trabajar-con-h-map9-durante-el-prelanzamiento-1075).
+- Archivos locales: [02_GIG_OS/markdown/12-05-2025_un-modelo-eficaz-para-trabajar-con-h-map-9-durante-el-prelanzamiento_05a80a40f46c.md](../02_GIG_OS/markdown/12-05-2025_un-modelo-eficaz-para-trabajar-con-h-map-9-durante-el-prelanzamiento_05a80a40f46c.md).
+- Extracto relevante: Hasta el 27.05.2025 está activo el prelanzamiento de la placa H-MAP.9 en el sitio web del laboratorio tecnológico OLYMPIA-LAB. ¡Utilicen las DOMINION Coin obtenidas y conecten sus parcelas de tierra a TerritoryX!
+
+### 29.04.2025 — H-MAP.9: nuevo board, nuevas perspectivas
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/h-map9-nuevo-board-nuevas-perspectivas-1070).
+- Archivos locales: [02_GIG_OS/markdown/29-04-2025_h-map-9-nuevo-board-nuevas-perspectivas_2b7605968b30.md](../02_GIG_OS/markdown/29-04-2025_h-map-9-nuevo-board-nuevas-perspectivas_2b7605968b30.md).
+- Extracto relevante: ¡El H-MAP System en OLYMPIA-LAB.COM ha entrado en una nueva etapa de desarrollo! DOMINION Coin es la clave para el espacio publicitario digital de TerritoryX. Estas monedas serán necesarias para todos los Maestros del Juego que deseen monetizar sus terrenos mediante TerritoryX.
+
+### 26.03.2025 — ¡Obtengan +20 GOS Coin!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/obtengan-20-gos-coin-1062).
+- Archivos locales: [02_GIG_OS/markdown/26-03-2025_obtengan-20-gos-coin_87e64c3ee123.md](../02_GIG_OS/markdown/26-03-2025_obtengan-20-gos-coin_87e64c3ee123.md).
+- Extracto relevante: En nuestro ecosistema, siguen lanzándose nuevos y prometedores proyectos. Entre ellos, TerritoryX, cuyo objetivo es ofrecerles las herramientas necesarias para construir su propio negocio publicitario en el mundo de Legends of Interactions. Utilicen los GOS Coin obtenidos para acumular Dominion Coin y prepárense para el lanzamiento de TerritoryX.
+
+<!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
+
 <!-- AUTO:REUNIONES_PRESIDENCIA:START -->
 ## Evidencia privada de reuniones
 

@@ -92,6 +92,7 @@ Uso sugerido:
 
 - Olympia y GIG-OS se conservan como fuentes primarias.
 - `09_Analisis_GPT` funciona como capa curada de síntesis estratégica.
+- Cada dossier de `09_Analisis_GPT` incorpora automáticamente fuentes nuevas de Olympia y GIG-OS todavía no absorbidas por su análisis curado.
 - Las reuniones no reemplazan la fuente documental; la complementan.
 - Los datos blockchain deben distinguir observacion, clasificacion e inferencia.
 - `LOI_AI` local es la base maestra.
