@@ -12,8 +12,17 @@ Base documental privada y sincronizable para análisis estratégico en ChatGPT.
   Notas estratégicas manuales de reuniones, en formato Markdown.
 - `09_Analisis_GPT`
   Dossiers estratégicos curados para subir directamente a un Proyecto de ChatGPT Plus.
-- `06_Extractor`
-  Scripts locales para actualización, validación y sincronización GitHub.
+
+## Qué representa este repositorio
+
+Este repositorio GitHub representa solo la **capa estratégica documental** que queremos usar con ChatGPT:
+
+- fuentes primarias de Olympia
+- fuentes primarias de GIG-OS
+- reuniones privadas resumidas
+- dossiers estratégicos curados
+
+La infraestructura técnica local queda fuera del repo para evitar ruido.
 
 ## Qué no contiene
 
@@ -26,6 +35,8 @@ Este repositorio no debería incluir:
 - estado del navegador
 - bases SQLite sensibles
 - embeddings o infraestructura IA local
+- la carpeta `06_Extractor`
+- la carpeta `08_Reportes`
 - la carpeta `07_IA`
 - reportes internos de IA como `05_Reportes_IA`
 - imágenes pesadas no necesarias para el análisis conversacional
@@ -38,7 +49,7 @@ El flujo esperado es:
 1. Actualizar Olympia con el extractor local.
 2. Actualizar GIG-OS con el extractor local.
 3. Validar o refrescar `09_Analisis_GPT`.
-4. Revisar el plan de archivos a subir.
+4. Revisar el plan de archivos a subir de la capa estratégica.
 5. Hacer commit y push al repositorio GitHub.
 
 Script principal:
@@ -60,6 +71,8 @@ La forma recomendada es subir a un Proyecto de ChatGPT:
 
 - `01_Olympia\markdown`
 - `02_GIG_OS\markdown`
+- `01_Olympia\metadata`
+- `02_GIG_OS\metadata`
 - `03_Reuniones_Presidencia`
 - `09_Analisis_GPT`
 
@@ -74,3 +87,5 @@ Uso sugerido:
 - Olympia y GIG-OS se conservan como fuentes primarias.
 - `09_Analisis_GPT` funciona como capa curada de síntesis estratégica.
 - Las reuniones no reemplazan la fuente documental; la complementan.
+- `LOI_AI` local es la base maestra.
+- GitHub es el espejo estratégico para ChatGPT.
