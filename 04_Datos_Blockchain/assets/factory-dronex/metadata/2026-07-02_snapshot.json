@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "asset_id": "factory-dronex",
+  "asset_name": "Factory.DroneX",
+  "observation_date": "2026-07-02",
+  "imported_at": "2026-07-02T15:00:00.6104761Z",
+  "source_file": "2026-07-02_factory-dronex.xlsx",
+  "source_sha256": "C5B919143BE9C51241B0B561FCD3B756F8C8EB0D8BDD57853A96F7FE7D624965",
+  "source_sheet": "Wallets Factory.DroneX",
+  "network": "pendiente",
+  "contract_address": "pendiente",
+  "block_number": "pendiente",
+  "explorer_url": "pendiente",
+  "expected_supply": 7000.0,
+  "observed_supply": 7000.0,
+  "supply_reconciled": true,
+  "summary_rows_excluded": 1,
+  "holder_wallets_total": 379,
+  "company_wallet": "0xBE55e36198D44b20886610AcC3d6c49B06B00C7A",
+  "company_balance": 4939.0,
+  "company_share_pct": 70.5571,
+  "external_wallets_unclassified": 378,
+  "external_balance": 2061.0,
+  "external_share_pct": 29.4429,
+  "duplicate_wallets": 0,
+  "methodology": "Fila por wallet; se excluyen filas TOTAL; la wallet corporativa se conserva en supply y se excluye como socio.",
+  "caveats": [
+    "Una wallet no equivale necesariamente a una persona.",
+    "Balance fuera de la empresa no demuestra por si solo compra, mint o creacion.",
+    "Red, contrato, bloque y URL deben completarse para comparaciones tecnicamente reproducibles."
+  ]
+}

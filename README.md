@@ -10,6 +10,8 @@ Base documental privada y sincronizable para análisis estratégico en ChatGPT.
   Contenido documental extraído de GIG-OS en Markdown y metadata local.
 - `03_Reuniones_Presidencia`
   Notas estratégicas manuales de reuniones, en formato Markdown.
+- `04_Datos_Blockchain`
+  Snapshots fechados de tokens, NFT y cupones, con datos originales, CSV normalizado, metadata y reportes comparativos.
 - `09_Analisis_GPT`
   Dossiers estratégicos curados para subir directamente a un Proyecto de ChatGPT Plus.
 
@@ -20,6 +22,7 @@ Este repositorio GitHub representa solo la **capa estratégica documental** que 
 - fuentes primarias de Olympia
 - fuentes primarias de GIG-OS
 - reuniones privadas resumidas
+- evidencia cuantitativa observable en blockchain
 - dossiers estratégicos curados
 
 La infraestructura técnica local queda fuera del repo para evitar ruido.
@@ -48,9 +51,10 @@ El flujo esperado es:
 
 1. Actualizar Olympia con el extractor local.
 2. Actualizar GIG-OS con el extractor local.
-3. Validar o refrescar `09_Analisis_GPT`.
-4. Revisar el plan de archivos a subir de la capa estratégica.
-5. Hacer commit y push al repositorio GitHub.
+3. Importar nuevos snapshots blockchain cuando existan.
+4. Validar o refrescar `09_Analisis_GPT`.
+5. Revisar el plan de archivos a subir de la capa estratégica.
+6. Hacer commit y push al repositorio GitHub.
 
 Script principal:
 
@@ -74,6 +78,7 @@ La forma recomendada es subir a un Proyecto de ChatGPT:
 - `01_Olympia\metadata`
 - `02_GIG_OS\metadata`
 - `03_Reuniones_Presidencia`
+- `04_Datos_Blockchain`
 - `09_Analisis_GPT`
 
 Uso sugerido:
@@ -81,11 +86,13 @@ Uso sugerido:
 - `09_Analisis_GPT` como capa estratégica resumida.
 - `01_Olympia` y `02_GIG_OS` como evidencia documental cruda.
 - `03_Reuniones_Presidencia` como capa privada de contexto y confirmación.
+- `04_Datos_Blockchain` como evidencia cuantitativa observada y comparable en el tiempo.
 
 ## Criterio documental
 
 - Olympia y GIG-OS se conservan como fuentes primarias.
 - `09_Analisis_GPT` funciona como capa curada de síntesis estratégica.
 - Las reuniones no reemplazan la fuente documental; la complementan.
+- Los datos blockchain deben distinguir observacion, clasificacion e inferencia.
 - `LOI_AI` local es la base maestra.
 - GitHub es el espejo estratégico para ChatGPT.
