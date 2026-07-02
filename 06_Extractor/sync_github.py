@@ -74,17 +74,56 @@ def ensure_git_repo() -> None:
         raise RuntimeError(f"No se pudo inicializar git:\n{result.stderr.strip()}")
 
 
-def run_daily_update(platform: str) -> UpdateSummary:
+def run_login_test(platform: str) -> None:
     result = run_command(
         [
             str(PYTHON_EXE),
             "main.py",
             "--platform",
             platform,
-            "--daily-update",
+            "--login-test",
         ],
         EXTRACTOR_ROOT,
     )
+    if result.returncode != 0:
+        raise RuntimeError(
+            f"Falló login-test para {platform}.\nSTDOUT:\n{result.stdout}\nSTDERR:\n{result.stderr}"
+        )
+
+
+def looks_like_auth_error(result: subprocess.CompletedProcess[str]) -> bool:
+    combined = f"{result.stdout}\n{result.stderr}".lower()
+    auth_markers = (
+        "session is not authenticated",
+        "authenticated state not found",
+        "run python main.py --platform",
+        "login required",
+    )
+    return any(marker in combined for marker in auth_markers)
+
+
+def run_daily_update(platform: str) -> UpdateSummary:
+    command = [
+        str(PYTHON_EXE),
+        "main.py",
+        "--platform",
+        platform,
+        "--daily-update",
+    ]
+    result = run_command(
+        command,
+        EXTRACTOR_ROOT,
+    )
+    if result.returncode != 0 and looks_like_auth_error(result):
+        print(
+            f"\n[{platform}] Sesión expirada o no autenticada. Ejecutando login-test automático y reintentando..."
+        )
+        run_login_test(platform)
+        result = run_command(
+            command,
+            EXTRACTOR_ROOT,
+        )
+
     if result.returncode != 0:
         raise RuntimeError(
             f"Falló daily update para {platform}.\nSTDOUT:\n{result.stdout}\nSTDERR:\n{result.stderr}"
