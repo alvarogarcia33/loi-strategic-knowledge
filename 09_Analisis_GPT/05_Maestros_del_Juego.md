@@ -34,6 +34,46 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Más adelante, el Maestro también se redefine como `socio` del Creador de Mercado, no solo comprador.
 - El foco narrativo se desplaza desde funciones de panel y compra de tierras hacia relaciones económicas, monetización y crecimiento estructural.
 
+<!-- AUTO:REUNIONES_PRESIDENCIA:START -->
+## Evidencia privada de reuniones
+
+> Sección generada automáticamente desde extractos privados. No constituye un anuncio oficial y debe contrastarse con Olympia, GIG-OS y datos blockchain.
+
+### 2026-05-25 — Resumen ejecutivo de reunión Zoom sobre Olympia y LOI
+
+- Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/2026-05-25_resumen_ejecutivo_zoom_olympia.md](../03_Reuniones_Presidencia/reuniones_privadas/2026-05-25_resumen_ejecutivo_zoom_olympia.md)
+- Tipo: reunión privada; resumen ejecutivo posterior.
+- Nivel de certeza declarado: **alto**.
+- Aportes relevantes:
+  - El Presidente anunció la apertura de la oficina de Maestros del Juego para agosto de 2025, acompañada por una campaña publicitaria orientada a usuarios externos.
+  - Los Market Makers disponen de aproximadamente tres meses para preparar equipos, inventario y recursos antes de la llegada de esos nuevos maestros.
+  - La conexión inicial entre Maestros del Juego y Market Makers se haría por Team Advertising Campaign; Antaloggie se integraría después.
+  - El cuello de botella principal no parece ser la captación de maestros, sino la preparación previa de Market Makers para abastecerlos.
+  - Decisión tomada: apertura de puertas para Maestros del Juego en agosto tras campaña dirigida a público externo.
+
+### sin fecha confirmada en el documento — Compilación estratégica de traducción al español de discurso presidencial
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md](../03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md)
+- Tipo: conferencia de presidencia; extracto consolidado.
+- Nivel de certeza declarado: **medio**.
+- Aportes relevantes:
+  - Proyecto emergente: H Club, Gabinete de Maestros del Juego y Territorio X aparecen como soportes del valor futuro.
+  - Amplía: ofrece la justificación ideológica y estratégica de por qué aparecen proyectos como Territorio X, H Club o Gabinete de Maestros del Juego.
+
+### sin fecha confirmada en el documento — Reunión de asesores sobre estrategia de LOI y preparación de Market Makers
+
+- Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md](../03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md)
+- Tipo: reunión privada; reconstrucción posterior.
+- Nivel de certeza declarado: **medio**.
+- Aportes relevantes:
+  - Desde finales de agosto hasta enero se esperaba crear el primer mercado base de Maestros del Juego.
+  - Se afirma que la etapa actual pertenece al lado empresarial del proyecto: Market Makers y Maestros del Juego.
+  - Se considera indispensable contar con equipos cohesivos de Market Makers con recursos compartidos, no solo esfuerzos individuales.
+  - Se menciona Fixed Force como ejemplo de recursos de la empresa transferidos para fortalecer a los Market Makers.
+  - La prioridad central no es solo atraer personas, sino montar una oferta de recursos suficiente para que los Maestros del Juego no encuentren fricción al llegar.
+
+<!-- AUTO:REUNIONES_PRESIDENCIA:END -->
+
 ## Preguntas estratégicas abiertas
 
 ### Inconsistencias detectadas

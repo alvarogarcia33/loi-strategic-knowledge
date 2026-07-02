@@ -33,6 +33,15 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - En marzo-junio de 2026 aparece con claridad una dependencia táctica: Interatum es central, pero su lanzamiento completo se apoya en el desarrollo previo de Legends of Interactions y TerritoryX.
 - También cambia el énfasis desde la `digitalización de servicios` hacia la `captación y circulación de usuarios` dentro de un universo empresarial integrado.
 
+<!-- AUTO:REUNIONES_PRESIDENCIA:START -->
+## Evidencia privada de reuniones
+
+> Sección generada automáticamente desde extractos privados. No constituye un anuncio oficial y debe contrastarse con Olympia, GIG-OS y datos blockchain.
+
+No se encontraron reuniones reales etiquetadas con esta entidad. Esto representa una ausencia de evidencia privada, no evidencia de ausencia.
+
+<!-- AUTO:REUNIONES_PRESIDENCIA:END -->
+
 ## Preguntas estratégicas abiertas
 
 ### Inconsistencias detectadas

@@ -52,7 +52,7 @@ El flujo esperado es:
 1. Actualizar Olympia con el extractor local.
 2. Actualizar GIG-OS con el extractor local.
 3. Importar nuevos snapshots blockchain cuando existan.
-4. Validar o refrescar `09_Analisis_GPT`.
+4. Regenerar `09_Analisis_GPT`, incorporando las reuniones privadas relacionadas con cada tema.
 5. Revisar el plan de archivos a subir de la capa estratégica.
 6. Hacer commit y push al repositorio GitHub.
 

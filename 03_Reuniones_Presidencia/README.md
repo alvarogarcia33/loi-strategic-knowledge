@@ -7,6 +7,8 @@ Esta carpeta está pensada para guardar extractos estratégicos de:
 
 Todo lo que se guarde aquí forma parte de la lógica de estudio estratégica y debe considerarse material útil para cruzar con Olympia, GIG-OS y los análisis temáticos.
 
+Los archivos Markdown reales guardados dentro de `reuniones_privadas/` y `conferencias_presidencia/` alimentan automáticamente la sección `Evidencia privada de reuniones` de los dossiers en `09_Analisis_GPT`. Las plantillas, este README y el archivo de ejemplo no se incorporan al análisis.
+
 El objetivo no es solo archivar reuniones: es convertirlas en material útil para que después ChatGPT pueda detectar:
 
 - líneas de tiempo

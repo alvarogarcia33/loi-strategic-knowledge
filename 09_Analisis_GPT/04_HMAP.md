@@ -33,6 +33,45 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Inicialmente se explica cómo operar; más adelante se explica por qué el sistema tendría sentido económico dentro del ecosistema.
 - Aparece una profesionalización del lenguaje: de token/farming a licencia, producción, mercado, comprador y control.
 
+<!-- AUTO:REUNIONES_PRESIDENCIA:START -->
+## Evidencia privada de reuniones
+
+> Sección generada automáticamente desde extractos privados. No constituye un anuncio oficial y debe contrastarse con Olympia, GIG-OS y datos blockchain.
+
+### 2026-05-25 — Resumen ejecutivo de reunión Zoom sobre Olympia y LOI
+
+- Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/2026-05-25_resumen_ejecutivo_zoom_olympia.md](../03_Reuniones_Presidencia/reuniones_privadas/2026-05-25_resumen_ejecutivo_zoom_olympia.md)
+- Tipo: reunión privada; resumen ejecutivo posterior.
+- Nivel de certeza declarado: **alto**.
+- Aportes relevantes:
+  - El farming de DominionCoin tenía fecha de cierre el 15 de julio, con el objetivo de reforzar su valor económico hacia agosto.
+  - Se menciona el lanzamiento del programa Fifteen Force como mecanismo para mejorar eficiencia dentro de H-Map.
+  - DominionCoin, H-Map y Fifteen Force aparecen integrados en una lógica de preparación operativa previa al pico de agosto.
+  - Decisión tomada: cierre del farming de DominionCoin el 15 de julio.
+  - Proyecto que mantiene soporte estructural: H-Map, DominionCoin y Fifteen Force.
+
+### sin fecha confirmada en el documento — Compilación estratégica de traducción al español de discurso presidencial
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md](../03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md)
+- Tipo: conferencia de presidencia; extracto consolidado.
+- Nivel de certeza declarado: **medio**.
+- Aportes relevantes:
+  - El texto también aborda errores concretos: la conversión incompleta vinculada a Renaissance Space Labs, la comunicación defectuosa del proceso, la pérdida masiva de claves privadas por parte de usuarios y la falta de comprensión del rol dual de muchos participantes como inversores y socios. Aparece una crítica fuerte a la mentalidad de consumo inmediato y una defensa de la necesidad de construir antes de exigir monetización plena. HMAP, GICO, H Club, Gabinete de Maestros del Juego y Territorio X se usan como ejemplos de piezas que deberían sostener el valor futuro del ecosistema.
+
+### sin fecha confirmada en el documento — Reunión de asesores sobre estrategia de LOI y preparación de Market Makers
+
+- Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md](../03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md)
+- Tipo: reunión privada; reconstrucción posterior.
+- Nivel de certeza declarado: **medio**.
+- Aportes relevantes:
+  - Se menciona Fixed Force como ejemplo de recursos de la empresa transferidos para fortalecer a los Market Makers.
+  - Se expone una propuesta aún confidencial: entregar 1 GAMEGOS al patrocinador directo de un nuevo participante que active al menos dos PINs, más un cupón 7.5 al nuevo participante.
+  - GAMEGOS aparece como recurso crítico para el paquete inicial necesario para Maestros del Juego.
+  - Proyecto que gana relevancia: GAMEGOS como insumo de arranque para la nueva etapa.
+  - No aparece todavía en documentos públicos: la propuesta específica de 1 GAMEGOS por referido y el nivel de urgencia interna sobre la falta de protorrecursos.
+
+<!-- AUTO:REUNIONES_PRESIDENCIA:END -->
+
 ## Preguntas estratégicas abiertas
 
 ### Inconsistencias detectadas

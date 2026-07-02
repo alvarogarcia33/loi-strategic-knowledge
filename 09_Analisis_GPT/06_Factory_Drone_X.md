@@ -37,6 +37,23 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Muy rápido la narrativa se amplía: ya no solo produce drones, también produce acceso a una futura red de Maestros del Juego personales.
 - Esto sugiere un corrimiento desde `economía de objeto` hacia `economía de relación y distribución`.
 
+<!-- AUTO:REUNIONES_PRESIDENCIA:START -->
+## Evidencia privada de reuniones
+
+> Sección generada automáticamente desde extractos privados. No constituye un anuncio oficial y debe contrastarse con Olympia, GIG-OS y datos blockchain.
+
+### sin fecha confirmada en el documento — Reunión de asesores sobre estrategia de LOI y preparación de Market Makers
+
+- Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md](../03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md)
+- Tipo: reunión privada; reconstrucción posterior.
+- Nivel de certeza declarado: **medio**.
+- Aportes relevantes:
+  - La Fábrica de Drones se menciona como una herramienta relevante, pero no la única, y supeditada a una preparación correcta de equipos.
+  - Proyecto que gana relevancia: Fábrica de Drones, no como fin en sí mismo, sino como herramienta dentro de una canasta mayor de recursos.
+  - Amplía: aporta lógica interna sobre por qué se impulsan herramientas como Factory de Drones, incentivos y programas de fuerza.
+
+<!-- AUTO:REUNIONES_PRESIDENCIA:END -->
+
 ## Preguntas estratégicas abiertas
 
 ### Inconsistencias detectadas

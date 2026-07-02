@@ -36,6 +36,30 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - De `proyecto autónomo` a `segundo centro` dentro de una arquitectura mayor de tres proyectos.
 - Más adelante, LOI también se narra como infraestructura de captación de usuarios y como revolución AR/blockchain, no solo como juego.
 
+<!-- AUTO:REUNIONES_PRESIDENCIA:START -->
+## Evidencia privada de reuniones
+
+> Sección generada automáticamente desde extractos privados. No constituye un anuncio oficial y debe contrastarse con Olympia, GIG-OS y datos blockchain.
+
+### 2026-05-25 — Resumen ejecutivo de reunión Zoom sobre Olympia y LOI
+
+- Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/2026-05-25_resumen_ejecutivo_zoom_olympia.md](../03_Reuniones_Presidencia/reuniones_privadas/2026-05-25_resumen_ejecutivo_zoom_olympia.md)
+- Tipo: reunión privada; resumen ejecutivo posterior.
+- Nivel de certeza declarado: **alto**.
+- Aportes relevantes:
+  - Se describe a LOY/LOI como una plataforma de metaverso enfocada en interacciones humanas y negocios digitales accesibles, no como un proyecto puramente especulativo o de inmersión virtual total.
+  - Coincide con: la narrativa pública de LOI como ecosistema compuesto por Market Makers, Maestros del Juego, campañas y recursos especializados.
+
+### sin fecha confirmada en el documento — Reunión de asesores sobre estrategia de LOI y preparación de Market Makers
+
+- Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md](../03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md)
+- Tipo: reunión privada; reconstrucción posterior.
+- Nivel de certeza declarado: **medio**.
+- Aportes relevantes:
+  - Coincide con: la construcción pública de LOI como ecosistema para Market Makers, Maestros del Juego, boards y recursos.
+
+<!-- AUTO:REUNIONES_PRESIDENCIA:END -->
+
 ## Preguntas estratégicas abiertas
 
 ### Inconsistencias detectadas
