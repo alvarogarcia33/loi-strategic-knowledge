@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "asset_id": "hmap",
+  "asset_name": "HMAP Coin",
+  "observation_date": "2026-07-02",
+  "imported_at": "2026-07-02T18:59:39.4028467Z",
+  "source_file": "2026-07-02_hmap.xlsx",
+  "source_sha256": "963F4394E4C81AB7870707AE7F21DB0632F9298568969794BE054127D98DCD52",
+  "source_sheet": "Wallets HMAP",
+  "network": "pendiente",
+  "contract_address": "pendiente",
+  "block_number": "pendiente",
+  "explorer_url": "pendiente",
+  "expected_supply": 24854.52294673,
+  "observed_supply": 24854.52294672997,
+  "supply_reconciled": true,
+  "summary_rows_excluded": 1,
+  "holder_wallets_total": 1339,
+  "company_wallet": null,
+  "company_wallet_status": "pendiente_de_confirmacion",
+  "company_balance": 0,
+  "company_share_pct": 0.0,
+  "external_wallets_unclassified": 1339,
+  "external_balance": 24854.52294672997,
+  "external_share_pct": 100.0,
+  "duplicate_wallets": 0,
+  "concentration": {
+    "largest_wallet_balance": 4938.88605604,
+    "largest_wallet_share_pct": 19.8712,
+    "top_10_share_pct": 58.4772,
+    "top_100_share_pct": 92.6278,
+    "median_balance": 1.0,
+    "wallets_balance_ge_1": 841,
+    "wallets_balance_ge_10": 69,
+    "wallets_balance_ge_50": 46,
+    "wallets_balance_lt_0_01": 54
+  },
+  "user_context": {
+    "nominal_value_eur_per_hmap": 50,
+    "nominal_value_source": "Informacion aportada por el usuario; no derivada del snapshot.",
+    "observed_supply_nominal_value_eur": 1242726.15
+  },
+  "methodology": "Fila por wallet; se excluyen filas TOTAL; ninguna wallet se excluye porque la wallet corporativa no esta confirmada.",
+  "caveats": [
+    "Una wallet no equivale necesariamente a una persona.",
+    "La wallet corporativa de HMAP aun no esta confirmada; ninguna wallet fue excluida.",
+    "Balance fuera de la empresa no demuestra por si solo compra, mint o creacion.",
+    "Red, contrato, bloque y URL deben completarse para comparaciones tecnicamente reproducibles."
+  ]
+}
