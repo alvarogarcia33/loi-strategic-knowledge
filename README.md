@@ -69,6 +69,8 @@ Cuando el plan sea correcto:
 python sync_github.py
 ```
 
+La actualización automática local se ejecuta mediante la tarea programada de Windows `LOI_AI Full Daily Sync`, todos los días a las 09:00. Si el equipo estaba apagado, Windows la inicia al volver a estar disponible con la sesión del usuario abierta. El resultado queda registrado localmente en `06_Extractor/logs/full_daily_sync_scheduler.log`.
+
 ## Cómo usarlo con ChatGPT
 
 La forma recomendada es subir a un Proyecto de ChatGPT:

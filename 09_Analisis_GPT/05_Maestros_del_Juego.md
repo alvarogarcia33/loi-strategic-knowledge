@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **30.06.2026**.
-- Fuentes relevantes pendientes: **36**.
+- Corte documental disponible: **02.07.2026**.
+- Fuentes relevantes pendientes: **37**.
 - Fuentes mostradas: **12**.
+
+### 02.07.2026 — ¿Cómo crear una red de fábricas de drones premium en dos pasos?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **4**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-crear-una-red-de-fabricas-de-drones-premium-en-dos-pasos).
+- Archivos locales: [01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md](../01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md).
+- Extracto relevante: Como ya sabe, hemos empezado a crear un mercado global para los Maestros del Juego. El mercado donde desempeñará un papel de liderazgo como productores de objetos importantes y valiosos. Comenzamos a formar las herramientas de Factory.MASTER a partir de ellas, ya que se convertirá en el objeto de mayor interés tanto por parte de los jugadores como de los Maestros del Juego.
 
 ### 20.06.2026 — Las oportunidades entran en tiempo extra: es momento de lograr nuevos resultados
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/20-03-2026_tres-centros-claves-de-global-metaverse_beebcf00e26b.md](../02_GIG_OS/markdown/20-03-2026_tres-centros-claves-de-global-metaverse_beebcf00e26b.md), [01_Olympia/markdown/20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125.md](../01_Olympia/markdown/20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125.md).
 - Extracto relevante: Legends of Interactions es un mundo de interacciones construido en tres etapas principales. Cada etapa representa un rol específico. Hay tres roles en total: Creadores de Mercado, Maestros del Juego y Jugadores. El Creador de Mercado produce recursos y se los vende al Maestro del Juego. Este desarrolla el espacio de su territorio, transformándolo en escenarios atractivos para la interacción. Los jugadores interactúan con puntos atractivos en los territorios del Maestro. Las marcas se interesan por las…
 
-### 16.09.2025 — Información importante para los Maestros del Juego
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **21**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/informacion-importante-para-los-maestros-del-juego-0116).
-- Archivos locales: [01_Olympia/markdown/16-09-2025_información-importante-para-los-maestros-del-juego_fdbf8f205e45.md](../01_Olympia/markdown/16-09-2025_información-importante-para-los-maestros-del-juego_fdbf8f205e45.md).
-- Extracto relevante: En este artículo queremos compartir información importante para los Maestros del Juego. Un miembro del grupo focal puede obtener códigos para registrar a otros jugadores. Esto se hace a través del panel del Maestro del Juego, y los jugadores registrados quedarán vinculados al Maestro que los haya invitado.
-
-Se omitieron **24** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **25** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

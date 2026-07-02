@@ -42,9 +42,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **30.06.2026**.
-- Fuentes relevantes pendientes: **3**.
-- Fuentes mostradas: **3**.
+- Corte documental disponible: **02.07.2026**.
+- Fuentes relevantes pendientes: **4**.
+- Fuentes mostradas: **4**.
+
+### 02.07.2026 — ¿Cómo crear una red de fábricas de drones premium en dos pasos?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **4**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-crear-una-red-de-fabricas-de-drones-premium-en-dos-pasos).
+- Archivos locales: [01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md](../01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md).
+- Extracto relevante: Una de esas instalaciones es una fábrica de drones premium. Como su nombre indica, los drones producidos serán especiales y ofrecerán oportunidades que no están disponibles para jugadores con drones regulares. Comience a construir fábricas de drones premium Factory.DroneX ahora y prepárase con anticipación para la producción en masa. Todos los PINs activados antes del 15 de julio le darán los cupones preFactoryDX necesarios para crear una fábrica.
 
 ### 20.06.2026 — Las oportunidades entran en tiempo extra: es momento de lograr nuevos resultados
 

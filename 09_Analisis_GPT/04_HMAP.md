@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **30.06.2026**.
-- Fuentes relevantes pendientes: **58**.
+- Corte documental disponible: **02.07.2026**.
+- Fuentes relevantes pendientes: **59**.
 - Fuentes mostradas: **12**.
+
+### 02.07.2026 — ¿Cómo crear una red de fábricas de drones premium en dos pasos?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-crear-una-red-de-fabricas-de-drones-premium-en-dos-pasos).
+- Archivos locales: [01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md](../01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md).
+- Extracto relevante: Comience a construir fábricas de drones premium Factory.DroneX ahora y prepárase con anticipación para la producción en masa. Todos los PINs activados antes del 15 de julio le darán los cupones preFactoryDX necesarios para crear una fábrica. La respuesta es simple: use la oferta de Fifteen Force. Cada paquete especial 7PT, 9PT o 7PT.PRO contiene 20 PINs ya activados. Eso significa que le da instantáneamente al menos 20 cupones. Esto ya es una verdadera red de fábricas en el mundo de Legends of Interactions.
 
 ### 30.06.2026 — La comunidad crece: ¡gane premios junto con sus nuevos miembros!
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/14-05-2026_intera-swap-concluimos-la-serie-de-premios_20777f366436.md](../02_GIG_OS/markdown/14-05-2026_intera-swap-concluimos-la-serie-de-premios_20777f366436.md).
 - Extracto relevante: ¡Enhorabuena! El premio en forma de HMAP Coin, INT Coin y DOMINION Coin será un sólido apoyo para el desarrollo de su negocio y la consecución de los objetivos establecidos. Intercambie sus INT Coin y DOMINION Coin y utilice el mecanismo de CashBack para recuperar hasta el 20 % de las comisiones pagadas.
 
-### 29.04.2026 — INTERA SWAP: ¡premiamos al siguiente participante!
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **3**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-premiamos-al-siguiente-participante-0189).
-- Archivos locales: [02_GIG_OS/markdown/29-04-2026_intera-swap-premiamos-al-siguiente-participante_6b233f651b21.md](../02_GIG_OS/markdown/29-04-2026_intera-swap-premiamos-al-siguiente-participante_6b233f651b21.md).
-- Extracto relevante: ¡Seguimos premiando a los usuarios más activos de la herramienta DeFi INTERA SWAP! El premio en forma de HMAP Coin, INT Coin y DOMINION Coin ya se ha acreditado en la cartera digital del participante. ¡Enhorabuena y le deseamos mucho éxito en el desarrollo de su negocio y en la acumulación de activos!
-
-Se omitieron **46** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **47** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
