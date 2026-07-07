@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **02.07.2026**.
-- Fuentes relevantes pendientes: **37**.
+- Corte documental disponible: **07.07.2026**.
+- Fuentes relevantes pendientes: **38**.
 - Fuentes mostradas: **12**.
+
+### 07.07.2026 — Refugio seguro: cómo sus Maestros del Juego personales fortalecen su negocio
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **15**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/refugio-seguro-como-sus-maestros-del-juego-personales-fortalecen-su-negocio).
+- Archivos locales: [01_Olympia/markdown/07-07-2026_refugio-seguro-cómo-sus-maestros-del-juego-personales-fortalecen-su-negocio_883c164e0b6c.md](../01_Olympia/markdown/07-07-2026_refugio-seguro-cómo-sus-maestros-del-juego-personales-fortalecen-su-negocio_883c164e0b6c.md).
+- Extracto relevante: Para un Creador de Mercado, el mercado personal de Maestros del Juego representa una póliza de seguro confiable frente a cualquier imprevisto. No necesita esperar que los Maestros del Juego se interesen por su producto. Simplemente no tienen otra opción, porque usted es su único proveedor. Además, volverán una y otra vez, ya que sus actividades requieren recursos.
 
 ### 02.07.2026 — ¿Cómo crear una red de fábricas de drones premium en dos pasos?
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab.md](../01_Olympia/markdown/27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab.md).
 - Extracto relevante: Se está llevando a cabo activamente el desarrollo de la nueva versión de la oficina interna de Maestros del Juego. Entonces, ¿qué novedades le esperan en el mapa actualizado de Maestros del Juego?
 
-### 20.03.2026 — Tres centros claves de Global Metaverse
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **11**.
-- Plataformas: GIG-OS, Olympia.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/tres-centros-claves-de-global-metaverse-0175), [Olympia](https://olympia-lab.com/es/news/post/tres-centros-claves-de-global-metaverse-0177).
-- Archivos locales: [02_GIG_OS/markdown/20-03-2026_tres-centros-claves-de-global-metaverse_beebcf00e26b.md](../02_GIG_OS/markdown/20-03-2026_tres-centros-claves-de-global-metaverse_beebcf00e26b.md), [01_Olympia/markdown/20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125.md](../01_Olympia/markdown/20-03-2026_tres-centros-claves-de-global-metaverse_d9b4ed294125.md).
-- Extracto relevante: Legends of Interactions es un mundo de interacciones construido en tres etapas principales. Cada etapa representa un rol específico. Hay tres roles en total: Creadores de Mercado, Maestros del Juego y Jugadores. El Creador de Mercado produce recursos y se los vende al Maestro del Juego. Este desarrolla el espacio de su territorio, transformándolo en escenarios atractivos para la interacción. Los jugadores interactúan con puntos atractivos en los territorios del Maestro. Las marcas se interesan por las…
-
-Se omitieron **25** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **26** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
