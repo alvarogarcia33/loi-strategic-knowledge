@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **07.07.2026**.
-- Fuentes relevantes pendientes: **38**.
+- Corte documental disponible: **10.07.2026**.
+- Fuentes relevantes pendientes: **39**.
 - Fuentes mostradas: **12**.
+
+### 09.07.2026 — Active REEX.MINER y prepárese para minar REEX Coin
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/active-reexminer-y-preparese-para-minar-reex-coin).
+- Archivos locales: [01_Olympia/markdown/09-07-2026_active-reex-miner-y-prepárese-para-minar-reex-coin_fab0768923ad.md](../01_Olympia/markdown/09-07-2026_active-reex-miner-y-prepárese-para-minar-reex-coin_fab0768923ad.md).
+- Extracto relevante: Puede enviarlo a la oficina interna de Maestro del Juego para colocarlo posteriormente en su parcela y minar REEX Coin. El 20 de agosto se lanzará la oficina interna de Maestros del Juego, que le permitirá colocar los REEX.MINERS activados en sus parcelas y comenzar a minar monedas.
 
 ### 07.07.2026 — Refugio seguro: cómo sus Maestros del Juego personales fortalecen su negocio
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e.md](../01_Olympia/markdown/03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e.md).
 - Extracto relevante: Continuamos con nuestra serie de artículos sobre la próxima actualización de la oficina interna de los Maestros del Juego. La última vez hablamos del servicio cartográfico mejorado. Ahora es el momento de profundizar en el proceso de integración del nuevo mapa en la oficina interna de los Maestros del Juego.
 
-### 27.03.2026 — En camino hacia la nueva oficina interna de Maestros del Juego. Parte 1: el mapa
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **13**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa-0179).
-- Archivos locales: [01_Olympia/markdown/27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab.md](../01_Olympia/markdown/27-03-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-1-el-mapa_86967f4030ab.md).
-- Extracto relevante: Se está llevando a cabo activamente el desarrollo de la nueva versión de la oficina interna de Maestros del Juego. Entonces, ¿qué novedades le esperan en el mapa actualizado de Maestros del Juego?
-
-Se omitieron **26** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **27** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
