@@ -42,9 +42,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **10.07.2026**.
-- Fuentes relevantes pendientes: **4**.
-- Fuentes mostradas: **4**.
+- Corte documental disponible: **13.07.2026**.
+- Fuentes relevantes pendientes: **5**.
+- Fuentes mostradas: **5**.
+
+### 13.07.2026 — [VÍDEO] Factory.DroneX: elección de los TOP Creadores de Mercado
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **10**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/video-factorydronex-eleccion-de-los-top-creadores-de-mercado).
+- Archivos locales: [01_Olympia/markdown/13-07-2026_vídeo-factory-dronex-elección-de-los-top-creadores-de-mercado_53fa14e11e39.md](../01_Olympia/markdown/13-07-2026_vídeo-factory-dronex-elección-de-los-top-creadores-de-mercado_53fa14e11e39.md).
+- Extracto relevante: El artículo no contiene un extracto textual limpio suficiente.
 
 ### 02.07.2026 — ¿Cómo crear una red de fábricas de drones premium en dos pasos?
 

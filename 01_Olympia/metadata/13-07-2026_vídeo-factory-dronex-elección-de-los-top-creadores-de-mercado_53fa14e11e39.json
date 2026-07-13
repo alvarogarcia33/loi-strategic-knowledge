@@ -1,0 +1,57 @@
+{
+  "article_uid": "olympia_53fa14e11e39",
+  "platform": "olympia",
+  "title": "[VÍDEO] Factory.DroneX: elección de los TOP Creadores de Mercado",
+  "date": "13.07.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/video-factorydronex-eleccion-de-los-top-creadores-de-mercado",
+  "canonical_url": "https://olympia-lab.com/es/news/post/video-factorydronex-eleccion-de-los-top-creadores-de-mercado",
+  "content_hash": "ad8b7fce52702d5160a8ae3a9e776967d59b02561b3dc9dbe2bd474879132465",
+  "url_hash": "eecc0046224db065f6aed28f4700074b06d1727c39fa2d12d67a113492ef85b3",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\13-07-2026_vídeo-factory-dronex-elección-de-los-top-creadores-de-mercado_53fa14e11e39.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\13-07-2026_vídeo-factory-dronex-elección-de-los-top-creadores-de-mercado_53fa14e11e39.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\13-07-2026_vídeo-factory-dronex-elección-de-los-top-creadores-de-mercado_53fa14e11e39",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/22/72/ba/01/31/2272ba0131aaea68d4b4afb0a835a2d6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\13-07-2026_vídeo-factory-dronex-elección-de-los-top-creadores-de-mercado_53fa14e11e39\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/73/57/a5/32/24/7357a532240b5f6101397e18e68a8903_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\13-07-2026_vídeo-factory-dronex-elección-de-los-top-creadores-de-mercado_53fa14e11e39\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ae/f1/6f/e5/32/aef16fe532a983dbe6359eb674405da9_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\13-07-2026_vídeo-factory-dronex-elección-de-los-top-creadores-de-mercado_53fa14e11e39\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/15/e2/94/fe/b1/15e294feb146514b67e125d3f5847e18_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\13-07-2026_vídeo-factory-dronex-elección-de-los-top-creadores-de-mercado_53fa14e11e39\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/66/20/03/b5/53/662003b5536e57f075dd804546ad98ba_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\13-07-2026_vídeo-factory-dronex-elección-de-los-top-creadores-de-mercado_53fa14e11e39\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-07-13T10:44:00.951087-03:00",
+  "status": "downloaded"
+}
