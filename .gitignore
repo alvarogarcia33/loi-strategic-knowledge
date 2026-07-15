@@ -5,7 +5,12 @@ browser_state/
 logs/
 **/logs/
 *.sqlite
-06_Extractor/
+**/.pytest_cache/
+**/.venv/
+06_Extractor/.env
+06_Extractor/*.env
+06_Extractor/data/
+06_Extractor/logs/
 08_Reportes/
 05_Reportes_IA/
 07_IA/
