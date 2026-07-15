@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_979d523e274e",
+  "platform": "gig_os",
+  "title": "Hacia grandes logros, ¡junto a un gran equipo!",
+  "date": "13.07.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/hacia-grandes-logros-junto-a-un-gran-equipo",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/hacia-grandes-logros-junto-a-un-gran-equipo",
+  "content_hash": "f449dcfe0f46487e2f1855255d17a687aa5b89b9324c9331821c449c060eacfa",
+  "url_hash": "de94bd0216dd75859429062f8197c8b82e79c62f689318b532c93786cbb9a6c2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\13-07-2026_hacia-grandes-logros-junto-a-un-gran-equipo_979d523e274e.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\13-07-2026_hacia-grandes-logros-junto-a-un-gran-equipo_979d523e274e.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-07-2026_hacia-grandes-logros-junto-a-un-gran-equipo_979d523e274e",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/09/c8/e4/9d/b6/09c8e49db6660539a522e17ab224b9dc_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\13-07-2026_hacia-grandes-logros-junto-a-un-gran-equipo_979d523e274e\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-07-15T10:53:07.388458-03:00",
+  "status": "downloaded"
+}

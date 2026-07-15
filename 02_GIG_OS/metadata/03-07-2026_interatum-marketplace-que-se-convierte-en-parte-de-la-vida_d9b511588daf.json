@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d9b511588daf",
+  "platform": "gig_os",
+  "title": "INTERATUM: marketplace, que se convierte en parte de la vida",
+  "date": "03.07.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/interatum-marketplace-que-se-convierte-en-parte-de-la-vida",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/interatum-marketplace-que-se-convierte-en-parte-de-la-vida",
+  "content_hash": "1bae999c695cc46b0beedc94a87fa04928971771a9e69d47ccb27cb1efc6fba9",
+  "url_hash": "c618fbeefbf27ca3247a3f64273cc3061eb9e89c8642f7da8ee9e7b96e4c55b4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\03-07-2026_interatum-marketplace-que-se-convierte-en-parte-de-la-vida_d9b511588daf.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\03-07-2026_interatum-marketplace-que-se-convierte-en-parte-de-la-vida_d9b511588daf.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-07-2026_interatum-marketplace-que-se-convierte-en-parte-de-la-vida_d9b511588daf",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/80/7a/51/01/d6/807a5101d6b3ffaeed4a4aa133d4ed0d_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\03-07-2026_interatum-marketplace-que-se-convierte-en-parte-de-la-vida_d9b511588daf\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-07-15T10:53:10.573076-03:00",
+  "status": "downloaded"
+}

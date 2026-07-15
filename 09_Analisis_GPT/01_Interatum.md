@@ -39,8 +39,26 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
 - Corte documental disponible: **14.07.2026**.
-- Fuentes relevantes pendientes: **47**.
+- Fuentes relevantes pendientes: **49**.
 - Fuentes mostradas: **12**.
+
+### 13.07.2026 — Hacia grandes logros, ¡junto a un gran equipo!
+
+- Señal documental: **convergencia entre proyectos**.
+- Relevancia automática: **3**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/hacia-grandes-logros-junto-a-un-gran-equipo).
+- Archivos locales: [02_GIG_OS/markdown/13-07-2026_hacia-grandes-logros-junto-a-un-gran-equipo_979d523e274e.md](../02_GIG_OS/markdown/13-07-2026_hacia-grandes-logros-junto-a-un-gran-equipo_979d523e274e.md).
+- Extracto relevante: El trabajo en INTERATUM, un Marketplace de servicios de nueva generación, avanza a toda velocidad. Nos apasiona crear un proyecto que transformará el mercado de servicios y aumentará el valor de cada elemento del ecosistema. Está en sus manos preparar con antelación un gran equipo, cuyos integrantes ocupen posiciones de liderazgo en todos los puntos clave del ecosistema. Desde los propietarios de INT Coin y los futuros beneficiarios de INTERATUM hasta los principales Creadores de Mercado y los Maestros del Juego…
+
+### 03.07.2026 — INTERATUM: marketplace, que se convierte en parte de la vida
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **15**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/interatum-marketplace-que-se-convierte-en-parte-de-la-vida).
+- Archivos locales: [02_GIG_OS/markdown/03-07-2026_interatum-marketplace-que-se-convierte-en-parte-de-la-vida_d9b511588daf.md](../02_GIG_OS/markdown/03-07-2026_interatum-marketplace-que-se-convierte-en-parte-de-la-vida_d9b511588daf.md).
+- Extracto relevante: INTERATUM alivia estas dificultades. Es suficiente encontrar al especialista adecuado una vez sin largas búsquedas, llamadas innecesarias y la sensación de estar jugando a la lotería - y volver a la vieja manera no tendrá sentido. INTERATUM reúne diferentes categorías de servicios en una plataforma: doméstico, transporte, legal, educativo y muchos otros. Pero el punto no es simplemente añadir todo a una gran lista.
 
 ### 26.06.2026 — Siempre un paso adelante: configure el equilibrio perfecto de sus activos
 
@@ -132,25 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/02-04-2026_resultados-de-las-elecciones-los-ganadores-ya-están-definidos_5ef62f3056e4.md](../02_GIG_OS/markdown/02-04-2026_resultados-de-las-elecciones-los-ganadores-ya-están-definidos_5ef62f3056e4.md).
 - Extracto relevante: Ahora, los diez Asesores se unirán al equipo del Presidente y podrán brindarle un apoyo activo en la creación de INTERATUM, uno de los centros clave de nuestro ecosistema. Ustedes son el orgullo de toda nuestra comunidad internacional. Con su victoria, han demostrado que merecen estar a la vanguardia del desarrollo del ecosistema y participar en los procesos más importantes. Su excepcional profesionalismo, su capacidad de trabajo única, su habilidad para influir y alcanzar los objetivos planteados: todas estas…
 
-### 09.03.2026 — Etapa final: queda menos de un mes
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **2**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/etapa-final-queda-menos-de-un-mes-0169).
-- Archivos locales: [02_GIG_OS/markdown/09-03-2026_etapa-final-queda-menos-de-un-mes_8af4dd5889f9.md](../02_GIG_OS/markdown/09-03-2026_etapa-final-queda-menos-de-un-mes_8af4dd5889f9.md).
-- Extracto relevante: Actualmente, la actividad de los votantes es un recurso valiosísimo. Con sus votos están escribiendo la historia de INTERATUM y decidiendo quién influirá en el desarrollo del proyecto central de la Metaverso. Incluso un solo voto puede cambiar la situación en el ranking y llevar al candidato a la victoria. Recuerden: ¡están eligiendo a quien representará sus intereses en INTERATUM!
-
-### 23.02.2026 — NFT Gallery: punto de acceso a la economía digital
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **3**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/nft-gallery-punto-de-acceso-a-la-economia-digital-0167).
-- Archivos locales: [02_GIG_OS/markdown/23-02-2026_nft-gallery-punto-de-acceso-a-la-economía-digital_d7c6ad7c2101.md](../02_GIG_OS/markdown/23-02-2026_nft-gallery-punto-de-acceso-a-la-economía-digital_d7c6ad7c2101.md).
-- Extracto relevante: La remuneración se acredita a la cuenta GOS# especial para que pueda aumentar sus reservas de INT Coin. Cada NFT de ambas colecciones amplía su influencia en INTERATUM gracias a su coeficiente correspondiente.
-
-Se omitieron **35** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **37** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

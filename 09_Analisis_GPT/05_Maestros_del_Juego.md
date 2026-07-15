@@ -40,8 +40,17 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
 - Corte documental disponible: **14.07.2026**.
-- Fuentes relevantes pendientes: **39**.
+- Fuentes relevantes pendientes: **40**.
 - Fuentes mostradas: **12**.
+
+### 13.07.2026 — Hacia grandes logros, ¡junto a un gran equipo!
+
+- Señal documental: **convergencia entre proyectos**.
+- Relevancia automática: **3**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/hacia-grandes-logros-junto-a-un-gran-equipo).
+- Archivos locales: [02_GIG_OS/markdown/13-07-2026_hacia-grandes-logros-junto-a-un-gran-equipo_979d523e274e.md](../02_GIG_OS/markdown/13-07-2026_hacia-grandes-logros-junto-a-un-gran-equipo_979d523e274e.md).
+- Extracto relevante: La nueva oficina interna de los Maestros del Juego se está preparando para su lanzamiento. El 20 de agosto abrirá sus puertas, marcando el inicio de una nueva era en la historia de Legends of Interactions y TerritoryX. Los resultados del trabajo del equipo internacional estarán disponibles para el público en general, y los Maestros del Juego podrán comenzar la primera etapa de monetización de sus tierras dentro del juego. Está en sus manos preparar con antelación un gran equipo, cuyos integrantes ocupen posiciones…
 
 ### 09.07.2026 — Active REEX.MINER y prepárese para minar REEX Coin
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md](../02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md).
 - Extracto relevante: La segunda: en agosto, la compañía presentará una nueva oficina interna de los Maestros del Juego. Y DOMINION Coin, que será la moneda principal y única para transacciones en la oficina interna de los Maestros del Juego. Actualmente, DOMINION Coin puede utilizarse en ciertos procesos importantes, pero esto cambiará con la actualización principal de la oficina interna de los Maestros del Juego. Todas las adiciones y mejoras a las que los Maestros del Juego quieran acceder directamente desde su oficina interna solo…
 
-### 03.04.2026 — En camino hacia la nueva oficina interna de Maestros del Juego. Parte 2: integración del mapa
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **16**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integracion-del-mapa-0180).
-- Archivos locales: [01_Olympia/markdown/03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e.md](../01_Olympia/markdown/03-04-2026_en-camino-hacia-la-nueva-oficina-interna-de-maestros-del-juego-parte-2-integraci_d32ea4896c4e.md).
-- Extracto relevante: Continuamos con nuestra serie de artículos sobre la próxima actualización de la oficina interna de los Maestros del Juego. La última vez hablamos del servicio cartográfico mejorado. Ahora es el momento de profundizar en el proceso de integración del nuevo mapa en la oficina interna de los Maestros del Juego.
-
-Se omitieron **27** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **28** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
