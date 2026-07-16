@@ -172,6 +172,26 @@ Se omitieron **29** fuentes menos recientes para mantener el dossier manejable; 
   - El cuello de botella principal no parece ser la captación de maestros, sino la preparación previa de Market Makers para abastecerlos.
   - Decisión tomada: apertura de puertas para Maestros del Juego en agosto tras campaña dirigida a público externo.
 
+### 2026-07-16 — Market Level UP - Presentación para Creadores de Mercado
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-07-16_market_level_up_presentacion.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-07-16_market_level_up_presentacion.md)
+- Tipo: conferencia de presidencia; resumen estructurado a partir de PDF `MLU_ESP.pdf`.
+- Nivel de certeza declarado: **alto para el contenido extraído del PDF; medio para interpretaciones estratégicas**.
+- Aportes relevantes:
+  - La arquitectura de LOI se explica en siete etapas: territorio digital, algoritmo de juego, servicios y aplicaciones, mercado de protorrecursos, desarrollo territorial por Maestros del Juego, apertura pública y expansión continua de servicios.
+  - Los Maestros del Juego necesitarán esos protorrecursos para desarrollar territorios y crear objetos de interacción.
+  - Market Level UP se presenta como un mecanismo para fortalecer a los TOP Creadores de Mercado antes de la Era de los Maestros del Juego.
+  - Prioridad reforzada: fortalecer el mercado de protorrecursos como condición previa para la Era de los Maestros del Juego.
+  - Señal de diseño económico: el programa conecta activaciones de PIN, HMAP, GAMEGOS, DOMINION y Maestros del Juego en una cadena de incentivos.
+
+### 2026-07-16 — Reunión Olympia-lab - Market Level UP
+
+- Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/2026-07-16_zoom_olympia_market_level_up.md](../03_Reuniones_Presidencia/reuniones_privadas/2026-07-16_zoom_olympia_market_level_up.md)
+- Tipo: reunión privada; minuta / resumen estructurado a partir de PDF `Olympia-lab's Zoom Meeting 2026-07-16 09_59(GMT-3_00).pdf`.
+- Nivel de certeza declarado: **alto para puntos listados en la minuta; medio para interpretación estratégica**.
+- Aportes relevantes:
+  - Desde nivel 5 se entregan Dominion Coin y Maestros del Juego adicionales.
+
 ### sin fecha confirmada en el documento — Compilación estratégica de traducción al español de discurso presidencial
 
 - Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md](../03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md)

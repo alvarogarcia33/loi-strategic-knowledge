@@ -171,6 +171,30 @@ Se omitieron **48** fuentes menos recientes para mantener el dossier manejable; 
   - Decisión tomada: cierre del farming de DominionCoin el 15 de julio.
   - Proyecto que mantiene soporte estructural: H-Map, DominionCoin y Fifteen Force.
 
+### 2026-07-16 — Market Level UP - Presentación para Creadores de Mercado
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-07-16_market_level_up_presentacion.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-07-16_market_level_up_presentacion.md)
+- Tipo: conferencia de presidencia; resumen estructurado a partir de PDF `MLU_ESP.pdf`.
+- Nivel de certeza declarado: **alto para el contenido extraído del PDF; medio para interpretaciones estratégicas**.
+- Aportes relevantes:
+  - Los Creadores de Mercado son los únicos con derecho a crear y poseer protorrecursos mediante H-MAP.
+  - Señal de diseño económico: el programa conecta activaciones de PIN, HMAP, GAMEGOS, DOMINION y Maestros del Juego en una cadena de incentivos.
+  - Coincide con la narrativa pública de Olympia sobre H-MAP como sistema de farming de protorrecursos.
+  - Amplía la relación entre H-MAP, Creadores de Mercado y Maestros del Juego.
+  - Debe cruzarse con futuras publicaciones oficiales sobre Market Level UP, H-MAP, GameGOS, Dominion, REEX y Maestros del Juego.
+
+### 2026-07-16 — Reunión Olympia-lab - Market Level UP
+
+- Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/2026-07-16_zoom_olympia_market_level_up.md](../03_Reuniones_Presidencia/reuniones_privadas/2026-07-16_zoom_olympia_market_level_up.md)
+- Tipo: reunión privada; minuta / resumen estructurado a partir de PDF `Olympia-lab's Zoom Meeting 2026-07-16 09_59(GMT-3_00).pdf`.
+- Nivel de certeza declarado: **alto para puntos listados en la minuta; medio para interpretación estratégica**.
+- Aportes relevantes:
+  - Market Level UP es un programa nuevo de carrera para Creadores de Mercado activos en H-MAP.
+  - Todas las remuneraciones se calcularán en HMAP.
+  - Se planea aumentar el valor de HMAP en otoño tras la apertura de la Oficina Interna de Maestros.
+  - El programa contempla ingresos relacionados con activación de PIN, venta de fábricas, InterSwap y comisiones vinculadas a Olympia.
+  - Desde nivel 2 se entregan paquetes de GameGOS Coin, hasta 3,000 en total por carrera.
+
 ### sin fecha confirmada en el documento — Compilación estratégica de traducción al español de discurso presidencial
 
 - Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md](../03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md)

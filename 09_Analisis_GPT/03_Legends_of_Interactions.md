@@ -171,6 +171,24 @@ Se omitieron **52** fuentes menos recientes para mantener el dossier manejable; 
   - Se describe a LOY/LOI como una plataforma de metaverso enfocada en interacciones humanas y negocios digitales accesibles, no como un proyecto puramente especulativo o de inmersión virtual total.
   - Coincide con: la narrativa pública de LOI como ecosistema compuesto por Market Makers, Maestros del Juego, campañas y recursos especializados.
 
+### 2026-07-16 — Market Level UP - Presentación para Creadores de Mercado
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-07-16_market_level_up_presentacion.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-07-16_market_level_up_presentacion.md)
+- Tipo: conferencia de presidencia; resumen estructurado a partir de PDF `MLU_ESP.pdf`.
+- Nivel de certeza declarado: **alto para el contenido extraído del PDF; medio para interpretaciones estratégicas**.
+- Aportes relevantes:
+  - Legends of Interactions se describe como un territorio intermediario entre el mundo digital/virtual y el mundo físico, orientado a facilitar interacciones humanas.
+  - La arquitectura de LOI se explica en siete etapas: territorio digital, algoritmo de juego, servicios y aplicaciones, mercado de protorrecursos, desarrollo territorial por Maestros del Juego, apertura pública y expansión continua de servicios.
+  - Refuerza la centralidad de TerritoryX como servicio casi listo dentro de la arquitectura de LOI.
+
+### 2026-07-16 — Reunión Olympia-lab - Market Level UP
+
+- Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/2026-07-16_zoom_olympia_market_level_up.md](../03_Reuniones_Presidencia/reuniones_privadas/2026-07-16_zoom_olympia_market_level_up.md)
+- Tipo: reunión privada; minuta / resumen estructurado a partir de PDF `Olympia-lab's Zoom Meeting 2026-07-16 09_59(GMT-3_00).pdf`.
+- Nivel de certeza declarado: **alto para puntos listados en la minuta; medio para interpretación estratégica**.
+- Aportes relevantes:
+  - La reunión también confirma que la estrategia comercial inmediata es preparar equipos, activar participación desde el inicio y orientar a nuevos miembros primero hacia LOI/H-MAP, luego Market Level UP y recién después el Programa de Liderazgo. Se mencionan puntos pendientes sobre estructuras ajenas, integración técnica de fábricas e InterSwap, y un problema técnico reportado por Álvaro sobre el pool Riggs/Escudos.
+
 ### sin fecha confirmada en el documento — Reunión de asesores sobre estrategia de LOI y preparación de Market Makers
 
 - Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md](../03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md)
