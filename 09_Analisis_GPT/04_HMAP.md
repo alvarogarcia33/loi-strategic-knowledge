@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **14.07.2026**.
-- Fuentes relevantes pendientes: **59**.
+- Corte documental disponible: **15.07.2026**.
+- Fuentes relevantes pendientes: **60**.
 - Fuentes mostradas: **12**.
+
+### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!
+
+- Señal documental: **cierre o finalización**.
+- Relevancia automática: **30**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades).
+- Archivos locales: [01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md](../01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md).
+- Extracto relevante: Puede recibir INT Coin por las combinaciones en H-MAP.9 y H-MAP.7PRO solo hasta el 20 de agosto. H-MAP.9: por las combinaciones completadas, recibirá la misma cantidad de INT Coin que anteriormente se acreditaba en DOMINION Coin;
 
 ### 02.07.2026 — ¿Cómo crear una red de fábricas de drones premium en dos pasos?
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1.md](../01_Olympia/markdown/18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1.md).
 - Extracto relevante: El plazo para obtener REEX.MINER al activar PINs está a punto de expirar. Tiene dos días más para acumular la mayor cantidad posible de REEX.MINER y prepararse para monetizar su terreno en el juego.
 
-### 14.05.2026 — INTERA SWAP: concluimos la serie de premios
-
-- Señal documental: **cierre o finalización**.
-- Relevancia automática: **4**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-concluimos-la-serie-de-premios-0192).
-- Archivos locales: [02_GIG_OS/markdown/14-05-2026_intera-swap-concluimos-la-serie-de-premios_20777f366436.md](../02_GIG_OS/markdown/14-05-2026_intera-swap-concluimos-la-serie-de-premios_20777f366436.md).
-- Extracto relevante: ¡Enhorabuena! El premio en forma de HMAP Coin, INT Coin y DOMINION Coin será un sólido apoyo para el desarrollo de su negocio y la consecución de los objetivos establecidos. Intercambie sus INT Coin y DOMINION Coin y utilice el mecanismo de CashBack para recuperar hasta el 20 % de las comisiones pagadas.
-
-Se omitieron **47** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **48** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

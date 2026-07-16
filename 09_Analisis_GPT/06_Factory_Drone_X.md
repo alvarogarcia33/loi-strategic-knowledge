@@ -42,9 +42,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **14.07.2026**.
-- Fuentes relevantes pendientes: **5**.
-- Fuentes mostradas: **5**.
+- Corte documental disponible: **15.07.2026**.
+- Fuentes relevantes pendientes: **6**.
+- Fuentes mostradas: **6**.
+
+### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!
+
+- Señal documental: **cierre o finalización**.
+- Relevancia automática: **4**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades).
+- Archivos locales: [01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md](../01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md).
+- Extracto relevante: cada PIN de 7PT y 9PT traerá al propietario UNA fábrica lista de Factory.DroneX; cada PIN de 7PT.PRO traerá al propietario TRES fábricas listas de Factory.DroneX.
 
 ### 13.07.2026 — [VÍDEO] Factory.DroneX: elección de los TOP Creadores de Mercado
 

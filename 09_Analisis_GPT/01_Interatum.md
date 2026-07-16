@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **14.07.2026**.
-- Fuentes relevantes pendientes: **49**.
+- Corte documental disponible: **15.07.2026**.
+- Fuentes relevantes pendientes: **50**.
 - Fuentes mostradas: **12**.
+
+### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!
+
+- Señal documental: **cierre o finalización**.
+- Relevancia automática: **7**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades).
+- Archivos locales: [01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md](../01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md).
+- Extracto relevante: Puede recibir INT Coin por las combinaciones en H-MAP.9 y H-MAP.7PRO solo hasta el 20 de agosto. H-MAP.7PRO: los FARMING POINTS recibidos pueden intercambiar por INT Coin a razón de 50 FARMING POINTS = 1 INT Coin.
 
 ### 13.07.2026 — Hacia grandes logros, ¡junto a un gran equipo!
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md](../02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md).
 - Extracto relevante: Dos monedas: INT Coin y DOMINION Coin. Los dos principales activos dentro de los tres proyectos clave del ecosistema Global Metaverse: el Marketplace de servicios INTERATUM, el ecosistema de juegos Legends of Interactions y TerritoryX, una plataforma que transforma la tierra en un recurso. INT Coin es un elemento clave del Marketplace de servicios de nueva generación INTERATUM, una unidad de interacción y la fuerza impulsora del Marketplace de servicios.
 
-### 02.04.2026 — Resultados de las elecciones: ¡los ganadores ya están definidos!
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **2**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/resultados-de-las-elecciones-los-ganadores-ya-estan-definidos-0179).
-- Archivos locales: [02_GIG_OS/markdown/02-04-2026_resultados-de-las-elecciones-los-ganadores-ya-están-definidos_5ef62f3056e4.md](../02_GIG_OS/markdown/02-04-2026_resultados-de-las-elecciones-los-ganadores-ya-están-definidos_5ef62f3056e4.md).
-- Extracto relevante: Ahora, los diez Asesores se unirán al equipo del Presidente y podrán brindarle un apoyo activo en la creación de INTERATUM, uno de los centros clave de nuestro ecosistema. Ustedes son el orgullo de toda nuestra comunidad internacional. Con su victoria, han demostrado que merecen estar a la vanguardia del desarrollo del ecosistema y participar en los procesos más importantes. Su excepcional profesionalismo, su capacidad de trabajo única, su habilidad para influir y alcanzar los objetivos planteados: todas estas…
-
-Se omitieron **37** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **38** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **14.07.2026**.
-- Fuentes relevantes pendientes: **40**.
+- Corte documental disponible: **15.07.2026**.
+- Fuentes relevantes pendientes: **41**.
 - Fuentes mostradas: **12**.
+
+### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!
+
+- Señal documental: **cierre o finalización**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades).
+- Archivos locales: [01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md](../01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md).
+- Extracto relevante: ¡Felicitaciones a todos los que, gracias al farming, lograron acumular una importante reserva de monedas que desempeñará un papel central en la oficina interna de Maestros del Juego! Una gran cantidad de GAMEGOS Coin significa una gran cantidad de orbes, HEXA Coins y fábricas premium de drones. Esto garantiza que accederá al nuevo espacio de Maestros del Juego no con las manos vacías, sino con un valioso arsenal de recursos esenciales.
 
 ### 13.07.2026 — Hacia grandes logros, ¡junto a un gran equipo!
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md](../01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md).
 - Extracto relevante: En este momento, nuestro equipo de desarrollo está transformando el espacio virtual de los Maestros del Juego. Un concepto nacido de una combinación de ideas audaces cobra vida. Esta no es una actualización, sino una arquitectura conceptualmente nueva de la oficina interna de los Maestros del Juego. El principal cambio que afecta a todos los rincones de la oficina interna de Maestros del Juego es un nuevo núcleo de software. Lanzará rápidamente todas las ideas, capacidades y herramientas que convertirán el…
 
-### 16.04.2026 — INTERA SWAP: pool de intercambio de INT Coin y DOMINION Coin
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **7**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin-0185).
-- Archivos locales: [02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md](../02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md).
-- Extracto relevante: La segunda: en agosto, la compañía presentará una nueva oficina interna de los Maestros del Juego. Y DOMINION Coin, que será la moneda principal y única para transacciones en la oficina interna de los Maestros del Juego. Actualmente, DOMINION Coin puede utilizarse en ciertos procesos importantes, pero esto cambiará con la actualización principal de la oficina interna de los Maestros del Juego. Todas las adiciones y mejoras a las que los Maestros del Juego quieran acceder directamente desde su oficina interna solo…
-
-Se omitieron **28** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **29** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
