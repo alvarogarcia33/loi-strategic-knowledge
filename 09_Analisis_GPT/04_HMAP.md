@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **15.07.2026**.
-- Fuentes relevantes pendientes: **60**.
+- Corte documental disponible: **17.07.2026**.
+- Fuentes relevantes pendientes: **61**.
 - Fuentes mostradas: **12**.
+
+### 17.07.2026 — INTERA SWAP: es el momento de tomar decisiones rápidas
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **7**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/intera-swap-es-el-momento-de-tomar-decisiones-rapidas).
+- Archivos locales: [01_Olympia/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_833d450003b9.md](../01_Olympia/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_833d450003b9.md).
+- Extracto relevante: Una vez que DOMINION Coin se convierta en la moneda principal de la oficina interna de Maestros del Juego, su demanda aumentará aún más. Si usted tiene previsto obtener DOMINION Coin en un futuro próximo, ahora es el mejor momento para hacerlo. Después de completar 10 o más transacciones de intercambio, usted podrá recibir el 10 % de las comisiones pagadas en forma de HMAP Coin.
 
 ### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/20-05-2026_reciba-gamegos-coin-por-activación-de-los-pins-antes-del-20-junio_9085484b18d9.md](../01_Olympia/markdown/20-05-2026_reciba-gamegos-coin-por-activación-de-los-pins-antes-del-20-junio_9085484b18d9.md).
 - Extracto relevante: La oportunidad de recibir GAMEGOS Coin por transacciones de activación de PINs se ha extendido hasta el 20 de junio. ¡Active los PIN y observe cómo crece su reserva de GAMEGOS Coin!
 
-### 18.05.2026 — REEX.MINER: ¡solo quedan 2 días!
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **3**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/reexminer-solo-quedan-2-dias-0201).
-- Archivos locales: [01_Olympia/markdown/18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1.md](../01_Olympia/markdown/18-05-2026_reex-miner-solo-quedan-2-días_77f5a96b04a1.md).
-- Extracto relevante: El plazo para obtener REEX.MINER al activar PINs está a punto de expirar. Tiene dos días más para acumular la mayor cantidad posible de REEX.MINER y prepararse para monetizar su terreno en el juego.
-
-Se omitieron **48** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **49** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
