@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **17.07.2026**.
-- Fuentes relevantes pendientes: **41**.
+- Corte documental disponible: **21.07.2026**.
+- Fuentes relevantes pendientes: **42**.
 - Fuentes mostradas: **12**.
+
+### 21.07.2026 — MARKET LEVEL UP: comience a construir su carrera como TOP Creador de Mercado
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **4**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado).
+- Archivos locales: [01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md](../01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md).
+- Extracto relevante: GAMEGOS Coin, un recurso para la producción de objetos de juego demandados por los Maestros del Juego. DOMINION Coin, la moneda que desempeñará un papel central en la nueva oficina interna de los Maestros del Juego y en el proyecto TerritoryX.
 
 ### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9.md](../01_Olympia/markdown/08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9.md).
 - Extracto relevante: El 20 de agosto ya podrá experimentar de primera mano la nueva realidad de los Maestros del Juego. Mientras tanto, seguimos hablando de las novedades que le esperan. En el espacio tridimensional del nuevo servicio cartográfico, los orbes y las baterías conectadas a ellos han adquirido una forma tridimensional. Ahora son elementos plenamente integrados en el universo virtual, por el que el Maestro del Juego puede navegar libremente, cambiando el ángulo de visión y la profundidad de la percepción.
 
-### 17.04.2026 — ¿Cómo conseguir 381 REEX Coin de su Asesor en la nueva oficina interna de Maestros de Juego?
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **17**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestros-de-juego-0187).
-- Archivos locales: [01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md](../01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md).
-- Extracto relevante: En este momento, nuestro equipo de desarrollo está transformando el espacio virtual de los Maestros del Juego. Un concepto nacido de una combinación de ideas audaces cobra vida. Esta no es una actualización, sino una arquitectura conceptualmente nueva de la oficina interna de los Maestros del Juego. El principal cambio que afecta a todos los rincones de la oficina interna de Maestros del Juego es un nuevo núcleo de software. Lanzará rápidamente todas las ideas, capacidades y herramientas que convertirán el…
-
-Se omitieron **29** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **30** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

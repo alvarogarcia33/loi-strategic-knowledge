@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **17.07.2026**.
-- Fuentes relevantes pendientes: **61**.
+- Corte documental disponible: **21.07.2026**.
+- Fuentes relevantes pendientes: **62**.
 - Fuentes mostradas: **12**.
+
+### 21.07.2026 — MARKET LEVEL UP: comience a construir su carrera como TOP Creador de Mercado
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **19**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado).
+- Archivos locales: [01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md](../01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md).
+- Extracto relevante: Como renumeración por las operaciones realizadas en su estructura, se acreditan HMAP Coin, el activo operativo del Creador de Mercado, sin la cual es imposible desarrollar la actividad en H-MAP System. El Creador de Mercado que complete los 12 niveles de la carrera podrá recibir más de 100.000 HMAP Coin, 3.000 GAMEGOS Coin, 2.000 DOMINION Coin y 2.400 Maestros del Juego personales.
 
 ### 17.07.2026 — INTERA SWAP: es el momento de tomar decisiones rápidas
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d.md](../02_GIG_OS/markdown/22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d.md), [01_Olympia/markdown/22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4.md](../01_Olympia/markdown/22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4.md).
 - Extracto relevante: El farming efectivo es la piedra angular de su éxito. En un ecosistema en constante crecimiento, la escala de acción lo decide todo. Cuantos más PIN hay, más productivo es el farming. Cuantos más activos se farmean en diferentes segmentos del sistema H-MAP, más amplio será la oportunidad. 20 PIN activados, que se puede colocar inmediatamente en H-MAP 7PT;
 
-### 20.05.2026 — Reciba GAMEGOS Coin por activación de los PINs antes del 20 junio
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **27**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/reciba-gamegos-coin-por-activacion-de-los-pins-antes-del-20-junio-0202).
-- Archivos locales: [01_Olympia/markdown/20-05-2026_reciba-gamegos-coin-por-activación-de-los-pins-antes-del-20-junio_9085484b18d9.md](../01_Olympia/markdown/20-05-2026_reciba-gamegos-coin-por-activación-de-los-pins-antes-del-20-junio_9085484b18d9.md).
-- Extracto relevante: La oportunidad de recibir GAMEGOS Coin por transacciones de activación de PINs se ha extendido hasta el 20 de junio. ¡Active los PIN y observe cómo crece su reserva de GAMEGOS Coin!
-
-Se omitieron **49** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **50** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
