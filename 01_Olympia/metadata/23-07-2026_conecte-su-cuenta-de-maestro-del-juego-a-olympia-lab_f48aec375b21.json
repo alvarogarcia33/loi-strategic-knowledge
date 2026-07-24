@@ -1,0 +1,81 @@
+{
+  "article_uid": "olympia_f48aec375b21",
+  "platform": "olympia",
+  "title": "Conecte su cuenta de Maestro del Juego a Olympia-lab",
+  "date": "23.07.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab",
+  "canonical_url": "https://olympia-lab.com/es/news/post/conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab",
+  "content_hash": "e674601d289e2d721f7594dfa370d436b8a77e955d8eb4ced91c7c8306dbe2c0",
+  "url_hash": "8cf6b4d972b80eeb7adefa67f55d992a279a7bac08c8085c5418bd2e99873da5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/7f/0c/99/34/ad/7f0c9934ad53a8e63856c0494650c424.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/fb/6a/e8/20/bd/fb6ae820bd15650f410ce8d6f9f8a0b2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ba/70/06/29/c2/ba700629c24eb26e403028ebad0a921a.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/b1/7d/53/d1/c1/b17d53d1c1f0326ed93f5455e4ec1a56_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ec/b9/bd/8b/7b/ecb9bd8b7bfef34e987494ddcd68c571_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/10/0c/69/82/06/100c6982064fd10e2b78801fcff78892_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/44/31/8f/66/d7/44318f66d79ad4254ed5d527329d54a2_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/11/d5/d4/58/2211d5d458f4538fdb42487e3c600c30_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21\\image_08.jpg",
+      "filename": "image_08.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-07-24T11:18:50.379115-03:00",
+  "status": "downloaded"
+}

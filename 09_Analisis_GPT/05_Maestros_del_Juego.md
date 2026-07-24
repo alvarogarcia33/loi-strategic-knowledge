@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **21.07.2026**.
-- Fuentes relevantes pendientes: **42**.
+- Corte documental disponible: **23.07.2026**.
+- Fuentes relevantes pendientes: **43**.
 - Fuentes mostradas: **12**.
+
+### 23.07.2026 — Conecte su cuenta de Maestro del Juego a Olympia-lab
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **13**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab).
+- Archivos locales: [01_Olympia/markdown/23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21.md](../01_Olympia/markdown/23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21.md).
+- Extracto relevante: Se acerca el momento decisivo: el lanzamiento de la nueva oficina interna de los Maestros del Juego. Por lo tanto, por favor asegúrase de que su cuenta de Maestro del Juego esté conectada con OLYMPIA-LAB.
 
 ### 21.07.2026 — MARKET LEVEL UP: comience a construir su carrera como TOP Creador de Mercado
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d.md](../01_Olympia/markdown/27-05-2026_su-equipo-ha-sido-seleccionado-para-una-nueva-campaña-publicitaria_1fe6f427168d.md).
 - Extracto relevante: El objetivo de este lanzamiento es atraer Maestros del Juego específicamente a su equipo. Estamos incorporando nuevos Maestros del Juego y distribuyéndolos entre los Creadores de Mercado del equipo. A medida que toma forma la era de los Maestros del Juego, cada Creador de Mercado necesitará un Maestros del Juego personal. La competencia por la atención de la audiencia alcanzará un nivel completamente nuevo. Cuantos más Maestros del Juego tenga un Creador de Mercado, más ventas podrá realizar en su mercado interno…
 
-### 08.05.2026 — De camino a la nueva oficina interna de los Maestros del Juego. Parte 4: orbes y drones
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **15**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-drones-0196).
-- Archivos locales: [01_Olympia/markdown/08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9.md](../01_Olympia/markdown/08-05-2026_de-camino-a-la-nueva-oficina-interna-de-los-maestros-del-juego-parte-4-orbes-y-d_fcd93e66aeb9.md).
-- Extracto relevante: El 20 de agosto ya podrá experimentar de primera mano la nueva realidad de los Maestros del Juego. Mientras tanto, seguimos hablando de las novedades que le esperan. En el espacio tridimensional del nuevo servicio cartográfico, los orbes y las baterías conectadas a ellos han adquirido una forma tridimensional. Ahora son elementos plenamente integrados en el universo virtual, por el que el Maestro del Juego puede navegar libremente, cambiando el ángulo de visión y la profundidad de la percepción.
-
-Se omitieron **30** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **31** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
