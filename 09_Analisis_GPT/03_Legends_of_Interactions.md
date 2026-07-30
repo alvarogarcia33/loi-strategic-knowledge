@@ -41,9 +41,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **23.07.2026**.
-- Fuentes relevantes pendientes: **64**.
+- Corte documental disponible: **29.07.2026**.
+- Fuentes relevantes pendientes: **65**.
 - Fuentes mostradas: **12**.
+
+### 29.07.2026 — H-MAP Industries: 31 nuevos objetos para los Maestros del Juego
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego).
+- Archivos locales: [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
+- Extracto relevante: Seguimos desarrollando el universo de Legends of Interactions y preparándolo para su lanzamiento mundial. Ya está lista una nueva línea de objetos destinada a convertirse en una auténtica sensación en el mercado de los Maestros del Juego, y sus primeros propietarios están a punto de descubrirla. Add New Coin, una herramienta que permite al Maestro del Juego crear su propia moneda única y utilizarla para gestionar la actividad de los jugadores. Es una forma de crear un espacio económico personal dentro del mundo de…
 
 ### 25.06.2026 — Maestros del Juego personales: socios que trabajan para su éxito
 
@@ -144,16 +153,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771.md](../01_Olympia/markdown/15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771.md).
 - Extracto relevante: y todos aquellos que ayudan a crear el increíble mundo de Legends of Interactions! Próximamente podrá descubrir más detalles sobre las nuevas mecánicas de juego en Legends of Interactions en OLYMPIA-LAB.COM. ¡No deje de seguir las noticias!
 
-### 28.08.2025 — MetaFi Next Step — Neon Factors PowerUP
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **4**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/metafi-next-step-neon-factors-powerup-1133).
-- Archivos locales: [02_GIG_OS/markdown/28-08-2025_metafi-next-step-neon-factors-powerup_af8b93c129cb.md](../02_GIG_OS/markdown/28-08-2025_metafi-next-step-neon-factors-powerup_af8b93c129cb.md).
-- Extracto relevante: El plan estratégico de la compañía incluye una serie de pasos en diversas áreas del GLOBAL METAVERSE. INTERATUM es un marketplace de servicios de nueva generación, uno de los proyectos fundamentales del Metaverso GLOBAL METAVERSE. Es un proyecto extraordinario, sin análogos en el mundo de los negocios. Puede compartir ciertas similitudes con otros proyectos, pero en esencia es único. Único no solo por su idea y concepto, sino también por su forma de promoción y por su método de creación de una comunidad gestora.
-
-Se omitieron **52** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **53** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_5a87f0fece75",
+  "platform": "olympia",
+  "title": "H-MAP Industries: 31 nuevos objetos para los Maestros del Juego",
+  "date": "29.07.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego",
+  "canonical_url": "https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego",
+  "content_hash": "837def52ccf75e32bd9441188a7766e454fc7636d04b3b1cb5d1f94a4cf2c947",
+  "url_hash": "2704b736efa1b30c3cfe365dd330ea1ca1b4a6c0c757e14e805498ed6fd2fdc4",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/36/e1/dc/cb/fa/36e1dccbfae08a73747026c3e9429ec8.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/fa/66/5b/99/13/fa665b9913f90842eb707a57552734b6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/38/68/b3/4e/69/3868b34e69bda5a987ca77dac618e2e5_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/26/21/d1/96/da2621d1965da4c95f782c731d399c24_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/bb/e6/0f/39/5a/bbe60f395a36b04184e6eb1eda310a46_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/63/f4/cd/b7/2d/63f4cdb72d9194131cf0aaea0770f0ee_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-07-30T10:26:46.074360-03:00",
+  "status": "downloaded"
+}

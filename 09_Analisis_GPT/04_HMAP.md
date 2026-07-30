@@ -38,9 +38,27 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **23.07.2026**.
-- Fuentes relevantes pendientes: **62**.
+- Corte documental disponible: **29.07.2026**.
+- Fuentes relevantes pendientes: **64**.
 - Fuentes mostradas: **12**.
+
+### 29.07.2026 — H-MAP Industries: 31 nuevos objetos para los Maestros del Juego
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **23**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego).
+- Archivos locales: [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
+- Extracto relevante: Es muy sencillo: usted elige el objeto deseado y activa su farmeo en cualquiera de sus PIN TOKEN, incluso aunque no tenga PIN activados. Así comienza un proceso de producción que continuará hasta que se haya farmeado la cantidad máxima disponible de objetos. La comisión por activar el farming varía entre 1 y 20 HMAP Coin, dependiendo del objeto.
+
+### 29.07.2026 — ¡La materialización del activo virtual ha comenzado!
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-materializacion-del-activo-virtual-ha-comenzado).
+- Archivos locales: [01_Olympia/markdown/29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c.md](../01_Olympia/markdown/29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c.md).
+- Extracto relevante: Usando fábricas, los Maestros del Juego ahora pueden comenzar la producción de objetos materiales reales. La primera comunidad de Legends of Interactions del mundo fue capaz de combinar activos virtuales con la producción de accesorios únicos de marca. Aproveche el nuevo complejo industrial H-MAP Industries. Active Factory IA Silver en cualquiera de sus PINs y la fábrica empezará a producir inmediatamente!
 
 ### 21.07.2026 — MARKET LEVEL UP: comience a construir su carrera como TOP Creador de Mercado
 
@@ -132,25 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4.md](../01_Olympia/markdown/01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4.md).
 - Extracto relevante: Para habilitar esta función para todos sus PINs, debe activar 16 PINs nuevos cualesquiera. Los PINs actualizados funcionarán en H-MAP System según las nuevas reglas y le otorgarán más REEX Coin por las combinaciones exitosas.
 
-### 30.05.2026 — Factory.DroneX: fábrica de los drones premium
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **20**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/factorydronex-fabrica-de-los-drones-premium-0206).
-- Archivos locales: [01_Olympia/markdown/30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323.md](../01_Olympia/markdown/30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323.md).
-- Extracto relevante: Etapa 1 - por cada PIN activado en H-MAP 7PT y H-MAP.9 el Creador de Mercado recibe un cupón especial preFactoryDX, que da derecho a crear Factory.DroneX. Cada PIN activado en H-MAP.7PRO da 3 cupones preFactoryDX. creación dentro de las primeras 1000 Factory.DroneX, es decir, entre 1 y 1000 Factory.DroneX, requerirá 1 cupón de preFactoryDX,1 GAMEGOS Coin y 1 HMAP Coin como comisión;
-
-### 22.05.2026 — Fifteen Force: nuevo nivel
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **30**.
-- Plataformas: GIG-OS, Olympia.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/fifteen-force-nuevo-nivel-0194), [Olympia](https://olympia-lab.com/es/news/post/fifteen-force-nuevo-nivel-0203).
-- Archivos locales: [02_GIG_OS/markdown/22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d.md](../02_GIG_OS/markdown/22-05-2026_fifteen-force-nuevo-nivel_8a302a76827d.md), [01_Olympia/markdown/22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4.md](../01_Olympia/markdown/22-05-2026_fifteen-force-nuevo-nivel_4b1f2df011e4.md).
-- Extracto relevante: El farming efectivo es la piedra angular de su éxito. En un ecosistema en constante crecimiento, la escala de acción lo decide todo. Cuantos más PIN hay, más productivo es el farming. Cuantos más activos se farmean en diferentes segmentos del sistema H-MAP, más amplio será la oportunidad. 20 PIN activados, que se puede colocar inmediatamente en H-MAP 7PT;
-
-Se omitieron **50** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **52** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

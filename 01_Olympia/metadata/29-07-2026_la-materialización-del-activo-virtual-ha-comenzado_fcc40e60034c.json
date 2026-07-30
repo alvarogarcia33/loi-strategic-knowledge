@@ -1,0 +1,73 @@
+{
+  "article_uid": "olympia_fcc40e60034c",
+  "platform": "olympia",
+  "title": "¡La materialización del activo virtual ha comenzado!",
+  "date": "29.07.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/la-materializacion-del-activo-virtual-ha-comenzado",
+  "canonical_url": "https://olympia-lab.com/es/news/post/la-materializacion-del-activo-virtual-ha-comenzado",
+  "content_hash": "e571ad7cd495eca8a35f1d2ad2844bffb4303eba2bfd88cd2f5d7e91e2de2f10",
+  "url_hash": "78920afcc0810f42c1880e86512db7fc962e04867991f0084ac664eb363147dc",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/fa/66/5b/99/13/fa665b9913f90842eb707a57552734b6.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/c7/c4/c6/13/4c/c7c4c6134c8192cf7711627a3a86b351.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/36/e1/dc/cb/fa/36e1dccbfae08a73747026c3e9429ec8_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/38/68/b3/4e/69/3868b34e69bda5a987ca77dac618e2e5_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/26/21/d1/96/da2621d1965da4c95f782c731d399c24_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/bb/e6/0f/39/5a/bbe60f395a36b04184e6eb1eda310a46_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/63/f4/cd/b7/2d/63f4cdb72d9194131cf0aaea0770f0ee_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-07-30T10:26:49.544743-03:00",
+  "status": "downloaded"
+}
