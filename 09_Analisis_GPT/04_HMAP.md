@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **29.07.2026**.
-- Fuentes relevantes pendientes: **64**.
+- Corte documental disponible: **31.07.2026**.
+- Fuentes relevantes pendientes: **65**.
 - Fuentes mostradas: **12**.
+
+### 31.07.2026 — Instrucciones: cómo comenzar el farming de objetos en H-MAP Industries
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **22**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/instrucciones-como-comenzar-el-farming-de-objetos-en-h-map-industries).
+- Archivos locales: [01_Olympia/markdown/31-07-2026_instrucciones-cómo-comenzar-el-farming-de-objetos-en-h-map-industries_bb1160a5d770.md](../01_Olympia/markdown/31-07-2026_instrucciones-cómo-comenzar-el-farming-de-objetos-en-h-map-industries_bb1160a5d770.md).
+- Extracto relevante: 1. Utilizando la interfaz de la plataforma, acceda a cualquiera de sus PIN TOKEN. Puede utilizar tanto tokens con los PIN activados como tokens sin activar. 3. El sistema le solicitará permiso para descontar una determinada cantidad de HMAP Coin en concepto de comisión. Haga clic en «Autorizar el gasto de HMAP».
 
 ### 29.07.2026 — H-MAP Industries: 31 nuevos objetos para los Maestros del Juego
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.md](../01_Olympia/markdown/05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.md).
 - Extracto relevante: La oferta especial Fifteen Force vence el 15 de junio a las 23:59:59 CET. Cada paquete Fifteen Force (independientemente del tipo de token) contiene 20 PIN preactivados. Esto significa que aumentarán instantáneamente su actividad en el H-MAP System y ampliarán sus oportunidades para farmear las REEX Coin.
 
-### 01.06.2026 — Actualización de PINs: ¡plazo extendido!
-
-- Señal documental: **cambio de calendario o plazo**.
-- Relevancia automática: **17**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/actualizacion-de-pins-plazo-extendido-0207).
-- Archivos locales: [01_Olympia/markdown/01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4.md](../01_Olympia/markdown/01-06-2026_actualización-de-pins-plazo-extendido_3b7b65a92be4.md).
-- Extracto relevante: Para habilitar esta función para todos sus PINs, debe activar 16 PINs nuevos cualesquiera. Los PINs actualizados funcionarán en H-MAP System según las nuevas reglas y le otorgarán más REEX Coin por las combinaciones exitosas.
-
-Se omitieron **52** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **53** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
