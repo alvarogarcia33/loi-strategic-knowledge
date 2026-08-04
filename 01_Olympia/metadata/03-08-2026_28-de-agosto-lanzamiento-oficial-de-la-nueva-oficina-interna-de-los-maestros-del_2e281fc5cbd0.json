@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_2e281fc5cbd0",
+  "platform": "olympia",
+  "title": "28 de agosto: lanzamiento oficial de la nueva oficina interna de los Maestros del Juego",
+  "date": "03.08.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego",
+  "canonical_url": "https://olympia-lab.com/es/news/post/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego",
+  "content_hash": "11597718452401488b4f7a73cb21e7893aa0d0be25a93f13feaf8cceac9d16b9",
+  "url_hash": "cd43e59469a669e7b76ab83ceb2d32c3de8f7bbd56e5901b95e447c52f3bbee5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/7a/1b/91/5b/a7/7a1b915ba7eebca872ae060b4c0fca57.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/36/e1/dc/cb/fa/36e1dccbfae08a73747026c3e9429ec8_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/fa/66/5b/99/13/fa665b9913f90842eb707a57552734b6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/38/68/b3/4e/69/3868b34e69bda5a987ca77dac618e2e5_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/26/21/d1/96/da2621d1965da4c95f782c731d399c24_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/bb/e6/0f/39/5a/bbe60f395a36b04184e6eb1eda310a46_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-04T09:00:57.655540-03:00",
+  "status": "downloaded"
+}

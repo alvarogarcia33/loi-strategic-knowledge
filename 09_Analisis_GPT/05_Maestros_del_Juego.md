@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **31.07.2026**.
-- Fuentes relevantes pendientes: **44**.
+- Corte documental disponible: **03.08.2026**.
+- Fuentes relevantes pendientes: **45**.
 - Fuentes mostradas: **12**.
+
+### 03.08.2026 — 28 de agosto: lanzamiento oficial de la nueva oficina interna de los Maestros del Juego
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **11**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego).
+- Archivos locales: [01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md](../01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md).
+- Extracto relevante: El lanzamiento de la nueva oficina interna es un acontecimiento verdaderamente histórico que merece una atención especial. Para que cada uno de ustedes pueda presenciar este momento histórico en directo, hemos decidido sincronizar el lanzamiento de la nueva oficina interna con la presentación. Este gran acontecimiento tendrá lugar el 28 de agosto.
 
 ### 29.07.2026 — H-MAP Industries: 31 nuevos objetos para los Maestros del Juego
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/03-06-2026_factory-dronex-fábrica-de-drones-premium_389bd86dd85c.md](../02_GIG_OS/markdown/03-06-2026_factory-dronex-fábrica-de-drones-premium_389bd86dd85c.md).
 - Extracto relevante: Solo los Creadores de Mercado pueden crear Factory.DroneX. Los Maestros del Juego podrán obtener este objeto exclusivamente a través de los Creadores de Mercado. El precio de venta recomendado para los Maestros del Juego es de 18 REEX Coin por cada Factory.DroneX.
 
-### 30.05.2026 — Factory.DroneX: fábrica de los drones premium
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **20**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/factorydronex-fabrica-de-los-drones-premium-0206).
-- Archivos locales: [01_Olympia/markdown/30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323.md](../01_Olympia/markdown/30-05-2026_factory-dronex-fábrica-de-los-drones-premium_d45d3386a323.md).
-- Extracto relevante: De ahora en adelante, la empresa en colaboración con TOP Creadores de Mercado comenzará a crear un mercado global para Maestros del Juego y este paso importante requerirá que los TOP Creadores de Mercado proporcionen a los nuevos Maestros del Juego un conjunto básico de recursos y herramientas necesarios para un inicio exitoso de su negocio en el territorio Legends of Interactions y TerritoryX. El sistema, que apoya la creciente demanda de Drones premium y apoya el desarrollo sostenible del negocio de los Maestros…
-
-Se omitieron **32** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **33** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

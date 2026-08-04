@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **31.07.2026**.
-- Fuentes relevantes pendientes: **65**.
+- Corte documental disponible: **03.08.2026**.
+- Fuentes relevantes pendientes: **66**.
 - Fuentes mostradas: **12**.
+
+### 03.08.2026 — 28 de agosto: lanzamiento oficial de la nueva oficina interna de los Maestros del Juego
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego).
+- Archivos locales: [01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md](../01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md).
+- Extracto relevante: Cada acelerador podrá aumentar la velocidad de farming de un objeto de H-MAP Industries para un PIN TOKEN. Cada activación del farming de cualquier objeto de H-MAP Industries realizada antes del 28 de agosto se considerará un boleto de lotería. Cuantos más boletos tenga, ¡más premios podrá ganar!
 
 ### 31.07.2026 — Instrucciones: cómo comenzar el farming de objetos en H-MAP Industries
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.md](../01_Olympia/markdown/08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.md).
 - Extracto relevante: Para apoyar a la comunidad de Creadores de Mercado en el fortalecimiento de su negocio, la semana pasada realizamos un Airdrop de 7PT COUPON. Los cupones fueron distribuidos aleatoriamente entre los Creadores de Mercado seleccionados por el sistema.
 
-### 05.06.2026 — Fifteen Force: quedan 10 días
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **19**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/fifteen-force-quedan-10-dias-0209).
-- Archivos locales: [01_Olympia/markdown/05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.md](../01_Olympia/markdown/05-06-2026_fifteen-force-quedan-10-días_670f484dfedf.md).
-- Extracto relevante: La oferta especial Fifteen Force vence el 15 de junio a las 23:59:59 CET. Cada paquete Fifteen Force (independientemente del tipo de token) contiene 20 PIN preactivados. Esto significa que aumentarán instantáneamente su actividad en el H-MAP System y ampliarán sus oportunidades para farmear las REEX Coin.
-
-Se omitieron **53** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **54** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
