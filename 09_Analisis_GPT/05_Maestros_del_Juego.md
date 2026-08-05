@@ -39,7 +39,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **03.08.2026**.
+- Corte documental disponible: **04.08.2026**.
 - Fuentes relevantes pendientes: **45**.
 - Fuentes mostradas: **12**.
 

@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **03.08.2026**.
-- Fuentes relevantes pendientes: **66**.
+- Corte documental disponible: **04.08.2026**.
+- Fuentes relevantes pendientes: **67**.
 - Fuentes mostradas: **12**.
+
+### 04.08.2026 — Farming de objetos de H-MAP Industries: guía paso a paso
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **26**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/farming-de-objetos-de-h-map-industries-guia-paso-a-paso).
+- Archivos locales: [01_Olympia/markdown/04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072.md](../01_Olympia/markdown/04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072.md).
+- Extracto relevante: 3. Seleccione el PIN TOKEN en el que desea activar el farming. Son válidos tanto los tokens con PIN activados como los que no tienen PIN activados. 5. El sistema le solicitará permiso para descontar una determinada cantidad de HMAP Coin en concepto de comisión. Haga clic en «Autorizar el gasto de HMAP».
 
 ### 03.08.2026 — 28 de agosto: lanzamiento oficial de la nueva oficina interna de los Maestros del Juego
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md](../01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md).
 - Extracto relevante: Fifteen Force fortalece su negocio en dos direcciones al mismo tiempo: 20 PIN ya activados aumentan la eficiencia en H-MAP System y, además, proporcionan cupones preFactoryDX necesarios para la producción de fábricas de drones premium. El nuevo participante activa al menos 2 PIN en cualquiera de los sistemas H-MAP (la activación debe realizarse antes del 20 de agosto a las 12:00 CET).
 
-### 08.06.2026 — Se ha realizado un Airdrop de 7PT COUPON
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **2**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/se-ha-realizado-un-airdrop-de-7pt-coupon-0210).
-- Archivos locales: [01_Olympia/markdown/08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.md](../01_Olympia/markdown/08-06-2026_se-ha-realizado-un-airdrop-de-7pt-coupon_5585fb0023db.md).
-- Extracto relevante: Para apoyar a la comunidad de Creadores de Mercado en el fortalecimiento de su negocio, la semana pasada realizamos un Airdrop de 7PT COUPON. Los cupones fueron distribuidos aleatoriamente entre los Creadores de Mercado seleccionados por el sistema.
-
-Se omitieron **54** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **55** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

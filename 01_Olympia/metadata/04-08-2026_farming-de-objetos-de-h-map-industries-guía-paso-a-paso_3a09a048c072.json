@@ -1,0 +1,145 @@
+{
+  "article_uid": "olympia_3a09a048c072",
+  "platform": "olympia",
+  "title": "Farming de objetos de H-MAP Industries: guía paso a paso",
+  "date": "04.08.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/farming-de-objetos-de-h-map-industries-guia-paso-a-paso",
+  "canonical_url": "https://olympia-lab.com/es/news/post/farming-de-objetos-de-h-map-industries-guia-paso-a-paso",
+  "content_hash": "8101b838624e36914faa1d79ea2a5500156040934a33f49d2b1dff8406260245",
+  "url_hash": "8d60986916bfd149c98ad8d081f2bd0f8aa89c464d5cae60e3405a4c301f3c39",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/7d/35/53/83/3a/7d3553833a167fa21b0c605a949fc503.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/56/af/90/8d/7b/56af908d7b8a0db1b93fc5b548ab0468.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/0f/b5/67/5f/a3/0fb5675fa3e134044fa9e45205bda876.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/43/e5/ee/1d/d2/43e5ee1dd2480abdf121a4eee59daf89.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/f9/f2/0d/48/df/f9f20d48df93bbdea901d8229eec5e7b.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/5f/65/33/45/a2/5f653345a26bb40853fdfa45a7b71d05.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/c1/4f/02/0d/a0/c14f020da07cbd1e12bbab8f81ead396.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/43/f6/0e/eb/22/43f60eeb2260480b1eef1afccef79d91.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_08.jpg",
+      "filename": "image_08.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/57/17/e4/62/b8/5717e462b8e439c5ae8f8d850ae38a2d.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_09.jpg",
+      "filename": "image_09.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/37/87/73/fa/0a/378773fa0a34d825cb12cac0a4586649.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_10.jpg",
+      "filename": "image_10.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/14/41/05/06/1b/144105061b8f87b979486deaeb841473.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_11.jpg",
+      "filename": "image_11.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/1c/b2/9a/fe/da/1cb29afeda1a59dd1e3610182d149a1d_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_12.jpg",
+      "filename": "image_12.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/f2/ab/e9/9d/0e/f2abe99d0e657674cb529f23acc0e77c_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_13.jpg",
+      "filename": "image_13.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/1e/31/92/91/75/1e31929175f3724b2f654c5b7fb70c3b_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_14.jpg",
+      "filename": "image_14.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/55/0f/e0/0c/be/550fe00cbe15a5168b02a7f34b4f6594_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_15.jpg",
+      "filename": "image_15.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/72/1e/7f/ff/b0/721e7fffb0cec06d55e9df957837c0ae_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072\\image_16.jpg",
+      "filename": "image_16.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-05T09:00:55.732968-03:00",
+  "status": "downloaded"
+}
