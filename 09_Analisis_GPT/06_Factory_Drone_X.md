@@ -42,9 +42,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **04.08.2026**.
-- Fuentes relevantes pendientes: **6**.
-- Fuentes mostradas: **6**.
+- Corte documental disponible: **06.08.2026**.
+- Fuentes relevantes pendientes: **7**.
+- Fuentes mostradas: **7**.
+
+### 05.08.2026 — ¡Factory.DroneX e INTERA SWAP ahora influyen en su carrera!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **14**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/factorydronex-e-intera-swap-ahora-influyen-en-su-carrera).
+- Archivos locales: [01_Olympia/markdown/05-08-2026_factory-dronex-e-intera-swap-ahora-influyen-en-su-carrera_1a2a53f437ae.md](../01_Olympia/markdown/05-08-2026_factory-dronex-e-intera-swap-ahora-influyen-en-su-carrera_1a2a53f437ae.md).
+- Extracto relevante: A partir del 29 de julio, 17:00 CET, las siguientes operaciones se contabilizarán en el programa Market Level Up: Le recordamos que puede utilizar los cupones para crear Factory.DroneX hasta el 20 de agosto.
 
 ### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!
 

@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_dfce208fe588",
+  "platform": "olympia",
+  "title": "¡Gold Traditions Coin ya está a la venta!",
+  "date": "06.08.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/gold-traditions-coin-ya-esta-a-la-venta",
+  "canonical_url": "https://olympia-lab.com/es/news/post/gold-traditions-coin-ya-esta-a-la-venta",
+  "content_hash": "d1d86b43f2c0b2ac63795ecc001617e13c8646859c12087fec73e453dad719dd",
+  "url_hash": "d7ef6816e257943fae77823d4f930fd6766987f8bcb3c6b9de3d7829ca572acf",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/03/a1/df/f2/e3/03a1dff2e39fdcc442cdd370dacc3610.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/88/b9/c8/b9/6a/88b9c8b96a95dbde4ea897cbed2d6d03_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/7a/1b/91/5b/a7/7a1b915ba7eebca872ae060b4c0fca57_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/36/e1/dc/cb/fa/36e1dccbfae08a73747026c3e9429ec8_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/fa/66/5b/99/13/fa665b9913f90842eb707a57552734b6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/38/68/b3/4e/69/3868b34e69bda5a987ca77dac618e2e5_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-06T15:33:30.248697-03:00",
+  "status": "downloaded"
+}

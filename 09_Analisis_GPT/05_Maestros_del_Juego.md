@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **04.08.2026**.
-- Fuentes relevantes pendientes: **45**.
+- Corte documental disponible: **06.08.2026**.
+- Fuentes relevantes pendientes: **46**.
 - Fuentes mostradas: **12**.
+
+### 06.08.2026 — ¡Gold Traditions Coin ya está a la venta!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/gold-traditions-coin-ya-esta-a-la-venta).
+- Archivos locales: [01_Olympia/markdown/06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588.md](../01_Olympia/markdown/06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588.md).
+- Extracto relevante: ¡Abrimos el acceso a la primera emisión de la moneda con motivo de la tan esperada inauguración de la nueva oficina interna de los Maestros del Juego! En vísperas de la inauguración de la nueva oficina interna de los Maestros del Juego, este es nuestro regalo para todos los que han estado con nosotros durante todo este tiempo. Para quienes recuerdan cómo empezamos. Y para quienes comenzaron junto a nosotros.
 
 ### 03.08.2026 — 28 de agosto: lanzamiento oficial de la nueva oficina interna de los Maestros del Juego
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/18-06-2026_negocio-sin-competencia-las-ventajas-de-un-mercado-personal_ea88fa3f32ab.md](../01_Olympia/markdown/18-06-2026_negocio-sin-competencia-las-ventajas-de-un-mercado-personal_ea88fa3f32ab.md).
 - Extracto relevante: La respuesta se encontró en la propia arquitectura del mercado. Creamos un sistema económico en el que un Creador de Mercado puede obtener su propio segmento: cerrado, protegido y sin participantes externos. Este segmento se denomina mercado personal de los Maestros del Juego. Los Maestros del Juego personales pueden liberarle por completo de la necesidad de competir con otros Creadores de Mercado. Al mismo tiempo, nada le impedirá combinar ambas estrategias, operando tanto en el mercado abierto como en el…
 
-### 03.06.2026 — Factory.DroneX: fábrica de drones premium
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **4**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/factorydronex-fabrica-de-drones-premium-0196).
-- Archivos locales: [02_GIG_OS/markdown/03-06-2026_factory-dronex-fábrica-de-drones-premium_389bd86dd85c.md](../02_GIG_OS/markdown/03-06-2026_factory-dronex-fábrica-de-drones-premium_389bd86dd85c.md).
-- Extracto relevante: Solo los Creadores de Mercado pueden crear Factory.DroneX. Los Maestros del Juego podrán obtener este objeto exclusivamente a través de los Creadores de Mercado. El precio de venta recomendado para los Maestros del Juego es de 18 REEX Coin por cada Factory.DroneX.
-
-Se omitieron **33** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **34** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

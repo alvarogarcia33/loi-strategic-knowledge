@@ -41,9 +41,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **04.08.2026**.
-- Fuentes relevantes pendientes: **65**.
+- Corte documental disponible: **06.08.2026**.
+- Fuentes relevantes pendientes: **66**.
 - Fuentes mostradas: **12**.
+
+### 06.08.2026 — ¡Gold Traditions Coin ya está a la venta!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/gold-traditions-coin-ya-esta-a-la-venta).
+- Archivos locales: [01_Olympia/markdown/06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588.md](../01_Olympia/markdown/06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588.md).
+- Extracto relevante: Hoy anunciamos un acontecimiento histórico en nuestro Metaverso Global Metaverse: el lanzamiento de una moneda cuyo valor equivale al precio del oro. Todos ustedes conocen bien los preparativos para el lanzamiento mundial del primer proyecto de nuestro Metaverso: Legends of Interactions.
 
 ### 29.07.2026 — H-MAP Industries: 31 nuevos objetos para los Maestros del Juego
 
@@ -144,16 +153,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/16-09-2025_información-importante-para-los-maestros-del-juego_fdbf8f205e45.md](../01_Olympia/markdown/16-09-2025_información-importante-para-los-maestros-del-juego_fdbf8f205e45.md).
 - Extracto relevante: 1. Cómo invitar a nuevos jugadores a Legends of Interactions. Si en la pestaña LOI Referral no aparecen códigos, significa que usted no forma parte del grupo focal. Para unirse al grupo, necesita recibir una invitación de otro Creador de Mercado.
 
-### 15.09.2025 — ¡La aplicación Legends of Interactions: ¡la nueva versión ya está disponible!
-
-- Señal documental: **lanzamiento o activación**.
-- Relevancia automática: **14**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-aplicacion-legends-of-interactions-la-nueva-version-ya-esta-disponible-0114).
-- Archivos locales: [01_Olympia/markdown/15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771.md](../01_Olympia/markdown/15-09-2025_la-aplicación-legends-of-interactions-la-nueva-versión-ya-está-disponible_fc225120c771.md).
-- Extracto relevante: y todos aquellos que ayudan a crear el increíble mundo de Legends of Interactions! Próximamente podrá descubrir más detalles sobre las nuevas mecánicas de juego en Legends of Interactions en OLYMPIA-LAB.COM. ¡No deje de seguir las noticias!
-
-Se omitieron **53** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **54** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
