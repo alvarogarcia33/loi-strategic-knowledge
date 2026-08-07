@@ -2,6 +2,12 @@
 
 Base documental privada y sincronizable para análisis estratégico en ChatGPT.
 
+Antes de consultar la base desde un Proyecto de ChatGPT, leer:
+
+- `00_INSTRUCCIONES_PARA_CHATGPT.md`
+
+Ese archivo define el protocolo de busqueda cruzada entre Olympia, GIG-OS, reuniones privadas, datos blockchain y dossiers estrategicos.
+
 ## Qué contiene
 
 - `01_Olympia`
