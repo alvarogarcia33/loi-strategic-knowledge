@@ -189,6 +189,18 @@ Se omitieron **55** fuentes menos recientes para mantener el dossier manejable; 
 - Aportes relevantes:
   - La reunión también confirma que la estrategia comercial inmediata es preparar equipos, activar participación desde el inicio y orientar a nuevos miembros primero hacia LOI/H-MAP, luego Market Level UP y recién después el Programa de Liderazgo. Se mencionan puntos pendientes sobre estructuras ajenas, integración técnica de fábricas e InterSwap, y un problema técnico reportado por Álvaro sobre el pool Riggs/Escudos.
 
+### 2026-08-07 — Gold Traditions Coin - Pre-release presidencial
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-08-07_gold_traditions_coin_pre_release.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-08-07_gold_traditions_coin_pre_release.md)
+- Tipo: conferencia de presidencia; resumen estructurado a partir de PDF `GTC_ES pdf.pdf`.
+- Nivel de certeza declarado: **alto para el contenido extraído del PDF; medio para interpretaciones estratégicas**.
+- Aportes relevantes:
+  - GTC busca funcionar como referente de valor vinculado al mundo real dentro de Global Metaverse.
+  - La emisión principal queda diferida a 2027, condicionada al avance de Legends of Interactions.
+  - Proyecto emergente: Gold Traditions Coin aparece como activo con posible rol de referencia, liquidez e intercambio dentro de Global Metaverse.
+  - Señal de temporalidad: el despliegue completo se posterga a 2027 y depende del lanzamiento exitoso de elementos principales de LOI.
+  - Debe cruzarse con publicaciones públicas futuras sobre GTC, REEX, ESCUDO, inBTC, inETH y Global Metaverse.
+
 ### sin fecha confirmada en el documento — Reunión de asesores sobre estrategia de LOI y preparación de Market Makers
 
 - Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md](../03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md)

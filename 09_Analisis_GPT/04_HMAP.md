@@ -195,6 +195,14 @@ Se omitieron **55** fuentes menos recientes para mantener el dossier manejable; 
   - El programa contempla ingresos relacionados con activación de PIN, venta de fábricas, InterSwap y comisiones vinculadas a Olympia.
   - Desde nivel 2 se entregan paquetes de GameGOS Coin, hasta 3,000 en total por carrera.
 
+### 2026-08-07 — Gold Traditions Coin - Pre-release presidencial
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-08-07_gold_traditions_coin_pre_release.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-08-07_gold_traditions_coin_pre_release.md)
+- Tipo: conferencia de presidencia; resumen estructurado a partir de PDF `GTC_ES pdf.pdf`.
+- Nivel de certeza declarado: **alto para el contenido extraído del PDF; medio para interpretaciones estratégicas**.
+- Aportes relevantes:
+  - Puede vincularse indirectamente con análisis de H-MAP, Market Level UP y Maestros del Juego si GTC se integra a mecanismos de liquidez o recompra.
+
 ### sin fecha confirmada en el documento — Compilación estratégica de traducción al español de discurso presidencial
 
 - Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md](../03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md)
