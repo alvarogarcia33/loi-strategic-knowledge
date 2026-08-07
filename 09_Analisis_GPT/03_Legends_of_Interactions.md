@@ -41,9 +41,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **06.08.2026**.
-- Fuentes relevantes pendientes: **66**.
+- Corte documental disponible: **07.08.2026**.
+- Fuentes relevantes pendientes: **67**.
 - Fuentes mostradas: **12**.
+
+### 07.08.2026 — ¡Gold Traditions Coin! ¿Qué cosa es? ¿Para qué? ¿Por qué?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **5**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/gold-traditions-coin-que-cosa-es-para-que-por-que).
+- Archivos locales: [01_Olympia/markdown/07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3.md](../01_Olympia/markdown/07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3.md).
+- Extracto relevante: Gold Traditions Coin es un elemento importante del protocolo DeFi de nuestro Global Metaverse. Por ello, publicamos un pre-release, una versión preliminar y anticipada del producto Gold Traditions Coin. Esta publicación está destinada exclusivamente a nuestra comunidad y constituye nuestra respuesta a sus preguntas. En otras palabras, Gold Traditions Coin es el patrón oro del Global Metaverse.
 
 ### 06.08.2026 — ¡Gold Traditions Coin ya está a la venta!
 
@@ -144,16 +153,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049.md](../01_Olympia/markdown/16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049.md).
 - Extracto relevante: Algunos elementos del Juego podrían verse o funcionar de manera distinta a como se describe aquí. Esto es normal, ya que un gran equipo trabaja constantemente en Legends of Interactions. Los programadores se esfuerzan por mejorar el Juego incorporando ideas propias. La aplicación móvil Legends of Interactions puede actualizarse con regularidad.
 
-### 16.09.2025 — Información importante para los Maestros del Juego
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **4**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/informacion-importante-para-los-maestros-del-juego-0116).
-- Archivos locales: [01_Olympia/markdown/16-09-2025_información-importante-para-los-maestros-del-juego_fdbf8f205e45.md](../01_Olympia/markdown/16-09-2025_información-importante-para-los-maestros-del-juego_fdbf8f205e45.md).
-- Extracto relevante: 1. Cómo invitar a nuevos jugadores a Legends of Interactions. Si en la pestaña LOI Referral no aparecen códigos, significa que usted no forma parte del grupo focal. Para unirse al grupo, necesita recibir una invitación de otro Creador de Mercado.
-
-Se omitieron **54** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **55** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

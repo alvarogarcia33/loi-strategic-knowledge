@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_f1bbbd0602d3",
+  "platform": "olympia",
+  "title": "¡Gold Traditions Coin! ¿Qué cosa es? ¿Para qué? ¿Por qué?",
+  "date": "07.08.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/gold-traditions-coin-que-cosa-es-para-que-por-que",
+  "canonical_url": "https://olympia-lab.com/es/news/post/gold-traditions-coin-que-cosa-es-para-que-por-que",
+  "content_hash": "85b7dd59dcaf5f5b41bb15b023fb2b19210980f919e40c4047dc8b3808adb00f",
+  "url_hash": "09145638cfb4658c48f721800d0a00a6dec04e5a78101790da626b3f8a175968",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/fd/90/04/7e/45/fd90047e45d5e5a9490810d56ad1fa43.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/03/a1/df/f2/e3/03a1dff2e39fdcc442cdd370dacc3610_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/88/b9/c8/b9/6a/88b9c8b96a95dbde4ea897cbed2d6d03_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/7a/1b/91/5b/a7/7a1b915ba7eebca872ae060b4c0fca57_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/36/e1/dc/cb/fa/36e1dccbfae08a73747026c3e9429ec8_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/fa/66/5b/99/13/fa665b9913f90842eb707a57552734b6_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\07-08-2026_gold-traditions-coin-qué-cosa-es-para-qué-por-qué_f1bbbd0602d3\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-07T11:30:38.102135-03:00",
+  "status": "downloaded"
+}
