@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **07.08.2026**.
-- Fuentes relevantes pendientes: **51**.
+- Corte documental disponible: **10.08.2026**.
+- Fuentes relevantes pendientes: **52**.
 - Fuentes mostradas: **12**.
+
+### 10.08.2026 — INT Coin: el motor de su éxito en Interatum
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **34**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/int-coin-el-motor-de-su-exito-en-interatum).
+- Archivos locales: [02_GIG_OS/markdown/10-08-2026_int-coin-el-motor-de-su-éxito-en-interatum_d79e2a801923.md](../02_GIG_OS/markdown/10-08-2026_int-coin-el-motor-de-su-éxito-en-interatum_d79e2a801923.md).
+- Extracto relevante: Cuando llegue el día del lanzamiento mundial de Interatum, habrá un factor de vital importancia: la cantidad de INT Coin que usted tenga a su disposición. INT Coin desempeñará numerosas funciones dentro del ecosistema de Interatum:
 
 ### 24.07.2026 — INTERATUM y la nueva era de Maestros del Juego: ¿qué los une?
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/28-04-2026_el-papel-del-interaction-alphabet-en-el-marketplace-de-interatum_c7431e6a7dca.md](../02_GIG_OS/markdown/28-04-2026_el-papel-del-interaction-alphabet-en-el-marketplace-de-interatum_c7431e6a7dca.md).
 - Extracto relevante: Continuamos nuestra serie de artículos sobre el mercado moderno de servicios y el innovador modelo de marketplace que ofrece INTERATUM. Para que el servicio requerido sea fácil de encontrar, es necesario describirlo correctamente. Los marketplaces intentan crear un sistema de categorías donde cada servicio — desde sustituir un enchufe eléctrico hasta una clase de yoga — tenga una descripción clara, un precio y especificaciones. Esto debería simplificar la elección y reducir la incertidumbre.
 
-### 23.04.2026 — INTERA SWAP: ¡el primer premio ya ha sido otorgado!
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **2**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-el-primer-premio-ya-ha-sido-otorgado-0187).
-- Archivos locales: [02_GIG_OS/markdown/23-04-2026_intera-swap-el-primer-premio-ya-ha-sido-otorgado_ec23a00890e0.md](../02_GIG_OS/markdown/23-04-2026_intera-swap-el-primer-premio-ya-ha-sido-otorgado_ec23a00890e0.md).
-- Extracto relevante: cantidad de INT Coin y DOMINION Coin, equivalente a la cantidad de REEX Coin gastada en comisiones. Use INTERA SWAP para intercambiar INT Coin y DOMINION Coin. ¡Y quizás la siguiente persona que premiaremos sea usted!
-
-Se omitieron **39** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **40** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
