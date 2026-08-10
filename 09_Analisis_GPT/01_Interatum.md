@@ -39,8 +39,17 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
 - Corte documental disponible: **07.08.2026**.
-- Fuentes relevantes pendientes: **50**.
+- Fuentes relevantes pendientes: **51**.
 - Fuentes mostradas: **12**.
+
+### 24.07.2026 — INTERATUM y la nueva era de Maestros del Juego: ¿qué los une?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **14**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/interatum-y-la-nueva-era-de-maestros-del-juego-que-los-une).
+- Archivos locales: [02_GIG_OS/markdown/24-07-2026_interatum-y-la-nueva-era-de-maestros-del-juego-qué-los-une_44d0c6034bc7.md](../02_GIG_OS/markdown/24-07-2026_interatum-y-la-nueva-era-de-maestros-del-juego-qué-los-une_44d0c6034bc7.md).
+- Extracto relevante: Construir el marketplace de servicios INTERATUM es un proceso complejo y multifacético. Una vez que estas personas prueben un proyecto ya existente y obtengan beneficios reales de él, desarrollarán interés y confianza en todos los proyectos de nuestro ecosistema. Según el Interaction Alphabet, estos dos factores son la clave del éxito de cualquier negocio. El siguiente proyecto que atraerá la atención de los participantes de la comunidad de juego será INTERATUM.
 
 ### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/23-04-2026_intera-swap-el-primer-premio-ya-ha-sido-otorgado_ec23a00890e0.md](../02_GIG_OS/markdown/23-04-2026_intera-swap-el-primer-premio-ya-ha-sido-otorgado_ec23a00890e0.md).
 - Extracto relevante: cantidad de INT Coin y DOMINION Coin, equivalente a la cantidad de REEX Coin gastada en comisiones. Use INTERA SWAP para intercambiar INT Coin y DOMINION Coin. ¡Y quizás la siguiente persona que premiaremos sea usted!
 
-### 16.04.2026 — INTERA SWAP: pool de intercambio de INT Coin y DOMINION Coin
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **30**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin-0185).
-- Archivos locales: [02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md](../02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md).
-- Extracto relevante: Dos monedas: INT Coin y DOMINION Coin. Los dos principales activos dentro de los tres proyectos clave del ecosistema Global Metaverse: el Marketplace de servicios INTERATUM, el ecosistema de juegos Legends of Interactions y TerritoryX, una plataforma que transforma la tierra en un recurso. INT Coin es un elemento clave del Marketplace de servicios de nueva generación INTERATUM, una unidad de interacción y la fuerza impulsora del Marketplace de servicios.
-
-Se omitieron **38** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **39** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

@@ -73,9 +73,9 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 - Señal documental: **actualización temática**.
 - Relevancia automática: **23**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego).
-- Archivos locales: [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
+- Plataformas: GIG-OS, Olympia.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego), [Olympia](https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego).
+- Archivos locales: [02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md](../02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md), [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
 - Extracto relevante: Es muy sencillo: usted elige el objeto deseado y activa su farmeo en cualquiera de sus PIN TOKEN, incluso aunque no tenga PIN activados. Así comienza un proceso de producción que continuará hasta que se haya farmeado la cantidad máxima disponible de objetos. La comisión por activar el farming varía entre 1 y 20 HMAP Coin, dependiendo del objeto.
 
 ### 29.07.2026 — ¡La materialización del activo virtual ha comenzado!
@@ -100,9 +100,9 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 - Señal documental: **actualización temática**.
 - Relevancia automática: **7**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/intera-swap-es-el-momento-de-tomar-decisiones-rapidas).
-- Archivos locales: [01_Olympia/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_833d450003b9.md](../01_Olympia/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_833d450003b9.md).
+- Plataformas: GIG-OS, Olympia.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-es-el-momento-de-tomar-decisiones-rapidas), [Olympia](https://olympia-lab.com/es/news/post/intera-swap-es-el-momento-de-tomar-decisiones-rapidas).
+- Archivos locales: [02_GIG_OS/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_b5b5e2375303.md](../02_GIG_OS/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_b5b5e2375303.md), [01_Olympia/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_833d450003b9.md](../01_Olympia/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_833d450003b9.md).
 - Extracto relevante: Una vez que DOMINION Coin se convierta en la moneda principal de la oficina interna de Maestros del Juego, su demanda aumentará aún más. Si usted tiene previsto obtener DOMINION Coin en un futuro próximo, ahora es el mejor momento para hacerlo. Después de completar 10 o más transacciones de intercambio, usted podrá recibir el 10 % de las comisiones pagadas en forma de HMAP Coin.
 
 ### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!

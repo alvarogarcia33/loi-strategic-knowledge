@@ -42,7 +42,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
 - Corte documental disponible: **07.08.2026**.
-- Fuentes relevantes pendientes: **67**.
+- Fuentes relevantes pendientes: **68**.
 - Fuentes mostradas: **12**.
 
 ### 07.08.2026 — ¡Gold Traditions Coin! ¿Qué cosa es? ¿Para qué? ¿Por qué?
@@ -71,6 +71,15 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - URLs originales: [Olympia](https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego).
 - Archivos locales: [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
 - Extracto relevante: Seguimos desarrollando el universo de Legends of Interactions y preparándolo para su lanzamiento mundial. Ya está lista una nueva línea de objetos destinada a convertirse en una auténtica sensación en el mercado de los Maestros del Juego, y sus primeros propietarios están a punto de descubrirla. Add New Coin, una herramienta que permite al Maestro del Juego crear su propia moneda única y utilizarla para gestionar la actividad de los jugadores. Es una forma de crear un espacio económico personal dentro del mundo de…
+
+### 24.07.2026 — INTERATUM y la nueva era de Maestros del Juego: ¿qué los une?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/interatum-y-la-nueva-era-de-maestros-del-juego-que-los-une).
+- Archivos locales: [02_GIG_OS/markdown/24-07-2026_interatum-y-la-nueva-era-de-maestros-del-juego-qué-los-une_44d0c6034bc7.md](../02_GIG_OS/markdown/24-07-2026_interatum-y-la-nueva-era-de-maestros-del-juego-qué-los-une_44d0c6034bc7.md).
+- Extracto relevante: Actualmente, todos los aspectos técnicos están siendo resueltos con éxito por nuestro equipo de especialistas. Pero ¿qué ocurre con los futuros clientes que todavía no han visto el marketplace ni han oído hablar de su desarrollo? Aquí es donde entra en juego otro centro clave del ecosistema: Legends of Interactions. Si ha estado siguiendo las novedades en la plataforma en línea de nuestros socios, Olympia-lab, ya sabe que una nueva era de Maestros del Juego está a punto de comenzar. El mundo de Legends of…
 
 ### 25.06.2026 — Maestros del Juego personales: socios que trabajan para su éxito
 
@@ -144,16 +153,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/16-01-2026_resultados-de-la-reunión-en-línea_fe4078e681b2.md](../02_GIG_OS/markdown/16-01-2026_resultados-de-la-reunión-en-línea_fe4078e681b2.md).
 - Extracto relevante: Asimismo, el Presidente subrayó que la mejor opción para la comunidad es salir a la IPO con la ecosistema del Juego Legends of Interactions. La ecosistema, con todos sus elementos interconectados, será valorada más alto que solo el juego en sí. Ha comenzado la siguiente etapa de la competición por la participación en el crucero «LEGENDS OF INTERACTIONS — CONQUISTA DE NUEVOS TERRITORIOS».
 
-### 16.09.2025 — ¿Cómo jugar a Legends of Interactions?
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **16**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-jugar-a-legends-of-interactions-0115).
-- Archivos locales: [01_Olympia/markdown/16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049.md](../01_Olympia/markdown/16-09-2025_cómo-jugar-a-legends-of-interactions_7d4341865049.md).
-- Extracto relevante: Algunos elementos del Juego podrían verse o funcionar de manera distinta a como se describe aquí. Esto es normal, ya que un gran equipo trabaja constantemente en Legends of Interactions. Los programadores se esfuerzan por mejorar el Juego incorporando ideas propias. La aplicación móvil Legends of Interactions puede actualizarse con regularidad.
-
-Se omitieron **55** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **56** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

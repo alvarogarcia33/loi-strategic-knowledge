@@ -19,6 +19,7 @@ from database import connect
 PLATFORM = "gig_os"
 ROOT_NEWS_URL = "https://gig-os.com/es/gold-news"
 ARTICLE_PATH_PREFIX = "/es/gold-news/read/"
+SESSION_CHECK_URL = "https://gig-os.com/en/dashboard"
 DEFAULT_LIMIT = 5
 DISCOVERY_SEED_URLS = (
     ROOT_NEWS_URL,
@@ -46,6 +47,32 @@ MAX_LISTING_PAGES = 200
 MAX_INCREMENTAL_LISTING_PAGES = 16
 MIN_INCREMENTAL_LISTING_PAGES = 4
 CONSECUTIVE_KNOWN_PAGES_TO_STOP = 2
+AUTH_TEXT_MARKERS = (
+    "my profile",
+    "subscriptions",
+    "resources",
+    "activation codes",
+    "customer support",
+    "exit",
+    "mi perfil",
+    "suscripciones",
+    "recursos",
+    "códigos de activación",
+    "codigos de activacion",
+    "atención al cliente",
+    "atencion al cliente",
+    "salida",
+)
+PUBLIC_LOGIN_TEXT_MARKERS = (
+    "iniciar sesión",
+    "iniciar sesion",
+    "sign in",
+    "registrarse",
+    "crear una cuenta",
+    "forgot your password",
+    "olvidaste tu contraseña",
+    "olvidaste tu contrasena",
+)
 
 
 @dataclass(frozen=True)
@@ -126,6 +153,7 @@ def extract_gig_os_news(
         context = browser.new_context(storage_state=str(state_path))
         page = context.new_page()
         try:
+            _ensure_authenticated_session(page, logger)
             article_urls, listing_pages = _discover_article_urls(
                 page=page,
                 logger=logger,
@@ -342,6 +370,32 @@ def _looks_unauthenticated(page: Page) -> bool:
     login_text_visible = "iniciar sesión" in body_text or "iniciar sesion" in body_text
     dashboard_text_visible = "salida" in body_text or "mi perfil" in body_text
     return (password_visible or login_text_visible) and not dashboard_text_visible
+
+
+def _ensure_authenticated_session(page: Page, logger: logging.Logger) -> None:
+    logger.info("Validating GIG-OS authenticated session before news discovery: %s", SESSION_CHECK_URL)
+    page.goto(SESSION_CHECK_URL, wait_until="domcontentloaded", timeout=60_000)
+    _wait_for_page_ready(page)
+
+    if _looks_unauthenticated(page) or not _has_authenticated_markers(page):
+        raise RuntimeError(
+            "GIG-OS session is not authenticated. "
+            "Run python main.py --platform gig_os --login-test before extracting news."
+        )
+
+    logger.info("GIG-OS authenticated session confirmed before news discovery. current_url=%s", page.url)
+
+
+def _has_authenticated_markers(page: Page) -> bool:
+    try:
+        body_text = page.locator("body").inner_text(timeout=2_000).lower()
+    except Exception:
+        body_text = ""
+    if not body_text:
+        return False
+    has_auth_marker = any(marker in body_text for marker in AUTH_TEXT_MARKERS)
+    has_public_login_marker = any(marker in body_text for marker in PUBLIC_LOGIN_TEXT_MARKERS)
+    return has_auth_marker and not has_public_login_marker
 
 
 def _split_existing_url_duplicates(

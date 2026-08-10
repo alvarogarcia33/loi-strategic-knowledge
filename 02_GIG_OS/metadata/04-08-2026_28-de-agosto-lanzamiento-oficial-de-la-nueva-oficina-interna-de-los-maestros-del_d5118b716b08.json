@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_d5118b716b08",
+  "platform": "gig_os",
+  "title": "28 de agosto: lanzamiento oficial de la nueva oficina interna de los Maestros del Juego",
+  "date": "04.08.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego",
+  "content_hash": "dccdfb8bd8762cbf3536f1a0f63b0aa31c7f6b95953d83b438ff4cee59d378c3",
+  "url_hash": "6519f317a3c471b2ecf84a720d07616d97d766b38d9013ad4b148e5565ccb06c",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\04-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_d5118b716b08.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\04-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_d5118b716b08.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_d5118b716b08",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/69/ea/84/53/29/69ea845329afb1ca070c3939aae97132_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\04-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_d5118b716b08\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-07T16:31:06.457731-03:00",
+  "status": "downloaded"
+}

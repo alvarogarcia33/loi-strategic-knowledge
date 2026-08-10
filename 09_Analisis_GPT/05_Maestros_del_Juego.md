@@ -40,7 +40,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
 - Corte documental disponible: **07.08.2026**.
-- Fuentes relevantes pendientes: **46**.
+- Fuentes relevantes pendientes: **47**.
 - Fuentes mostradas: **12**.
 
 ### 06.08.2026 — ¡Gold Traditions Coin ya está a la venta!
@@ -52,23 +52,32 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588.md](../01_Olympia/markdown/06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588.md).
 - Extracto relevante: ¡Abrimos el acceso a la primera emisión de la moneda con motivo de la tan esperada inauguración de la nueva oficina interna de los Maestros del Juego! En vísperas de la inauguración de la nueva oficina interna de los Maestros del Juego, este es nuestro regalo para todos los que han estado con nosotros durante todo este tiempo. Para quienes recuerdan cómo empezamos. Y para quienes comenzaron junto a nosotros.
 
-### 03.08.2026 — 28 de agosto: lanzamiento oficial de la nueva oficina interna de los Maestros del Juego
+### 04.08.2026 — 28 de agosto: lanzamiento oficial de la nueva oficina interna de los Maestros del Juego
 
 - Señal documental: **lanzamiento o activación**.
 - Relevancia automática: **11**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego).
-- Archivos locales: [01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md](../01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md).
-- Extracto relevante: El lanzamiento de la nueva oficina interna es un acontecimiento verdaderamente histórico que merece una atención especial. Para que cada uno de ustedes pueda presenciar este momento histórico en directo, hemos decidido sincronizar el lanzamiento de la nueva oficina interna con la presentación. Este gran acontecimiento tendrá lugar el 28 de agosto.
+- Plataformas: GIG-OS, Olympia.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego), [Olympia](https://olympia-lab.com/es/news/post/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego).
+- Archivos locales: [02_GIG_OS/markdown/04-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_d5118b716b08.md](../02_GIG_OS/markdown/04-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_d5118b716b08.md), [01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md](../01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md).
+- Extracto relevante: El 28 de agosto a las 16:00 CET, en la plataforma de nuestros socios de Olympia-lab, les espera la El lanzamiento de la nueva oficina interna es un acontecimiento verdaderamente histórico para todo el ecosistema, que merece una atención especial.
 
 ### 29.07.2026 — H-MAP Industries: 31 nuevos objetos para los Maestros del Juego
 
 - Señal documental: **actualización temática**.
 - Relevancia automática: **20**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego).
-- Archivos locales: [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
+- Plataformas: GIG-OS, Olympia.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego), [Olympia](https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego).
+- Archivos locales: [02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md](../02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md), [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
 - Extracto relevante: Como ya saben, la nueva era de los Maestros del Juego está cada vez más cerca. Esto significa que aumenta su necesidad de disponer de una amplia variedad de activos, objetos y herramientas. Rueda de la fortuna, un objeto interactivo que permite a los jugadores recibir premios del Maestro del Juego. A los jugadores les gusta regresar a los lugares donde existe la posibilidad de conseguir un premio. Precisamente por eso, la «Rueda de la fortuna» ayuda al Maestro del Juego a atraer regularmente a nuevos jugadores y…
+
+### 24.07.2026 — INTERATUM y la nueva era de Maestros del Juego: ¿qué los une?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **14**.
+- Plataformas: GIG-OS.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/interatum-y-la-nueva-era-de-maestros-del-juego-que-los-une).
+- Archivos locales: [02_GIG_OS/markdown/24-07-2026_interatum-y-la-nueva-era-de-maestros-del-juego-qué-los-une_44d0c6034bc7.md](../02_GIG_OS/markdown/24-07-2026_interatum-y-la-nueva-era-de-maestros-del-juego-qué-los-une_44d0c6034bc7.md).
+- Extracto relevante: Si ha estado siguiendo las novedades en la plataforma en línea de nuestros socios, Olympia-lab, ya sabe que una nueva era de Maestros del Juego está a punto de comenzar. El mundo de Legends of Interactions se prepara de forma constante para recibir, en un futuro próximo, a un gran número de personas interesadas en su modelo de negocio único. Llegarán a INTERATUM porque sabrán que el ecosistema ofrece oportunidades que realmente funcionan y generan resultados. Por ello, lo que está ocurriendo ahora en el espacio de…
 
 ### 23.07.2026 — Conecte su cuenta de Maestro del Juego a Olympia-lab
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md](../01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md).
 - Extracto relevante: Cada día está más cerca el lanzamiento de la nueva oficina interna de los Maestros del Juego. Al crear fábricas de producción de drones premium mediante estos cupones, fortalece su negocio en Legends of Interactions. Además, da pasos firmes hacia la creación de su mercado personal de Maestros del Juego.
 
-### 18.06.2026 — Negocio sin competencia: las ventajas de un mercado personal
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **8**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/negocio-sin-competencia-las-ventajas-de-un-mercado-personal-0213).
-- Archivos locales: [01_Olympia/markdown/18-06-2026_negocio-sin-competencia-las-ventajas-de-un-mercado-personal_ea88fa3f32ab.md](../01_Olympia/markdown/18-06-2026_negocio-sin-competencia-las-ventajas-de-un-mercado-personal_ea88fa3f32ab.md).
-- Extracto relevante: La respuesta se encontró en la propia arquitectura del mercado. Creamos un sistema económico en el que un Creador de Mercado puede obtener su propio segmento: cerrado, protegido y sin participantes externos. Este segmento se denomina mercado personal de los Maestros del Juego. Los Maestros del Juego personales pueden liberarle por completo de la necesidad de competir con otros Creadores de Mercado. Al mismo tiempo, nada le impedirá combinar ambas estrategias, operando tanto en el mercado abierto como en el…
-
-Se omitieron **34** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **35** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
