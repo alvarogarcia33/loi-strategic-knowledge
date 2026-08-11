@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **10.08.2026**.
-- Fuentes relevantes pendientes: **47**.
+- Corte documental disponible: **11.08.2026**.
+- Fuentes relevantes pendientes: **48**.
 - Fuentes mostradas: **12**.
+
+### 11.08.2026 — ¡Conviértase en el primer propietario de una pulsera IA Silver!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/conviertase-en-el-primer-propietario-de-una-pulsera-ia-silver).
+- Archivos locales: [01_Olympia/markdown/11-08-2026_conviértase-en-el-primer-propietario-de-una-pulsera-ia-silver_7c3a32c6a1b1.md](../01_Olympia/markdown/11-08-2026_conviértase-en-el-primer-propietario-de-una-pulsera-ia-silver_7c3a32c6a1b1.md).
+- Extracto relevante: El 28 de agosto, durante la presentación online de la nueva oficina interna de los Maestros del Juego, sortearemos un conjunto de premios. Puede llevar la pulsera usted mismo. O puede entregársela a un socio de su estructura, a su Maestro del Juego personal o a un jugador. IA Silver es el regalo o reconocimiento ideal para aquella persona con la que haya establecido la interacción más productiva.
 
 ### 06.08.2026 — ¡Gold Traditions Coin ya está a la venta!
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md](../01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md).
 - Extracto relevante: Como ya sabe, hemos empezado a crear un mercado global para los Maestros del Juego. El mercado donde desempeñará un papel de liderazgo como productores de objetos importantes y valiosos. Comenzamos a formar las herramientas de Factory.MASTER a partir de ellas, ya que se convertirá en el objeto de mayor interés tanto por parte de los jugadores como de los Maestros del Juego.
 
-### 20.06.2026 — Las oportunidades entran en tiempo extra: es momento de lograr nuevos resultados
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **5**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados).
-- Archivos locales: [01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md](../01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md).
-- Extracto relevante: Cada día está más cerca el lanzamiento de la nueva oficina interna de los Maestros del Juego. Al crear fábricas de producción de drones premium mediante estos cupones, fortalece su negocio en Legends of Interactions. Además, da pasos firmes hacia la creación de su mercado personal de Maestros del Juego.
-
-Se omitieron **35** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **36** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

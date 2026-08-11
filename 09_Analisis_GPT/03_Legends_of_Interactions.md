@@ -41,9 +41,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **10.08.2026**.
-- Fuentes relevantes pendientes: **68**.
+- Corte documental disponible: **11.08.2026**.
+- Fuentes relevantes pendientes: **69**.
 - Fuentes mostradas: **12**.
+
+### 11.08.2026 — ¡Conviértase en el primer propietario de una pulsera IA Silver!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/conviertase-en-el-primer-propietario-de-una-pulsera-ia-silver).
+- Archivos locales: [01_Olympia/markdown/11-08-2026_conviértase-en-el-primer-propietario-de-una-pulsera-ia-silver_7c3a32c6a1b1.md](../01_Olympia/markdown/11-08-2026_conviértase-en-el-primer-propietario-de-una-pulsera-ia-silver_7c3a32c6a1b1.md).
+- Extracto relevante: ¿Alguna vez pudo imaginar que el mundo virtual de Legends of Interactions produciría para usted objetos físicos reales? ¿Y además fabricados con un metal precioso? Factory IA Silver es la primera fábrica capaz de convertir recursos virtuales en objetos reales. Para producir los eslabones, el Maestro del Juego necesitará plata del juego, que obtendrá gracias a la interacción de los jugadores con los orbes. De este modo, la plata del mundo digital llegará directamente a su muñeca. Legends of Interactions traspasa…
 
 ### 07.08.2026 — ¡Gold Traditions Coin! ¿Qué cosa es? ¿Para qué? ¿Por qué?
 
@@ -144,16 +153,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/20-03-2026_h-map-system-como-franquicia_9840ab55f5f6.md](../02_GIG_OS/markdown/20-03-2026_h-map-system-como-franquicia_9840ab55f5f6.md), [01_Olympia/markdown/20-03-2026_h-map-system-como-franquicia_14e4aea0bdec.md](../01_Olympia/markdown/20-03-2026_h-map-system-como-franquicia_14e4aea0bdec.md).
 - Extracto relevante: Produce → comercializa → vende a los Maestros a través de Legends of Interactions, Marketplace y TerritoryX → genera facturación y ganancias. En resumen: H-MAP es una franquicia de producción de recursos para los ecosistemas de Legends of Interactions y TerritoryX.
 
-### 16.01.2026 — Resultados de la reunión en línea
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **2**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/resultados-de-la-reunion-en-linea-1154).
-- Archivos locales: [02_GIG_OS/markdown/16-01-2026_resultados-de-la-reunión-en-línea_fe4078e681b2.md](../02_GIG_OS/markdown/16-01-2026_resultados-de-la-reunión-en-línea_fe4078e681b2.md).
-- Extracto relevante: Asimismo, el Presidente subrayó que la mejor opción para la comunidad es salir a la IPO con la ecosistema del Juego Legends of Interactions. La ecosistema, con todos sus elementos interconectados, será valorada más alto que solo el juego en sí. Ha comenzado la siguiente etapa de la competición por la participación en el crucero «LEGENDS OF INTERACTIONS — CONQUISTA DE NUEVOS TERRITORIOS».
-
-Se omitieron **56** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **57** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
