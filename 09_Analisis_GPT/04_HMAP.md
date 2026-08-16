@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **11.08.2026**.
-- Fuentes relevantes pendientes: **67**.
+- Corte documental disponible: **14.08.2026**.
+- Fuentes relevantes pendientes: **68**.
 - Fuentes mostradas: **12**.
+
+### 14.08.2026 — HMAP Coin: ¡nuevos paquetes — nuevos regalos!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **40**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/hmap-coin-nuevos-paquetes-nuevos-regalos).
+- Archivos locales: [01_Olympia/markdown/14-08-2026_hmap-coin-nuevos-paquetes-nuevos-regalos_e06d2154d388.md](../01_Olympia/markdown/14-08-2026_hmap-coin-nuevos-paquetes-nuevos-regalos_e06d2154d388.md).
+- Extracto relevante: Al adquirir 100 HMAP Coin o más, recibirá como regalo 10 HMAP Coin y 150 DOMINION Coin. Al adquirir 200 HMAP Coin o más, recibirá como regalo 15 HMAP Coin y 150 DOMINION Coin.
 
 ### 04.08.2026 — Farming de objetos de H-MAP Industries: guía paso a paso
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/26-06-2026_siempre-un-paso-adelante-configure-el-equilibrio-perfecto-de-sus-activos_310e874e9674.md](../02_GIG_OS/markdown/26-06-2026_siempre-un-paso-adelante-configure-el-equilibrio-perfecto-de-sus-activos_310e874e9674.md).
 - Extracto relevante: Con ella, puede intercambiar fácilmente sus INT Coin por DOMINION Coin y viceversa. De esta forma, aumenta la cantidad de monedas que más necesita para alcanzar sus objetivos actuales. Les recordamos que el farming de DOMINION Coin en la plataforma en línea de nuestro socio OLYMPIA-LAB finalizará el 15 de julio.
 
-### 20.06.2026 — Las oportunidades entran en tiempo extra: es momento de lograr nuevos resultados
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **11**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados).
-- Archivos locales: [01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md](../01_Olympia/markdown/20-06-2026_las-oportunidades-entran-en-tiempo-extra-es-momento-de-lograr-nuevos-resultados_7c915f6642fc.md).
-- Extracto relevante: Fifteen Force fortalece su negocio en dos direcciones al mismo tiempo: 20 PIN ya activados aumentan la eficiencia en H-MAP System y, además, proporcionan cupones preFactoryDX necesarios para la producción de fábricas de drones premium. El nuevo participante activa al menos 2 PIN en cualquiera de los sistemas H-MAP (la activación debe realizarse antes del 20 de agosto a las 12:00 CET).
-
-Se omitieron **55** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **56** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

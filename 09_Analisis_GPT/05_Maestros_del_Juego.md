@@ -39,9 +39,27 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **11.08.2026**.
-- Fuentes relevantes pendientes: **48**.
+- Corte documental disponible: **14.08.2026**.
+- Fuentes relevantes pendientes: **50**.
 - Fuentes mostradas: **12**.
+
+### 14.08.2026 — HMAP Coin: ¡nuevos paquetes — nuevos regalos!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/hmap-coin-nuevos-paquetes-nuevos-regalos).
+- Archivos locales: [01_Olympia/markdown/14-08-2026_hmap-coin-nuevos-paquetes-nuevos-regalos_e06d2154d388.md](../01_Olympia/markdown/14-08-2026_hmap-coin-nuevos-paquetes-nuevos-regalos_e06d2154d388.md).
+- Extracto relevante: Cada día se acerca más el 28 de agosto — el día de la presentación online y del lanzamiento del nuevo Gabinete de los Maestros del Juego. Con motivo de este importante acontecimiento, hemos preparado para ustedes una oferta especial para la adquisición de paquetes HMAP Coin.
+
+### 13.08.2026 — Trabajos técnicos en la oficina interna de los Maestros del Juego
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **15**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/trabajos-tecnicos-en-la-oficina-interna-de-los-maestros-del-juego).
+- Archivos locales: [01_Olympia/markdown/13-08-2026_trabajos-técnicos-en-la-oficina-interna-de-los-maestros-del-juego_c6dc6b832d12.md](../01_Olympia/markdown/13-08-2026_trabajos-técnicos-en-la-oficina-interna-de-los-maestros-del-juego_c6dc6b832d12.md).
+- Extracto relevante: Comenzamos los trabajos técnicos necesarios para el lanzamiento de la nueva oficina interna de los Maestros del Juego. DEL 14 AL 28 DE AGOSTO, LA OFICINA INTERNA DE LOS MAESTROS DEL JUEGO NO ESTARÁ DISPONIBLE.
 
 ### 11.08.2026 — ¡Conviértase en el primer propietario de una pulsera IA Silver!
 
@@ -133,25 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/09-07-2026_active-reex-miner-y-prepárese-para-minar-reex-coin_fab0768923ad.md](../01_Olympia/markdown/09-07-2026_active-reex-miner-y-prepárese-para-minar-reex-coin_fab0768923ad.md).
 - Extracto relevante: Puede enviarlo a la oficina interna de Maestro del Juego para colocarlo posteriormente en su parcela y minar REEX Coin. El 20 de agosto se lanzará la oficina interna de Maestros del Juego, que le permitirá colocar los REEX.MINERS activados en sus parcelas y comenzar a minar monedas.
 
-### 07.07.2026 — Refugio seguro: cómo sus Maestros del Juego personales fortalecen su negocio
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **15**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/refugio-seguro-como-sus-maestros-del-juego-personales-fortalecen-su-negocio).
-- Archivos locales: [01_Olympia/markdown/07-07-2026_refugio-seguro-cómo-sus-maestros-del-juego-personales-fortalecen-su-negocio_883c164e0b6c.md](../01_Olympia/markdown/07-07-2026_refugio-seguro-cómo-sus-maestros-del-juego-personales-fortalecen-su-negocio_883c164e0b6c.md).
-- Extracto relevante: Para un Creador de Mercado, el mercado personal de Maestros del Juego representa una póliza de seguro confiable frente a cualquier imprevisto. No necesita esperar que los Maestros del Juego se interesen por su producto. Simplemente no tienen otra opción, porque usted es su único proveedor. Además, volverán una y otra vez, ya que sus actividades requieren recursos.
-
-### 02.07.2026 — ¿Cómo crear una red de fábricas de drones premium en dos pasos?
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **4**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-crear-una-red-de-fabricas-de-drones-premium-en-dos-pasos).
-- Archivos locales: [01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md](../01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md).
-- Extracto relevante: Como ya sabe, hemos empezado a crear un mercado global para los Maestros del Juego. El mercado donde desempeñará un papel de liderazgo como productores de objetos importantes y valiosos. Comenzamos a formar las herramientas de Factory.MASTER a partir de ellas, ya que se convertirá en el objeto de mayor interés tanto por parte de los jugadores como de los Maestros del Juego.
-
-Se omitieron **36** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **38** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
