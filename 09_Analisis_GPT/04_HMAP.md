@@ -38,9 +38,27 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **14.08.2026**.
-- Fuentes relevantes pendientes: **68**.
+- Corte documental disponible: **20.08.2026**.
+- Fuentes relevantes pendientes: **70**.
 - Fuentes mostradas: **12**.
+
+### 20.08.2026 — Reciba INT Coin en H-MAP System hasta el 5 de noviembre
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **13**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/reciba-int-coin-en-h-map-system-hasta-el-5-de-noviembre).
+- Archivos locales: [01_Olympia/markdown/20-08-2026_reciba-int-coin-en-h-map-system-hasta-el-5-de-noviembre_c22618c14e84.md](../01_Olympia/markdown/20-08-2026_reciba-int-coin-en-h-map-system-hasta-el-5-de-noviembre_c22618c14e84.md).
+- Extracto relevante: La posibilidad de recibir INT Coin por combinaciones en H-MAP.9 y H-MAP.7PRO se ha ampliado hasta el 5 de noviembre de 2026. Asimismo, le recordamos que puede utilizar una parte de los INT Coin obtenidos en INTERA SWAP para cambiarlos por DOMINION Coin. Es una excelente manera de crear una reserva equilibrada de ambas monedas, que desempeñan funciones importantes dentro del ecosistema.
+
+### 18.08.2026 — ¡Faltan 10 días para la presentación online!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **12**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/faltan-10-dias-para-la-presentacion-online).
+- Archivos locales: [01_Olympia/markdown/18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad.md](../01_Olympia/markdown/18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad.md).
+- Extracto relevante: Los nuevos participantes que se registren hasta el 28 de agosto reciben 1 token 7PT y un token 9PT. Si durante este período activan 2 PIN en cualquiera de los sistemas H-MAP, el Creador de Mercado que los invitó recibirá 3 GAMEGOS Coin por cada participante. cada PIN activado de 7PT o 9PT le otorgará 0,5 GAMEGOS Coin como regalo;
 
 ### 14.08.2026 — HMAP Coin: ¡nuevos paquetes — nuevos regalos!
 
@@ -132,25 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md](../01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md).
 - Extracto relevante: Comience a construir fábricas de drones premium Factory.DroneX ahora y prepárase con anticipación para la producción en masa. Todos los PINs activados antes del 15 de julio le darán los cupones preFactoryDX necesarios para crear una fábrica. La respuesta es simple: use la oferta de Fifteen Force. Cada paquete especial 7PT, 9PT o 7PT.PRO contiene 20 PINs ya activados. Eso significa que le da instantáneamente al menos 20 cupones. Esto ya es una verdadera red de fábricas en el mundo de Legends of Interactions.
 
-### 30.06.2026 — La comunidad crece: ¡gane premios junto con sus nuevos miembros!
-
-- Señal documental: **crecimiento o adopción**.
-- Relevancia automática: **4**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros).
-- Archivos locales: [01_Olympia/markdown/30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b.md](../01_Olympia/markdown/30-06-2026_la-comunidad-crece-gane-premios-junto-con-sus-nuevos-miembros_a8e01dc6751b.md).
-- Extracto relevante: Si activan dos PIN en cualquier sistema H-MAP durante este período, el Creador de Mercado que los invitó recibirá 3 GAMEGOS Coin por cada participante. Su actividad le reportará beneficios inmediatos. GAMEGOS Coin que recibe como premio, son nuevos orbes, nuevas HEXA Coin y nuevas fábricas de drones premium. ¡Gestiona sus monedas como mejor le convenga!
-
-### 26.06.2026 — Siempre un paso adelante: configure el equilibrio perfecto de sus activos
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **6**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/siempre-un-paso-adelante-configure-el-equilibrio-perfecto-de-sus-activos).
-- Archivos locales: [02_GIG_OS/markdown/26-06-2026_siempre-un-paso-adelante-configure-el-equilibrio-perfecto-de-sus-activos_310e874e9674.md](../02_GIG_OS/markdown/26-06-2026_siempre-un-paso-adelante-configure-el-equilibrio-perfecto-de-sus-activos_310e874e9674.md).
-- Extracto relevante: Con ella, puede intercambiar fácilmente sus INT Coin por DOMINION Coin y viceversa. De esta forma, aumenta la cantidad de monedas que más necesita para alcanzar sus objetivos actuales. Les recordamos que el farming de DOMINION Coin en la plataforma en línea de nuestro socio OLYMPIA-LAB finalizará el 15 de julio.
-
-Se omitieron **56** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **58** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

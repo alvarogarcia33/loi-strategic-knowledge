@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_c1726edc1bad",
+  "platform": "olympia",
+  "title": "¡Faltan 10 días para la presentación online!",
+  "date": "18.08.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/faltan-10-dias-para-la-presentacion-online",
+  "canonical_url": "https://olympia-lab.com/es/news/post/faltan-10-dias-para-la-presentacion-online",
+  "content_hash": "dfa0a4012cad452a953ea5661cee264256d79e0367a7b0114380ece4a1efe7f2",
+  "url_hash": "9e4b90c518e7fb4b2585e70e02c2be54aa0bc72f214b8e117a1fb007c1bbd15a",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/58/ab/19/9f/e0/58ab199fe09647144377261d88a6b1de.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/8c/8f/74/d7/e4/8c8f74d7e4a8ec3a906a6b48f0628c26_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/83/79/d0/a6/228379d0a6f79839b07279d8a272363b_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/6e/40/33/79/4a/6e4033794ae6677f48a5ed2dd6303cdf_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/c8/4f/c3/e8/96/c84fc3e89641e2b2d31982fd70481f90_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/fd/90/04/7e/45/fd90047e45d5e5a9490810d56ad1fa43_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-20T11:47:33.158188-03:00",
+  "status": "downloaded"
+}

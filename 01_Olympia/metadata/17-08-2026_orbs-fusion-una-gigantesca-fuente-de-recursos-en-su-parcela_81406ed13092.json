@@ -1,0 +1,81 @@
+{
+  "article_uid": "olympia_81406ed13092",
+  "platform": "olympia",
+  "title": "Orbs Fusion: una gigantesca fuente de recursos en su parcela",
+  "date": "17.08.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela",
+  "canonical_url": "https://olympia-lab.com/es/news/post/orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela",
+  "content_hash": "51eb36cca8bfe3be5d7f8b8ab51dc3b2a0b951266e4fc3fd26920d065c8ecb20",
+  "url_hash": "c0ac25acec12c21a7ecc0873d8ae152ff93b6ee449c47a241d3ba66e55c8a1ef",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/22/83/79/d0/a6/228379d0a6f79839b07279d8a272363b.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/c0/63/c4/b3/c3/c063c4b3c30216a2b58a930eab95dc45.png",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092\\image_02.png",
+      "filename": "image_02.png",
+      "content_type": "image/png",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ad/da/55/55/c2/adda5555c232189a193f78a88923f64a.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/8c/8f/74/d7/e4/8c8f74d7e4a8ec3a906a6b48f0628c26_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/ab/19/9f/e0/58ab199fe09647144377261d88a6b1de_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/6e/40/33/79/4a/6e4033794ae6677f48a5ed2dd6303cdf_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/c8/4f/c3/e8/96/c84fc3e89641e2b2d31982fd70481f90_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/fd/90/04/7e/45/fd90047e45d5e5a9490810d56ad1fa43_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092\\image_08.jpg",
+      "filename": "image_08.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-20T11:47:40.267102-03:00",
+  "status": "downloaded"
+}

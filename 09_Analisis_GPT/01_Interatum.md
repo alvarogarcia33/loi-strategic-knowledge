@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **14.08.2026**.
-- Fuentes relevantes pendientes: **52**.
+- Corte documental disponible: **20.08.2026**.
+- Fuentes relevantes pendientes: **53**.
 - Fuentes mostradas: **12**.
+
+### 20.08.2026 — Reciba INT Coin en H-MAP System hasta el 5 de noviembre
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **12**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/reciba-int-coin-en-h-map-system-hasta-el-5-de-noviembre).
+- Archivos locales: [01_Olympia/markdown/20-08-2026_reciba-int-coin-en-h-map-system-hasta-el-5-de-noviembre_c22618c14e84.md](../01_Olympia/markdown/20-08-2026_reciba-int-coin-en-h-map-system-hasta-el-5-de-noviembre_c22618c14e84.md).
+- Extracto relevante: La posibilidad de recibir INT Coin por combinaciones en H-MAP.9 y H-MAP.7PRO se ha ampliado hasta el 5 de noviembre de 2026. Asimismo, le recordamos que puede utilizar una parte de los INT Coin obtenidos en INTERA SWAP para cambiarlos por DOMINION Coin. Es una excelente manera de crear una reserva equilibrada de ambas monedas, que desempeñan funciones importantes dentro del ecosistema.
 
 ### 10.08.2026 — INT Coin: el motor de su éxito en Interatum
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/29-04-2026_intera-swap-premiamos-al-siguiente-participante_6b233f651b21.md](../02_GIG_OS/markdown/29-04-2026_intera-swap-premiamos-al-siguiente-participante_6b233f651b21.md).
 - Extracto relevante: El premio en forma de HMAP Coin, INT Coin y DOMINION Coin ya se ha acreditado en la cartera digital del participante. ¡Enhorabuena y le deseamos mucho éxito en el desarrollo de su negocio y en la acumulación de activos! Le recordamos: el premio lo obtiene el usuario que haya intercambiado la mayor cantidad de INT Coin durante los últimos 7 días.
 
-### 28.04.2026 — El papel del Interaction Alphabet en el Marketplace de INTERATUM
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **14**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/el-papel-del-interaction-alphabet-en-el-marketplace-de-interatum-0188).
-- Archivos locales: [02_GIG_OS/markdown/28-04-2026_el-papel-del-interaction-alphabet-en-el-marketplace-de-interatum_c7431e6a7dca.md](../02_GIG_OS/markdown/28-04-2026_el-papel-del-interaction-alphabet-en-el-marketplace-de-interatum_c7431e6a7dca.md).
-- Extracto relevante: Continuamos nuestra serie de artículos sobre el mercado moderno de servicios y el innovador modelo de marketplace que ofrece INTERATUM. Para que el servicio requerido sea fácil de encontrar, es necesario describirlo correctamente. Los marketplaces intentan crear un sistema de categorías donde cada servicio — desde sustituir un enchufe eléctrico hasta una clase de yoga — tenga una descripción clara, un precio y especificaciones. Esto debería simplificar la elección y reducir la incertidumbre.
-
-Se omitieron **40** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **41** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

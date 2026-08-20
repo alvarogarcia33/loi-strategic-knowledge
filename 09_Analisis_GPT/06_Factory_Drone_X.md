@@ -42,9 +42,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **14.08.2026**.
-- Fuentes relevantes pendientes: **7**.
-- Fuentes mostradas: **7**.
+- Corte documental disponible: **20.08.2026**.
+- Fuentes relevantes pendientes: **8**.
+- Fuentes mostradas: **8**.
+
+### 18.08.2026 — ¡Faltan 10 días para la presentación online!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/faltan-10-dias-para-la-presentacion-online).
+- Archivos locales: [01_Olympia/markdown/18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad.md](../01_Olympia/markdown/18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad.md).
+- Extracto relevante: El 28 de agosto a las 16:00 CEST les espera una presentación online de la nueva oficina interna de los Maestros del Juego. Hasta el 28 de agosto pueden crear Factory.DroneX utilizando los cupones preFactoryDX recibidos anteriormente. Los cupones no utilizados podrán utilizarse posteriormente de otra manera, de la que les informaremos más adelante.
 
 ### 05.08.2026 — ¡Factory.DroneX e INTERA SWAP ahora influyen en su carrera!
 

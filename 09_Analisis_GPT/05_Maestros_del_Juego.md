@@ -39,9 +39,27 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **14.08.2026**.
-- Fuentes relevantes pendientes: **50**.
+- Corte documental disponible: **20.08.2026**.
+- Fuentes relevantes pendientes: **52**.
 - Fuentes mostradas: **12**.
+
+### 18.08.2026 — ¡Faltan 10 días para la presentación online!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/faltan-10-dias-para-la-presentacion-online).
+- Archivos locales: [01_Olympia/markdown/18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad.md](../01_Olympia/markdown/18-08-2026_faltan-10-días-para-la-presentación-online_c1726edc1bad.md).
+- Extracto relevante: El 28 de agosto a las 16:00 CEST les espera una presentación online de la nueva oficina interna de los Maestros del Juego. En tan solo 10 días, el nuevo mundo de los Maestros del Juego les invitará a entrar en su territorio. ¡Comenzará el siguiente capítulo de Legends of Interactions, y ustedes serán sus coautores!
+
+### 17.08.2026 — Orbs Fusion: una gigantesca fuente de recursos en su parcela
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **6**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela).
+- Archivos locales: [01_Olympia/markdown/17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092.md](../01_Olympia/markdown/17-08-2026_orbs-fusion-una-gigantesca-fuente-de-recursos-en-su-parcela_81406ed13092.md).
+- Extracto relevante: Y esto no es ninguna fantasía. Los Maestros del Juego podrán crear estos orbes con las herramientas Orbs Fusion. Orbes rojos son los más generosos y proporcionan la mayor cantidad de recursos durante la interacción. Si se fusionan 12 de estos orbes, el jugador recibirá 60 unidades de recurso en una sola interacción, mientras que el Maestro del Juego recibirá 18.
 
 ### 14.08.2026 — HMAP Coin: ¡nuevos paquetes — nuevos regalos!
 
@@ -133,25 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md](../01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md).
 - Extracto relevante: ¡Felicitaciones a todos los que, gracias al farming, lograron acumular una importante reserva de monedas que desempeñará un papel central en la oficina interna de Maestros del Juego! Una gran cantidad de GAMEGOS Coin significa una gran cantidad de orbes, HEXA Coins y fábricas premium de drones. Esto garantiza que accederá al nuevo espacio de Maestros del Juego no con las manos vacías, sino con un valioso arsenal de recursos esenciales.
 
-### 13.07.2026 — Hacia grandes logros, ¡junto a un gran equipo!
-
-- Señal documental: **convergencia entre proyectos**.
-- Relevancia automática: **3**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/hacia-grandes-logros-junto-a-un-gran-equipo).
-- Archivos locales: [02_GIG_OS/markdown/13-07-2026_hacia-grandes-logros-junto-a-un-gran-equipo_979d523e274e.md](../02_GIG_OS/markdown/13-07-2026_hacia-grandes-logros-junto-a-un-gran-equipo_979d523e274e.md).
-- Extracto relevante: La nueva oficina interna de los Maestros del Juego se está preparando para su lanzamiento. El 20 de agosto abrirá sus puertas, marcando el inicio de una nueva era en la historia de Legends of Interactions y TerritoryX. Los resultados del trabajo del equipo internacional estarán disponibles para el público en general, y los Maestros del Juego podrán comenzar la primera etapa de monetización de sus tierras dentro del juego. Está en sus manos preparar con antelación un gran equipo, cuyos integrantes ocupen posiciones…
-
-### 09.07.2026 — Active REEX.MINER y prepárese para minar REEX Coin
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **3**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/active-reexminer-y-preparese-para-minar-reex-coin).
-- Archivos locales: [01_Olympia/markdown/09-07-2026_active-reex-miner-y-prepárese-para-minar-reex-coin_fab0768923ad.md](../01_Olympia/markdown/09-07-2026_active-reex-miner-y-prepárese-para-minar-reex-coin_fab0768923ad.md).
-- Extracto relevante: Puede enviarlo a la oficina interna de Maestro del Juego para colocarlo posteriormente en su parcela y minar REEX Coin. El 20 de agosto se lanzará la oficina interna de Maestros del Juego, que le permitirá colocar los REEX.MINERS activados en sus parcelas y comenzar a minar monedas.
-
-Se omitieron **38** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **40** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
