@@ -30,7 +30,8 @@ $action = New-ScheduledTaskAction `
     -Argument $arguments `
     -WorkingDirectory $PSScriptRoot
 
-$trigger = New-ScheduledTaskTrigger -Daily -At $triggerTime
+$dailyTrigger = New-ScheduledTaskTrigger -Daily -At $triggerTime
+$logonTrigger = New-ScheduledTaskTrigger -AtLogOn -User $currentUser
 $principal = New-ScheduledTaskPrincipal `
     -UserId $currentUser `
     -LogonType Interactive `
@@ -41,11 +42,13 @@ $settings = New-ScheduledTaskSettingsSet `
     -AllowStartIfOnBatteries `
     -DontStopIfGoingOnBatteries `
     -MultipleInstances IgnoreNew `
+    -RestartCount 3 `
+    -RestartInterval (New-TimeSpan -Minutes 10) `
     -ExecutionTimeLimit (New-TimeSpan -Hours 2)
 
 $task = New-ScheduledTask `
     -Action $action `
-    -Trigger $trigger `
+    -Trigger @($dailyTrigger, $logonTrigger) `
     -Principal $principal `
     -Settings $settings `
     -Description "Actualiza Olympia y GIG-OS, regenera dossiers estrategicos y sincroniza el repositorio privado de GitHub."
@@ -60,4 +63,5 @@ Write-Host "Nombre: $TaskName"
 Write-Host "Usuario: $currentUser"
 Write-Host "Estado: $($registered.State)"
 Write-Host "Proxima ejecucion: $($info.NextRunTime)"
+Write-Host "Disparadores: diario a las $DailyAt y al iniciar sesion"
 Write-Host "Ejecutor: $scriptPath"
