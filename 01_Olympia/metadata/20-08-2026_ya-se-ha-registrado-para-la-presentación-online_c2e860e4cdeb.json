@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_c2e860e4cdeb",
+  "platform": "olympia",
+  "title": "¿Ya se ha registrado para la presentación online?",
+  "date": "20.08.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/ya-se-ha-registrado-para-la-presentacion-online",
+  "canonical_url": "https://olympia-lab.com/es/news/post/ya-se-ha-registrado-para-la-presentacion-online",
+  "content_hash": "5d4406d59b0068ca42ac7506a5c19b98797714cde2459ffb1e5ddc8903a5a071",
+  "url_hash": "c20a88b24bd3d8acc7f9f4e922b48dbd41bfa48dc0036ba8275f13e51a51d207",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\20-08-2026_ya-se-ha-registrado-para-la-presentación-online_c2e860e4cdeb.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\20-08-2026_ya-se-ha-registrado-para-la-presentación-online_c2e860e4cdeb.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-08-2026_ya-se-ha-registrado-para-la-presentación-online_c2e860e4cdeb",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/e9/68/f3/37/c7/e968f337c7cb462af86de0de91e1ee70.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-08-2026_ya-se-ha-registrado-para-la-presentación-online_c2e860e4cdeb\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/8c/8f/74/d7/e4/8c8f74d7e4a8ec3a906a6b48f0628c26_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-08-2026_ya-se-ha-registrado-para-la-presentación-online_c2e860e4cdeb\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/ab/19/9f/e0/58ab199fe09647144377261d88a6b1de_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-08-2026_ya-se-ha-registrado-para-la-presentación-online_c2e860e4cdeb\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/83/79/d0/a6/228379d0a6f79839b07279d8a272363b_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-08-2026_ya-se-ha-registrado-para-la-presentación-online_c2e860e4cdeb\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/6e/40/33/79/4a/6e4033794ae6677f48a5ed2dd6303cdf_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-08-2026_ya-se-ha-registrado-para-la-presentación-online_c2e860e4cdeb\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/c8/4f/c3/e8/96/c84fc3e89641e2b2d31982fd70481f90_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\20-08-2026_ya-se-ha-registrado-para-la-presentación-online_c2e860e4cdeb\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-21T10:08:59.004999-03:00",
+  "status": "downloaded"
+}
