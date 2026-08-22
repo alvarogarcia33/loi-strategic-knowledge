@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **20.08.2026**.
-- Fuentes relevantes pendientes: **52**.
+- Corte documental disponible: **21.08.2026**.
+- Fuentes relevantes pendientes: **53**.
 - Fuentes mostradas: **12**.
+
+### 21.08.2026 — ¿Cómo convertir su terreno en un imán para los jugadores?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **7**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-convertir-su-terreno-en-un-iman-para-los-jugadores).
+- Archivos locales: [01_Olympia/markdown/21-08-2026_cómo-convertir-su-terreno-en-un-imán-para-los-jugadores_634269161348.md](../01_Olympia/markdown/21-08-2026_cómo-convertir-su-terreno-en-un-imán-para-los-jugadores_634269161348.md).
+- Extracto relevante: El factor clave para el éxito de los Maestros del Juego será su capacidad para atraer, involucrar y retener a los jugadores dentro de sus territorios. Y aquí es donde el Maestro del Juego, que dispone de dos objetos altamente eficaces, puede acudir en su ayuda:
 
 ### 18.08.2026 — ¡Faltan 10 días para la presentación online!
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md](../01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md).
 - Extracto relevante: GAMEGOS Coin, un recurso para la producción de objetos de juego demandados por los Maestros del Juego. DOMINION Coin, la moneda que desempeñará un papel central en la nueva oficina interna de los Maestros del Juego y en el proyecto TerritoryX.
 
-### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!
-
-- Señal documental: **cierre o finalización**.
-- Relevancia automática: **3**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades).
-- Archivos locales: [01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md](../01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md).
-- Extracto relevante: ¡Felicitaciones a todos los que, gracias al farming, lograron acumular una importante reserva de monedas que desempeñará un papel central en la oficina interna de Maestros del Juego! Una gran cantidad de GAMEGOS Coin significa una gran cantidad de orbes, HEXA Coins y fábricas premium de drones. Esto garantiza que accederá al nuevo espacio de Maestros del Juego no con las manos vacías, sino con un valioso arsenal de recursos esenciales.
-
-Se omitieron **40** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **41** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

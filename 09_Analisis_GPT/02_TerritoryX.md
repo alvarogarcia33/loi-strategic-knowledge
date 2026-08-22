@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **20.08.2026**.
-- Fuentes relevantes pendientes: **7**.
-- Fuentes mostradas: **7**.
+- Corte documental disponible: **21.08.2026**.
+- Fuentes relevantes pendientes: **8**.
+- Fuentes mostradas: **8**.
+
+### 21.08.2026 — ¿Cómo convertir su terreno en un imán para los jugadores?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-convertir-su-terreno-en-un-iman-para-los-jugadores).
+- Archivos locales: [01_Olympia/markdown/21-08-2026_cómo-convertir-su-terreno-en-un-imán-para-los-jugadores_634269161348.md](../01_Olympia/markdown/21-08-2026_cómo-convertir-su-terreno-en-un-imán-para-los-jugadores_634269161348.md).
+- Extracto relevante: El elevado tráfico en las parcelas aumentará directamente su valor, tanto en términos de su potencial de reventa futura como de su participación en TerritoryX. Por ejemplo, Hepta:miner3 puede ofrecerse como premio por interactuar con una determinada cantidad de orbes u objetos publicitarios de TerritoryX. También puede convertirse en uno de los artículos disponibles para el intercambio en el Exchange Point. Y, por supuesto, el dispositivo puede venderse directamente a los jugadores que deseen acelerar su progreso.
 
 ### 17.04.2026 — ¿Cómo conseguir 381 REEX Coin de su Asesor en la nueva oficina interna de Maestros de Juego?
 

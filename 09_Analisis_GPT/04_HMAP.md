@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **20.08.2026**.
-- Fuentes relevantes pendientes: **70**.
+- Corte documental disponible: **21.08.2026**.
+- Fuentes relevantes pendientes: **71**.
 - Fuentes mostradas: **12**.
+
+### 21.08.2026 — ¿Cómo convertir su terreno en un imán para los jugadores?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-convertir-su-terreno-en-un-iman-para-los-jugadores).
+- Archivos locales: [01_Olympia/markdown/21-08-2026_cómo-convertir-su-terreno-en-un-imán-para-los-jugadores_634269161348.md](../01_Olympia/markdown/21-08-2026_cómo-convertir-su-terreno-en-un-imán-para-los-jugadores_634269161348.md).
+- Extracto relevante: El factor clave para el éxito de los Maestros del Juego será su capacidad para atraer, involucrar y retener a los jugadores dentro de sus territorios. Ambos objetos ya están disponibles para su creación en H-MAP Industries. Si dispone de al menos un PIN TOKEN, puede comenzar inmediatamente a farmear Hepta:booster y Hepta:miner3.
 
 ### 20.08.2026 — Reciba INT Coin en H-MAP System hasta el 5 de noviembre
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md](../01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md).
 - Extracto relevante: Puede recibir INT Coin por las combinaciones en H-MAP.9 y H-MAP.7PRO solo hasta el 20 de agosto. H-MAP.9: por las combinaciones completadas, recibirá la misma cantidad de INT Coin que anteriormente se acreditaba en DOMINION Coin;
 
-### 02.07.2026 — ¿Cómo crear una red de fábricas de drones premium en dos pasos?
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **3**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-crear-una-red-de-fabricas-de-drones-premium-en-dos-pasos).
-- Archivos locales: [01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md](../01_Olympia/markdown/02-07-2026_cómo-crear-una-red-de-fábricas-de-drones-premium-en-dos-pasos_71176cbc7668.md).
-- Extracto relevante: Comience a construir fábricas de drones premium Factory.DroneX ahora y prepárase con anticipación para la producción en masa. Todos los PINs activados antes del 15 de julio le darán los cupones preFactoryDX necesarios para crear una fábrica. La respuesta es simple: use la oferta de Fifteen Force. Cada paquete especial 7PT, 9PT o 7PT.PRO contiene 20 PINs ya activados. Eso significa que le da instantáneamente al menos 20 cupones. Esto ya es una verdadera red de fábricas en el mundo de Legends of Interactions.
-
-Se omitieron **58** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **59** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
