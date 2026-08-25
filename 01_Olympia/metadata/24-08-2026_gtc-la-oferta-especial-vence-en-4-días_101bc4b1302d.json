@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_101bc4b1302d",
+  "platform": "olympia",
+  "title": "GTC: ¡la oferta especial vence en 4 días!",
+  "date": "24.08.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/gtc-la-oferta-especial-vence-en-4-dias",
+  "canonical_url": "https://olympia-lab.com/es/news/post/gtc-la-oferta-especial-vence-en-4-dias",
+  "content_hash": "d96af209a045df115258b4f20fc3b3fab15e57299d521272854a0b0a40e9fd0f",
+  "url_hash": "360385903abf622c6df085f76d68f81e12a1c58889f5f8a90b53d0e6ab0deb50",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\24-08-2026_gtc-la-oferta-especial-vence-en-4-días_101bc4b1302d.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\24-08-2026_gtc-la-oferta-especial-vence-en-4-días_101bc4b1302d.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\24-08-2026_gtc-la-oferta-especial-vence-en-4-días_101bc4b1302d",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/bf/3a/96/32/8c/bf3a96328c704248fe5986ec711d6ed9.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\24-08-2026_gtc-la-oferta-especial-vence-en-4-días_101bc4b1302d\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ec/ce/3b/66/f1/ecce3b66f147ac71438cefca6d331612_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\24-08-2026_gtc-la-oferta-especial-vence-en-4-días_101bc4b1302d\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/e9/68/f3/37/c7/e968f337c7cb462af86de0de91e1ee70_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\24-08-2026_gtc-la-oferta-especial-vence-en-4-días_101bc4b1302d\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/8c/8f/74/d7/e4/8c8f74d7e4a8ec3a906a6b48f0628c26_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\24-08-2026_gtc-la-oferta-especial-vence-en-4-días_101bc4b1302d\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/ab/19/9f/e0/58ab199fe09647144377261d88a6b1de_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\24-08-2026_gtc-la-oferta-especial-vence-en-4-días_101bc4b1302d\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/22/83/79/d0/a6/228379d0a6f79839b07279d8a272363b_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\24-08-2026_gtc-la-oferta-especial-vence-en-4-días_101bc4b1302d\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-25T13:31:51.207335-03:00",
+  "status": "downloaded"
+}
