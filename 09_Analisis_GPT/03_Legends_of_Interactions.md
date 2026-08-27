@@ -41,9 +41,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **24.08.2026**.
-- Fuentes relevantes pendientes: **69**.
+- Corte documental disponible: **26.08.2026**.
+- Fuentes relevantes pendientes: **70**.
 - Fuentes mostradas: **12**.
+
+### 26.08.2026 — Video ORB: la publicidad en su máxima expresión en Legends of Interactions
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **11**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/video-orb-la-publicidad-en-su-maxima-expresion-en-legends-of-interactions).
+- Archivos locales: [01_Olympia/markdown/26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6.md](../01_Olympia/markdown/26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6.md).
+- Extracto relevante: Es bien sabido que el vídeo es el formato publicitario perfecto. Incluso un clip breve de apenas unos segundos puede mostrar las ventajas de un producto mejor que cualquier palabra. En Legends of Interactions, los Maestros del Juego tendrán su propia forma de atraer la atención de los jugadores mediante imágenes llamativas y memorables. Esta oportunidad será posible gracias a un orbe publicitario especial: Video ORB.
 
 ### 11.08.2026 — ¡Conviértase en el primer propietario de una pulsera IA Silver!
 
@@ -144,16 +153,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md](../02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md).
 - Extracto relevante: Dos monedas: INT Coin y DOMINION Coin. Los dos principales activos dentro de los tres proyectos clave del ecosistema Global Metaverse: el Marketplace de servicios INTERATUM, el ecosistema de juegos Legends of Interactions y TerritoryX, una plataforma que transforma la tierra en un recurso. La tercera: mediante el desarrollo y la promoción de una herramienta DeFi-DEX estable, INTERA SWAP, comenzaremos a dar a conocer al público externo los principales activos del ecosistema Global Metaverse. El primer par ya ha…
 
-### 20.03.2026 — H-MAP System como franquicia
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **2**.
-- Plataformas: GIG-OS, Olympia.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/h-map-system-como-franquicia-0176), [Olympia](https://olympia-lab.com/es/news/post/h-map-system-como-franquicia-0171).
-- Archivos locales: [02_GIG_OS/markdown/20-03-2026_h-map-system-como-franquicia_9840ab55f5f6.md](../02_GIG_OS/markdown/20-03-2026_h-map-system-como-franquicia_9840ab55f5f6.md), [01_Olympia/markdown/20-03-2026_h-map-system-como-franquicia_14e4aea0bdec.md](../01_Olympia/markdown/20-03-2026_h-map-system-como-franquicia_14e4aea0bdec.md).
-- Extracto relevante: Produce → comercializa → vende a los Maestros a través de Legends of Interactions, Marketplace y TerritoryX → genera facturación y ganancias. En resumen: H-MAP es una franquicia de producción de recursos para los ecosistemas de Legends of Interactions y TerritoryX.
-
-Se omitieron **57** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **58** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

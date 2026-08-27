@@ -1,0 +1,89 @@
+{
+  "article_uid": "olympia_10216b64f9b6",
+  "platform": "olympia",
+  "title": "Video ORB: la publicidad en su máxima expresión en Legends of Interactions",
+  "date": "26.08.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/video-orb-la-publicidad-en-su-maxima-expresion-en-legends-of-interactions",
+  "canonical_url": "https://olympia-lab.com/es/news/post/video-orb-la-publicidad-en-su-maxima-expresion-en-legends-of-interactions",
+  "content_hash": "46c5ceb420d56042efbe3e4edff7d6f21fdb005c9ac0cbd4943d9e27dc1e95d7",
+  "url_hash": "246f9e64ae2cbc2574dac44cd07d89e617cdb6300b2492082df0f42286f638e2",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/d0/f0/1d/68/2b/d0f01d682b8a9b44efc7da1347c49552.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/5c/44/c7/89/9b/5c44c7899b76f9d2c75b783d1c791a87.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/8e/8c/69/b8/92/8e8c69b8921058a0856fd22288087f80.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/2c/5f/80/7c/30/2c5f807c30211ea6d8349c607488cd84.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/bf/3a/96/32/8c/bf3a96328c704248fe5986ec711d6ed9_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ec/ce/3b/66/f1/ecce3b66f147ac71438cefca6d331612_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/e9/68/f3/37/c7/e968f337c7cb462af86de0de91e1ee70_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/8c/8f/74/d7/e4/8c8f74d7e4a8ec3a906a6b48f0628c26_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6\\image_08.jpg",
+      "filename": "image_08.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/58/ab/19/9f/e0/58ab199fe09647144377261d88a6b1de_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6\\image_09.jpg",
+      "filename": "image_09.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-27T14:41:13.292223-03:00",
+  "status": "downloaded"
+}

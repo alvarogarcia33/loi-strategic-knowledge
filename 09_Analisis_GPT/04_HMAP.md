@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **24.08.2026**.
-- Fuentes relevantes pendientes: **71**.
+- Corte documental disponible: **26.08.2026**.
+- Fuentes relevantes pendientes: **72**.
 - Fuentes mostradas: **12**.
+
+### 26.08.2026 — Video ORB: la publicidad en su máxima expresión en Legends of Interactions
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/video-orb-la-publicidad-en-su-maxima-expresion-en-legends-of-interactions).
+- Archivos locales: [01_Olympia/markdown/26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6.md](../01_Olympia/markdown/26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6.md).
+- Extracto relevante: Es bien sabido que el vídeo es el formato publicitario perfecto. Incluso un clip breve de apenas unos segundos puede mostrar las ventajas de un producto mejor que cualquier palabra. Y si usted tiene al menos un PIN TOKEN, puede empezar a crear orbes de vídeo en H-MAP Industries ahora mismo.
 
 ### 21.08.2026 — ¿Cómo convertir su terreno en un imán para los jugadores?
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_b5b5e2375303.md](../02_GIG_OS/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_b5b5e2375303.md), [01_Olympia/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_833d450003b9.md](../01_Olympia/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_833d450003b9.md).
 - Extracto relevante: Una vez que DOMINION Coin se convierta en la moneda principal de la oficina interna de Maestros del Juego, su demanda aumentará aún más. Si usted tiene previsto obtener DOMINION Coin en un futuro próximo, ahora es el mejor momento para hacerlo. Después de completar 10 o más transacciones de intercambio, usted podrá recibir el 10 % de las comisiones pagadas en forma de HMAP Coin.
 
-### 15.07.2026 — La fase de farming de DOMINION Coin ha finalizado. ¡Nuevas oportunidades ya están en marcha!
-
-- Señal documental: **cierre o finalización**.
-- Relevancia automática: **30**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades).
-- Archivos locales: [01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md](../01_Olympia/markdown/15-07-2026_la-fase-de-farming-de-dominion-coin-ha-finalizado-nuevas-oportunidades-ya-están-_53c1baa23c97.md).
-- Extracto relevante: Puede recibir INT Coin por las combinaciones en H-MAP.9 y H-MAP.7PRO solo hasta el 20 de agosto. H-MAP.9: por las combinaciones completadas, recibirá la misma cantidad de INT Coin que anteriormente se acreditaba en DOMINION Coin;
-
-Se omitieron **59** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **60** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

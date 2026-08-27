@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **24.08.2026**.
-- Fuentes relevantes pendientes: **53**.
+- Corte documental disponible: **26.08.2026**.
+- Fuentes relevantes pendientes: **54**.
 - Fuentes mostradas: **12**.
+
+### 26.08.2026 — Video ORB: la publicidad en su máxima expresión en Legends of Interactions
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **5**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/video-orb-la-publicidad-en-su-maxima-expresion-en-legends-of-interactions).
+- Archivos locales: [01_Olympia/markdown/26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6.md](../01_Olympia/markdown/26-08-2026_video-orb-la-publicidad-en-su-máxima-expresión-en-legends-of-interactions_10216b64f9b6.md).
+- Extracto relevante: En Legends of Interactions, los Maestros del Juego tendrán su propia forma de atraer la atención de los jugadores mediante imágenes llamativas y memorables. Esta oportunidad será posible gracias a un orbe publicitario especial: Video ORB. Así, después de interactuar con el orbe, el jugador se dirige allí para disfrutar de un delicioso helado. Al mismo tiempo, se generan ingresos tanto para el establecimiento como para el Maestro del Juego que tiene un contrato con él.
 
 ### 21.08.2026 — ¿Cómo convertir su terreno en un imán para los jugadores?
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21.md](../01_Olympia/markdown/23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21.md).
 - Extracto relevante: Se acerca el momento decisivo: el lanzamiento de la nueva oficina interna de los Maestros del Juego. Por lo tanto, por favor asegúrase de que su cuenta de Maestro del Juego esté conectada con OLYMPIA-LAB.
 
-### 21.07.2026 — MARKET LEVEL UP: comience a construir su carrera como TOP Creador de Mercado
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **4**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado).
-- Archivos locales: [01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md](../01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md).
-- Extracto relevante: GAMEGOS Coin, un recurso para la producción de objetos de juego demandados por los Maestros del Juego. DOMINION Coin, la moneda que desempeñará un papel central en la nueva oficina interna de los Maestros del Juego y en el proyecto TerritoryX.
-
-Se omitieron **41** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **42** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
