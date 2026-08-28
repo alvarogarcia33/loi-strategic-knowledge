@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **26.08.2026**.
-- Fuentes relevantes pendientes: **54**.
+- Corte documental disponible: **28.08.2026**.
+- Fuentes relevantes pendientes: **55**.
 - Fuentes mostradas: **12**.
+
+### 28.08.2026 — ¡La nueva oficina interna de los Maestros del Juego ha abierto sus puertas!
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **25**.
+- Plataformas: GIG-OS, Olympia.
+- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas), [Olympia](https://olympia-lab.com/es/news/post/la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas).
+- Archivos locales: [02_GIG_OS/markdown/28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_bf451f255bc8.md](../02_GIG_OS/markdown/28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_bf451f255bc8.md), [01_Olympia/markdown/28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_346bd261933c.md](../01_Olympia/markdown/28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_346bd261933c.md).
+- Extracto relevante: ¡SE HA CELEBRADO EL LANZAMIENTO OFICIAL DE LA NUEVA OFICINA INTERNA DE LOS MAESTROS DEL JUEGO! Un 1GM permite solicitar el registro de un Maestro del Juego. Los participantes del programa pueden encontrar estos tokens en la sección «Recursos» de Olympia-lab. Los tokens deben transferirse a su oficina interna de los Maestros del Juego, donde podrán utilizarse en la sección 4MM.
 
 ### 26.08.2026 — Video ORB: la publicidad en su máxima expresión en Legends of Interactions
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/24-07-2026_interatum-y-la-nueva-era-de-maestros-del-juego-qué-los-une_44d0c6034bc7.md](../02_GIG_OS/markdown/24-07-2026_interatum-y-la-nueva-era-de-maestros-del-juego-qué-los-une_44d0c6034bc7.md).
 - Extracto relevante: Si ha estado siguiendo las novedades en la plataforma en línea de nuestros socios, Olympia-lab, ya sabe que una nueva era de Maestros del Juego está a punto de comenzar. El mundo de Legends of Interactions se prepara de forma constante para recibir, en un futuro próximo, a un gran número de personas interesadas en su modelo de negocio único. Llegarán a INTERATUM porque sabrán que el ecosistema ofrece oportunidades que realmente funcionan y generan resultados. Por ello, lo que está ocurriendo ahora en el espacio de…
 
-### 23.07.2026 — Conecte su cuenta de Maestro del Juego a Olympia-lab
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **13**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab).
-- Archivos locales: [01_Olympia/markdown/23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21.md](../01_Olympia/markdown/23-07-2026_conecte-su-cuenta-de-maestro-del-juego-a-olympia-lab_f48aec375b21.md).
-- Extracto relevante: Se acerca el momento decisivo: el lanzamiento de la nueva oficina interna de los Maestros del Juego. Por lo tanto, por favor asegúrase de que su cuenta de Maestro del Juego esté conectada con OLYMPIA-LAB.
-
-Se omitieron **42** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **43** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

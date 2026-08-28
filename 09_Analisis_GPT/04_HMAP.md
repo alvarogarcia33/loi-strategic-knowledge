@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **26.08.2026**.
-- Fuentes relevantes pendientes: **72**.
+- Corte documental disponible: **28.08.2026**.
+- Fuentes relevantes pendientes: **73**.
 - Fuentes mostradas: **12**.
+
+### 28.08.2026 — ¡La nueva oficina interna de los Maestros del Juego ha abierto sus puertas!
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **5**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas).
+- Archivos locales: [01_Olympia/markdown/28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_346bd261933c.md](../01_Olympia/markdown/28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_346bd261933c.md).
+- Extracto relevante: A partir de hoy, todo lo que ofrece la oficina interna de los Maestros del Juego podrá adquirirse únicamente con DOMINION Coin. Esto incluye distintas suscripciones, boosters y upgrades. Esto significa que ustedes, los Creadores de Mercado, pueden convertirse en proveedores de DOMINION Coin para sus Maestros del Juego y venderles monedas en condiciones mutuamente beneficiosas.
 
 ### 26.08.2026 — Video ORB: la publicidad en su máxima expresión en Legends of Interactions
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md](../01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md).
 - Extracto relevante: Como renumeración por las operaciones realizadas en su estructura, se acreditan HMAP Coin, el activo operativo del Creador de Mercado, sin la cual es imposible desarrollar la actividad en H-MAP System. El Creador de Mercado que complete los 12 niveles de la carrera podrá recibir más de 100.000 HMAP Coin, 3.000 GAMEGOS Coin, 2.000 DOMINION Coin y 2.400 Maestros del Juego personales.
 
-### 17.07.2026 — INTERA SWAP: es el momento de tomar decisiones rápidas
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **7**.
-- Plataformas: GIG-OS, Olympia.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-es-el-momento-de-tomar-decisiones-rapidas), [Olympia](https://olympia-lab.com/es/news/post/intera-swap-es-el-momento-de-tomar-decisiones-rapidas).
-- Archivos locales: [02_GIG_OS/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_b5b5e2375303.md](../02_GIG_OS/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_b5b5e2375303.md), [01_Olympia/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_833d450003b9.md](../01_Olympia/markdown/17-07-2026_intera-swap-es-el-momento-de-tomar-decisiones-rápidas_833d450003b9.md).
-- Extracto relevante: Una vez que DOMINION Coin se convierta en la moneda principal de la oficina interna de Maestros del Juego, su demanda aumentará aún más. Si usted tiene previsto obtener DOMINION Coin en un futuro próximo, ahora es el mejor momento para hacerlo. Después de completar 10 o más transacciones de intercambio, usted podrá recibir el 10 % de las comisiones pagadas en forma de HMAP Coin.
-
-Se omitieron **60** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **61** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

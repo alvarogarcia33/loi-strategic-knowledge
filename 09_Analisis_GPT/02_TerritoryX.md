@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **26.08.2026**.
-- Fuentes relevantes pendientes: **8**.
-- Fuentes mostradas: **8**.
+- Corte documental disponible: **28.08.2026**.
+- Fuentes relevantes pendientes: **9**.
+- Fuentes mostradas: **9**.
+
+### 28.08.2026 — ¡La nueva oficina interna de los Maestros del Juego ha abierto sus puertas!
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas).
+- Archivos locales: [01_Olympia/markdown/28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_346bd261933c.md](../01_Olympia/markdown/28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_346bd261933c.md).
+- Extracto relevante: El lanzamiento de la plataforma de publicidad digital TerritoryX está previsto para marzo de 2027. Gracias a nuestro nuevo servicio cartográfico, TerritoryX ha adquirido posibilidades de uso únicas. Los Creadores de Mercado y los Maestros del Juego podrán participar en contratos publicitarios y descubrir una nueva fuente de ingresos.
 
 ### 21.08.2026 — ¿Cómo convertir su terreno en un imán para los jugadores?
 

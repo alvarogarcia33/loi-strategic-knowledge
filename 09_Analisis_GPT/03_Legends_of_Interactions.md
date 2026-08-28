@@ -41,9 +41,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **26.08.2026**.
-- Fuentes relevantes pendientes: **70**.
+- Corte documental disponible: **28.08.2026**.
+- Fuentes relevantes pendientes: **71**.
 - Fuentes mostradas: **12**.
+
+### 28.08.2026 — ¡La nueva oficina interna de los Maestros del Juego ha abierto sus puertas!
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas).
+- Archivos locales: [01_Olympia/markdown/28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_346bd261933c.md](../01_Olympia/markdown/28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_346bd261933c.md).
+- Extracto relevante: La transición al nuevo núcleo de software ha permitido convertir el mapa habitual en un espacio virtual completo. Los objetos del mundo de Legends of Interactions han adquirido volumen, han aparecido nuevas posibilidades de interacción con el entorno en tiempo real, y el alto nivel de detalle y el formato vectorial permiten explorar libremente el espacio desde distintos ángulos. En el universo de Legends of Interactions ha aparecido su primer habitante oficial. Se llama Sai.
 
 ### 26.08.2026 — Video ORB: la publicidad en su máxima expresión en Legends of Interactions
 
@@ -144,16 +153,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md](../01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md).
 - Extracto relevante: Las innovaciones en la nueva arquitectura de la oficina interna de los Maestros del Juego incluirán no solo visualizaciones que presenten la parte más importante de Legends of Interactions a través de ojos 3D, sino también aspectos importantes del ecosistema LOI, como tecnologías para el sector financiero, interacciones de comercio y comunicaciones. ¡Y eso no es todo! Cuando el mundo de Legends of Interactions comience a llenar con los jugadores, verá el «segundo nacimiento» de REEX.MINER. Por cada interacción del…
 
-### 16.04.2026 — INTERA SWAP: pool de intercambio de INT Coin y DOMINION Coin
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **6**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin-0185).
-- Archivos locales: [02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md](../02_GIG_OS/markdown/16-04-2026_intera-swap-pool-de-intercambio-de-int-coin-y-dominion-coin_cca3272faab9.md).
-- Extracto relevante: Dos monedas: INT Coin y DOMINION Coin. Los dos principales activos dentro de los tres proyectos clave del ecosistema Global Metaverse: el Marketplace de servicios INTERATUM, el ecosistema de juegos Legends of Interactions y TerritoryX, una plataforma que transforma la tierra en un recurso. La tercera: mediante el desarrollo y la promoción de una herramienta DeFi-DEX estable, INTERA SWAP, comenzaremos a dar a conocer al público externo los principales activos del ecosistema Global Metaverse. El primer par ya ha…
-
-Se omitieron **58** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **59** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

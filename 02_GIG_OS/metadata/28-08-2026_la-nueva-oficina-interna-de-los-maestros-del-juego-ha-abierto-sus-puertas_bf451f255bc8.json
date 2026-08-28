@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_bf451f255bc8",
+  "platform": "gig_os",
+  "title": "¡La nueva oficina interna de los Maestros del Juego ha abierto sus puertas!",
+  "date": "28.08.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas",
+  "content_hash": "8e59ed0152383efc25d7ef7cb50263eff2d56402c9c521557f161f0484c91d2c",
+  "url_hash": "013e441ad67d274b7df858f708d33214387d14d426bc99675ab4ffb9d80d38f1",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_bf451f255bc8.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_bf451f255bc8.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_bf451f255bc8",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9b/ee/9f/e8/42/9bee9fe842c7f9bee3a46dd916936867_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\28-08-2026_la-nueva-oficina-interna-de-los-maestros-del-juego-ha-abierto-sus-puertas_bf451f255bc8\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-08-28T14:26:09.931796-03:00",
+  "status": "downloaded"
+}
