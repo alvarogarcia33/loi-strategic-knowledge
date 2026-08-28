@@ -537,21 +537,96 @@ No. Las fuentes describen funciones, planes y oportunidades potenciales. La adop
 
 Usar este documento para crear una presentación visual de entre 14 y 17 diapositivas.
 
-## Estilo deseado
+## Identidad visual obligatoria
 
-- tono positivo, claro y profesional;
-- lenguaje sencillo para personas que recién conocen el ecosistema;
-- poco texto por diapositiva;
-- diagramas de flujo, líneas de tiempo, íconos y mapas;
-- paleta azul oscuro, cian y dorado;
-- una idea principal por diapositiva;
-- destacar fechas y palabras clave;
-- mantener separados hechos confirmados y proyecciones potenciales;
-- evitar afirmaciones de rentabilidad garantizada.
+La presentación debe tomar como referencia principal las dos imágenes oficiales de Sai incluidas como fuentes visuales:
 
-## Prompt sugerido para NotebookLM
+- `01_sai_bienvenidos_apertura_oficina.jpg`;
+- `02_sai_ciudad_futurista.jpg`.
 
-> Crea una presentación de capacitación en español basada en este documento. El público conoce parcialmente Olympia-lab, H-MAP y Legends of Interactions, pero necesita entender cómo se conectan. Resume cada bloque con títulos breves, máximo cinco puntos por diapositiva y explicaciones visuales. Incluye un diagrama del ecosistema, un flujo de monedas y recursos, una línea de tiempo y un circuito de crecimiento. Mantén un tono positivo y orientado al potencial futuro, pero distingue claramente entre funciones disponibles, lanzamientos anunciados y proyecciones condicionadas. Termina con acciones prácticas y una conclusión inspiradora.
+La estética debe parecer parte del mismo universo visual que esas fotografías:
+
+- ciudad futurista luminosa y habitable;
+- arquitectura tecnológica de formas curvas;
+- profundidad cinematográfica y sensación de gran escala;
+- superficies metálicas con reflejos suaves;
+- luz dorada cálida combinada con tecnología azul y cian;
+- presencia puntual de vegetación para transmitir un futuro vivo, no frío;
+- fondos ricos en ambiente, pero con áreas limpias para leer el texto;
+- equilibrio entre innovación, optimismo, humanidad y expansión.
+
+### Paleta recomendada
+
+- azul noche profundo: `#071722`;
+- azul petróleo: `#173A4B`;
+- cian tecnológico: `#28B8DD`;
+- azul luminoso: `#76D5F2`;
+- dorado principal: `#D79A32`;
+- dorado claro: `#F2C25B`;
+- marfil del traje de Sai: `#E5DED0`;
+- verde natural de apoyo: `#4F7458`;
+- blanco suave para texto: `#F4F7F8`.
+
+### Composición recomendada
+
+- formato panorámico 16:9;
+- imagen dominante ocupando entre 55 % y 75 % de la diapositiva;
+- títulos grandes, breves y con fuerte contraste;
+- máximo 30 a 40 palabras visibles por diapositiva;
+- paneles de texto oscuros, translúcidos y discretos cuando sean necesarios;
+- degradados suaves sobre las fotografías para asegurar legibilidad;
+- diagramas simples integrados en el paisaje visual;
+- una idea central por diapositiva;
+- alternar escenas oscuras e interiores con escenas luminosas de ciudad;
+- usar dorado para hitos, oportunidades y fechas clave;
+- usar cian para tecnología, conexiones, flujos y funciones activas.
+
+### Lo que debe evitarse
+
+- no repetir un marco HUD rígido alrededor de todas las diapositivas;
+- no convertir toda la presentación en un tablero técnico oscuro;
+- no usar cajas, bordes y circuitos decorativos en exceso;
+- no llenar las diapositivas de texto pequeño;
+- no reemplazar las fotografías oficiales con personajes genéricos;
+- no inventar monedas, logos, objetos o interfaces que no estén en las fuentes;
+- no usar estética cyberpunk agresiva, distópica o excesivamente oscura;
+- no usar imágenes genéricas cuando exista una imagen específica del elemento;
+- no tapar logos, nombres, monedas u objetos importantes presentes en una imagen fuente.
+
+## Regla de correspondencia entre tema e imagen
+
+Cuando entre las fuentes visuales exista una imagen identificada con el tema de una diapositiva, NotebookLM debe utilizar esa imagen exacta como recurso principal o secundario de esa diapositiva.
+
+Correspondencia requerida:
+
+| Tema de la diapositiva | Imagen que debe priorizarse |
+|---|---|
+| Apertura de la oficina y bienvenida | `01_sai_bienvenidos_apertura_oficina.jpg` |
+| Sai, expansión, comunidad y cierre | `02_sai_ciudad_futurista.jpg` |
+| Nuevo mapa y núcleo tecnológico | imagen fuente identificada como mapa vectorial u oficina |
+| Tiendas personales 4MM | imagen fuente de tienda personal o sección 4MM |
+| DOMINION Coin | imagen oficial de DOMINION Coin |
+| Token 1GM | imagen oficial del token 1GM |
+| REEX.MINER | imagen oficial de REEX.MINER |
+| TerritoryX | imagen oficial de TerritoryX o del mapa territorial |
+| Video ORB | imagen oficial de Video ORB |
+| Orbs Fusion | imagen oficial de Orbs Fusion |
+| ALL RESOURCES | imagen oficial del módulo o de recursos H-MAP |
+| FactoryLine | imagen oficial de FactoryLine o de sus fábricas |
+
+Si una fuente contiene texto importante dentro de la imagen, conservar su proporción y evitar recortes que eliminen información. Si no existe una imagen específica para un tema, utilizar una composición derivada de la ciudad futurista de Sai, sin inventar productos ni interfaces.
+
+## Prompt actualizado para NotebookLM
+
+> Crea una presentación de capacitación en español de entre 14 y 17 diapositivas basada en este documento y en todas las imágenes cargadas como fuentes. El público conoce parcialmente Olympia-lab, H-MAP y Legends of Interactions, pero necesita comprender de forma sencilla cómo se conectan sus componentes.
+>
+> La identidad visual debe derivarse directamente de las imágenes oficiales de Sai: una ciudad futurista luminosa, tecnológica y habitable, con arquitectura curva, profundidad cinematográfica, reflejos metálicos, vegetación, azul noche, azul petróleo, cian luminoso y dorado cálido. La presentación debe sentirse como una visita guiada por ese futuro, no como un tablero informático ni como una plantilla corporativa genérica.
+>
+> Usa `01_sai_bienvenidos_apertura_oficina.jpg` como imagen principal de la portada o apertura. Usa `02_sai_ciudad_futurista.jpg` para explicar a Sai, la expansión hacia el gran público o el cierre. Cuando exista una imagen fuente específica de DOMINION Coin, 1GM, REEX.MINER, TerritoryX, Video ORB, Orbs Fusion, ALL RESOURCES, H-MAP, tiendas 4MM o FactoryLine, utiliza esa imagen en la diapositiva que explica ese elemento. No la sustituyas por una ilustración genérica y no inventes representaciones nuevas del producto.
+>
+> Diseña cada diapositiva con una imagen dominante que ocupe entre el 55 % y el 75 % del espacio, títulos breves, máximo 30 a 40 palabras visibles y paneles translúcidos discretos cuando sean necesarios. Evita marcos HUD repetidos, exceso de cajas, circuitos decorativos, texto pequeño y fondos demasiado oscuros. Alterna escenas luminosas de ciudad con interiores tecnológicos y utiliza dorado para hitos y oportunidades, y cian para tecnología y conexiones.
+>
+> Incluye un diagrama sencillo del ecosistema, un flujo de monedas y recursos, una línea de tiempo y un circuito de crecimiento. Integra esos diagramas sobre fondos coherentes con la ciudad futurista, sin competir con las imágenes. Mantén un tono positivo, claro y orientado a la dimensión potencial del proyecto, pero distingue siempre entre funciones ya disponibles, lanzamientos anunciados y proyecciones condicionadas. No presentes rentabilidad, adopción o resultados futuros como garantizados. Termina con acciones prácticas y una conclusión inspiradora.
 
 ---
 
@@ -574,4 +649,3 @@ Usar este documento para crear una presentación visual de entre 14 y 17 diaposi
 
 6. Olympia-lab, "Reciba INT Coin en H-MAP System hasta el 5 de noviembre", 20.08.2026.  
    https://olympia-lab.com/es/news/post/reciba-int-coin-en-h-map-system-hasta-el-5-de-noviembre
-
