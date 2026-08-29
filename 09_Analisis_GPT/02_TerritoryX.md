@@ -138,6 +138,14 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Aportes relevantes:
   - Refuerza la centralidad de TerritoryX como servicio casi listo dentro de la arquitectura de LOI.
 
+### sin fecha confirmada — Comienza la era de los Maestros del Juego
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md)
+- Tipo: conferencia de presidencia; conferencia de presidencia.
+- Nivel de certeza declarado: **no indicado**.
+- Aportes relevantes:
+  - La entidad aparece mencionada, pero no hay un hecho puntual extraíble sin contexto adicional.
+
 ### sin fecha confirmada en el documento — Compilación estratégica de traducción al español de discurso presidencial
 
 - Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md](../03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md)

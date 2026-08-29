@@ -203,6 +203,14 @@ Se omitieron **61** fuentes menos recientes para mantener el dossier manejable; 
 - Aportes relevantes:
   - Puede vincularse indirectamente con análisis de H-MAP, Market Level UP y Maestros del Juego si GTC se integra a mecanismos de liquidez o recompra.
 
+### sin fecha confirmada — Comienza la era de los Maestros del Juego
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md)
+- Tipo: conferencia de presidencia; conferencia de presidencia.
+- Nivel de certeza declarado: **no indicado**.
+- Aportes relevantes:
+  - La entidad aparece mencionada, pero no hay un hecho puntual extraíble sin contexto adicional.
+
 ### sin fecha confirmada en el documento — Compilación estratégica de traducción al español de discurso presidencial
 
 - Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md](../03_Reuniones_Presidencia/conferencias_presidencia/sin_fecha_compilacion_traduccion_espanol.md)

@@ -159,7 +159,13 @@ Se omitieron **41** fuentes menos recientes para mantener el dossier manejable; 
 
 > Sección generada automáticamente desde extractos privados. No constituye un anuncio oficial y debe contrastarse con Olympia, GIG-OS y datos blockchain.
 
-No se encontraron reuniones reales etiquetadas con esta entidad. Esto representa una ausencia de evidencia privada, no evidencia de ausencia.
+### sin fecha confirmada — Comienza la era de los Maestros del Juego
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md)
+- Tipo: conferencia de presidencia; conferencia de presidencia.
+- Nivel de certeza declarado: **no indicado**.
+- Aportes relevantes:
+  - La entidad aparece mencionada, pero no hay un hecho puntual extraíble sin contexto adicional.
 
 <!-- AUTO:REUNIONES_PRESIDENCIA:END -->
 

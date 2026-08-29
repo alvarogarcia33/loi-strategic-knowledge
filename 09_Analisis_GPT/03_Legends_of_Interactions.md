@@ -201,6 +201,14 @@ Se omitieron **59** fuentes menos recientes para mantener el dossier manejable; 
   - Señal de temporalidad: el despliegue completo se posterga a 2027 y depende del lanzamiento exitoso de elementos principales de LOI.
   - Debe cruzarse con publicaciones públicas futuras sobre GTC, REEX, ESCUDO, inBTC, inETH y Global Metaverse.
 
+### sin fecha confirmada — Comienza la era de los Maestros del Juego
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md)
+- Tipo: conferencia de presidencia; conferencia de presidencia.
+- Nivel de certeza declarado: **no indicado**.
+- Aportes relevantes:
+  - La entidad aparece mencionada, pero no hay un hecho puntual extraíble sin contexto adicional.
+
 ### sin fecha confirmada en el documento — Reunión de asesores sobre estrategia de LOI y preparación de Market Makers
 
 - Fuente privada: [03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md](../03_Reuniones_Presidencia/reuniones_privadas/sin_fecha_reunion_asesores.md)
