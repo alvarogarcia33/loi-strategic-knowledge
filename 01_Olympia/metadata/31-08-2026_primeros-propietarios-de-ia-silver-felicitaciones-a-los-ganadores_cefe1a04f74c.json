@@ -1,0 +1,65 @@
+{
+  "article_uid": "olympia_cefe1a04f74c",
+  "platform": "olympia",
+  "title": "Primeros propietarios de IA Silver: ¡felicitaciones a los ganadores!",
+  "date": "31.08.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores",
+  "canonical_url": "https://olympia-lab.com/es/news/post/primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores",
+  "content_hash": "9524c940ed089e99e910af83894a559d943cc0c436ed0514648cc97146522b96",
+  "url_hash": "5766b39643ce127f1b29d4d343878deae3fa2e0c4e48c7ad174c1fb9cef34c41",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\31-08-2026_primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores_cefe1a04f74c.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\31-08-2026_primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores_cefe1a04f74c.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\31-08-2026_primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores_cefe1a04f74c",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/da/57/16/56/f4/da571656f4c86bbe9392932d49637aa2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\31-08-2026_primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores_cefe1a04f74c\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/93/ee/dc/62/57/93eedc62570e58bbec678fbd4bfbf614_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\31-08-2026_primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores_cefe1a04f74c\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/d0/f0/1d/68/2b/d0f01d682b8a9b44efc7da1347c49552_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\31-08-2026_primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores_cefe1a04f74c\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/bf/3a/96/32/8c/bf3a96328c704248fe5986ec711d6ed9_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\31-08-2026_primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores_cefe1a04f74c\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ec/ce/3b/66/f1/ecce3b66f147ac71438cefca6d331612_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\31-08-2026_primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores_cefe1a04f74c\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/e9/68/f3/37/c7/e968f337c7cb462af86de0de91e1ee70_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\31-08-2026_primeros-propietarios-de-ia-silver-felicitaciones-a-los-ganadores_cefe1a04f74c\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-09-01T09:01:01.792723-03:00",
+  "status": "downloaded"
+}

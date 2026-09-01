@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **28.08.2026**.
-- Fuentes relevantes pendientes: **55**.
+- Corte documental disponible: **31.08.2026**.
+- Fuentes relevantes pendientes: **56**.
 - Fuentes mostradas: **12**.
+
+### 31.08.2026 — ¡Obtenga su propia tienda de Market Maker!
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **17**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/obtenga-su-propia-tienda-de-market-maker).
+- Archivos locales: [01_Olympia/markdown/31-08-2026_obtenga-su-propia-tienda-de-market-maker_6a54ece15159.md](../01_Olympia/markdown/31-08-2026_obtenga-su-propia-tienda-de-market-maker_6a54ece15159.md).
+- Extracto relevante: Con el lanzamiento la nueva oficina interna de Maestros del Juego, ahora tiene a su disposición una importante herramienta comercial: Contar con su propio mercado de Maestros del Juego fortalece su posición y crea una base sólida para seguir desarrollándose. Cuando no hay competencia ni lucha por los clientes, usted puede comerciar tranquilamente bajo sus propias condiciones. Y después, una vez que se haya asegurado una fuente de ingresos fiable, podrá ampliar su negocio en el mercado abierto.
 
 ### 28.08.2026 — ¡La nueva oficina interna de los Maestros del Juego ha abierto sus puertas!
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md](../02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md), [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
 - Extracto relevante: Como ya saben, la nueva era de los Maestros del Juego está cada vez más cerca. Esto significa que aumenta su necesidad de disponer de una amplia variedad de activos, objetos y herramientas. Rueda de la fortuna, un objeto interactivo que permite a los jugadores recibir premios del Maestro del Juego. A los jugadores les gusta regresar a los lugares donde existe la posibilidad de conseguir un premio. Precisamente por eso, la «Rueda de la fortuna» ayuda al Maestro del Juego a atraer regularmente a nuevos jugadores y…
 
-### 24.07.2026 — INTERATUM y la nueva era de Maestros del Juego: ¿qué los une?
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **14**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/interatum-y-la-nueva-era-de-maestros-del-juego-que-los-une).
-- Archivos locales: [02_GIG_OS/markdown/24-07-2026_interatum-y-la-nueva-era-de-maestros-del-juego-qué-los-une_44d0c6034bc7.md](../02_GIG_OS/markdown/24-07-2026_interatum-y-la-nueva-era-de-maestros-del-juego-qué-los-une_44d0c6034bc7.md).
-- Extracto relevante: Si ha estado siguiendo las novedades en la plataforma en línea de nuestros socios, Olympia-lab, ya sabe que una nueva era de Maestros del Juego está a punto de comenzar. El mundo de Legends of Interactions se prepara de forma constante para recibir, en un futuro próximo, a un gran número de personas interesadas en su modelo de negocio único. Llegarán a INTERATUM porque sabrán que el ecosistema ofrece oportunidades que realmente funcionan y generan resultados. Por ello, lo que está ocurriendo ahora en el espacio de…
-
-Se omitieron **43** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **44** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
