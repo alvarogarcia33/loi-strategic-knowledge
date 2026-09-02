@@ -18,11 +18,13 @@ SYNC_PATHS = [
     ROOT / "02_GIG_OS",
     ROOT / "03_Reuniones_Presidencia",
     ROOT / "04_Datos_Blockchain",
+    ROOT / "05_Productos_Activos",
     ROOT / "09_Analisis_GPT",
 ]
 
 SUPPORT_PATHS = [
     ROOT / ".gitignore",
+    ROOT / "00_INSTRUCCIONES_PARA_CHATGPT.md",
     ROOT / "README.md",
     ROOT / "03_Reuniones_Presidencia" / "README.md",
 ]

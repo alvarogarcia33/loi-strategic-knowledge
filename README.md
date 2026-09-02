@@ -18,6 +18,8 @@ Ese archivo define el protocolo de busqueda cruzada entre Olympia, GIG-OS, reuni
   Notas estratégicas manuales de reuniones, en formato Markdown.
 - `04_Datos_Blockchain`
   Snapshots fechados de tokens, NFT y cupones, con datos originales, CSV normalizado, metadata y reportes comparativos.
+- `05_Productos_Activos`
+  Inventario normalizado de productos, objetos, monedas, tokens, NFT y cupones, con descripcion, utilidad, relaciones, condiciones y fuente fechada.
 - `09_Analisis_GPT`
   Dossiers estratégicos curados para subir directamente a un Proyecto de ChatGPT Plus.
 
@@ -29,6 +31,7 @@ Este repositorio GitHub representa solo la **capa estratégica documental** que 
 - fuentes primarias de GIG-OS
 - reuniones privadas resumidas
 - evidencia cuantitativa observable en blockchain
+- fichas de productos y activos con condiciones operativas vigentes
 - dossiers estratégicos curados
 
 La infraestructura técnica local queda fuera del repo para evitar ruido.
@@ -58,9 +61,10 @@ El flujo esperado es:
 1. Actualizar Olympia con el extractor local.
 2. Actualizar GIG-OS con el extractor local.
 3. Importar nuevos snapshots blockchain cuando existan.
-4. Regenerar `09_Analisis_GPT`, incorporando las reuniones privadas relacionadas con cada tema.
-5. Revisar el plan de archivos a subir de la capa estratégica.
-6. Hacer commit y push al repositorio GitHub.
+4. Incorporar o actualizar fichas de productos y activos cuando exista una fuente nueva.
+5. Regenerar `09_Analisis_GPT`, incorporando las reuniones privadas relacionadas con cada tema.
+6. Revisar el plan de archivos a subir de la capa estratégica.
+7. Hacer commit y push al repositorio GitHub.
 
 Script principal:
 
@@ -87,6 +91,7 @@ La forma recomendada es subir a un Proyecto de ChatGPT:
 - `02_GIG_OS\metadata`
 - `03_Reuniones_Presidencia`
 - `04_Datos_Blockchain`
+- `05_Productos_Activos`
 - `09_Analisis_GPT`
 
 Uso sugerido:
@@ -95,6 +100,7 @@ Uso sugerido:
 - `01_Olympia` y `02_GIG_OS` como evidencia documental cruda.
 - `03_Reuniones_Presidencia` como capa privada de contexto y confirmación.
 - `04_Datos_Blockchain` como evidencia cuantitativa observada y comparable en el tiempo.
+- `05_Productos_Activos` como catalogo de definiciones, usos, costos, limites, rendimientos anunciados y relaciones economicas.
 
 ## Criterio documental
 
@@ -103,5 +109,6 @@ Uso sugerido:
 - Cada dossier de `09_Analisis_GPT` incorpora automáticamente fuentes nuevas de Olympia y GIG-OS todavía no absorbidas por su análisis curado.
 - Las reuniones no reemplazan la fuente documental; la complementan.
 - Los datos blockchain deben distinguir observacion, clasificacion e inferencia.
+- Las fichas de productos deben conservar fecha y URL de consulta; sus precios, limites y condiciones no deben tratarse como permanentes.
 - `LOI_AI` local es la base maestra.
 - GitHub es el espejo estratégico para ChatGPT.

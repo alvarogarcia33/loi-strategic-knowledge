@@ -20,6 +20,16 @@ Este repositorio es una base documental estrategica privada. No debe consultarse
   Conferencias, traducciones, pre-releases y comunicaciones presidenciales.
 - `04_Datos_Blockchain`
   Datos cuantitativos de blockchain: snapshots por activo, holders, supply, metadata y reportes.
+- `05_Productos_Activos`
+  Inventario de productos, objetos, monedas, tokens, NFT y cupones. Incluye descripcion, utilidad, condiciones operativas, relaciones economicas, fecha de consulta y URL fuente.
+- `05_Productos_Activos/00_Inventario_Maestro.md`
+  Indice general de los elementos documentados y ruta hacia su ficha vigente.
+- `05_Productos_Activos/productos`
+  Catalogos y fichas de objetos productivos o utilizables dentro del ecosistema.
+- `05_Productos_Activos/monedas_tokens`
+  Fichas de monedas y tokens, incluidos valores y mecanismos cuando existan fuentes suficientes.
+- `05_Productos_Activos/nft_cupones`
+  Fichas de NFT, cupones, derechos de uso y activos equivalentes.
 - `09_Analisis_GPT`
   Dossiers curados por tema. Sirven como primera capa de lectura estrategica, pero no reemplazan a las fuentes primarias.
 
@@ -34,6 +44,20 @@ Orden recomendado:
 3. Revisar `02_GIG_OS/markdown` y `02_GIG_OS/metadata` para contexto historico y fuentes publicas de GIG-OS.
 4. Revisar `03_Reuniones_Presidencia` para evidencia privada, comunicaciones del presidente y notas no publicas.
 5. Revisar `04_Datos_Blockchain` cuando la pregunta involucre tokens, NFT, cupones, supply, holders, distribucion o actividad observable.
+6. Revisar `05_Productos_Activos` cuando la pregunta involucre definiciones, utilidad, farming, costos, limites, precios recomendados o relaciones entre productos y monedas.
+
+## Regla para productos y activos
+
+Para responder sobre un producto, moneda, token, NFT o cupon:
+
+1. Localizar primero el elemento en `05_Productos_Activos/00_Inventario_Maestro.md`.
+2. Leer su catalogo o ficha detallada dentro de `05_Productos_Activos`.
+3. Contrastar la definicion con `01_Olympia` y `02_GIG_OS`.
+4. Contrastar cantidades, supply, holders o actividad con `04_Datos_Blockchain` si existen snapshots.
+5. Revisar `03_Reuniones_Presidencia` si la pregunta requiere intencion, estrategia o informacion previa al lanzamiento.
+6. Indicar siempre la fecha de vigencia o consulta de precios, limites, farming y condiciones.
+
+No asumir que un precio recomendado equivale a precio de mercado. No asumir que velocidad de farming, comision, limite, fecha de retiro o disponibilidad permanecen sin cambios.
 
 ## Regla para noticias recientes
 
@@ -81,6 +105,6 @@ Antes de responder "no encontre informacion", verificar al menos:
 - `02_GIG_OS/markdown`
 - `03_Reuniones_Presidencia`
 - `04_Datos_Blockchain`, si aplica
+- `05_Productos_Activos`, si aplica
 
 Si no se revisaron esas areas, la respuesta debe aclarar que la busqueda fue parcial.
-
