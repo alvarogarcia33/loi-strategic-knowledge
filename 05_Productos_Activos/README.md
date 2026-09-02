@@ -5,6 +5,7 @@ Esta carpeta consolida definiciones y condiciones de los elementos economicos y 
 ## Estructura
 
 - `00_Inventario_Maestro.md`: indice unico de elementos documentados.
+- `01_Lista_de_Precios.md`: precios unitarios, conversiones, costos y metodo aplicado.
 - `productos/`: catalogos y fichas de objetos que se producen, utilizan o comercializan.
 - `monedas_tokens/`: monedas, tokens, valoraciones, mecanismos y relaciones.
 - `nft_cupones/`: NFT, cupones, derechos de uso y activos equivalentes.
@@ -16,6 +17,8 @@ Esta carpeta consolida definiciones y condiciones de los elementos economicos y 
 - Cada dato debe indicar fuente y fecha de consulta.
 - Los textos descriptivos deben resumir la fuente sin convertir publicidad en hecho comprobado.
 - Precio recomendado, costo, comision, farming, limite y disponibilidad son campos temporales.
+- Las equivalencias canonicas vigentes son `1 HMAP = 50 EUR` y `1 REEX = 25 EUR`; se documentan en `monedas_tokens/Equivalencias_Estables.md`.
+- Cuando exista precio recomendado de Olympia, este tiene prioridad. Si no existe, el precio base se calcula como costo de activacion dividido entre limite de farming.
 - Una afirmacion comercial se registra como afirmacion de la fuente, no como rendimiento garantizado.
 - Los datos de blockchain se enlazan con `../04_Datos_Blockchain`; no se duplican aqui.
 - Las comunicaciones privadas se enlazan con `../03_Reuniones_Presidencia`; no sustituyen fuentes publicas.

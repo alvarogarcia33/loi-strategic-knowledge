@@ -24,6 +24,8 @@ Este repositorio es una base documental estrategica privada. No debe consultarse
   Inventario de productos, objetos, monedas, tokens, NFT y cupones. Incluye descripcion, utilidad, condiciones operativas, relaciones economicas, fecha de consulta y URL fuente.
 - `05_Productos_Activos/00_Inventario_Maestro.md`
   Indice general de los elementos documentados y ruta hacia su ficha vigente.
+- `05_Productos_Activos/01_Lista_de_Precios.md`
+  Lista canonica de precios unitarios, costos, conversiones y metodo de valoracion de los 31 articulos de H-MAP Industries.
 - `05_Productos_Activos/productos`
   Catalogos y fichas de objetos productivos o utilizables dentro del ecosistema.
 - `05_Productos_Activos/monedas_tokens`
@@ -52,12 +54,23 @@ Para responder sobre un producto, moneda, token, NFT o cupon:
 
 1. Localizar primero el elemento en `05_Productos_Activos/00_Inventario_Maestro.md`.
 2. Leer su catalogo o ficha detallada dentro de `05_Productos_Activos`.
-3. Contrastar la definicion con `01_Olympia` y `02_GIG_OS`.
-4. Contrastar cantidades, supply, holders o actividad con `04_Datos_Blockchain` si existen snapshots.
-5. Revisar `03_Reuniones_Presidencia` si la pregunta requiere intencion, estrategia o informacion previa al lanzamiento.
-6. Indicar siempre la fecha de vigencia o consulta de precios, limites, farming y condiciones.
+3. Para precios, consultar `05_Productos_Activos/01_Lista_de_Precios.md` y `05_Productos_Activos/monedas_tokens/Equivalencias_Estables.md`.
+4. Contrastar la definicion con `01_Olympia` y `02_GIG_OS`.
+5. Contrastar cantidades, supply, holders o actividad con `04_Datos_Blockchain` si existen snapshots.
+6. Revisar `03_Reuniones_Presidencia` si la pregunta requiere intencion, estrategia o informacion previa al lanzamiento.
+7. Indicar siempre la fecha de vigencia o consulta de precios, limites, farming y condiciones.
 
 No asumir que un precio recomendado equivale a precio de mercado. No asumir que velocidad de farming, comision, limite, fecha de retiro o disponibilidad permanecen sin cambios.
+
+## Regla de precios y monedas estables
+
+- `1 HMAP = 50 EUR`.
+- `1 REEX = 25 EUR`.
+- Estas equivalencias son valores estables canonicos del ecosistema, no supuestos ni cotizaciones variables.
+- Si Olympia publica precio recomendado en REEX, usarlo como precio unitario principal y convertirlo a EUR.
+- Si no existe precio recomendado, usar el precio base calculado documentado en `05_Productos_Activos/01_Lista_de_Precios.md`.
+- No llamar "valor neto" al costo unitario ni a la diferencia bruta.
+- No estimar valores de GICO u otras monedas mientras no exista una equivalencia canonica registrada.
 
 ## Regla para noticias recientes
 

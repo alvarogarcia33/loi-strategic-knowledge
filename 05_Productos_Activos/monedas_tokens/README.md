@@ -13,3 +13,12 @@ Esta carpeta recibira fichas individuales de monedas y tokens. Cada ficha debe s
 - afirmaciones promocionales, hechos comprobados e informacion faltante.
 
 Los valores nunca deben registrarse sin fecha ni confundirse entre si. Un valor estable declarado, un precio recomendado, una cotizacion interna y un precio de mercado son categorias diferentes.
+
+## Equivalencias canonicas vigentes
+
+Consultar `Equivalencias_Estables.md` antes de realizar conversiones:
+
+- `1 HMAP = 50 EUR`
+- `1 REEX = 25 EUR`
+
+Estos valores son estables dentro del ecosistema y se aplican a la lista de precios de productos hasta que exista una comunicacion de cambio.

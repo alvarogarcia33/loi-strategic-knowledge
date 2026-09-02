@@ -4,6 +4,8 @@
 - Alcance actual: H-MAP Industries
 - Fuente principal: https://www.olympia-lab.com/es/industries/
 - Ficha detallada: `productos/HMAP_Industries.md`
+- Lista de precios: `01_Lista_de_Precios.md`
+- Equivalencias estables: `1 HMAP = 50 EUR`; `1 REEX = 25 EUR`
 
 ## Resumen
 
@@ -58,6 +60,12 @@
 ## Pendientes de incorporar
 
 - Fichas individuales de monedas y tokens con sus fuentes oficiales.
-- Valores, mecanismos de intercambio y fechas de vigencia.
+- Valores y mecanismos de intercambio de monedas distintas de HMAP y REEX.
 - NFT y cupones externos a H-MAP Industries.
 - Relaciones con supply, holders y actividad observada en blockchain.
+
+## Estado de precios
+
+- Los 31 articulos cuentan con un precio unitario en `01_Lista_de_Precios.md`.
+- 27 utilizan el precio de venta recomendado por Olympia convertido desde REEX.
+- 4 utilizan un precio base calculado por costo: 7PT COUPON, 9PT COUPON, 7PT.PRO COUPON y NLT Coin.
