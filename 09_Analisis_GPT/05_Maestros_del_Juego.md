@@ -203,6 +203,18 @@ Se omitieron **44** fuentes menos recientes para mantener el dossier manejable; 
   - Amplía la narrativa de Maestros del Juego al vincular su oficina interna con un activo simbólico y limitado.
   - Puede vincularse indirectamente con análisis de H-MAP, Market Level UP y Maestros del Juego si GTC se integra a mecanismos de liquidez o recompra.
 
+### 2026-09-02 — Sai Corp y Sai's Team: comunicación presidencial previa al lanzamiento
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-09-02_sai_corp_sais_team_comunicacion_presidencial.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-09-02_sai_corp_sais_team_comunicacion_presidencial.md)
+- Tipo: conferencia de presidencia; comunicación presidencial interna / pre-release; resumen estructurado basado en el PDF original.
+- Nivel de certeza declarado: **alto respecto de lo que afirma el documento; pendiente de verificación respecto de la implementación pública, los resultados económicos y las fechas futuras anunciadas**.
+- Aportes relevantes:
+  - Los Creadores de Mercado serían la primera comunidad de Sai's Team y abastecerían con protorrecursos a los Maestros del Juego.
+  - Los Maestros del Juego utilizarían esos protorrecursos y las llaves territoriales urbanas para desarrollar territorios, actividad y negocios dentro de LOI.
+  - GAMEGOS aparece como un protorrecurso central para la actividad de los Maestros del Juego y como la moneda generada mediante los Matrix points.
+  - **Maestros del Juego:** serían compradores o usuarios de protorrecursos y posibles usuarios de las llaves territoriales urbanas.
+  - **Drones:** se mencionan como herramientas que los Maestros del Juego podrían enviar a ciudades remotas mediante el acceso territorial.
+
 ### sin fecha confirmada — Comienza la era de los Maestros del Juego
 
 - Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md)

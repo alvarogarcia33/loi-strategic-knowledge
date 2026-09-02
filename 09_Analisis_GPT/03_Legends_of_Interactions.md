@@ -201,6 +201,17 @@ Se omitieron **59** fuentes menos recientes para mantener el dossier manejable; 
   - Señal de temporalidad: el despliegue completo se posterga a 2027 y depende del lanzamiento exitoso de elementos principales de LOI.
   - Debe cruzarse con publicaciones públicas futuras sobre GTC, REEX, ESCUDO, inBTC, inETH y Global Metaverse.
 
+### 2026-09-02 — Sai Corp y Sai's Team: comunicación presidencial previa al lanzamiento
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-09-02_sai_corp_sais_team_comunicacion_presidencial.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-09-02_sai_corp_sais_team_comunicacion_presidencial.md)
+- Tipo: conferencia de presidencia; comunicación presidencial interna / pre-release; resumen estructurado basado en el PDF original.
+- Nivel de certeza declarado: **alto respecto de lo que afirma el documento; pendiente de verificación respecto de la implementación pública, los resultados económicos y las fechas futuras anunciadas**.
+- Aportes relevantes:
+  - Sai Corp se presenta como una arquitectura comercial para acelerar el desarrollo de Legends of Interactions mediante promoción, NFT urbanos, generación de GAMEGOS y Creadores de Mercado con capacidad operativa.
+  - Los Maestros del Juego utilizarían esos protorrecursos y las llaves territoriales urbanas para desarrollar territorios, actividad y negocios dentro de LOI.
+  - **Legends of Interactions:** Sai se utiliza como personaje público, primer habitante y vehículo narrativo para acelerar la apertura del ecosistema.
+  - **Territorios LOI:** los NFT de ciudades funcionarían como portales o llaves para acceso e interacción remota.
+
 ### sin fecha confirmada — Comienza la era de los Maestros del Juego
 
 - Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md)

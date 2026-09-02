@@ -203,6 +203,18 @@ Se omitieron **61** fuentes menos recientes para mantener el dossier manejable; 
 - Aportes relevantes:
   - Puede vincularse indirectamente con análisis de H-MAP, Market Level UP y Maestros del Juego si GTC se integra a mecanismos de liquidez o recompra.
 
+### 2026-09-02 — Sai Corp y Sai's Team: comunicación presidencial previa al lanzamiento
+
+- Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-09-02_sai_corp_sais_team_comunicacion_presidencial.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-09-02_sai_corp_sais_team_comunicacion_presidencial.md)
+- Tipo: conferencia de presidencia; comunicación presidencial interna / pre-release; resumen estructurado basado en el PDF original.
+- Nivel de certeza declarado: **alto respecto de lo que afirma el documento; pendiente de verificación respecto de la implementación pública, los resultados económicos y las fechas futuras anunciadas**.
+- Aportes relevantes:
+  - Sai Corp se presenta como una arquitectura comercial para acelerar el desarrollo de Legends of Interactions mediante promoción, NFT urbanos, generación de GAMEGOS y Creadores de Mercado con capacidad operativa.
+  - GAMEGOS aparece como un protorrecurso central para la actividad de los Maestros del Juego y como la moneda generada mediante los Matrix points.
+  - H-MAP, H-MAP Industries y Sai's Team se proyectan como componentes de una futura carrera unificada bajo Market Level UP.
+  - Sai Corp combina promoción, comunidad, venta de NFT, generación de GAMEGOS y acceso territorial en una misma arquitectura comercial.
+  - **GAMEGOS Coin:** unidad en la que se convierten los Matrix points y activo que, según el documento, puede recibirse o revenderse al sistema.
+
 ### sin fecha confirmada — Comienza la era de los Maestros del Juego
 
 - Fuente privada: [03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md](../03_Reuniones_Presidencia/conferencias_presidencia/2026-08-28_capacitacion_lanzamiento_oficina_mog.md)
