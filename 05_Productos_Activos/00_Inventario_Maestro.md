@@ -6,6 +6,7 @@
 - Ficha detallada: `productos/HMAP_Industries.md`
 - Lista de precios: `01_Lista_de_Precios.md`
 - Equivalencias estables: `1 HMAP = 50 EUR`; `1 REEX = 25 EUR`
+- Intercambios monetarios: `monedas_tokens/InteraSwap_INT_DOMINION.md`
 
 ## Resumen
 
@@ -69,3 +70,12 @@
 - Los 31 articulos cuentan con un precio unitario en `01_Lista_de_Precios.md`.
 - 27 utilizan el precio de venta recomendado por Olympia convertido desde REEX.
 - 4 utilizan un precio base calculado por costo: 7PT COUPON, 9PT COUPON, 7PT.PRO COUPON y NLT Coin.
+
+## Mecanismos monetarios registrados
+
+| Mecanismo | Par o activos | Tipo de valor | Ficha |
+|---|---|---|---|
+| InteraSwap | INT Coin / DOMINION Coin | Tipo dinamico | `monedas_tokens/InteraSwap_INT_DOMINION.md` |
+| Conversion M*E | M*E Coin / INT Coin | Tipo vigente no capturado | `monedas_tokens/InteraSwap_INT_DOMINION.md#conversion-me-coin-por-int-coin` |
+| Farming historico INT | GICO, M*E, GOS e INT | Ratio productivo historico | `monedas_tokens/InteraSwap_INT_DOMINION.md#farming-historico-de-int-en-netsbo` |
+| MetaFi | inBTC, inETH, ESCUDO y REEX | Tipo actualizado al confirmar | `monedas_tokens/InteraSwap_INT_DOMINION.md#metafi-para-obtener-reex` |

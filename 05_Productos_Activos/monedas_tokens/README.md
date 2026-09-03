@@ -22,3 +22,9 @@ Consultar `Equivalencias_Estables.md` antes de realizar conversiones:
 - `1 REEX = 25 EUR`
 
 Estos valores son estables dentro del ecosistema y se aplican a la lista de precios de productos hasta que exista una comunicacion de cambio.
+
+## Mecanismos documentados
+
+- `InteraSwap_INT_DOMINION.md`: pool INT/DOMINION, comisiones historicas, cashback, mecanismos complementarios y limites de valoracion.
+
+INT Coin y DOMINION Coin no deben tratarse como monedas de valor fijo. Su intercambio en InteraSwap es dinamico y requiere una captura fechada del pool para informar una tasa vigente.

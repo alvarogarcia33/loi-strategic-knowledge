@@ -72,6 +72,17 @@ No asumir que un precio recomendado equivale a precio de mercado. No asumir que 
 - No llamar "valor neto" al costo unitario ni a la diferencia bruta.
 - No estimar valores de GICO u otras monedas mientras no exista una equivalencia canonica registrada.
 
+## Regla para InteraSwap e intercambios
+
+Para preguntas sobre InteraSwap, INT Coin, DOMINION Coin o conversiones monetarias, consultar `05_Productos_Activos/monedas_tokens/InteraSwap_INT_DOMINION.md` y contrastar sus fuentes en Olympia y GIG-OS.
+
+- No afirmar que INT o DOMINION tienen un precio fijo en EUR.
+- El par INT/DOMINION utiliza un tipo de cambio dinamico que cambia con las transacciones.
+- Las comisiones publicadas el 16.04.2026 son condiciones historicas de lanzamiento; la propia fuente anuncio un aumento dos meses despues.
+- El rango implicito de 3,20 a 3,26 REEX por INT es una inferencia matematica historica, no una cotizacion oficial ni vigente.
+- Los premios en cantidades iguales de REEX, INT y DOMINION no demuestran igualdad de valor entre esas monedas.
+- Si se solicita una tasa actual, indicar que hace falta una captura fechada de la interfaz del pool.
+
 ## Regla para noticias recientes
 
 Si el usuario dice que algo es reciente, nuevo, de hoy, ultimo o recien publicado:

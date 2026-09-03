@@ -11,6 +11,18 @@
 | HMAP Coin | 50 EUR | Convertir comisiones, activaciones y costos expresados en HMAP |
 | REEX Coin | 25 EUR | Convertir precios recomendados expresados en REEX |
 
+## Monedas sin equivalencia fija registrada
+
+| Moneda | Estado de valor | Fuente operativa |
+|---|---|---|
+| INT Coin | Variable; sin precio EUR canonico | InteraSwap y otros mecanismos documentados |
+| DOMINION Coin | Variable; sin precio EUR canonico | InteraSwap |
+| M*E Coin | Sin precio EUR canonico | Conversion historica M*E/INT |
+| GICO Coin | Sin precio EUR canonico | Staking, MetaFi y mecanismos de programas |
+| GOS Coin y GOS# | Sin precio EUR canonico | Comisiones o creacion de INT, segun mecanismo |
+
+Consultar `InteraSwap_INT_DOMINION.md` para las tasas historicas y los mecanismos. No convertir esas tasas dinamicas en equivalencias estables.
+
 ## Regla de uso
 
 Estos valores se consideran equivalencias fijas del ecosistema y no cotizaciones variables de mercado. Toda conversion de productos y activos debe utilizar:
