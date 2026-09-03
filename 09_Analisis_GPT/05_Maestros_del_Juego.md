@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **31.08.2026**.
-- Fuentes relevantes pendientes: **56**.
+- Corte documental disponible: **03.09.2026**.
+- Fuentes relevantes pendientes: **57**.
 - Fuentes mostradas: **12**.
+
+### 03.09.2026 — Oficina interna de los Maestros del Juego: Primer informe tras el lanzamiento
+
+- Señal documental: **lanzamiento o activación**.
+- Relevancia automática: **19**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento).
+- Archivos locales: [01_Olympia/markdown/03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b.md](../01_Olympia/markdown/03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b.md).
+- Extracto relevante: Tras el lanzamiento de la nueva oficina interna de los Maestros del Juego, estamos revisando atentamente sus solicitudes, comentarios y sugerencias. En esta etapa, es especialmente importante para nosotros registrar no solo su reacción general, sino también situaciones concretas: por ejemplo, si no pueden ver una sección necesaria o no pueden realizar alguna acción. Hemos creado un servicio de soporte separado para los mensajes relacionados con la oficina interna. Pueden ponerse en contacto con él desde la…
 
 ### 31.08.2026 — ¡Obtenga su propia tienda de Market Maker!
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/04-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_d5118b716b08.md](../02_GIG_OS/markdown/04-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_d5118b716b08.md), [01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md](../01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md).
 - Extracto relevante: El 28 de agosto a las 16:00 CET, en la plataforma de nuestros socios de Olympia-lab, les espera la El lanzamiento de la nueva oficina interna es un acontecimiento verdaderamente histórico para todo el ecosistema, que merece una atención especial.
 
-### 29.07.2026 — H-MAP Industries: 31 nuevos objetos para los Maestros del Juego
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **20**.
-- Plataformas: GIG-OS, Olympia.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego), [Olympia](https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego).
-- Archivos locales: [02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md](../02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md), [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
-- Extracto relevante: Como ya saben, la nueva era de los Maestros del Juego está cada vez más cerca. Esto significa que aumenta su necesidad de disponer de una amplia variedad de activos, objetos y herramientas. Rueda de la fortuna, un objeto interactivo que permite a los jugadores recibir premios del Maestro del Juego. A los jugadores les gusta regresar a los lugares donde existe la posibilidad de conseguir un premio. Precisamente por eso, la «Rueda de la fortuna» ayuda al Maestro del Juego a atraer regularmente a nuevos jugadores y…
-
-Se omitieron **44** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **45** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

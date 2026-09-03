@@ -1,0 +1,73 @@
+{
+  "article_uid": "olympia_9c7b9a291d0b",
+  "platform": "olympia",
+  "title": "Oficina interna de los Maestros del Juego: Primer informe tras el lanzamiento",
+  "date": "03.09.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento",
+  "canonical_url": "https://olympia-lab.com/es/news/post/oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento",
+  "content_hash": "79e821635f74693725a00714f1120ac81defc513608b957fb4188f9c119e0e6a",
+  "url_hash": "bf42ab3be2f620e2053e4389e3b6fce177bc8683aa9bdae24a2ffc42f93e0676",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/b6/ef/b4/70/3b/b6efb4703b7503f48a55cf04ba3b07d7.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/f9/16/c0/54/5b/f916c0545bbc0c517a0f3829212b1a4a.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/dd/fd/7f/c1/69/ddfd7fc16921bad4e9b4006bb562de02_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/2e/7c/bd/01/71/2e7cbd017192afd335637c35e81d8b9f_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/7f/0c/99/34/ad/7f0c9934ad53a8e63856c0494650c424_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/b1/7d/53/d1/c1/b17d53d1c1f0326ed93f5455e4ec1a56_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/ec/b9/bd/8b/7b/ecb9bd8b7bfef34e987494ddcd68c571_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\03-09-2026_oficina-interna-de-los-maestros-del-juego-primer-informe-tras-el-lanzamiento_9c7b9a291d0b\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-09-03T10:54:44.549228-03:00",
+  "status": "downloaded"
+}
