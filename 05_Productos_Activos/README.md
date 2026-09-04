@@ -6,6 +6,7 @@ Esta carpeta consolida definiciones y condiciones de los elementos economicos y 
 
 - `00_Inventario_Maestro.md`: indice unico de elementos documentados.
 - `01_Lista_de_Precios.md`: precios unitarios, conversiones, costos y metodo aplicado.
+- `02_Planilla_Maestra_Productos_Activos.xlsx`: libro unico para consolidar valores, referencias, formulas, conflictos y fuentes.
 - `productos/`: catalogos y fichas de objetos que se producen, utilizan o comercializan.
 - `monedas_tokens/`: monedas, tokens, valoraciones, mecanismos y relaciones.
 - `nft_cupones/`: NFT, cupones, derechos de uso y activos equivalentes.
@@ -23,6 +24,17 @@ Esta carpeta consolida definiciones y condiciones de los elementos economicos y 
 - Los datos de blockchain se enlazan con `../04_Datos_Blockchain`; no se duplican aqui.
 - Las comunicaciones privadas se enlazan con `../03_Reuniones_Presidencia`; no sustituyen fuentes publicas.
 - Cuando una condicion cambie, se actualiza la ficha vigente y se registra el cambio en su seccion de historial.
+- Toda nueva planilla de precios o tokens debe integrarse en `02_Planilla_Maestra_Productos_Activos.xlsx`; no se deben crear libros maestros paralelos.
+
+## Planilla maestra
+
+La planilla maestra contiene seis hojas: `Resumen`, `Maestro_Valores`, `Catalogo_HMAP`, `Equivalencias`, `Conflictos` y `Fuente_Original`.
+
+- `HMAP = 50 EUR` y `REEX = 25 EUR` son las unicas equivalencias canonicas vigentes.
+- Los precios recomendados de Olympia se calculan desde REEX mediante formulas.
+- Las referencias aportadas por terceros se conservan con fecha y estado, pero no se transforman automaticamente en valores canonicos.
+- Los conflictos quedan abiertos hasta disponer de una fuente que los resuelva.
+- `Fuente_Original` conserva todas las filas de cada Excel incorporado para permitir auditoria.
 
 ## Estado inicial
 

@@ -1,10 +1,11 @@
 # Inventario maestro de productos y activos
 
-- Fecha de ultima actualizacion: 2026-09-02
+- Fecha de ultima actualizacion: 2026-09-04
 - Alcance actual: H-MAP Industries
 - Fuente principal: https://www.olympia-lab.com/es/industries/
 - Ficha detallada: `productos/HMAP_Industries.md`
 - Lista de precios: `01_Lista_de_Precios.md`
+- Planilla maestra unificada: `02_Planilla_Maestra_Productos_Activos.xlsx`
 - Equivalencias estables: `1 HMAP = 50 EUR`; `1 REEX = 25 EUR`
 - Intercambios monetarios: `monedas_tokens/InteraSwap_INT_DOMINION.md`
 
@@ -70,6 +71,8 @@
 - Los 31 articulos cuentan con un precio unitario en `01_Lista_de_Precios.md`.
 - 27 utilizan el precio de venta recomendado por Olympia convertido desde REEX.
 - 4 utilizan un precio base calculado por costo: 7PT COUPON, 9PT COUPON, 7PT.PRO COUPON y NLT Coin.
+- La planilla maestra consolida 89 activos unicos: 78 cuentan con un valor EUR disponible y 10 conflictos o validaciones prioritarias estan documentados en su hoja `Conflictos`.
+- La planilla conserva 106 filas de origen procedentes de las hojas `Hoja 1` y `MOG` del archivo `Lista de Tokens - Meta EDU.xlsx`.
 
 ## Mecanismos monetarios registrados
 
