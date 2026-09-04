@@ -1,0 +1,232 @@
+{
+  "article_uid": "olympia_0c8c54926791",
+  "platform": "olympia",
+  "source_type": "official_program_page",
+  "title": "Sai's World Tour: mensaje, colección, Gain Matrix y viajes",
+  "date": "04.09.2026",
+  "source_publication_date": null,
+  "accessed_at": "2026-09-04",
+  "source_url": "https://www.olympia-lab.com/es/sai-world-tours/message#collect",
+  "canonical_url": "https://www.olympia-lab.com/es/sai-world-tours/message/",
+  "linked_news_url": "https://olympia-lab.com/es/news/post/gane-dinero-y-viaje-2-nuevos-proyectos-de-sai",
+  "content_hash": "34b7cd5dbf55cf8b5be771b9ffe1fe5efd9e103700a5f530305f4f980303da88",
+  "url_hash": "0c8c54926791a1fae0bdc35a981be95302a212fde58d3f8b15acedaa20b7d9b5",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791",
+  "media": [
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/collect.webp",
+      "filename": "collect.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\collect.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/gain-matrix.webp",
+      "filename": "gain-matrix.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\gain-matrix.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/travel.webp",
+      "filename": "travel.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\travel.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/havana-nft.webp",
+      "filename": "havana-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\havana-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/mexico-city-nft.webp",
+      "filename": "mexico-city-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\mexico-city-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/bogota-nft.webp",
+      "filename": "bogota-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\bogota-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/payment-v2/icons/escudo-icon.webp",
+      "filename": "escudo-icon.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\escudo-icon.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/montevideo-nft.webp",
+      "filename": "montevideo-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\montevideo-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/guatemala-city-nft.webp",
+      "filename": "guatemala-city-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\guatemala-city-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/guadalajara-nft.webp",
+      "filename": "guadalajara-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\guadalajara-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/caracas-nft.webp",
+      "filename": "caracas-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\caracas-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/brasillia-nft.webp",
+      "filename": "brasillia-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\brasillia-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/table-light.webp",
+      "filename": "table-light.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\table-light.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/lima-nft.webp",
+      "filename": "lima-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\lima-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/buenos-aires-nft.webp",
+      "filename": "buenos-aires-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\buenos-aires-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/managua-nft.webp",
+      "filename": "managua-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\managua-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/cancun-nft.webp",
+      "filename": "cancun-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\cancun-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/cordoba-nft.webp",
+      "filename": "cordoba-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\cordoba-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/mendoza-nft.webp",
+      "filename": "mendoza-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\mendoza-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/sai/nft/asuncion-nft.webp",
+      "filename": "asuncion-nft.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\asuncion-nft.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "image",
+      "source_url": "https://www.olympia-lab.com/assets/images/payment-v2/icons/game-gos-coin.webp",
+      "filename": "game-gos-coin.webp",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\game-gos-coin.webp",
+      "content_type": "image/webp",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "kind": "audio",
+      "source_url": "https://www.olympia-lab.com/assets/audio/sai/msg-es.mp3",
+      "filename": "mensaje_sai_es.mp3",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791\\mensaje_sai_es.mp3",
+      "content_type": "audio/mpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "facts_verified": {
+    "copies_per_city_nft": 325,
+    "copies_for_participants": 300,
+    "copies_retained_by_sai": 25,
+    "matrix_points_on_exit": 80,
+    "gamegos_option": 80,
+    "escudo_option": 2880,
+    "choice_window_days": 14,
+    "required_new_nft_owners": 2,
+    "closed_matrices_per_travel_selection": 125,
+    "travel_companions_including_winner": 2,
+    "travel_duration_days": 3
+  },
+  "extracted_at": "2026-09-04T16:20:00-03:00",
+  "status": "downloaded"
+}

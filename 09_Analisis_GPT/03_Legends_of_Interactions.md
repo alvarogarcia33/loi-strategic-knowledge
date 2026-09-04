@@ -41,9 +41,27 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **03.09.2026**.
-- Fuentes relevantes pendientes: **71**.
+- Corte documental disponible: **04.09.2026**.
+- Fuentes relevantes pendientes: **73**.
 - Fuentes mostradas: **12**.
+
+### 04.09.2026 — Sai's World Tour: mensaje, colección, Gain Matrix y viajes
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **8**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://www.olympia-lab.com/es/sai-world-tours/message#collect).
+- Archivos locales: [01_Olympia/markdown/04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791.md](../01_Olympia/markdown/04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791.md).
+- Extracto relevante: - La comunicación se dirige a los Creadores de Mercado. - Presenta dos proyectos interconectados: el programa de marketing Sai Corp y el programa de carrera Sai's Team. - Sai es presentado como el primer habitante de Legends of Interactions. - Sai Corp se describe como un sistema de generación de activos digitales y de ingresos rápidos. - La noticia indica que mediante Sai Corp se podrá recibir regularmente hasta 80 GAMEGOS Coin o hasta 2.880 ESCUDO, a elección del participante. - Algunos participantes podrán ser…
+
+### 04.09.2026 — Gane dinero y viaje: 2 nuevos proyectos de Sai
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **4**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/gane-dinero-y-viaje-2-nuevos-proyectos-de-sai).
+- Archivos locales: [01_Olympia/markdown/04-09-2026_gane-dinero-y-viaje-2-nuevos-proyectos-de-sai_af7e066b39e0.md](../01_Olympia/markdown/04-09-2026_gane-dinero-y-viaje-2-nuevos-proyectos-de-sai_af7e066b39e0.md).
+- Extracto relevante: Sai, el primer habitante de Legends of Interactions, le invita a convertirse en su amigo y alcanzar juntos el éxito desarrollando el universo del juego. «Legends of Interactions no es solo un mundo en el que SE PUEDE ganar dinero en todas las etapas de su desarrollo; Legends of Interactions es un mundo en el que HAY QUE ganar dinero. HAY QUE ganar dinero aquí y ahora».
 
 ### 28.08.2026 — ¡La nueva oficina interna de los Maestros del Juego ha abierto sus puertas!
 
@@ -135,25 +153,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/03-06-2026_funcionalidad-de-creación-de-factory-dronex-ha-sido-lanzada_820b7ed78e7a.md](../01_Olympia/markdown/03-06-2026_funcionalidad-de-creación-de-factory-dronex-ha-sido-lanzada_820b7ed78e7a.md).
 - Extracto relevante: Factory.DroneX es el primer objeto industrial de la nueva línea Factory.MASTER, con un precio de venta recomendado de 18 REEX Coin. La fábrica producirá drones de nivel premium para los jugadores de Legends of Interactions. A partir de mayo de 2026, junto con los TOP Creadores de Mercado, estamos creando un mercado global de Maestros del Juego que se convertirá en la base para el desarrollo de negocios en los territorios de Legends of Interactions y TerritoryX.
 
-### 03.06.2026 — Factory.DroneX: fábrica de drones premium
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **2**.
-- Plataformas: GIG-OS.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/factorydronex-fabrica-de-drones-premium-0196).
-- Archivos locales: [02_GIG_OS/markdown/03-06-2026_factory-dronex-fábrica-de-drones-premium_389bd86dd85c.md](../02_GIG_OS/markdown/03-06-2026_factory-dronex-fábrica-de-drones-premium_389bd86dd85c.md).
-- Extracto relevante: Factory.DroneX — es un objeto especial diseñado para crear drones premium para los jugadores de Legends of Interactions. Los drones son una parte fundamental de la experiencia de juego. En el futuro, prácticamente toda la interacción dentro de Legends of Interactions se llevará a cabo a través de drones.
-
-### 17.04.2026 — ¿Cómo conseguir 381 REEX Coin de su Asesor en la nueva oficina interna de Maestros de Juego?
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **5**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/como-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestros-de-juego-0187).
-- Archivos locales: [01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md](../01_Olympia/markdown/17-04-2026_cómo-conseguir-381-reex-coin-de-su-asesor-en-la-nueva-oficina-interna-de-maestro_227f4463dac7.md).
-- Extracto relevante: Las innovaciones en la nueva arquitectura de la oficina interna de los Maestros del Juego incluirán no solo visualizaciones que presenten la parte más importante de Legends of Interactions a través de ojos 3D, sino también aspectos importantes del ecosistema LOI, como tecnologías para el sector financiero, interacciones de comercio y comunicaciones. ¡Y eso no es todo! Cuando el mundo de Legends of Interactions comience a llenar con los jugadores, verá el «segundo nacimiento» de REEX.MINER. Por cada interacción del…
-
-Se omitieron **59** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **61** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

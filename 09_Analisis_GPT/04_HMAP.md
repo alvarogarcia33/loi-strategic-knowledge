@@ -38,9 +38,27 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **03.09.2026**.
-- Fuentes relevantes pendientes: **73**.
+- Corte documental disponible: **04.09.2026**.
+- Fuentes relevantes pendientes: **75**.
 - Fuentes mostradas: **12**.
+
+### 04.09.2026 — Sai's World Tour: mensaje, colección, Gain Matrix y viajes
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **15**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://www.olympia-lab.com/es/sai-world-tours/message#collect).
+- Archivos locales: [01_Olympia/markdown/04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791.md](../01_Olympia/markdown/04-09-2026_sai-world-tours-mensaje-y-gain-matrix_0c8c54926791.md).
+- Extracto relevante: - La salida desde el nivel 1 entrega 80 MATRIX POINTS al propietario del NFT. - Un MATRIX POINT se define como unidad contable equivalente a un GAMEGOS Coin. - Los 80 MATRIX POINTS pueden convertirse en 80 GAMEGOS Coin. - Como alternativa, pueden convertirse en 2.880 ESCUDO. - El participante dispone de 14 días para elegir entre GAMEGOS Coin y ESCUDO. - La página presenta GAMEGOS Coin como origen de los recursos de Legends of Interactions. - La página presenta ESCUDO como una moneda que puede cambiarse por USDT. -…
+
+### 04.09.2026 — Gane dinero y viaje: 2 nuevos proyectos de Sai
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **3**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/gane-dinero-y-viaje-2-nuevos-proyectos-de-sai).
+- Archivos locales: [01_Olympia/markdown/04-09-2026_gane-dinero-y-viaje-2-nuevos-proyectos-de-sai_af7e066b39e0.md](../01_Olympia/markdown/04-09-2026_gane-dinero-y-viaje-2-nuevos-proyectos-de-sai_af7e066b39e0.md).
+- Extracto relevante: Sai Corp es un sistema de generación de activos digitales que permite obtener ingresos rápidos. Podrá recibir regularmente hasta 80 GAMEGOS Coin o hasta 2880 ESCUDO, a su elección. ¡Algunos participantes del programa serán seleccionados por Sai para realizar juntos viajes VIP a las ciudades más hermosas del mundo! Para ello, debemos lanzar y comprobar en la práctica el funcionamiento del programa Sai's Team, posteriormente adaptar el programa Market Level UP y crear un mecanismo de carrera unificado. Este incluirá…
 
 ### 28.08.2026 — ¡La nueva oficina interna de los Maestros del Juego ha abierto sus puertas!
 
@@ -132,25 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md](../02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md), [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
 - Extracto relevante: Es muy sencillo: usted elige el objeto deseado y activa su farmeo en cualquiera de sus PIN TOKEN, incluso aunque no tenga PIN activados. Así comienza un proceso de producción que continuará hasta que se haya farmeado la cantidad máxima disponible de objetos. La comisión por activar el farming varía entre 1 y 20 HMAP Coin, dependiendo del objeto.
 
-### 29.07.2026 — ¡La materialización del activo virtual ha comenzado!
-
-- Señal documental: **lanzamiento o activación**.
-- Relevancia automática: **2**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/la-materializacion-del-activo-virtual-ha-comenzado).
-- Archivos locales: [01_Olympia/markdown/29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c.md](../01_Olympia/markdown/29-07-2026_la-materialización-del-activo-virtual-ha-comenzado_fcc40e60034c.md).
-- Extracto relevante: Usando fábricas, los Maestros del Juego ahora pueden comenzar la producción de objetos materiales reales. La primera comunidad de Legends of Interactions del mundo fue capaz de combinar activos virtuales con la producción de accesorios únicos de marca. Aproveche el nuevo complejo industrial H-MAP Industries. Active Factory IA Silver en cualquiera de sus PINs y la fábrica empezará a producir inmediatamente!
-
-### 21.07.2026 — MARKET LEVEL UP: comience a construir su carrera como TOP Creador de Mercado
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **19**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado).
-- Archivos locales: [01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md](../01_Olympia/markdown/21-07-2026_market-level-up-comience-a-construir-su-carrera-como-top-creador-de-mercado_b808573aa29f.md).
-- Extracto relevante: Como renumeración por las operaciones realizadas en su estructura, se acreditan HMAP Coin, el activo operativo del Creador de Mercado, sin la cual es imposible desarrollar la actividad en H-MAP System. El Creador de Mercado que complete los 12 niveles de la carrera podrá recibir más de 100.000 HMAP Coin, 3.000 GAMEGOS Coin, 2.000 DOMINION Coin y 2.400 Maestros del Juego personales.
-
-Se omitieron **61** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **63** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
