@@ -1,0 +1,81 @@
+{
+  "article_uid": "olympia_b3f5876285d9",
+  "platform": "olympia",
+  "title": "Visite la ciudad de sus sueños junto a Sai",
+  "date": "08.09.2026",
+  "source_url": "https://olympia-lab.com/es/news/post/visite-la-ciudad-de-sus-suenos-junto-a-sai",
+  "canonical_url": "https://olympia-lab.com/es/news/post/visite-la-ciudad-de-sus-suenos-junto-a-sai",
+  "content_hash": "e71199fbf785c4206829b3074af26b0e2eafa075522b85bd165393b3f674339f",
+  "url_hash": "4f77f0b4eba861671b46050f360a4f4c8010eb69902a7f978c6fd24557c0f384",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\markdown\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\metadata\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9",
+  "images": [
+    {
+      "source_url": "https://f01.olympia-lab.com/1a/0c/c2/28/0f/1a0cc2280f5bd9eeb34c391b6528c9b3.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/d0/90/c1/f7/1a/d090c1f71a16c032d69a51a172bdd743.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9\\image_02.jpg",
+      "filename": "image_02.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/4f/91/3b/b9/ef/4f913bb9ef12999276cd4597d1e4f72a.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9\\image_03.jpg",
+      "filename": "image_03.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/5c/b1/3b/d9/b9/5cb13bd9b9de12fbeebcd3e62574cc10_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9\\image_04.jpg",
+      "filename": "image_04.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/93/ee/dc/62/57/93eedc62570e58bbec678fbd4bfbf614_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9\\image_05.jpg",
+      "filename": "image_05.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/da/57/16/56/f4/da571656f4c86bbe9392932d49637aa2_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9\\image_06.jpg",
+      "filename": "image_06.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/d0/f0/1d/68/2b/d0f01d682b8a9b44efc7da1347c49552_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9\\image_07.jpg",
+      "filename": "image_07.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    },
+    {
+      "source_url": "https://f01.olympia-lab.com/bf/3a/96/32/8c/bf3a96328c704248fe5986ec711d6ed9_2.jpg",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\01_Olympia\\images\\08-09-2026_visite-la-ciudad-de-sus-sueños-junto-a-sai_b3f5876285d9\\image_08.jpg",
+      "filename": "image_08.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-09-08T11:33:40.166271-03:00",
+  "status": "downloaded"
+}
