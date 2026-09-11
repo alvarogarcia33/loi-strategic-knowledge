@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **08.09.2026**.
-- Fuentes relevantes pendientes: **75**.
+- Corte documental disponible: **11.09.2026**.
+- Fuentes relevantes pendientes: **76**.
 - Fuentes mostradas: **12**.
+
+### 11.09.2026 — 2 razones para obtener NFT Sai’s World Tour ahora mismo
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/2-razones-para-obtener-nft-sais-world-tour-ahora-mismo).
+- Archivos locales: [01_Olympia/markdown/11-09-2026_2-razones-para-obtener-nft-sai-s-world-tour-ahora-mismo_14475eb25733.md](../01_Olympia/markdown/11-09-2026_2-razones-para-obtener-nft-sai-s-world-tour-ahora-mismo_14475eb25733.md).
+- Extracto relevante: Por el cierre de cada matriz se otorga una remuneración de hasta 80 GAMEGOS Coin o 2880 ESCUDO. Usted puede recibir la remuneración en ambas monedas, en cualquier proporción que elija. · ¿Quiere destinar la remuneración a fortalecer su negocio? Elija más GAMEGOS Coin.
 
 ### 04.09.2026 — Sai's World Tour: mensaje, colección, Gain Matrix y viajes
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/31-07-2026_instrucciones-cómo-comenzar-el-farming-de-objetos-en-h-map-industries_bb1160a5d770.md](../01_Olympia/markdown/31-07-2026_instrucciones-cómo-comenzar-el-farming-de-objetos-en-h-map-industries_bb1160a5d770.md).
 - Extracto relevante: 1. Utilizando la interfaz de la plataforma, acceda a cualquiera de sus PIN TOKEN. Puede utilizar tanto tokens con los PIN activados como tokens sin activar. 3. El sistema le solicitará permiso para descontar una determinada cantidad de HMAP Coin en concepto de comisión. Haga clic en «Autorizar el gasto de HMAP».
 
-### 29.07.2026 — H-MAP Industries: 31 nuevos objetos para los Maestros del Juego
-
-- Señal documental: **actualización temática**.
-- Relevancia automática: **23**.
-- Plataformas: GIG-OS, Olympia.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego), [Olympia](https://olympia-lab.com/es/news/post/h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego).
-- Archivos locales: [02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md](../02_GIG_OS/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_9c7067d78475.md), [01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md](../01_Olympia/markdown/29-07-2026_h-map-industries-31-nuevos-objetos-para-los-maestros-del-juego_5a87f0fece75.md).
-- Extracto relevante: Es muy sencillo: usted elige el objeto deseado y activa su farmeo en cualquiera de sus PIN TOKEN, incluso aunque no tenga PIN activados. Así comienza un proceso de producción que continuará hasta que se haya farmeado la cantidad máxima disponible de objetos. La comisión por activar el farming varía entre 1 y 20 HMAP Coin, dependiendo del objeto.
-
-Se omitieron **63** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **64** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

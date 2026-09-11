@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4d166e02b84f",
+  "platform": "gig_os",
+  "title": "Por qué las calificaciones de cinco estrellas ya no funcionan",
+  "date": "10.09.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/por-que-las-calificaciones-de-cinco-estrellas-ya-no-funcionan",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/por-que-las-calificaciones-de-cinco-estrellas-ya-no-funcionan",
+  "content_hash": "4aa0662babe3c3d79b84ebf90bbf97be9f68a586764b8e0057b6f4273cd51014",
+  "url_hash": "bbac6cc30fc9a8690aa56dd91462700889757d3335ae375c6fae68b0c1f3ad21",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\10-09-2026_por-qué-las-calificaciones-de-cinco-estrellas-ya-no-funcionan_4d166e02b84f.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\10-09-2026_por-qué-las-calificaciones-de-cinco-estrellas-ya-no-funcionan_4d166e02b84f.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2026_por-qué-las-calificaciones-de-cinco-estrellas-ya-no-funcionan_4d166e02b84f",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/bf/47/fc/8f/ae/bf47fc8fae9f82669d4899d68c4d6a24_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\10-09-2026_por-qué-las-calificaciones-de-cinco-estrellas-ya-no-funcionan_4d166e02b84f\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-09-11T10:50:41.488476-03:00",
+  "status": "downloaded"
+}

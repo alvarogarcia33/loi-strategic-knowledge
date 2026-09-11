@@ -41,9 +41,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **08.09.2026**.
-- Fuentes relevantes pendientes: **73**.
+- Corte documental disponible: **11.09.2026**.
+- Fuentes relevantes pendientes: **74**.
 - Fuentes mostradas: **12**.
+
+### 11.09.2026 — 2 razones para obtener NFT Sai’s World Tour ahora mismo
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/2-razones-para-obtener-nft-sais-world-tour-ahora-mismo).
+- Archivos locales: [01_Olympia/markdown/11-09-2026_2-razones-para-obtener-nft-sai-s-world-tour-ahora-mismo_14475eb25733.md](../01_Olympia/markdown/11-09-2026_2-razones-para-obtener-nft-sai-s-world-tour-ahora-mismo_14475eb25733.md).
+- Extracto relevante: ¿Qué ve cuando mira un NFT Sai’s World Tour? ¿Una ciudad lejana en otro país? ¿Un personaje llamativo del mundo de Legends of Interactions? Cada NFT Sai’s World Tour simboliza una de las ciudades que Sai planea visitar durante su viaje. Y también es una herramienta práctica: una llave que abre el acceso al territorio de esa ciudad dentro del mundo de Legends of Interactions.
 
 ### 04.09.2026 — Sai's World Tour: mensaje, colección, Gain Matrix y viajes
 
@@ -144,16 +153,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [02_GIG_OS/markdown/12-06-2026_prepare-su-negocio-para-una-expansión-global_baf800690d17.md](../02_GIG_OS/markdown/12-06-2026_prepare-su-negocio-para-una-expansión-global_baf800690d17.md), [01_Olympia/markdown/12-06-2026_prepare-su-negocio-para-una-expansión-global_6a95fc4c0669.md](../01_Olympia/markdown/12-06-2026_prepare-su-negocio-para-una-expansión-global_6a95fc4c0669.md).
 - Extracto relevante: Y aquí su papel es fundamental. Ustedes son quienes están en el origen del futuro éxito del ecosistema y de sus principales centros de desarrollo: INTERATUM, Legends of Interactions y TerritoryX. Ya han entrado en este universo y han podido apreciar todas sus ventajas. Y pueden compartir esta experiencia con otras personas, atrayendo a la comunidad a individuos cada vez más decididos, activos y motivados por el descubrimiento. nuevos Creadores de Mercado capaces de impulsar la economía de Legends of Interactions;
 
-### 03.06.2026 — Funcionalidad de creación de Factory.DroneX ha sido lanzada
-
-- Señal documental: **lanzamiento o activación**.
-- Relevancia automática: **2**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/funcionalidad-de-creacion-de-factorydronex-ha-sido-lanzada-0208).
-- Archivos locales: [01_Olympia/markdown/03-06-2026_funcionalidad-de-creación-de-factory-dronex-ha-sido-lanzada_820b7ed78e7a.md](../01_Olympia/markdown/03-06-2026_funcionalidad-de-creación-de-factory-dronex-ha-sido-lanzada_820b7ed78e7a.md).
-- Extracto relevante: Factory.DroneX es el primer objeto industrial de la nueva línea Factory.MASTER, con un precio de venta recomendado de 18 REEX Coin. La fábrica producirá drones de nivel premium para los jugadores de Legends of Interactions. A partir de mayo de 2026, junto con los TOP Creadores de Mercado, estamos creando un mercado global de Maestros del Juego que se convertirá en la base para el desarrollo de negocios en los territorios de Legends of Interactions y TerritoryX.
-
-Se omitieron **61** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **62** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
