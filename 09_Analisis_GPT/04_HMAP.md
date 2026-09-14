@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **11.09.2026**.
-- Fuentes relevantes pendientes: **76**.
+- Corte documental disponible: **14.09.2026**.
+- Fuentes relevantes pendientes: **77**.
 - Fuentes mostradas: **12**.
+
+### 14.09.2026 — GAMEGOS Coin y ESCUDO: ahora en cualquier proporción
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **12**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/gamegos-coin-y-escudo-ahora-en-cualquier-proporcion).
+- Archivos locales: [01_Olympia/markdown/14-09-2026_gamegos-coin-y-escudo-ahora-en-cualquier-proporción_fdee076af4db.md](../01_Olympia/markdown/14-09-2026_gamegos-coin-y-escudo-ahora-en-cualquier-proporción_fdee076af4db.md).
+- Extracto relevante: Dos monedas: GAMEGOS Coin y ESCUDO. Dos funciones diferentes dentro del ecosistema y dos estrategias de uso. Ahora puede recibir ambas en cualquier proporción que usted mismo elija. También puede recibir toda la remuneración en una sola moneda, obteniendo 80 GAMEGOS Coin o 2880 ESCUDO. ¡La decisión es solo suya!
 
 ### 11.09.2026 — 2 razones para obtener NFT Sai’s World Tour ahora mismo
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md](../01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md).
 - Extracto relevante: Cada acelerador podrá aumentar la velocidad de farming de un objeto de H-MAP Industries para un PIN TOKEN. Cada activación del farming de cualquier objeto de H-MAP Industries realizada antes del 28 de agosto se considerará un boleto de lotería. Cuantos más boletos tenga, ¡más premios podrá ganar!
 
-### 31.07.2026 — Instrucciones: cómo comenzar el farming de objetos en H-MAP Industries
-
-- Señal documental: **lanzamiento o activación**.
-- Relevancia automática: **22**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/instrucciones-como-comenzar-el-farming-de-objetos-en-h-map-industries).
-- Archivos locales: [01_Olympia/markdown/31-07-2026_instrucciones-cómo-comenzar-el-farming-de-objetos-en-h-map-industries_bb1160a5d770.md](../01_Olympia/markdown/31-07-2026_instrucciones-cómo-comenzar-el-farming-de-objetos-en-h-map-industries_bb1160a5d770.md).
-- Extracto relevante: 1. Utilizando la interfaz de la plataforma, acceda a cualquiera de sus PIN TOKEN. Puede utilizar tanto tokens con los PIN activados como tokens sin activar. 3. El sistema le solicitará permiso para descontar una determinada cantidad de HMAP Coin en concepto de comisión. Haga clic en «Autorizar el gasto de HMAP».
-
-Se omitieron **64** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **65** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
