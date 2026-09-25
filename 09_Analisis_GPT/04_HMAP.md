@@ -38,9 +38,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **21.09.2026**.
-- Fuentes relevantes pendientes: **77**.
+- Corte documental disponible: **24.09.2026**.
+- Fuentes relevantes pendientes: **78**.
 - Fuentes mostradas: **12**.
+
+### 24.09.2026 — Remuneración en Sai Corp: ¿qué elegirá usted?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **7**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/remuneracion-en-sai-corp-que-elegira-usted).
+- Archivos locales: [01_Olympia/markdown/24-09-2026_remuneración-en-sai-corp-qué-elegirá-usted_21fe3b238e39.md](../01_Olympia/markdown/24-09-2026_remuneración-en-sai-corp-qué-elegirá-usted_21fe3b238e39.md).
+- Extracto relevante: Cuando Sai desarrolló para usted el programa Sai Corp, no dudó ni un solo instante sobre qué activos debían utilizarse como remuneración. La elección era evidente: ESCUDO y GAMEGOS Coin. Mientras GAMEGOS Coin fortalece su negocio, ESCUDO hace su vida más sencilla y muchos de sus objetivos, más accesibles.
 
 ### 14.09.2026 — GAMEGOS Coin y ESCUDO: ahora en cualquier proporción
 
@@ -141,16 +150,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072.md](../01_Olympia/markdown/04-08-2026_farming-de-objetos-de-h-map-industries-guía-paso-a-paso_3a09a048c072.md).
 - Extracto relevante: 3. Seleccione el PIN TOKEN en el que desea activar el farming. Son válidos tanto los tokens con PIN activados como los que no tienen PIN activados. 5. El sistema le solicitará permiso para descontar una determinada cantidad de HMAP Coin en concepto de comisión. Haga clic en «Autorizar el gasto de HMAP».
 
-### 03.08.2026 — 28 de agosto: lanzamiento oficial de la nueva oficina interna de los Maestros del Juego
-
-- Señal documental: **lanzamiento o activación**.
-- Relevancia automática: **3**.
-- Plataformas: Olympia.
-- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego).
-- Archivos locales: [01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md](../01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md).
-- Extracto relevante: Cada acelerador podrá aumentar la velocidad de farming de un objeto de H-MAP Industries para un PIN TOKEN. Cada activación del farming de cualquier objeto de H-MAP Industries realizada antes del 28 de agosto se considerará un boleto de lotería. Cuantos más boletos tenga, ¡más premios podrá ganar!
-
-Se omitieron **65** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **66** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 

@@ -39,9 +39,18 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 
 > Sección regenerada desde Olympia y GIG-OS. Contiene fuentes relevantes que todavía no están citadas en la parte curada del dossier. Los extractos son evidencia documental, no conclusiones del analista.
 
-- Corte documental disponible: **21.09.2026**.
-- Fuentes relevantes pendientes: **57**.
+- Corte documental disponible: **24.09.2026**.
+- Fuentes relevantes pendientes: **58**.
 - Fuentes mostradas: **12**.
+
+### 24.09.2026 — Remuneración en Sai Corp: ¿qué elegirá usted?
+
+- Señal documental: **actualización temática**.
+- Relevancia automática: **2**.
+- Plataformas: Olympia.
+- URLs originales: [Olympia](https://olympia-lab.com/es/news/post/remuneracion-en-sai-corp-que-elegira-usted).
+- Archivos locales: [01_Olympia/markdown/24-09-2026_remuneración-en-sai-corp-qué-elegirá-usted_21fe3b238e39.md](../01_Olympia/markdown/24-09-2026_remuneración-en-sai-corp-qué-elegirá-usted_21fe3b238e39.md).
+- Extracto relevante: Cada Gain Matrix completada le permite acumular GAMEGOS Coin y ampliar las posibilidades de su negocio. Cuantas más monedas tenga a su disposición, con mayor seguridad podrá desarrollar sus tiendas personales, atraer a Maestros del Juego y reforzar su posición como Creador de Mercado. el camino hacia la creación de su propio mercado de Maestros del Juego;
 
 ### 03.09.2026 — Oficina interna de los Maestros del Juego: Primer informe tras el lanzamiento
 
@@ -142,16 +151,7 @@ Base consolidada a partir de Olympia y GIG-OS. Cuando un mismo contenido apareci
 - Archivos locales: [01_Olympia/markdown/06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588.md](../01_Olympia/markdown/06-08-2026_gold-traditions-coin-ya-está-a-la-venta_dfce208fe588.md).
 - Extracto relevante: ¡Abrimos el acceso a la primera emisión de la moneda con motivo de la tan esperada inauguración de la nueva oficina interna de los Maestros del Juego! En vísperas de la inauguración de la nueva oficina interna de los Maestros del Juego, este es nuestro regalo para todos los que han estado con nosotros durante todo este tiempo. Para quienes recuerdan cómo empezamos. Y para quienes comenzaron junto a nosotros.
 
-### 04.08.2026 — 28 de agosto: lanzamiento oficial de la nueva oficina interna de los Maestros del Juego
-
-- Señal documental: **lanzamiento o activación**.
-- Relevancia automática: **11**.
-- Plataformas: GIG-OS, Olympia.
-- URLs originales: [GIG-OS](https://gig-os.com/es/gold-news/read/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego), [Olympia](https://olympia-lab.com/es/news/post/28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del-juego).
-- Archivos locales: [02_GIG_OS/markdown/04-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_d5118b716b08.md](../02_GIG_OS/markdown/04-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_d5118b716b08.md), [01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md](../01_Olympia/markdown/03-08-2026_28-de-agosto-lanzamiento-oficial-de-la-nueva-oficina-interna-de-los-maestros-del_2e281fc5cbd0.md).
-- Extracto relevante: El 28 de agosto a las 16:00 CET, en la plataforma de nuestros socios de Olympia-lab, les espera la El lanzamiento de la nueva oficina interna es un acontecimiento verdaderamente histórico para todo el ecosistema, que merece una atención especial.
-
-Se omitieron **45** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
+Se omitieron **46** fuentes menos recientes para mantener el dossier manejable; permanecen disponibles en las carpetas documentales.
 
 <!-- AUTO:ACTUALIZACION_DOCUMENTAL:END -->
 
