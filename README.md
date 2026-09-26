@@ -14,6 +14,8 @@ Ese archivo define el protocolo de busqueda cruzada entre Olympia, GIG-OS, reuni
   Contenido documental extraído de Olympia en Markdown y metadata local.
 - `02_GIG_OS`
   Contenido documental extraído de GIG-OS en Markdown y metadata local.
+- [02_GIG_OS/Asamblea_Accionistas](02_GIG_OS/Asamblea_Accionistas/README.md)
+  Expedientes fechados de asambleas y votaciones. Incluye las cuatro vistas de la votación RSL anunciada tras la conferencia del 25/09/2026, sus condiciones y fuentes originales.
 - `03_Reuniones_Presidencia`
   Notas estratégicas manuales de reuniones, en formato Markdown.
 - `04_Datos_Blockchain`

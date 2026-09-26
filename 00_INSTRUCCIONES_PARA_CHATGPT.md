@@ -12,6 +12,8 @@ Este repositorio es una base documental estrategica privada. No debe consultarse
   Noticias y documentos extraidos de GIG-OS.
 - `02_GIG_OS/metadata`
   Metadata de las fuentes de GIG-OS.
+- `02_GIG_OS/Asamblea_Accionistas`
+  Expedientes de votaciones y materiales corporativos de RSL, con capturas fechadas, condiciones y enlaces a los comunicados de GIG. Consultar esta carpeta para preguntas sobre las propuestas, calendario y consecuencias de la votación de septiembre-octubre de 2026. Distinguir textos originales de notas de lectura y comprobar si el estado capturado sigue vigente.
 - `03_Reuniones_Presidencia`
   Evidencia privada: reuniones, conferencias, pre-releases y comunicaciones presidenciales.
 - `03_Reuniones_Presidencia/reuniones_privadas`

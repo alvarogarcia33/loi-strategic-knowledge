@@ -1,0 +1,142 @@
+{
+  "generated_at_utc": "2026-09-26T12:58:12.685367+00:00",
+  "conference_date": "2026-09-25",
+  "source_language": "es",
+  "vote_submitted": false,
+  "personal_account_data_included": false,
+  "sources": [
+    {
+      "file": "01_Propuestas_y_condiciones.md",
+      "capture": "fuentes/rsl_01_votaciones.json",
+      "source_url": "https://renaissancespacelabs.com/es/vote",
+      "section": "Votaciones",
+      "captured_at_utc": "2026-09-26T03:22:20.356Z",
+      "source_text_sha256": "59268e1d89dd577cb6b92fbd06ef52a6309de238f2f2ff17dc3b6b7f4a6c9bc6",
+      "source_characters": 17779
+    },
+    {
+      "file": "02_Comparacion_de_opciones.md",
+      "capture": "fuentes/rsl_02_comparacion.json",
+      "source_url": "https://renaissancespacelabs.com/es/vote",
+      "section": "Comparación de las opciones",
+      "captured_at_utc": "2026-09-25T21:20:29.811Z",
+      "source_text_sha256": "bb0774c56ed7c2d8894b21eb51679ea34de7e2ef335d2fe4cc2c39d7246564ac",
+      "source_characters": 7812
+    },
+    {
+      "file": "03_Votacion_actual_y_calendario.md",
+      "capture": "fuentes/rsl_03_actual.json",
+      "source_url": "https://renaissancespacelabs.com/es/vote",
+      "section": "Votación actual",
+      "captured_at_utc": "2026-09-25T21:20:36.597Z",
+      "source_text_sha256": "b87e561e292f4246fc0d27bb469fb2802371c10211195e81900ada0a78aca392",
+      "source_characters": 5512
+    },
+    {
+      "file": "04_Archivo_y_decision_final.md",
+      "capture": "fuentes/rsl_04_archivo.json",
+      "source_url": "https://renaissancespacelabs.com/es/vote",
+      "section": "Archivo de votaciones",
+      "captured_at_utc": "2026-09-26T03:21:28.895Z",
+      "source_text_sha256": "118a61e01a86e6ea3828a0f907ca057136e4847c557f3f9e0c6b97ec31acdecb",
+      "source_characters": 5144
+    },
+    {
+      "file": "05_Contexto_corporativo_RSL.md",
+      "capture": "fuentes/rsl_05_contexto_corporativo.json",
+      "source_url": "https://renaissancespacelabs.com/es/dashboard",
+      "section": "Panel corporativo, bloque general y Más detalles",
+      "captured_at_utc": "2026-09-26T03:23:28.948Z",
+      "source_text_sha256": "ab462569880f4b7bbfdf09a56bd39c25349cce4cb1cfed760b3e052b456128a3",
+      "source_characters": 2825
+    },
+    {
+      "file": "06_Comunicado_GIG_y_antecedentes.md",
+      "capture": "fuentes/gig_01_conferencia_finalizada.json",
+      "source_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-ha-finalizado-ahora-llega-la-votacion",
+      "section": "Comunicado posterior a la conferencia",
+      "captured_at_utc": "2026-09-26T12:55:34.154Z",
+      "source_text_sha256": "c016a44ef851a03f00c75892043c1db7b7896506ff97fb9c3aecdf866c3c9964",
+      "source_characters": 2531
+    }
+  ],
+  "coverage": {
+    "vote_tabs": 4,
+    "additional_rsl_corporate_view": true,
+    "gig_current_announcement_read_in_browser": true,
+    "gig_antecedents_from_existing_repository": true,
+    "conference_transcript_included": false
+  },
+  "files": [
+    {
+      "path": "01_Propuestas_y_condiciones.md",
+      "sha256": "0fe1282af54b04c2f4c675fbc19192cdb12a8a9377e947678641eed400142b8b",
+      "bytes": 18948
+    },
+    {
+      "path": "02_Comparacion_de_opciones.md",
+      "sha256": "236f8bc3ce5620444ea28ad6fa64919be173b3a580a50bce4cf8514313fad24c",
+      "bytes": 9401
+    },
+    {
+      "path": "03_Votacion_actual_y_calendario.md",
+      "sha256": "484b3d1232b36028757cf3c33e1d60e4e4199cf3691673ef17fcf573cb888c42",
+      "bytes": 6180
+    },
+    {
+      "path": "04_Archivo_y_decision_final.md",
+      "sha256": "b0fb282d03a7bec6092a6112157333059b4adb8a99340a94da9503108645d48b",
+      "bytes": 5639
+    },
+    {
+      "path": "05_Contexto_corporativo_RSL.md",
+      "sha256": "d093e21a1bafb82c3a805e2dde66b4f28374358a6537ae4ade7cf5aa2129cfa9",
+      "bytes": 3539
+    },
+    {
+      "path": "06_Comunicado_GIG_y_antecedentes.md",
+      "sha256": "a49bae5d6877d7738298af93f0a706fd48c49709b95b9553627dc57792f602af",
+      "bytes": 2578
+    },
+    {
+      "path": "07_Calendario_y_notas_de_lectura.md",
+      "sha256": "8a6a450816c66f8338972123bdc9222ca4f5ad8d3c5bb8f4a4a4b00d42348b81",
+      "bytes": 3379
+    },
+    {
+      "path": "fuentes/gig_01_conferencia_finalizada.json",
+      "sha256": "ad6236df7c1e8088147091ae327658e568cb800730694ab02972455193f86700",
+      "bytes": 10424
+    },
+    {
+      "path": "fuentes/rsl_01_votaciones.json",
+      "sha256": "8e7b28c51b5f2aa683b6648eb459bd7a95b1849d5e86a80e8276726e9423f038",
+      "bytes": 20664
+    },
+    {
+      "path": "fuentes/rsl_02_comparacion.json",
+      "sha256": "043648e425bc9a3c257e6b9c6046700523aa71c8238867b7227272fa447dc3e6",
+      "bytes": 9647
+    },
+    {
+      "path": "fuentes/rsl_03_actual.json",
+      "sha256": "768a4a9b96453087403f90abc0f08fddd07081ee426facadea26d770b0e49c39",
+      "bytes": 6027
+    },
+    {
+      "path": "fuentes/rsl_04_archivo.json",
+      "sha256": "b8445b3f85bcbffee3227af9daa64c0749701a99861b521019003e6eb6c8fc3f",
+      "bytes": 5646
+    },
+    {
+      "path": "fuentes/rsl_05_contexto_corporativo.json",
+      "sha256": "228929986ea0cdc913c9a9763ea04ae3d7a8a753ab257898dbc2ad6acebe8772",
+      "bytes": 3536
+    },
+    {
+      "path": "README.md",
+      "sha256": "870de005a1687e4c0482ccca57968f8d1434208589656c15b09c8d7ff8d4df64",
+      "bytes": 2894
+    }
+  ]
+}
