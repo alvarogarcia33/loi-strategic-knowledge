@@ -1,0 +1,33 @@
+{
+  "article_uid": "gig_os_4547dea0a644",
+  "platform": "gig_os",
+  "title": "La conferencia online ha finalizado. ¡Ahora llega la votación!",
+  "date": "25.09.2026",
+  "author": "Redacción de GIG-OS",
+  "categories": [
+    "Para la comunidad",
+    "Noticias sobre la plataforma",
+    "Materiales educativos",
+    "Oro",
+    "GoalSet Master"
+  ],
+  "source_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-ha-finalizado-ahora-llega-la-votacion",
+  "canonical_url": "https://gig-os.com/es/gold-news/read/la-conferencia-online-ha-finalizado-ahora-llega-la-votacion",
+  "content_hash": "94d433f7509714defd4f52f4e7a3d88d9c93cc1e100dca9f20feb1f29f5e3306",
+  "url_hash": "29341f1f6b80ded376a4e66f3e6b433f3a954a324338efc52c0d714b27bde540",
+  "markdown_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\markdown\\25-09-2026_la-conferencia-online-ha-finalizado-ahora-llega-la-votación_4547dea0a644.md",
+  "metadata_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\metadata\\25-09-2026_la-conferencia-online-ha-finalizado-ahora-llega-la-votación_4547dea0a644.json",
+  "images_dir": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-09-2026_la-conferencia-online-ha-finalizado-ahora-llega-la-votación_4547dea0a644",
+  "images": [
+    {
+      "source_url": "https://f01.gig-os.com/9d/ae/f9/fb/9f/9daef9fb9f0c48449c2b25f970af2d1e_1.jpg?1",
+      "local_path": "C:\\Users\\alvar\\Documents\\LOI_AI\\02_GIG_OS\\images\\25-09-2026_la-conferencia-online-ha-finalizado-ahora-llega-la-votación_4547dea0a644\\image_01.jpg",
+      "filename": "image_01.jpg",
+      "content_type": "image/jpeg",
+      "download_status": "downloaded",
+      "error_message": null
+    }
+  ],
+  "extracted_at": "2026-09-26T09:01:57.865434-03:00",
+  "status": "downloaded"
+}
